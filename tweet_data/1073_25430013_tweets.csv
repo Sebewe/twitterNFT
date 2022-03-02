@@ -1,0 +1,115 @@
+,0
+0,"What’s the easiest way to lose 300k (or return 300k to the minters)?
+
+Not multiplying price by quantity in your smart contract that has a refund mechanic depending on this output. 
+
+Test your contracts folks…"
+1,@Jishai You got this!
+2,@Jishai 👌🏻
+3,"@opensea contract updates being deployed? 👀👀
+
+Spotted a change in the value passed in the addrs array (addrs[4]) that references this fancy new MerkleValidator. Anything to update us on @opensea?
+
+https://t.co/J7IFe89aUR"
+4,@Jishai The timing of this is impeccable… https://t.co/KnmrdMGWpr
+5,"@thegalshir Now where does one acquire such a beanie, my gf would love this"
+6,@wwhchung Infura issues as far as I can tell
+7,@Jishai 👀
+8,"Give yourself the space to fail.
+Give yourself the space to succeed.
+Give yourself the space."
+9,"Pretty crazy that we built this thing, dropped it, and just kept adding value. First tranche is complete. Hyped. https://t.co/RZ1q15R1Pf"
+10,We appear to be at the intersection of people wanting sovereignty and people wanting to be coddled part of the Web3 timeline
+11,"@PolyDegen @tom_hirst Counters is just more explicit in the code, using uint would be fine as well!"
+12,Why do folks say whilst instead of just saying while. Every time I see someone saying whilst I picture this https://t.co/c9ss4YBhKr
+13,"@tomosman Solid product, customer service is second to none. I’ve had 2 replacements in the 3 years I’ve owned it. Miss it when I’m using a regular mug ☕️"
+14,@loverajoel 👌🏻
+15,@xtremetom @_dmda_ This is the hard question to answer objectively. The answer is usually “it depends”
+16,@0xCorwin @ShinyObjectSC Welcome 🤝
+17,"@mulligan @opensea @PREMINT_NFT As far as I know the address redirect only works for profile pages, haven’t looked that hard though…"
+18,@bentossell @floornfts 🤔
+19,"@bentossell I’m a fan of Burton AK and Arc’teryx Goretex shells/pants, paired with lots of layers depending on conditions. For goggles, Anon M4 is what I have now and love them (can swap mag lenses easily)"
+20,@bentossell 🥲
+21,@2pmflow @alexhughsam @0xBender @xtremetom Excellent work! Would love to dive into the contract deeper when it’s out in the wild 👌🏼
+22,"@alexhughsam @0xBender @xtremetom Not to short change this at all, very encouraging work! Would love to look at more of the contract once live"
+23,"@alexhughsam @0xBender @xtremetom I’m on mobile and a bit foggy rn, but this all seems mint focussed, which is fine, but what happens on transfer? What if Alice sells token 101? Does this mean the executor of the transfer would incur costs to update both index values of 101 to buyer 2 and 102 to Alice?"
+24,@punk6529 What if the number of digits are just used as a tactic to fill up the email subject line preview and stand out among other OS offers?
+25,📈 https://t.co/Uh3VzfkpQi
+26,@tom_hirst Poetic
+27,👇🏼 https://t.co/SOlOxbRH2d
+28,@jebus911 Phenguins
+29,@sabc4194 @nounphunks This contract looks awfully familiar... 🧐
+30,@Jishai @tom_hirst ran into this issue I think and may have a workaround?
+31,@AmieDelisa TLDR; People don’t use Google. 😂
+32,New feature for collections on @opensea? 👌🏼 https://t.co/07fodQoWrf
+33,"@dievardump @nftchance I see value in this proxy mechanism, but I guess the curiosity comes down to the core ERC721 contract that this references. What are the downsides of this approach for a creator? I get some of the benefits, but what are the drawbacks?"
+34,@dievardump ~1M gas?
+35,@nftchance @masonNFT @squeebo_nft @GoldenXnft @tom_hirst @transmissions11 @0xInuarashi @ZenApeNFT @CyberKongz @xtremetom @blocknative @burrrrrberry @nuclearnerds Looking forward to reading this one!
+36,And gm https://t.co/3SH9NANTPP
+37,"Hey, @adidasoriginals, nice touch, gn to you too! https://t.co/3k7ix7uga8"
+38,"@xBenJamminx ETH requires you to authorize sending the payment at the time of the transaction, whereas WETH is an ERC20 compliant token that can be pre-authorized for transfer in the future"
+39,@dannypostmaa Feel this soooo much
+40,"@wwhchung @DeezeFi @nuclearnerds They could have dumped Enumerable completely and had the same gas usage here, with a more predictable balanceOf by sticking to the OZ 721, but good to see optimizations creeping out into new projects!"
+41,@RubberDuckBP @Jishai Looking forward to the launch 🐤
+42,@Jishai @RubberDuckBP 👀
+43,@tomosman Seems like it…
+44,@lileddie_eth @__aizea @tom_hirst Great point 🤝
+45,"@lileddie_eth @__aizea @tom_hirst We’ll plan a technical deep dive in the future, this only scratches the surface. totalSupply is a bit of a scapegoat, but for people implementing Enumerable without understanding the cost of that decision, it seems to be helping"
+46,"@lileddie_eth @__aizea @tom_hirst You’re completely missing the point here. We’re well aware it isn’t totalSupply that is the main gas eater. However, if people leverage Enumerable solely for this functionality, totalSupply is the point to focus on."
+47,RT @ShinyObjectSC: ➕ https://t.co/St9HtHlgir
+48,@xtremetom I know this feeling…
+49,"@dannypostmaa You see local file storage, I see Windows 🤣"
+50,@tomosman @dannypostmaa I’m leaning towards this too
+51,@dannypostmaa Still can’t decide between 14”/16”. Have a 16” Intel now. Did you go with a Pro or Max?
+52,@tom_hirst *ponders about where humans will make errors*
+53,@tom_hirst You’re on a tear
+54,@bentossell Making it personal. Finding a problem you need to solve (and are invested in) and learning whatever tools necessary to solve it. Applicable to most things in life though
+55,@Loopifyyy @batsoupyum @SuperRare This is the right answer. There is so much waste and way more to squeeze out of what we have now…
+56,"@dievardump @__aizea @tom_hirst I agree fully. I think we underestimate how cheap “off chain” compute cycles are these days and technically “wasteful” operations have almost no overhead running as a backend process, client side process, or even API call via Graph or other system."
+57,"@_happyKC @__aizea @tom_hirst Super excited that you wrapped this up and wrote about it, I’m going to give it attention tomorrow and follow up. Well done for getting it out there 🙌🏻"
+58,"@dievardump @__aizea @tom_hirst I think improvements to 721E are possible, but need to be tested. If you need Enumerable functionality, use OpenZeppelin, otherwise, dump it and move on. Happy to have you as part of this discussion, getting these conversations started is the most important part 🤝"
+59,@dievardump @__aizea @tom_hirst What I will say on the topic of sub-ins is that people are moving too quick and declaring victory. There are a number of Enumerable replacements that have not been battle tested at scale. I’m of the mind that reduction is the best option this moment.
+60,"@dievardump @__aizea @tom_hirst It’s good to discuss alternatives publicly, as it’s clearly having a positive impact for projects. This isn’t common knowledge unless we talk about it. You can certainly use uint256 as a sub for Counter"
+61,@investingtribe @__aizea @tom_hirst 🙌🏻
+62,@parikshit_barua @__aizea @TheTreeverse This reply is exactly why we started talking about all of this. Super exciting for both developers AND buyers!
+63,@__aizea @tom_hirst Well done!
+64,Not everything needs to be on chain.
+65,@CathalUK 👀👀👀
+66,@nathancycles @tom_hirst Well done!
+67,@squeebo_nft @nftchance @invadereth @alphagirlclub @ToyBoogers @tom_hirst I think this is the key point in all of this 🤝
+68,"@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst @OpenZeppelin That looks great! The biggest thing here was we proposed something that anyone could swap out and have comparable gas figured to what you just linked. There are always different solutions. We have the same goals, sharing all of this helpful for everyone 🤝"
+69,"@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst @OpenZeppelin On all mints after mint 1 (as the Counter is initialized with a 0 value, which has a higher gas cost than incrementing &gt;1) they will be 75k/163k or less per mint"
+70,@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst @OpenZeppelin Can you provide the 1/5 mint gas usage for your suggested fix? I don’t look at $ costs as it’s highly variable. Ours (using this direct sub out) is ~92k/180k (only relevant on mint 1) by incrementing the counter in the constructor this is reduced to 75k/163k
+71,"@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst @OpenZeppelin I agree, Enumerable needs to be reworked. However our suggestions offer a sub out with another OZ library. Would love to look at txs with your optimizations!"
+72,@squeebo_nft Would love to hear more about your thoughts on this. Only goal here is to keep sharing and learning!
+73,@squeebo_nft @nftchance @invadereth @alphagirlclub @ToyBoogers @tom_hirst Agreed!
+74,"@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst We’re well aware that totalSupply() is not the core issue, but if people are leveraging Enumerable exclusively for this functionality, totalSupply is an important talking point. This offers an alternative anyone can deploy if it fits the use case."
+75,@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst We wrote an article about people using Enumerable along with the function they tend to leverage. Proposing a quick replacement if it fits the use case and to continue the conversation forward. Not sure what your issue is here?
+76,"@nftchance @squeebo_nft @invadereth @alphagirlclub @ToyBoogers @tom_hirst Care to explain, not sure I follow this thread?"
+77,@Mint256ART @ImpossibleNFT @tom_hirst Love to see it!
+78,@BillyM2k @JohnnaCrider1 Getting closer to a conversation exit catchall…
+79,@BillyM2k What happens if they DO want to talk about crypto…
+80,"@Jishai Added a PR, don’t feel like any of it needs to be implemented but is the way I would approach it. None of it is actually tested (only one coffee deep this morning) hopefully it helps!"
+81,"@Jishai Yeah this would be pretty expensive, should have something slightly simpler for you. All depends on when the addresses are whitelisted, all at once in the constructors, or ad hoc (also I’d recommend getting comfy with hardhat if you’re not already!)"
+82,@Jishai Do it up!
+83,@Jishai I have a couple other notes if you want some constructive feedback 👋🏻
+84,"@Jishai Then you could just have a lookup function, decrement quantity for an address, and go from there. Looping over the whitelist to check would be expensive"
+85,"@Jishai Expensive in what way? Deployment side?
+
+This is actually on my list to dive into more, simple mapping address to quantity in the constructor could work (calls public add to whitelist function) could also pack values into a struct and map address &gt; struct"
+86,@Jishai Also just shoot me a dm so these Twitter bots don’t spam this conversation haha
+87,"@Jishai So the only thing you should touch on the frontend is max gas, this is the max number of gas units a tx uses based on your testing. I never recommend setting a gas price (metamask can do this). Post 1559, as long as it’s a type 2 tx the user will not pay more than base+priority"
+88,@zachxbt This looks like a Fiverr logo design portfolio
+89,"@Jishai Happy to answer any questions you have! Where are you getting stuck? It’s important to start with what the hell it is first, and then move into how it’s priced, and how that impacts transactions (pre/post 1559)"
+90,"@MichaelOpenSea AFAIK, you just have to tell people you’re accumulating bitcoins"
+91,@gabagooldoteth @DAOofDiamonds Well done 👌🏻
+92,@tomosman I concur.
+93,@Jishai @tom_hirst I bet the next mint from the same address is even cheaper ;)
+94,@Jishai @tom_hirst Great to hear! What was the gas consumed if you don’t mind me asking?
+95,"@rickeccak @thedigitalvee Appreciate that! Our goal was to get the conversations out there so that we can keep fostering growth in our community. Thanks for being a part of that conversation!
+
+cc @tom_hirst"
+96,"@rickeccak @thedigitalvee This is the exact discussion I wanted to stir up! On a few projects that’s the methodology we’ve gone with. Either to store ownership separately, and validate it in contract, or perform this expensive loop on the frontend. Depends on use case. Appreciate your POV on the topic 🤝"
+97,"@rickeccak @thedigitalvee Not suggesting that it’s a good idea at all, just countering the statement that you “LOSE the ability” to find tokens owned by an address. We, as devs, have a responsibility to explore all options. Especially when it costs end users $$$"
+98,@ryancarson 🙌🏻
+99,"@thedigitalvee Technically this is not correct. The standard ERC721 implementation has balanceOf and ownerOf. Which means that you can perform these actions on chain if absolutely necessary. Slightly more challenging, sure, but good devs are always up for a challenge."

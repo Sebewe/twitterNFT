@@ -1,0 +1,216 @@
+,0
+0,@Deor yes pls!
+1,@dropout_dao amaan.eth
+2,"Started reading about MEV from the Eth docs &amp; it seems really interesting.
+
+Anybody have some favorite resources on where to get started?"
+3,wen launch @tryamie 🥺 https://t.co/px6iaZyYtR
+4,@andrewchwalik @logseq You can export your roam content as json and import it to Logseq! Takes &lt; 3 min :)
+5,@rcvd_io @DenaroCascio @rhizomyx @joeyharris @GeorgeSilverman @logseq @obsdmd Amazing! Will check them out tonight :)
+6,Books for the next 1-2 weeks: https://t.co/2Ox4V9Uz6I
+7,@rhizomyx @joeyharris @GeorgeSilverman @logseq @obsdmd @rcvd_io haha amazing! wish i found this 2 months ago 😭
+8,"@nateliason @logseq apparently they have one! (unofficial but it at least exists)
+
+https://t.co/PQN6zCEIt4"
+9,@joeyharris @logseq just jokes ser 🤷🏽‍♂️
+10,"@joeyharris @GeorgeSilverman @logseq @obsdmd Logseq has a marketplace where you just install &amp; toggle a new theme.
+
+With Roam you have to manually include the CSS in the roam/css file.
+
+It's a combination of all these subtle differences which make a huge difference (to me).
+
+Have you used Logseq yet?"
+11,"@joeyharris @GeorgeSilverman @logseq @obsdmd Personally speaking, it feels faster/easier to set myself up with a UI that I enjoy in Logseq. There are probably more subtle differences that I haven't explicitly clarified that make it more enjoyable.
+
+Even rearranging your fav notes in Roam vs Logseq, it's noticeably smoother"
+12,"@joeyharris @GeorgeSilverman @logseq @obsdmd Lots of differences.
+- There's a nice visual difference between tags, hyperlinks, and backlinks. With Roam backlinks &amp; hyperlinks look the same so you can't differentiate them.
+- Icons &amp; Font
+- Color scheme
+
+Plus you can download themes much more easily with Logseq https://t.co/tdZBeAlRSz"
+13,"@tjrwriting are you going to use Alchemy?
+
+if so it should be relatively straightforward so you're fine. 
+
+the only thing to be wary of is that since you use your private key to deploy the smart contract, make sure you remember *not* to commit that to github."
+14,@teknical_ish So much regret 😭😭
+15,@tjrwriting yep openzeppelin + inheritance is magical
+16,@_StevenFan @TfTHacker @logseq will check this out :)
+17,"@griimick @logseq I'll check this out, thanks!"
+18,"@logseq Only feedback I have right now is being able to use the keyboard shortcut ""CMD + Option + 1/2/3"" to change a bullet into an H1/2/3 element.
+
+I use that quite often in Roam &amp; Notion :)"
+19,"@GeorgeSilverman @logseq @obsdmd I haven't used Obsidian yet! These may seem small, but have a huge impact for me:
+- Centered omnibar (CMD + K) instead of Roam's search bar on top
+- Performance speed
+- Drastically better UI. Logseq is actually enjoyable to use — I hated Roam but never found a great alternative"
+20,"@Loster @logseq Yep pretty much! Main notable differences for me so far are overall performance speed &amp; a better omnibar.
+
+Given the similarities, it's easy to migrate over and have a better overall experience.
+
+Also UI is a huge factor for me. I get *excited* to use Logseq vs the dread of Roam"
+21,"I know everyone goes through this in their NFT journey, but that doesn't make it any less painful 😭 https://t.co/HHdcwRt215"
+22,@andres_leonn @logseq @rem_note Oh that was also recommended to me. Will check it out :)
+23,💀💀💀 https://t.co/R6mrkQKnbw
+24,"@agctyz Something happened w Opensea and some wallets got compromised. Unclear if it was a phishing attack or an issue w the smart contract/migration.
+
+But the hacker has stolen over $1.5M so far"
+25,"Given that Etherscan &amp; revokecash are both down, two tips I've seen (I'm using option 2):
+
+1. Create a new wallet &amp; transfer your nfts to a wallet that hasn't touched OS
+2. Create a transaction w/ a 1 gwei gas fee so no other transactions can go through"
+26,@_anishagnihotri @RoscoKalis prepare for this to crash soon 😂
+27,This hacker has stolen $1.5M *so far* from the OS exploit https://t.co/l488FJf3IB
+28,@andotvu @logseq i've just been waiting to become a roam hater &amp; finally have an excuse 🙌🏽
+29,"@teknical_ish @logseq yeah roam feels incredibly stagnant. haven't checked on the readwise front, but Logseq does allow for dev plugins (so maybe there is one!)
+
+also I timed how long the apps took to launch on start up:
+- Roam: 10.38s
+- Logsec: 3.41s"
+30,h/t @kev_esh for putting me on
+31,"Ok I started using @logseq today and it's *SO* much nicer than Roam.
+
+The UI/UX is 🤌🏽"
+32,@dhof https://t.co/WlxLFqD6lI includes it!
+33,@sullydoesitall lfgg 🔥
+34,"5/ I just started using it today so haven't taken full advantage of Alchemy's tools yet. 
+
+But another benefit is that you can see your transactions in the mempool (that's where transactions chill while waiting to get picked up by miners)."
+35,"4/ You can do this in three steps
+
+1. Create an Alchemy Account
+2. Create a new app in Alchemy
+3. Add a custom RPC to MM using the app's endpoint
+
+This article will walk you through it step-by-step: https://t.co/HWVzwpHbqJ"
+36,"3/ Alchemy gives you your own custom endpoint. One primary benefit is that your transactions get picked up much faster since you're dealing w/ less competition.
+
+I timed my transactions to see the difference in speed:
+• Default RPC: 41.34 seconds
+• Alchemy RPC: 25.81 seconds"
+37,2/ M*taM*sk uses a default node provider using Infura as its endpoint. That means everyone else using MM *also* has this as their default node provider.
+38,"1/ Want to cut your M*taM*sk transaction times in half?
+
+Start using @AlchemyPlatform for your node provider. Here's how:"
+39,"The amount of quality information we get online for free is insane.
+
+Been finding so many good Solidity resources lately"
+40,@MetaphraseNFT Thank you ser i love it 🔥🔥
+41,"@thedanhepworth Daily Quordle #19
+6️⃣5️⃣
+7️⃣9️⃣
+
+Wow this is p fun"
+42,@liamherbst_ @squiggles im just appreciating how the secondary is cheaper than the live mint lol
+43,@JessTheVC Github copilot 100%
+44,@ryancarson @kevinrose @JustinMezzell @proof_xyz congrats Ryan!! so exciting 🥳
+45,@dropout_dao 🙋‍♂️🙋‍♂️
+46,@j_foster_j Woo congrats!! 🎉
+47,"Super grateful for @proof_xyz 🙏
+
+Just had a masterclass on wallet security"
+48,@HarryMoy haha i use arise 😅
+49,"I know sharing wordles is annoying but this was my best one yet. I didnt have to guess a single letter 😎
+
+Wordle 228 3/6
+
+⬛⬛🟩🟩⬛
+🟩🟩⬛🟨⬛
+🟩🟩🟩🟩🟩"
+50,@JIMMYEDGAR Amaan.eth
+51,@ShaanVP Yes pls!!
+52,"4/ The benefit of this is that you can still add subdomains and edit the records using a hot wallet.
+
+But if your M*t*M*sk ever gets hacked, all you need to do is use your Ledger to change the controller &amp; you're good as new."
+53,"3/ The only thing you need to do is change the registrant to your hardware wallet's address, and you're good to go. https://t.co/teD6ULXxNM"
+54,"2/ Your domain is comprised of a registrant &amp; controller.
+
+• The registrant is the most important part. It has the final say over which addresses point to the controller &amp; registrant.
+
+• The controller can edit records &amp; add subdomains."
+55,"1/4 I've been seeing some wallets get hacked and lose their ENS names which scared me a bit, so I finally moved mine to my Ledger.
+
+If you want to add that extra layer of security in one step, here's how:"
+56,@maitrishahhhh @shriyanevatia 👋
+57,@joshqharris def interested in anti-memetics!
+58,@dropout_dao london 🇬🇧
+59,@macbrennan masochism at its finest
+60,@JasonHitchcock happy birthday!!! 🎉
+61,@dropout_dao amaan.eth
+62,@iamjasonlevin @wellness_guild amaan.eth
+63,@vivianphung amaan.eth
+64,@FurqanR now everyone can put the @FarzaTV nfts to use: https://t.co/N487XoQtgv
+65,@TrevMcKendrick Lfgg 🔥🔥🔥
+66,@kishan22504 thank you Kishan 🙌🏽 really appreciate it 😄
+67,@kassenq @beondeck thank youu :))
+68,"@FurqanR @beondeck Broadly speaking, the main areas will be NFTs &amp; DeFi, but I haven't fully committed to one niche within those sectors.
+
+Main goal for the next 1-3 months is to just build a lot of different projects &amp; get my hands dirty w/ Solidity :)"
+69,"Today was my last day @beondeck &amp; I couldn't be more grateful for the past year — I met *so* many amazing people &amp; learned a ton.
+
+But I'm also extremely excited to get to explore crypto ft now!! 🥳"
+70,@alli_c_ Im finally starting to strategize and make sure i never lose again 💀
+71,@zarazamanc @emergelab congrats!!!
+72,"This game is actually so much fun
+
+⬛⬛⬛⬛⬛
+⬛🟨🟩⬛🟨
+🟩🟩🟩⬛🟩
+🟩🟩🟩🟩🟩"
+73,@soulspyre_ you can do this on your phone! just swipe right on a specific dm
+74,@sairaxashraf yeah i miss it there 😪
+75,@heydanielramsey lol my bank account begs to differ but thank you
+76,@Faizy_250 @dataghees awesome! dm me once you reach :)
+77,"@dataghees confirmed till feb 11 but may stay for an extra month or two!
+
+you coming??"
+78,@andres_leonn Yeah the currency difference is brutal
+79,"@dataghees Roundtrip flight = $600
+US Model w extra storage = $2,700
+Total = $3,300
+
+UK model w lower storage = £2,400 = $3,330
+
+😭😭😭"
+80,Someone tell me why its cheaper to fly roundtrip to NY to get a *higher-spec* Macbook than it is to buy one from the UK 😭
+81,@PartyRound amaan.eth
+82,@JaiminDesai93 👋🏼
+83,@kassenq @fuzzy_logick what story are you on??
+84,"@fuzzy_logick yess 🔥
+
+what else did you buy?"
+85,@fuzzy_logick exhalation by ted chiang! just finished &amp; it was phenomenal
+86,H/t @maxnuss
+87,"Haven’t been reading as much as i’d like the past few months but I finished Exhalations by Ted Chiang and it’s easily one of my top 5 favorite books of all time.
+
+It was SO good."
+88,the new @theweeknd album is beautiful
+89,@vensykrishna Thanks Vensy 😊 you too!
+90,"Can't believe I only found out about this today but you can view smart contracts on Etherscan in VS Code simply by replacing "".io"" with "".deth.net"".
+
+Corruptions Example:
+https://t.co/HonD1N0PEx
+
+vs
+
+https://t.co/pED8kC2zlA"
+91,@JaiminDesai93 👋🏼
+92,@gm__onchain Gm
+93,"There were also very low lows, but each year has its own set of obstacles. 
+
+I'm gonna make sure the highs of 2022 completely overshadow the lows 🚀"
+94,"2021 Highs
+• First internship
+• First full-time role
+• Dropped out of college
+• Went *deep* into crypto
+• Lived in 5 new cities
+• Made so many new friends (all but 3 of my current friends were made this year)
+
+Super bullish for 2022 🍾"
+95,@scotato amaan.eth
+96,In London for the next month – if you’re here lmk!
+97,@SaucedXYZ @amiyoshimura_ @BAYC2745 @punk6529 @mattmedved amaan.eth
+98,@the1diegodiaz Happy birthday!!
+99,@ciaomack amaan.eth :)

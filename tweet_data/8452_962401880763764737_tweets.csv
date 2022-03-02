@@ -1,0 +1,159 @@
+,0
+0,@pseudotheos nothing to see hereeeeee 😝
+1,@pseudotheos no execution layer???
+2,"RT @poojaranjan19: ⚡️Kiln- The Merge testnet⚡️
+
+Join the talk with @vdWijden &amp; @parithosh_j on March 02, 2022 at 18:30 UTC on #PEEPanEIP.…"
+3,"RT @ralexstokes: announcing EIP-4863: beacon chain push withdrawals
+
+https://t.co/gvg4G0y3kn
+
+this EIP provides an alternative to the ""pull…"
+4,"@heather_claire @L4ventures @ETHGlobal congrats on all the amazing experiences you've helped craft over the years, right at the frontlines of people's first Ethereum experience 🥰 good memories of working together as well, can't wait to see what's next"
+5,"5. To any stakers: you should start running a local execution layer (EL) client ahead of the Merge.
+
+In the future, outsourcing this to third-party providers will open up stakers to slashing risk under the Proof of Custody game: https://t.co/C09C0HlJ8M https://t.co/lArUs3lHDa"
+6,"@cryptoDevTrader i think you might be conflating the relationship between EVM gas costs and the ""real world"" resource cost of participating in consensus"
+7,"RT @EF_ESP: Calling all academics, research centers, PhD students and others interested in researching Ethereum:
+
+We're excited to announce…"
+8,"RT @trent_vanepps: Here's a semi-regular QT chain for the Ethereum PoS Merge 🐼
+
+1. Unburnt fees (aka tips) on the execution layer (EL) begi…"
+9,@r_ross_campbell @fubuloubu @transmissions11 paradigm hire me
+10,"@r_ross_campbell @fubuloubu @transmissions11 ""do a lot of fuzzing something something invariants""
+
+basically"
+11,"@DZack23 1 demerit for even thinking that, smh"
+12,"@DZack23 you're not supposed to talk about it, you're just supposed to DO it =)"
+13,"RT @brockjelmore: the biggest scam for L1s is reporting TPS and tx count that includes consensus msgs
+
+perpetrators: Solana, HBAR, etc"
+14,@lookfirst i don't think we're going to have a productive discussion if your starting premise is that PoS is a goldberg machine
+15,"@lookfirst 🙄it's almost like there are other reasons to move away from PoW that are unrelated to scalability - security, sustainability, issuance, increased censorship resistance, etc"
+16,@lookfirst the people want faster horses! give them faster horses!
+17,"4. The Merge/ Proof of Stake will not reduce fees on mainnet.
+
+Smaller block/ slot times do increase available blockspace, but not significantly. Av. blockspace is only one input which influences fees, the other being demand
+
+Near-term scaling &amp; lower fees will be on Layer 2s! https://t.co/3cOeu4B3qs"
+18,@Flynnjamm @jemgold_ manfting
+19,@Flynnjamm @jemgold_ manifesting
+20,@Blue_Boi_Dell @ssriposting @1ofthemanymatts the universal S! my eyes are opened
+21,@abbey_titcomb @js_horne @alexzhang__ r U in nyc??
+22,"RT @trent_vanepps: 3. Post-merge, blocks will arrive exactly every 12s. Today, they arrive in a poisson distribution around ~13s.
+
+For devs…"
+23,@strangechances this is a really interesting framing.. can you expand?
+24,"@preston_vanloon @4tt4r @ETHNewYork according to this, June 24-26
+
+https://t.co/IuUMRL4mEJ"
+25,@wblut oo i like the whisps around the outside!
+26,@maggielove_ @4tt4r @ETHNewYork @She__Fi talk to the @ETHGlobal team =)
+27,@4tt4r you're gonna love @ETHNewYork this year!
+28,"@llllvvuu refund was partially removed
+
+https://t.co/FUQmSfU4ws"
+29,"RT @jordanmmck: The EVM Explained.
+
+https://t.co/gBpU3iK34N"
+30,"help us build the future, anon. https://t.co/F9Q4UeaEXf"
+31,"an excellent intro to capture-resistant governance considering agents, resources and the frameworks they operate within 👏👏👏 thanks for writing it spencer! https://t.co/uHMTyWFs04"
+32,"RT @ralexstokes: after some discussion around EIP-4788 and the ""pull"" style withdrawals, core devs are interested in investigating a ""push""…"
+33,"😢 hoping for your safety through this, alex
+
+to everyone else talking about markets please get some perspective and stfu https://t.co/dEuztQYoFZ"
+34,RT @DeanEigenmann: Does anyone know any foreign national men trying to leave Kiev? I have a group of people trying to leave. They don’t wan…
+35,@ralexstokes embrace the worse is better https://t.co/p9xTPpa5q4
+36,"@vaibhavchellani @sinahab @0xSplits right yeah, talked with them for a bit, really like the project - but shrines are also splits!
+
+only thing they were missing was vesting, which was important for the Protocol Guild usecase"
+37,@vaibhavchellani @sinahab this is already a split tho? or do you mean vesting
+38,"After tons of research around existing vesting mechanisms, i was so thrilled to have @boredGenius reach out at the beginning of the year with Shrines!
+
+can't wait to use it for the Protocol Guild Pilot 💪 https://t.co/aRv0VK06dW"
+39,"@renelubov @davidguetta same energy
+
+https://t.co/4GtqDRPtWP"
+40,"@renelubov @davidguetta i'm happy i know this reference, sad that it even exists 😤"
+41,"RT @vdWijden: Anyone interested in contributing to @go_ethereum? 
+I've marked some issues as `help wanted` or `good first issues`. A great…"
+42,"More info here from @TimBeiko: https://t.co/HW4M804CPi
+
+and here from vb: https://t.co/lAnEbjYeoA"
+43,"3. Post-merge, blocks will arrive exactly every 12s. Today, they arrive in a poisson distribution around ~13s.
+
+For devs: do not assume ~13s blocktimes (eg. to calculate an interest rate) - please make sure to use timestamps ⏱️ https://t.co/Ub0S0zTAI3"
+44,"@damedoteth @jemgold_ @heyellieday @rafathebuilder yeah, now that i think about it more, what's the reason to _not_ continue supporting an existing feature? they don't have to do additional work, everything is already there"
+45,"@damedoteth damn, was worried this was the case. @viamirror can you share any context on this?"
+46,@damedoteth wonder if there's a way to persist the interface and contract through another means
+47,🥰 https://t.co/FgJBeXDShb
+48,"@TBSocialist response included ""revolution"", seems like a fit!"
+49,"@GiulioRebuffo just a tip, the graphic you include says ""PoS has no concept of rewards"" which is incorrect, at least for ethereum. there are rewards for attestations and block proposing (albeit smaller than a PoW block reward)"
+50,"thanks again to @owocki for the invite, really honored to be part of @schellingpoint_! if anyone has questions/ feedback, i would love to hear from you https://t.co/Fj1g0M8dFt"
+51,RT @barnabemonnot: I wrote a new post about rollup economics. This framework hopefully provides more clarity on the various parties co-exis…
+52,"@hasufl well i thought i'd be able to add to the overcharging shaming but looks like binance has updated to type 2 tx recently!! they were one of the big holdouts, now users should (in theory) be able to benefit from 1559
+
+https://t.co/Mhkyilpz9z"
+53,"As subcultures break out of their niche into the mainstream, does the appearance of secret societies / prestigious clubs indicate maturity or decay? 
+
+Or are these different ways to frame the same phenomenon?"
+54,"@llllvvuu @Givethio thanks! if you have a chance to go through it fully, would be great to hear any longer form feedback"
+55,@llllvvuu @Givethio which ideas in section 6?
+56,"@llllvvuu @Givethio would love to hear what you think of the Protocol Guild https://t.co/zMNkt5GhGA
+
+https://t.co/8sUoc8r2jL"
+57,@gnidan @cemozer_ jus a joke =)
+58,@BenDiFrancesco guaranteeeeed
+59,@cemozer_ * whomst
+60,"@evan_van_ness at ethdenver i argued they should go with DVD: Distributed ValiDators, not any worse than some of the bills we see in congress"
+61,@dartov @hontonihontoni @1Password @phantom @solana i must have missed the part where 1P forced you to buy NFTs and use crypto with this feature
+62,@mikedemarais sounds like @mallowsxyz yo
+63,"@escottkey1 @benjaminion_xyz @christine_dkim this isn't related to executing the Merge, this risk is real and present today"
+64,@JemayelK this is quite the writeup lol. well done
+65,@wblut drop a 100k generative set
+66,@1ofthemanymatts woah thanks for the link.. also drew this in school!
+67,"@KyleLogiks @packyM joe lubin has a lot less influence on the ethereum roadmap than you might think. (there were like 10 cofounders.. only one is still around today actually working on the protocol lol)
+
+the ETH was sold and probably went to a bank account to pay employees, like other sales have"
+68,"@polarpunklabs yah, that was my main pushback - i think we're on the same page wrt L1 immutability!"
+69,"@KyleLogiks @packyM - how do delays = questionable leadership? we want to make sure paths forward are maximally decentralized (eg. using BLS signatures to ensure a large as possible validator set)
+- consensys has nothing to do with the EF..?"
+70,"@KyleLogiks @packyM - joe lubin has nothing to do with the ethereum foundation..?
+- the EF publishes regular reports on what they fund in the ecosystem. there should be even more on this soon
+- the EF controls ~.2% of ETH..?"
+71,"@polarpunklabs ok i see what you're getting at. where i think my confusion comes from is whether you are arguing this applies to the entire ecosystem (L1, apps, L2s) or just the apps"
+72,"@benjaminion_xyz @christine_dkim even worse, i'm pretty sure the large players understand the risks to themselves, their customers (and possibly the network) but until recently did not view it as a ""real"" risk bc the majority client would likely be rescued in the event of a bug. more worrying imo"
+73,@KyleLogiks @packyM any examples of the EFs questionable leadership?
+74,"@JetherBlaise @bitman_mars @KyleLogiks @packyM the bitcoin guy only mentions time-bandit attacks, which require 40% of hashrate to be effective IIRC
+
+seems pretty low probability"
+75,@icodeblockchain @packyM @vegaprotocol lol the prompt was what are you bearish on
+76,@JetherBlaise @bitman_mars @KyleLogiks @packyM what sort of miner attacks can you think of?
+77,"@polarpunklabs still struggling to square your mention of ""strong evidence of social coordination"" alongside ""no more interventions have been required""
+
+can you expand on the social coordination bit?"
+78,@CoinbaseCloud https://t.co/dbRj01yEM1
+79,@emiliemc @adamscochran @coinbase any timeline / when should we check back in?
+80,@erktu @MetisDAO @optimismPBC @arbitrum from what i gather from others.. this is not a Good Idea
+81,@polarpunklabs hm.. i can't think of any other interventions after that tho
+82,@onewayfunction i'm with you until he went and exploited it lol
+83,@ernestognw glad to meet!
+84,"@B_Walker407 @EthWatchTheBurn paid on EL, specified by command line for each validator"
+85,"RT @trent_vanepps: 2. Due to the amount of work required to properly test and verify the Merge across all clients, Beacon Chain validator w…"
+86,"RT @gballet: Last week saw a longer test run of the ""Condrieu"", verkle-tree enabled testnet. For a succinct description of what was achieve…"
+87,@_Dave__White_ the goat
+88,@mhluongo @abbey_titcomb So sad I missed this 😞
+89,@basche42 👩‍🚀 🔫 👩‍🚀 🌟 always has been
+90,"@kieran_eth @PhABCD Ignored him during the talk maybe.. outside of that he was mobbed while trying to work with other researchers, and 30 person line + Charles hoskinson trying to get cringe handshake photos, people shoving books into his face to be signed"
+91,"@PhABCD @evan_van_ness I bask in the light of the truth, chastened by its purity"
+92,@auryn_macmillan @GnosisGuild ERC?
+93,@PhABCD * pending someone which actual data haha
+94,@PhABCD no - I think there were significantly fewer projects submitted
+95,@PhABCD Most weren’t hacking tho.. from what I heard
+96,@basche42 How long will this pool last? Better start hanging out near the Facebook cafeteria to replenish!
+97,"@TheYisiLiu @zengjiajun_eth Hot from the oven! 
+
+https://t.co/JSW6doEAvm"
+98,@rafathebuilder I thought it was really cool they included a “fund this here” directly in their presentation. First time I’ve seen a mirror crowdfund in a hackathon context
+99,@zengjiajun_eth @TheYisiLiu I think they have to reupload for audio issues - will share here when it’s available!

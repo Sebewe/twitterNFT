@@ -1,0 +1,152 @@
+,0
+0,"If you haven’t already checked out Rocket Pool, I’d highly recommend learning more about it. https://t.co/ITFlNziFC8"
+1,Rocket Pool rETH is the only liquid staking token that prioritizes the decentralization of the beacon chain and it is about to get a major defi integration. This new yearn vault might become the highest safe yield on ETH in all of defi https://t.co/sJduxPSpl9
+2,"RT @maxseddon: Putin has ordered Russian troops into Ukraine.
+
+The decrees on recognizing the Donetsk and Luhansk People’s Republics order…"
+3,"As many have been pointing out, perhaps my biggest mistake with all of this was keeping all of my funds in the same wallet as my ENS. Security through obscurity would have prevented me from becoming a target in the first place."
+4,"@iamDCinvestor In retrospect, this was truly moronic. I guess it's too late to change now, but I've been giving lots of thought to my wallet security over the past few days."
+5,@rolu_art Certainly not going to touch these NFTs ever again!
+6,"32/
+
+I'm super lucky to have made it through all of this with minimal damage. You guys all stay careful out there!"
+7,"31/
+
+3. Always verify, no matter how much you trust. These guys spent two weeks targeting my own specific weaknesses, and I was extremely close to falling for it. You can't be too paranoid"
+8,"30/
+
+2. Scammers are getting smarter. Before now, the best scam I've really encountered is basically ""hi this is tech support please share your private key so we can help"""
+9,"29/ Ok, what are the takeaways here?
+
+1. Token approvals can be super dangerous. I'm always going to be extremely cautious with them going forward. It makes sense to always put a cap on approvals when you can."
+10,28/ So the Linh that I've been interacting with is probably just an imposter of the real Linh working on the real space falcon...
+11,"27/ And what about SpaceFalcon, that seemed super legit, right?
+
+As far as I can tell it is a real project on Solana. The real project is using the (spacefalcon . io) domain where the scammers somehow acquired the .com."
+12,26/ I have to assume that they hired a 3D design contractor that was putting out most of Heckshine's work. They also had built custom contracts and the front end that are entirely specific to this scam as far as I can tell.
+13,25/ As I continue poking through the scammers addresses on etherscan I eventually find the source of their funds - a 100 ETH Tornado Cash deposit. These guys were incredibly well funded and super smart. https://t.co/rrX4JwaDW5
+14,"24/ I dig further into the contract that I almost approved to spend my aWETH and find this truly terrifying function. This is where the scammers would have been able to transfer any amount of aWETH out of my account.
+
+I'm at the limit for this thread. Stand by for part 2 https://t.co/Cn9Xl9XCSJ"
+15,"23/ At this point I ghost the scammers and they eventually start deleting all of their Discord messages. As some sort of final attempt, she sends me 0.2 ETH to cover gas fees and asks for the NFTs back. Not sure what the logic is with that."
+16,"22/ So I pull up etherscan for the new address where I staked the first NFT and my blood goes ice fucking cold.
+
+The aWETH that I approved was not Armstrong ETH, but rather Aave's aWETH. On my main address, almost all of my ETH is sitting in Aave... https://t.co/ruSSyG01qa"
+17,"21/ I let Linh know that I'm going to read through the contracts before I stake it on my main account, and she starts getting pushy. This is when I finally realize that something sketchy is going on. https://t.co/D3aXCc7puR"
+18,"20/ I let Linh know that I'm staked and that it was easy. She offers to send me one of the other NFTs, but she wants me to stake it on my main account to help them with their growth. A little annoying, but I'm fine with it. https://t.co/klymSGK6Rc"
+19,"19/ Now here is where I got incredibly lucky. Since it's a new project, I decided to move the NFT to a fresh eth address before going through the staking process - just in case they get exploited down the road or something. The stake goes through and I'm earning yield on it."
+20,"18/ She sends me some instructions on the staking app. The site seems fine and it has prompts for three transactions: The NFT approval, a token approval for Armstrong wrapped ETH, and a stake function. The token approval seems little strange but I don't hold it so I don't worry https://t.co/byKlGFgP2Y"
+21,"17/ This is when Linh mentions that their staking app has launched. She offers to send me the NFT. At this point testing out the app is the least that I can do!
+
+I ask her to send it to my hot wallet, but she sends it to my primary because it's so valuable. No big deal, right? https://t.co/5yLzCZiw0T"
+22,"16/ In hindsight, this is kind of absurd, but I had no reason to think that any of this wouldn't be real. We set a date for the trip and Sebastien is going to get back to me with a formal invite over email. I'm pumped and incredibly grateful to Linh for setting this up. https://t.co/6FOn0XdS0H"
+23,"15/ As we're wrapping up, Linh reaches back out to me with some crazy exciting news. She's going on a tour of the Wisk facility and has invited me along to meet the team. She includes a screenshot of an email thread with Sebastien, who is actually a VP at Wisk. https://t.co/EpXM3Ri2mK"
+24,14/ Yesterday is when things started to get really crazy. Heckshine and I had been DMing back and forth for a while about the design for our v1 aircraft. He gets the entire configuration and he's ready to get started on a rendering when he gets up in the morning.
+25,13/ I can't overstate how committed and authentic heckshine has seemed through this entire process. We're super aligned on vision and I'm feeling great that he's so enthusiastic about what we're working on.
+26,"12/  For the next 10 days or so, heckshine is active in Discord every day. He puts out some super high-quality renderings. They're not particularly airworthy, but he's super excited to be helping and I figure we'll improve with some iterations."
+27,"11/ Somewhere in here I actually look up Space Falcon. I had never heard of it, but it seems like a fairly popular gaming project on Solana. I see Linh's name on the team page. Linh and I agree to stay in touch, and I move on to other things."
+28,"10/ Space Falcon uses something called Armstrong wrapped ether. I don't really get it but I don't bother to do the research. Apparently, users will have to lease the NFTs and it can provide some passive income to the holders. I tell her that it sounds neat and to keep me updated."
+29,"9/ She then tells me more about Space Falcon. It seems kind of like a get-rich-quick scheme, but again, that's kind of how I see a lot of NFTs. With all that she's doing for Arrow, there's no harm in showing a little support. https://t.co/gzovyLLhPo"
+30,8/ Linh and I move the conversation over to Discord. We talk more about our backgrounds and end up deciding that she can best help out as an advisor. She offers to provide guidance and advice around what would work well regarding partnerships for us. I'm excited for her support. https://t.co/a0MF0ZqtKa
+31,"7/ She also tells me a bit more about her connection with Boeing/Wisk and offers some thoughts on Arrow. She seems eager to help with a potential partnership for us. The tone of the email is a little strange, but I assume it's also just the language barrier."
+32,"6/ Linh gets back to me with a very thoughtful email. She tells me a bit about her metaverse project, Space Falcon. I'm not really sold on it, but I'm not really an NFT person so I didn't have any reason to think it was a bad idea either. https://t.co/xRHZgHuonG"
+33,"5/ While this is happening, heckshine also reaches out to his friend, Linh. She's apparently interested and heckshine asks me to send her an email. From what he has told me, Linh seems like a great connection. https://t.co/6FN1zfBjXd"
+34,"4/ Over the next few days, heckshine starts working on various animation projects for Arrow. He designs a really neat animated version of the hero image for our website and begins working on some aircraft renderings. We're all super impressed by his dedication to the project."
+35,"3/ Heckshine also has a friend that is really passionate about VTOLs, and is working on a metaverse project. Her brother in law is a VP at Boeing. Wow, what a connection! https://t.co/Hvf1l5lZyB"
+36,"2/ So two weeks ago, this user ""heckshine"" joins the Discord and introduces himself. He's currently working at Ubisoft and offers to help with 3D design and animation. The message seems a little strange, but I just attributed that to a language barrier."
+37,"1/ First a quick background. I'm the founder of Arrow, a DAO working to build open-source VTOL aircraft and air taxi protocol. We're still fairly early-stage and focused on growing the team. We're open to contribution and don't turn anyone away if they're excited to help."
+38,"For the past two weeks, I've been targeted in an extremely thorough social engineering scam that nearly cost me all of my ETH. I'm super lucky to have made it through unscathed. Here's the story 👇"
+39,"@SpaceFalconIO Okay. After another pass, the scam project was impersonating Space Falcon. https://t.co/wajRHEzk9H is presumably a real project. The scam project is using https://t.co/My40kJclyG"
+40,@0xBookland @SpaceFalconIO I'm still really freaked out by this. Probably gonna relax tonight and write it all up tomorrow
+41,"I've been targeted by an extremely elaborate scam. Full writeup is on the way, but dropping the warning now in case anyone else is targeted. Beware of @SpaceFalconIO"
+42,"RT @elidourado: There’s the old Silicon Valley adage that most companies don’t die from murder, they die from suicide. They die because (fo…"
+43,RT @sama: We can build AGI. We can colonize space. We can get fusion to work and solar to mass scale. We can cure all human disease. We can…
+44,"@Jasper_ETH I think people will likely self-segment into ideologically aligned communities. Discord servers and similar that can moderate on their own terms. 4chan can have their community, and you don't have to visit if you don't value the content."
+45,"Luckily, crypto does seem to provide an opt-out for those that value freedom. We have decentralized financial data now, but all communication can be decentralized soon."
+46,"It seems like culture is turning against free speech. This is an extremely dangerous direction for society, hopefully we can stop the trend before it's too late https://t.co/9lteDEmd3N"
+47,"If this sounds interesting please join our discord and/or grab a slot on my calendar to hear more. I'm happy to talk with anyone and everyone
+https://t.co/c45bxiRm1F"
+48,"This is going to be a long and difficult (but fun!) journey. We're looking for experienced aerospace/hardware engineers to join the early team and help lead the project long term, although everybody is welcome to pitch in wherever they can!"
+49,"It's our goal that the open source model for engineering will allow us to unite the fragmented eVTOL industry. 
+Rather than have many companies all trying to solve the same problems, we can combine forces to solve our mutual challenges and reach the flying car future even faster!"
+50,"Blockchain technology allows us to easily keep incentives aligned with a global team.
+
+Anybody who contributes something valuable to Arrow will receive a token allocation, which will have value in the Arrow rideshare protocol."
+51,"This has only recently become possible. 
+
+The engineering stack is increasingly software based, enabling a distributed team. Instead of physical iteration, we use CAD and simulations to iterate virtually. Robotic factories let us get by with a skeleton crew in the physical world."
+52,"Of course we're not the first to try this, so how are we different?
+
+We're building everything in public. Rather than closely guarding trade secrets, we believe that we can move faster by allowing anyone in the world to join the engineering effort without prior permission."
+53,"Arrow is building vertical takeoff aircraft (flying cars!) with the intention of making them accessible to everyone through cheaper fuels, autonomy, and a rideshare network.
+
+This is the dream humans have had for decades, and it will bring us all together like never before. https://t.co/zxMSbP3JeA"
+54,"The hard tech world has been in a state of stagnation ever since the early 1970s
+
+While software has made exponential progress, our physical technology has settled for little more than efficiency improvements.
+
+At Arrow (https://t.co/k3QugO1qJQ), we're hoping to change that
+👇 https://t.co/sc6HA85rAc"
+55,"@Melt_Dem @bizonacci @Leonardo_of_Biz Has been carrying on the legend, but I still crave more"
+56,"This is one of my favorite books and a highly recommended read for anyone interested in hard tech.
+
+Hall outlines why we've stagnated in the world of atoms and how we can get back to exponential progress. We deserve an amazing future 🚀 https://t.co/dWBkCNGfUh"
+57,Remember to change your name ahead of time if you want to stay anon
+58,"Starting in one hour!
+https://t.co/84ExnsZJ5Z https://t.co/gcMnAAd2bt"
+59,@JackFreemanATX This is not a burger token lol
+60,I'm hosting a zoom call tomorrow at 09:00CST/15:00UTC to announce and explain the new project that I've been working on. All are welcome - I'll post the meeting link here shortly before it starts. Should be a lot of fun!
+61,"RT @Xer0_eth: Rocket Pool Investment thesis 2.0 has finally been released. You can read about it here 😀 
+https://t.co/VhOT9PjhCA"
+62,"RT @superphiz: .@Rocket_Pool stage 3 has launched successfully, creating 60 minipools in 5 blocks - there was quite a bit of demand. If thi…"
+63,"(Or shoot down the satellites, I guess)"
+64,"Ethereum will exist in an uncensorable form through the Starlink network.
+
+A single node connected to Starlink is all that's needed to ensure network continuity.
+
+Without central points of failure, you'd have to shut down nodes individually in order to take down the blockchain. https://t.co/FAKGT1Dqvb"
+65,"So, if rETH is directly backed by ETH, and RPL price is directly related to rETH demand, then an RPL investment is clearly getting all of the upside of ETH growth AND rETH usage growth.
+
+An RPL investment is functionally similar to a leveraged bet on ETH, with less downside risk"
+66,"RPL is RP's bonding token that node operators must post to guarantee the 16 ETH they pull from rETH stakers to help fund the node.
+
+RPL tokenomics are complex and have been covered elsewhere (@Xer0_eth's thesis), but basically, if there's demand for rETH, there is demand for RPL."
+67,"For those not familiar, rETH works like a wrapped form of ETH that earns staking yield trustlessly from Rocket Pool's decentralized staking protocol.
+
+I suspect that rETH will become a dominant form of collateral and exchange for a lot of DeFi.
+
+Yielding ETH &gt; Fixed ETH"
+68,"Rocket Pool's (new) $RPL and $rETH are now trading on Uniswap v3
+
+rETH/ETH - https://t.co/jIy4zXdtId
+
+ETH/RPL - https://t.co/pIkpLJ7pFU
+
+*Check multiple sources before trading
+👇"
+69,@_benjaminhughes @forrestnorwood @rubicondefi ***interplanetary***
+70,@Tetranode @Rocket_Pool Welcome to the club
+71,"This move might be revealed to be even more genius as Hertz could pivot to being a robotaxi fleet operator.
+
+They already have the ability to clean and maintain a large fleet of cars and there'd be less rental demand in a robotaxi world. https://t.co/aMDS8jTAwB"
+72,"@superphiz I think the big risk to look at for beacon chain hardening is major broken links in the network of the internet. It doesn’t have to be a bomb, but there are lots of attacks that could damage major internet infrastructure.
+
+Big ones for me are EMPs and cut undersea fiber"
+73,"@spreekaway @platocrat If you take and wait for the victim, how could you verify the true owner of the wallet?"
+74,"It's still early, but definitely worth keeping an eye on. L2 DEXs will be the UX improvement that brings defi to the masses, and I wouldn't be surprised if Rubicon is a big winner in the process."
+75,"Rubicon might have the most efficient markets in defi.
+
+- It uses order books instead of AMMs, which allows for limit orders and reduces frontrunning
+- Single asset pools route liquidity to where it's needed most, boosting yield for LPs while making markets more efficient https://t.co/RQsFeLUCI9"
+76,@GrugLikesRocks Saw that! Was just messing around to see if I could burn it
+77,@_boodle_ I could see a version of the future where everyone transacts with yield earning rETH and only keeps a small amount ETH for gas fees. RP validators could take a lot more than 10% of the ETH supply in this case
+78,"I'll be starting with a @Rocket_Pool node for Eth2 validation shortly after their mainnet launch.
+
+It's my hope that this setup will secure the Ethereum ecosystem against any black swan event that takes down many nodes.
+
+Let me know if you have advice/feedback. IPFS next probably"
+79,"Enter the remote mountaintop radio repeater site turned beacon of web3 freedom. This little server room will have:
+- Three redundant internet connections
+- Off grid solar+batteries with backup generator
+- Enough server resources to handle demanding nodes https://t.co/z3nP3augHe"
+80,I've been wanting to set up crypto nodes in a way that most optimally contributes to network integrity and decentralization. An uncomfortable amount of crypto is still run through AWS/centralized services and vulnerable to black swan events. Here's what I'm doing to help:

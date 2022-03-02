@@ -1,0 +1,182 @@
+,0
+0,"@developer_dao Interoperability is the revolution that makes NFTs so special, anything else is noise"
+1,"DeFi on Starknet incoming.
+
+#L222 https://t.co/Pj5LYGE8PI"
+2,See you there 🥐 https://t.co/0HsgwNDrlM
+3,"@transmissions11 @itsdevbear I'm waiting for the require syntax too but isn't the optimization worth it? I reduced the deployment cost for the ERC721A project by almost 20% a few weeks ago, just by replacing `require` with custom errors. Removing any char sounds a no-brainer to me, what am I missing?"
+4,"gm @transmissions11 
+are solmate contracts designed to never be upgraded to any minor versions? Some minors like 0.8.4 introduce optimizations I would be happy to implement"
+5,"Fix 👉: In Ethereum, strings and bytes are padded on the lower-order (right) side with zero-bytes, while other types (such as numbers and addresses) are padded on the higher-order side.
+
+Thanks, @YBadiss for pointing this out to me"
+6,"Erratum: In this thread, I tried to explain how types are stored by using the endian terminology. It was a mistake on my part, this is a misuse of the term endianness. I've now convinced the term ""padded"" fits better to explain how types are stored. https://t.co/ge1FVDKdjj"
+7,"« If cryptocurrencies allow nation states to sidestep economic sanctions, how will we apply diplomatic pressure in the future? » https://t.co/aJCowNByqj"
+8,all my homies hate @Upwork
+9,@Alphax00 @sayinshallah makes sense
+10,@sayinshallah How do you explain DeFi 2.0 in one tweet?
+11,@ondefy areuseriouus.eth
+12,@ForbesTech Well played Barney Stinson https://t.co/h3N3jKEwIe
+13,"RT @Deor: hi, i want to make a discord for solidity / web3 devs, please reply and rt if you would like an invite."
+14,@Deor I’m in 👋
+15,📣 https://t.co/LaKEgvbt8y
+16,"@gregory_raymond @MagazineCapital Je me doute que la vulgarisation est complexe, et franchement t'as tout mon respect sur l'exercice, l'article est propre. Cependant, je pense qu'il est important de définir la PoS Polygon comme étant ""un protocole alternatif"" plutôt qu'""une couche secondaire"" (L2).
+
+my two cents"
+17,"gm @LidoFinance, wen stacking on Arbitrum? The only thread I found seems unactive https://t.co/HvMLeq4Cg4"
+18,"Some elements to better understand how this is possible
+
+@LaurentMT's thread https://t.co/F5MmNMyoql
+
+and because it's always good to take a look to the past, the old story of PlusToken scammers https://t.co/pXA8xvQdu2 https://t.co/FFLWy0QD2R"
+19,"Wanna see sETH to AAVE v2? The vote is live!
+
+I'm excited to see an asset 1:1 pegged with ETH coming to AAVE v2 🔥
+
+https://t.co/UDcp5vEVE9"
+20,"This is huge, can't wait to deploy my first solidity contract on this new unexplored land. Kudos to the team 👏 https://t.co/sAeyuwxdsc"
+21,See you there folks?
+22,"Solidity summit 2022 announced in Amsterdam, LFG 🔥
+
+https://t.co/xYQPiSLHvG"
+23,"RT @cleanunicorn: It seems we can concatenate strings and bytes. 
+I missed this feature in the release notes until now. https://t.co/Uog7Et…"
+24,.@chainalysis I need to know 👀
+25,how the fuck chainalysis de-mixed the Wasabi transactions?
+26,"@dhaiwat10 C.R.E.A.M
+crypto* rules everything around me"
+27,"AAVE voted SEBA Bank as the first licensed bank to be listed as a whitelister on the Arc Market (the DeFi's authorized liquidity pool for financial institutions) 👀
+
+https://t.co/0tEFKkJuWL"
+28,RT @0xtuba: when the web3 vc's come back from ethdenver https://t.co/P5vRjejyRj
+29,"missed that, thanks! https://t.co/GhFiLkM6H6"
+30,"@petergyang No exploit, just a successful fishing attack"
+31,"RT @CyphrETH: Calling it now. 
+
+The hacker used a standard phishing email copying the genuine #Opensea one sent out a few days ago, then go…"
+32,The banking system should not be a weapon used by governments on their people. That’s a shame.
+33,"RT @_hrkrshnn: Here's a solidity trivia for all the optimizooors out there.
+
+What's the optimal way to convert a dynamic array of addresses…"
+34,@AndreOnCrypto @joseacabrerav @itstimconnors « Art »
+35,"@joseacabrerav @itstimconnors let’s just stop the musical or dance performances on stage, they only serve to create weird/awards memes used to discredit the community. We don’t need that"
+36,see you at @ETHDubaiConf guys
+37,"@itstimconnors Is there anyone to stop musicians from performing during eth events, please? Seriously, guys, it's everytime  an awkward moment"
+38,@danrobinson @transmissions11 ur mom
+39,It’s now possible to tip someone on the Ethereum’s mainnet. wen L2s? https://t.co/5mbkucVIqK
+40,@transmissions11 @paradigm @matthuang @FEhrsam congrats
+41,"RT @Starknet_Intern: Continuing to build #StarkNet 🛠️
+Presenting: StarkNet Alpha 0.7.1!
+
+This version’s main focus is improving the perform…"
+42,"Solidity 0.8.12 is here 🥳
+This version adds comparison-equality operators for external function types and adds `ContractName.functionName` support for `abi.encodeCall`, in addition to external function pointers.
+
+Release note: https://t.co/nr426vZONG"
+43,"@lemiscate @0xFrame anons, this man has right"
+44,"if you see this on your browser, you gonna make it https://t.co/em8CjTqLAH"
+45,"@YBadiss If you want to learn more, these links would help you
+https://t.co/yqxhw6FwY4
+
+https://t.co/ew8Tfm2mSt
+
+And if you are completely crazy, get your coffee ready and check out this article https://t.co/0E5QLytz5o"
+46,"@YBadiss As you can see, the first and last parameters (uint and bool types) are filled using the Little-Endian method but the string value is filled using the Big-Endian method
+
+The event: https://t.co/K0YghyqqfD"
+47,"@YBadiss However, the value 0x64636261 would be stored 0x00000...64636261 in its storage slot using the Little Endian method.
+
+Don't trust me, verify. I created a dump smart contract and triggered an event with some indexed values.
+
+Contract: 
+https://t.co/RD1e5QxIsX"
+48,"@YBadiss All other types are stored using Little Endian values, in which case leading zeros are added.
+Regarding 0x64636261, it will look like it is simply saved as 64636261 because the EVM will convert the hexadecimal value for you when using it."
+49,"@YBadiss All variables are stored in hexadecimal in the storage location, it is important to know.
+Strings and bytes are stored using Big Endian methods, which means that 0 bits are added to the end of the value to fill the slot."
+50,"@YBadiss I'm not sure I understand what you mean, so feel free to let me know if I don't answer your question. You are correct, the storage slots are 256-bit words. In this slot, single values are paddled and multiple values are packed where possible."
+51,"@dabit3 @ernestognw @0xPolygon @graphprotocol @HardhatHQ @edgeandnode @NEARProtocol @ArweaveTeam @IPFS @paradigm @ceramicnetwork @solana take a look at `wagmi` frontend fellows https://t.co/BEvME7Jss8
+
+Read/write on-chain data, manage authentication, resolve ens data... There is a hook for all of that"
+52,🤯 https://t.co/DRFMArx5ZL
+53,@L0GYKAL I’d love to!
+54,"🤦‍♂️
+https://t.co/7l4NUIBAsR"
+55,"RT @odin_free: All the latest from StarkNet!
+
+The StarkNet Weekly Highlights is a compilation of the week's most important news. 
+
+Discover…"
+56,"if you strongly believe in $MAGIC and are in Paris, we should go for a drink, I'd be happy to discuss it with you."
+57,"Arbitrum is leading the Layer 2 market in terms of total value locked.
+
+Arbitrum's total value locked stands at $3.3 billion, up 17% in the last week.
+
+The biggest dApp on Arbitrum is SushiSwap with a $734.48 million in TVL.
+
+https://t.co/9EBwzlCLp9"
+58,"we do not have the same newspaper
+https://t.co/muF07c1Ap6 https://t.co/UGrdotltvi"
+59,"The EVM uses both methods, Big Endian is used to store string/bytes types and the Little Endian is used to store all other types like (u)int, addresses...
+
+This is important to understand, especially if you plan to do some bytes operations in Solidity. Happy coding 💪
+
+4/4 https://t.co/UKO9PbEJSQ"
+60,"When using Big Endian, the **first** byte of the binary representation of the multibyte data type is stored first. 
+
+Unlike Big Endian, when using Little Endian the **last** byte of the binary representation of the multibyte data type is stored first.
+
+3/4"
+61,"When talking about multi-byte data types (int, float, etc)  there are two ways of storing, the little Endian way and the Big Endian
+
+2/4"
+62,"In computing, the endianness corresponds to how bytes are stored/ordered. It defines the internal ordering of the memory. Let's see how bytes are stored/ordered in Solidity.
+https://t.co/FT07XUjKOR
+
+1/4"
+63,"💡Did you know? In Solidity, Lambda or inline functions are planned but not yet supported. 0.9.x 🤞"
+64,"Soo, I'm getting comfortable with Solidity and now you're telling me I need to master Cairo?  Ok, I heard you, let's go"
+65,"@cygaar_dev @Vectorized You’re welcome, happy to contribute 👌"
+66,"@scarlette_cyl @zxocw note to myself: trying to understand the rules of the last game, just in case"
+67,"@Helkem0 @zxocw savage, where is my peaceful PvE servers, wanna kick some boss ass"
+68,@zxocw are MEV PvP servers?
+69,"Do you know you can return multiple values from a function in Solidity? Solidity internally allows tuple types, a list of objects of potentially different types whose number is a constant at compile-time. Those tuples can be used to return multiple values at the same time. https://t.co/gYA9tIyurx"
+70,"@parcelHQ looks dope, well done"
+71,"The ""web3"" is stateful, the ""web2"" is stateless, this is to my eyes THE valuable difference that we branded metaverse for marketing purposes. VR is just a random entry point to this decentralized ""database""   3/3"
+72,"The interoperability is a property resulting from the fact that ""web3"" is the ""web2"" network on which we plugged a decentralized ""database""    2/3"
+73,"Stop saying that metaverse is only about VR, we won't progress like that, it's the same delirium as NFT is only about art, what a misunderstanding. In both cases, we forget that the real revolution comes from interoperability    1/3"
+74,@Memetics33 @RemindMe_OfThis in 3 months
+75,"@Pocket Just feedback from your last update. I don't really like the fact the icon is now red by default, I liked the fact that the icon is discreet by default and that it becomes red only for a page already included in my pocket. That's it, just my two cents"
+76,"we talk a lot about the optimal way to pack variables here but don't forget that 
+- Structs and array data always start a new slot 
+- Items following struct or array data always start a new storage slot Choose wisely where you declare your structs and arrays"
+77,"gm @Rabby_io, are testnets supported?"
+78,@DAppaDanDev @developer_dao is the community has active solidity/cairo members?
+79,.@gitcoin how can I trigger this error 2 times in only 5 minutes just by navigating manually on your site 👀 https://t.co/eYccrxwwXv
+80,RT @viamirror: ⛽️ Special treat: we snuck Mirror’s first L2 explorations into midwit. The Words contract is deployed to Arbitrum @arbitrum…
+81,do you want a snippet using the salted contract creations method? Here it is https://t.co/kLn4if7bBI
+82,ngmi @HopProtocol 👆
+83,"yup @OpenZeppelin 
+do you plan to apply minor pragma updates to your contracts? 0.8.2, 0.8.4... added some interesting stuff that could be used to reduce the gas consumption of some of your contracts. Would be happy to contribute if you're open to bump the required pragma version"
+84,is @developer_dao has an active solidity group? Do you have a dedicated channel for solidity/cairo development?
+85,"gm @HopProtocol 
+do you plan to integrate the bsc in the future?"
+86,"This is it, now you know how the two opcodes dedicated to the creation of new smart contracts work. Think of the CREATE2 opcode the next time you want to send ETHs to a new contract avoiding the front-running attack."
+87,"As you can see, the future address calculation function accepts 4 arguments. 0xFF which is a constant that prevents collisions with CREATE, the address of the sender, a salt which is an arbitrary value provided by the sender and the bytecode of the contract to deploy"
+88,"This is exactly what the CREATE2 opcode is for.  Using it, the resulting address is independent of future events, you can send ETH to a pre-calculated address and then deploy the contract, whenever you want, and interact with the current balance https://t.co/s0sYKTeTGF"
+89,"This means that smart contract addresses are predictable, awesome, right? However, using the nonce is not practical, you have to predict the exact nonce you will get when you deploy a contract. Wouldn't it be great to be able to predict contract addresses without using the nonce?"
+90,"The CREATE opcode is the one used to deploy a new contract. Whether the contract is deployed by an EOA or another smart contract, the contract address will be calculated from the sender address and the account nonce. https://t.co/g04HtRChGD"
+91,"RT @Sismo_eth: Zikies voted for more openness! 
+
+No more waitlist, our Discord is now open to all 💜
+
+We will work with the community to str…"
+92,"Don't waste time looking for logical operators in the Cairo documentation, the language does not support them today. However, if you need them, you can always go back to the basics to simulate them. Here are some examples https://t.co/t8VJYOkKAa"
+93,"So happy for you guys, congrats 👏 https://t.co/3M35YcANx5"
+94,"@HenriLieutaud Thanks for your response, it’s clear to me now 🙏 I’d explore Cairo by reading the documentation and test some snippets locally before going back to your ressources on GitHub once the upcoming version would be deployed"
+95,"@HenriLieutaud gm 👋
+do you have any pieces of information that explain why starknet transactions (at least on goerli) are soooo slow to be validated by the L2? Is it something goerli exclusive or should we expect the same latency in the mainnet? I have to understand why"
+96,RT @solidity_lang: Feedback wanted: Solidity does not yet support catching custom errors. We are currently evaluating different implementat…
+97,👀 https://t.co/cR0n967zxo
+98,RT @ExaltedFoks: wanted to do an overview of protocols building on @arbitrum. ill focus on protocols that are native to arbitrum vs the fam…
+99,"remember, cross-chain activity has an anti-network effect https://t.co/jBLLd5cgYf"

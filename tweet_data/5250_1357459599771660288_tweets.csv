@@ -1,0 +1,291 @@
+,0
+0,@DeanEigenmann Seems like a ripe service for DAO treasuries who just want a one click solution
+1,RT @dbc___: I just want to take time to honour Herman Melville. Moby Dick is probably one of the greatest novels ever written. It's not jus…
+2,@scott_lew_is Put it on ice
+3,"@scott_lew_is Kelvin, a protocol where action within the protocol is inhibited the more it is used. As the protocol use grows above absolute zero it slows. Reduced use cools the programmatic brakes and invites participation. Same when usage is high but stable, allowing set point to rise."
+4,"@epolynya @___Middy___ While at first it is a peacock show of short term price predictions, it later moves to heavier personalised cross sector ""ETFs"".
+
+Then final form is curation, prediction, product and community building around thesis-driven baskets 
+
+Or: micro-synth all the things"
+5,"@epolynya @___Middy___ How about Clubs. Synthetic price exposure baskets, user created and controlled. Oracle + Token baskets + DAO-type bucket.
+
+If oracle content explodes you could mint tokens whose price reflects *anything*. 1/3 wheat + 1/3 CRISPR + 1/3 NBA revenue
+
+Story: mint and compete socially."
+6,"@threepwave @lordOfAFew @StarkWareLtd How about a special account that Neuters your own trade, always purchasing 10% of the quantity of the target token and the rest goes to buying ether or stables.
+
+Unaccountable.cairo"
+7,"@lordOfAFew @StarkWareLtd Shout out to the the diligent devs at @argentHQ and @OpenZeppelin doing all the hard work. @jniset &amp; @martriay heavy lifters.
+
+https://t.co/lFVKpsOEh6
+
+https://t.co/eJovHA30aj"
+8,"@lordOfAFew @StarkWareLtd Glad you like!
+
+I'm curious as to fun ideas that people come up with.
+
+I personally like: An account that never lets you make a bad trade."
+9,"@naps62 An account is a contract like any other, so it could implement EIP1363. I think there would still need to be coordination around the standard by both the token contract and the account. E.g. the account implements an onTransferReceived function."
+10,@berkozdemir GANE toads
+11,@worm_emoji A consolation prize
+12,@worm_emoji @BrantlyMillegan I imagine that people will eventually understand that they are displaying a receivable address for a different person.
+13,"@gcsfred Hey :)
+
+GH pages with Jekyll
+
+https://t.co/73JzfFU2Mb"
+14,RT @radicle: 5/ Anyone with an Ethereum address can split their incoming drips and automatically redistribute a portion of the funds they r…
+15,"@JESSCATE93 The final neurology page may be a consumable that someone might benefit from. The page has a lineage of historical edits (list of authors) and hyperlinks (list of pages containing their own list of authors). To ""tip"" neurology is to route payment to all authors to a certain depth"
+16,"I'm starting to get the feeling that the number of people working on tying value transfer to the process of information creation is very large. 
+
+There also seems to be a whole swath of mechanisms to achieve this being explored. 
+
+Duplicated effort or a blossoming garden? ⏳🌱"
+17,"@guiltygyoza As the latency from ideation to reception and assimilation drops, the number of people that can work on a problem will rise. Perhaps we are leaving the Information Age to enter a Collaborative Age akin to a hive mind.
+
+Where fearful protection and patenting of ideas will fade."
+18,"@guiltygyoza Heartbreakingly to breathtakingly, in the span of a generation. When viewed through the lens of millennia, perhaps even eons, the friction in memetic transmission of ideas is a transient hurdle that we seem to have cleared, but are yet to land. Doubling time changes will be epic."
+19,@nicksdjohnson The device could have no screen and could instead render the image with ASCII in terminal using duckyscript when plugged into a computer. The private key is enclaved until something is broken on the device. Then when plugged in it generates a EIP-712 QR code ASCII in terminal.
+20,"@nicksdjohnson You could make an ""openDime NFT"" where the device has a low power display, a procedural svg and a breakaway to start the claim process - screen shows image then changes to QR . Small button cell or passive power. You could ""trade"" them off chain and inspect to verify unclaimed."
+21,@martriay Interesting that password auth will be replaced by key-based auth only when people have some tangible reason to coordinate around proper key management.
+22,"@alexthescott Beautiful. I think there is something calming about it. Art that breathes 
+
+I wonder how the cadence changes the feel. Could play around with dissonance between the colour (calming hues) and the tempo (non-calming fast)"
+23,"CleanserDAO: Resource heavy DAO tasked to trigger cascading liquidations. To clear the air for individuals to take long positions. Membership seen on the individual level as a contribution for public good.
+
+RachetDAO: Nemesis tasked with building leverage to spite CleanserDAO."
+24,@nicksdjohnson @ricmoo A pregnancy test that gives out UBI installment 1 under T==C==(+)
+25,@kingvitaman Maybe it could work as a @mallowsxyz module?
+26,"@kingvitaman Dead pixels defined by a half life? Pixels die off at a rate such that only half remain at 10 years. You could make the decay contract be the ""frame"", which is the ""correct"" way to view the art."
+27,"@guiltygyoza Great work gg, and thoughtful. I also feel that there is a slice of culture ""waiting patiently for the merge"", before joining in on the fun."
+28,@banker0x @zksync @arbitrum @optimismPBC @Polygon @solidity_lang @CairoLang One thought is that perhaps there is some flavour of contract that only makes sense in validity proof roll ups. For example a computationally heavy contract that you wouldn't try in Solidity. The battle-hardening of that pattern might be equally challenging in either language.
+29,@pedrouid With in-app polls that action governance proposals!
+30,"@technocrypto The Country that Lost Their Keys
+
+- An exploration of the impact on the people of a nation that had their reserve assets lost or stolen. 
+
+Day of Direction
+
+- People receive unique whitelisted destinations where they may spend their money, and are effectively on rolling quests."
+31,"@technocrypto I have been thinking that a collection of sci-fi short stories written by people deep in the technical weeds could serve as a navigation beacons, both utopian and dystopian. Chilling tales that, while unlikely, are feasible and can inform system design today."
+32,@0xmother Yeah! Imagine if you could direct value easily to content creators and content facilitators. Something like volunteer writing with retained upside
+33,RT @WilliamLamkin: @iamDCinvestor @espressoinsight I agree with this generally. Also think that most discussions around DAOs will evolve sh…
+34,RT @TheDopeWars: https://t.co/kDZr7R1S4y
+35,"@0xKlinko @scott_lew_is On StarkNet you can send a message from L1 to L2. The prover should action that message and call the specified function described in the message. That can trigger aribrary downstream calls. Of note, a bad prover could ignore the message
+
+https://t.co/sefdDVqa63"
+36,"@brendan_dharma @antiprosynth Haha ok so there is probably data on this buried in the price history of Hotz' cheapeth
+
+https://t.co/t8LklHPOWd"
+37,"@brendan_dharma I think that value proposition for ether goes way beyond ""coolness"". A myriad of factors may drive desire. At the time of quantification of an amount to use, the units should be shifted to make them readable to a human eye.
+
+Does it feel cooler to earn 5000 cents/hour?"
+38,"@brendan_dharma Redefining a unit also ruins so much existing documentation and communication ground work. 
+
+If people use ether in the future it will be because it has practical value for some concrete purpose. Like monetary policy or convenience. The language will follow."
+39,"@brendan_dharma Redefining a unit to be a convenient number for a specific use is short sighted. What about a future where services are payed in extremely small units at high frequency?
+
+Service cost quoted at nETH/s ""nanoether per second"" allows for service costs to be compared."
+40,"@brendan_dharma Just normalise a specific SI prefix as needed.
+
+We do it for many other things: ML dams, L milk, uL
+
+uETH / microether 
+
+It may be tempting to think that it is ""too hard"" to learn or that it takes too long to say, preventing adoption. Look at kilograms."
+41,"@aliatiia_ ""the kernel of the OS of human coordination"" 
+
+I love this. Extremely succinct 
+
+I think this captures so much of what we try to achieve 
+
+🌱↔️🤖↔️🌱"
+42,"@JCDentonCrypto @RyanSAdams @EliBenSasson @ukolodny @BanklessHQ @TheDopeWars @facesOfEth @tarrenceva An anecdote: About 12 months ago I was listening to a podcast where Eli was being interviewed. He was talking STARKs and explaining how the Cairo CPU works. 
+
+He was asked at the end: ""Do you have any advice?""
+
+Eli responds: ""Go learn @CairoLang""
+
+So I thank him for the advice"
+43,"@tarrenceva @PhABCD @StarkWareLtd @optimismPBC @arbitrum @0xPolygon @the_matter_labs I wonder to what extent the gas reform roadmap for verkle trees can be anticipated. Are there structures that are cheap pre-reform but expensive post- and vice versa? A consideration might be how easy it is to change once deployed for ~6 months 
+
+https://t.co/tORITjsiGA"
+44,"@BastardWhiskey @888Mooncat @ohr_nft @bganpunks @NFTX_ @berkozdemir Thanks! I love to scroll through them seeing how different features are represented. Often I find that while no single feature is obvious, the GACTAN has the same vibe as the BGAN"
+45,"@BastardWhiskey @888Mooncat @ohr_nft @bganpunks @NFTX_ @berkozdemir So it's possible that the results of the first pass through have more beardy structures than the second. First passed are visible with the ipfs suffix '_first.jpg'
+
+A beard-naive model might see a beard and liken it to some other feature, such as a shadow. https://t.co/JILBZ0a8nY"
+46,"@BastardWhiskey @888Mooncat @ohr_nft @bganpunks @NFTX_ @berkozdemir The bastards are used as the input to a generator trained in human faces. The generator takes the bastard and tweaks it until it appears ""passable"" as a face. 
+
+I passed the image through two generators, the first to make the face front-on, the second to super-resolution/celebify"
+47,@BastardWhiskey @888Mooncat @ohr_nft @bganpunks @NFTX_ @berkozdemir Good observation. I suspect that the answer lies in that the database of faces used to train the generator was low on beards. Some stubble here and there. I wonder if a full beard can be found!
+48,"RT @DennisonBertram: @juiceboxETH 
+
+To return the funds en masse: 
+
+Create a Merkle tree of all the depositors and their amounts. 
+
+Send th…"
+49,@sammybauch @micksabox I see potential to have small semi-connected blocks that read from other existing blocks. Some blocks are interactive and read state to create playable experiences. The outcomes can be stored as new state modules that other blocks can read from. Governance for write access.
+50,@DanielJDrake Nice preservation of the pink / blue hues https://t.co/KNVpErJL4e
+51,@DanielJDrake Thanks!
+52,"@ohr_nft @bganpunks @NFTX_ @berkozdemir Here's the punk'' to your punk'
+
+Interesting that it preserved the earring!
+
+https://t.co/rPkBOM9jsU
+
+https://t.co/f7tFWKGisM https://t.co/80cfpqPIV7"
+53,@bganpunks Hehe https://t.co/ItGZo2LgLA
+54,"@bganpunks Such a grumpy bastard
+
+https://t.co/OtFrYyUPWi"
+55,RT @bertcmiller: Writing @CairoLang and having GitHub Copilot autofill it feels like a glimpse of the future for more reasons than one.
+56,"@ukolodny @AleoHQ @aztecnetwork @0xPolygonHermez @MinaProtocol @StarkWareLtd @zksync @guiltygyoza @seanjameshan @RoboTeddy @ceccon_me @martriay @scottpiriou @jniset 1. https://t.co/3e7thO36vA
+2. A game arcade for the @TheDopeWars open universe. Calculator classic drug trade rebirthed with ownership and multiplayer state. Plus [you here]
+3. A) StarkNet grows stronger the more it consumes, IYKYK. B) Accessible. C) Mind worm. D) Fun."
+57,@BokkyPooBah @bganpunks Oh sweet! Cheers for hooking that up
+58,@martriay @BokkyPooBah @bganpunks Great energy
+59,"@martriay @BokkyPooBah @bganpunks https://t.co/HQdrGID9h2
+
+Change the bastard ID suffix:
+ID.jpg - Genetic code, eth logo, abstract pixels.
+
+ID_double.jpg - Side comparison with BGANPUNKv2.
+
+ID_single.jpg - Plain image
+
+ID_first.jpg - Intermediate GAN
+
+You can also download the whole collection from IPFS"
+60,"@bganpunks 
+
+Some fan art as a donation to the DAO. Bastard-bastards for everyone!
+
+https://t.co/rPkBOM9jsU"
+61,@martriay @shard_labs 🔥
+62,"@ukolodny @TheDopeWars @influenceth @briqs_ @guiltygyoza Take a look at this video that explores the work that went into ensuring that the foundation of StarkNet, Cairo, is a solid bedrock.
+
+A fascinating dive into the guarantees and assumptions of the system. 
+
+https://t.co/GbfUSNzuhf"
+63,@tuuchow That way you can also encourage people to come with half baked ideas. You litter the story tree with many ideas and then people can weave them in with hat tips
+64,"@tuuchow Interesting idea! 
+
+I imagined a Hat Tip feature can be used to pull in inspiration-with-attribution. So you could be fleshing out a skeleton idea and acknowledge you are pulling from arc-hashes-
+ X, Y &amp; Z."
+65,@twobitidiot Razoooooor
+66,"@ukolodny @TheDopeWars @influenceth @briqs_ @guiltygyoza It is an exciting and inspiring time 🌱
+
+Grateful for the people who have put the years of hard research and engineering hours in leading to this point🔥 
+
+To be able to build provable programs at a high level of abstraction is a pleasure and a privilege 💾"
+67,"RT @wighawag: gm,
+continued working on bleeps and there is now a website : https://t.co/wDBQE6HVF8
+Sale of the fully on-chain sound (a.k.a.…"
+68,"@trent_vanepps @AminCad Imagine if after riding out the costs of deployment, they put the 20% in a contract that was only spendable by the WorldDAO. Where all registered humans are voting members."
+69,"@scupytrooples @safetyth1rd Like doing a marshmallow test _reproducibility study_. (boring)
+
+not _applying_ the marshmallow test to forecast behaviour. (fun)"
+70,@eth_tx Niiiiiice!
+71,@HaymanLiron From gas burning to gas lighting
+72,@BokkyPooBah @PoorCatsNFT Gaussian purr
+73,"It's not limited to money-for-writing
+
+It is securing identity into the structure of a piece. Identity that persists. Some future DAO may admit the authors as honorary members or advisors.
+
+For a manifesto that made no money, but that was culturally significant. Credibly neutral"
+74,"If there is a main trunk with traction and you see a great idea on another branch, you can copy/rephrase their work and ""hat tip"" that commit. This adds your address, and theirs, to the main trunk. Rewarding creation and curation.
+
+What do you think? 🎨"
+75,"The incentive is to write things that other writers write upon. With the knowledge that an audience may reward some version that you may or may not be part of. 
+
+Plagiarism is culturally enforced. The timestamp and signature illuminate branches with crude attempts."
+76,"One or more articles may emerge, variants in the theme - perhaps aimed at different audiences. Translations, too.
+
+A publisher may buy the right to publish. 
+
+1) pick a suitable version. 
+2) send a single sum to the contract, which routes payment, equally, to all in that lineage."
+77,"Another author can choose to edit the second version, adding their address. Or, build on the single-address original.
+
+The hashes are logged in an L2 to preserve ordering.
+
+One thousand contributors swarm to build and aggregate around a main trunk. Typos fixes locked in amber."
+78,"Idea for an architecture for collectively written works.
+
+An author writes a piece, and publishes git-style, with an standardised header containing a license and eth address.
+
+Another author rewrites a section, adds their address and publishes the new hash.
+
+No approvals needed"
+79,"@ComplicatedIsOK @FroggyFrogster @epolynya Yes, inside the smart contract
+
+You could make a smart contract that accepts two signatures and checks both
+
+Or you could have a contract that expects and checks a different type of signature. Such as a type used in another blockchain or system"
+80,"@ComplicatedIsOK @FroggyFrogster @epolynya Flavour 5: [your custom flavour here, hand crafted for your application]
+
+If anyone has specific architectures that they would like to see materialised, let me know! Models, drafts, sketches, diagrams, musings all welcome"
+81,"@ComplicatedIsOK @FroggyFrogster @epolynya Not quite - there will always be a signature check.
+
+More that: accounts can now come in different flavours. 
+
+Flavour 1: simple single owner
+Flavour 2: multiple owners
+Flavour 3: trader special (only profitable trades)
+Flavour 4: shadow (can de-link deposits and withdrawls)"
+82,"@samecwilliams Wow that is cool, thank you"
+83,"@TheDopeWars @CairoLang Repo https://t.co/3e7thO36vA 
+
+Join in and help design the mechanics, maybe pick up some @CairoLang along the way"
+84,@fungibles3 @TheDopeWars @CairoLang A degree of curiosity 😉
+85,@1ofthemanymatts @WildAmulet By Hand?!!
+86,@1ofthemanymatts @WildAmulet HERO
+87,"@udiWertheimer I'm just 
+I'm just 
+Udi from the block 🎶"
+88,"GAN idea: width invariant ASCII art
+
+The gan is trained to produce some image, but the width of the text varies cycle to cycle. 
+
+So it must learn to create patterns that when wrapped in different ways form different features.
+
+Robust ASCII kernels for a mobile era."
+89,@r_ross_campbell Acepalmf
+90,"@r_ross_campbell T
+   O
+D I Y
+   L
+   S"
+91,"So the premise is that the artist contribution is:
+
+- important (warrants eth as DA layer)
+- ordered (sequencing required)
+- not composable (may be consumed off chain)
+
+The tree of pending blocks in the contract gives a freedom for creative reorgs for redirection."
+92,"Probably exists in some form, and am interested in anyone's thoughts on terminology.
+
+Shadowchain + log
+
+ShadowLog?
+
+I have a fun idea that it could be used for. I think it will be really cheap to run (not compared to L2s) and could be an interactive piece. Artists ""mine"" the tip"
+93,"You submit a new block as tx data, along with a pointer to an existing chain tip/branch, the contract checks some validity condition on the data and then walks the state forward. Emits an event.
+
+Archive node + log gets tx data = chain data. Contract defines canonical chain head"
+94,"I have a design variant on PosterChain (H/T @DennisonBertram) that involves a chain that lives in transaction space, but where the smart contract maintains a small mempool of blocks and enforces state transition. Like a shadowchain that lives inside the archive nodes tx record."
+95,"RT @RyanBerckmans: Thanks to all who stopped by the first byoa Spaces
+
+During the chat, we announced that we're building on StarkNet in clo…"
+96,"I think that there is a flaw where people won't know if they are going to make the quota when they send the transaction
+
+So you could end up with many transactions still, but they are all reverts. Then they have to try again later, doubling the spam"
+97,"@nicksdjohnson @jeffscottward This is a fair point.
+
+The basefee is a proxy for network usage, so it requires some careful design based on desired network basefee conditions. In this respect it is inferior to the auction, which allows the market to decide the magic numbers"
+98,"@nicksdjohnson @jeffscottward Yes it's just a super minimal mechanism raise price (can donate). But it serves to spread the load out over a longer time because you can tweak the mint window.  If the fee is okay at BF 40, high at BF 60 and unaffordable at BF 80, then users can still pay 70 for other things"
+99,"@nicksdjohnson @jeffscottward Tokens remain mintable while the base fee is high. 
+
+Could try other formulae (x * basefee **5)"

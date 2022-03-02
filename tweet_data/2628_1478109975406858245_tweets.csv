@@ -1,0 +1,147 @@
+,0
+0,@WE3co oh kale yeahhh
+1,h/t @WE3co for helping us plant and water these idea seedlings for the community! LFGrow🌿😊
+2,"8/ The Lens team will continue to develop ideas and we’ll post them here for you to dig into and grow. Plus, each these provocations has a dedicated Discord channel! Jump on https://t.co/EWpieiDn7r to make some frens and start building 😎
+
+Learn more at https://t.co/UTTnga1RDF https://t.co/eSgUBYMAMk"
+3,"7/ 🛠DAO Toolshed: Current DAO tools reduce complex decision-making to bland &amp; scattered voting systems. What if DAOs integrated a set of tools that combined various voting structures that also captured their community's diverse &amp; rich identity as well?
+
+https://t.co/3SApn7YLb2"
+4,"6/ 🪴My Roots: Applications and tools built on the Lens Protocol will give users complete control over their social graph for the first time. What if we could actually visualize our social graphs, enabling users to derive and act on insights from them?
+
+https://t.co/6V9mq3kKft"
+5,"5/ 📊The Power of Insight: Our data is harvested by current social media platforms and sold to advertisers, yet users are unable to access it themselves. What if users had complete access and visibility into their data?
+
+https://t.co/kiK2M531KE"
+6,"4/ 👨‍👩‍👧‍👦All for One: Social media profiles are not designed for decentralized communities to easily leverage. What if different voices in a community could come together under one profile without giving any one person complete control?
+
+https://t.co/IXzL8QfSvj"
+7,"3/ 🤝Fair is Fair: Fans of NFT artists often can’t compete with whales or bots. What if drop mechanics were built so that digital goods could be more fairly distributed, giving creators and genuine fans of their work more control and access?
+
+https://t.co/z4VqefTlXm"
+8,"2/ ✅Tag You’re It: Social media verification could be so much more than simply showcasing an elite status or valid identity. What if verification systems were broadened to capture any label that's meaningful to a given community?
+
+https://t.co/Kr80juaAWp"
+9,"1/ Ideas are blooming🌿From music streaming apps to weekly content round-ups, the possibilities for building powerful applications and tools on the Lens Protocol are sky-high. Here are some more ideas, ripe for the picking, fresh for you to jump in and start building 🧵👇"
+10,👀 come work with our team! https://t.co/SqCxpl0235
+11,Show us your Lens swag! 🌿 https://t.co/JU92EfCadk
+12,😯oooo this looks bloomin’ cool. Who’s gonna build it?! https://t.co/TlHQjJlwRl
+13,"10/ Our team will be reviewing submissions and will announce when bounties have been successfully claimed! Head over to https://t.co/EWpieiUYw1 for more information and with any questions you may have. 
+
+TL;DR: CAN THE DEVS DO SOMETHING?"
+14,"9/ To claim a bounty you must be the first to submit a complete solution (with tests) to the official Lens Protocol repository, release all rights to the code (all new modules need to follow Lens’s Open Source License), and provide a valid Ethereum address."
+15,8/ ReFiCollectModule (3 ETH) - Extend the FeeCollectModule to use all received fees to buy @ToucanProtocol’s BCT and send to a designated address to be queued for retirement.
+16,7/ AaveLimitedFeeCollectModule (1 ETH) - Extend the LimitedFeeCollectModule to deposit all received fees into the Aave @0xPolygon Market (if applicable for the asset) and send the resulting aTokens to the beneficiary.
+17,"6/ veFollow Snapshot Strategy (0.75 ETH) - Create a @SnapshotLabs Strategy that gives all wallets that hold FollowNFTs of a given profile voting power. The voting power should linearly increase, the longer they have held the FollowNFT."
+18,5/ IsFollower Snapshot Strategy (0.5 ETH) - Create a @SnapshotLabs Strategy that grants a wallet 1 vote if it contains any FollowNFTs for a given profile.
+19,4/ TokenGatedFollowModule (1 ETH) - Validate a wallet has more than “balance” of “token” prior to issuing the followNFT.
+20,"3/ FollowOnlyCollect (1 ETH) - Extend the LimitedFeeCollectModule to take 2 added inputs “profile” and “maxID”, validate the wallet trying to collect holds the FollowNFT of “profile” and has an ID less than or equal to “maxID” before processing collect."
+21,2/ StepwiseCollectModule (1 ETH) - Extend the LimitedFeeCollectModule to take an added parameter “step” that increases the price linearly every collect.
+22,"1/ gm devs! Ready to do something?
+
+The Lens Team is releasing a series of bounties to help encourage the building of modules and other infrastructure for the Lens Protocol. List of new bounties in this thread below👇👇👇"
+23,it me https://t.co/1UVQy90NDG
+24,"“The Lens protocol is the beginning of social media moving away from old extractive models and letting creators own their social graphs.” 
+
+Amazing and in-depth review of the Lens Protocol by @Protocol_Review 
+Thank you! ❤️🌿 https://t.co/PNWcqgngEW"
+25,Every big change needs a leaf of faith🌿What excites you most about Lens Protocol?
+26,@StaniKulechov 👀😎
+27,"RT @StaniKulechov: Web3 social is just getting started with some cool new developments in the @LensProtocol 🌿community 🔥
+
+1) Feed explorer…"
+28,@lemiscate @Twitter @AaveAave @pealco Lfgrowww
+29,What if… https://t.co/kIwooFBqru
+30,👀🚀 https://t.co/8t2KgCRfbw
+31,Lens🤝 POAP https://t.co/d0oLURKQYC
+32,@iamthewalrus74 @AaveGrants @WE3co made us prettyyyy
+33,Swaggg alert 🚨 hey #ETHDenver2022!! Come to the @AaveGrants booth (P4 floor 2 at Sportscastle) starting tomorrow and grab some Lens swag 🌿👀 Come say hello to the team 🙏  LFGrow! https://t.co/tstMfpIPbD https://t.co/xUMerPK4OQ
+34,@AaveAave 😏
+35,@wearenewt 😏
+36,Lens swag dropping soooon 👀
+37,gm 🌿 there’s been so much love for Lens and lots of interest in joining the fam so we’re dropping some hiring alpha here! Explore all of the open roles on the team below👇 Don’t see the perfect fit? New roles are sprouting every day ✨ Check back for more https://t.co/euudzoX218
+38,@NilsEdison @AnChainAI 👀
+39,Real frens tell frens to follow @LensProtocol https://t.co/HU7lopTiDo
+40,@mackrypt0 🙃
+41,"From e-learning platforms to games, there are so many fun ideas in the comments! Jump on discord and join the brainstorm channel - you can build them all 💪https://t.co/EWpieiUYw1 🥳 https://t.co/gEVKZT6BKb"
+42,@RatDefi https://t.co/1bYzW6sZ9c
+43,@NilsEdison 👀
+44,@puffdood https://t.co/gQeyla21bS
+45,@chrislee0033 🌻
+46,@foodering_io https://t.co/UKfy369BLM
+47,@KhoaiLai content is king!
+48,@yoruba_cz https://t.co/iUQFlx2qFt
+49,What would you build on Lens?
+50,"Roses are red
+Lens Protocol’s green
+Slide in our DMs
+to work with our team 💚"
+51,Seeds are being planted 🌿 Come grow with us on discord https://t.co/EWpieiUYw1 🤝 https://t.co/JBCZ4wKAzm
+52,@StaniKulechov @anuditnagar 👀
+53,👀 What will you build? https://t.co/BqMYgPYPgW
+54,who's ready for social summer🌿 https://t.co/I4VUuVnoNT
+55,@DesoFund build one!🙌🌿
+56,"gm lens frens - ideas for what to build are blooming. To help cultivate the garden, we're offering a grants program to accelerate the growth of the Lens Protocol ecosystem. Submit your application here! https://t.co/nHUXwq0ihb https://t.co/lhORIoNLDC"
+57,👏👏 https://t.co/BwmDOVMoSR
+58,@JustDraude https://t.co/i0H5LxWrVQ
+59,@Qwe961126 🌿✨
+60,@Mitchgrom gm
+61,@atari_god https://t.co/vX4qdt4B3w
+62,@NdukaAnthonyA It’s a vibe
+63,web2 me vs web3 me https://t.co/15Hmq97pbD
+64,"RT @developer_dao: Getting started with @LensProtocol - a permissionless, composable, &amp; decentralized social graph that makes building a We…"
+65,@m1guelpf @AaveAave LFG
+66,@m1guelpf 👀
+67,gm early bloomers 🌿
+68,🤝 https://t.co/FBy6eAkTat
+69,"RT @devjoshstevens: We are hiring here at @AaveAave for the @LensProtocol !! 
+
+Backend engineers are needed! 
+
+node, typescript, sql and gr…"
+70,"RT @code4rena: Hey wardens, $100k @LensProtocol audit contest dropping soon
+
+Congrats @StaniKulechov &amp; team! 🤝"
+71,"RT @DefiantNews: It's confirmed. @LensProtocol is a new web3 social media effort from the @AaveAave team.
+
+“Lens Protocol helps developers…"
+72,"Starting in five minutes! 
+
+https://t.co/ENgaIr9iQV"
+73,@Zer0dots 🌿🤝🌿
+74,19/ Lens Protocol is now live on Polygon Mumbai testnet! Stay tuned for alpha on main net launch 🚀 👀
+75,"18/ Designed by our frens at @WE3co, a design collective built on the idea that internet platforms should be more participative, open, and community owned 🙏"
+76,"17/ Tune in tonight at 11PM GMT / 6PM EST for a Twitter Space featuring @StaniKulechov and team to learn more about the vision and exciting future of Lens Protocol. Set the reminder below!
+
+https://t.co/ENgaIr9iQV"
+77,"16/ 🪞For more on the vision, read our full @viamirror blog post here: https://t.co/cCsLJXfVEI"
+78,15/ ✍️Sign the Open Letter – It's not too late to share your support for the vision and need of Web3 social media. Endorse it here: https://t.co/aN76ZyMaZI
+79,"14/ ‍👩‍🌾The garden is open! Join the discussion on discord to share feedback, ideas, and make some frens along the way ❤️https://t.co/EWpieiUYw1"
+80,13/ 📚 Read up! Make a nice cup of coffee and dig into the developer documentation here: https://t.co/Xf4otCS91y
+81,12/ Current collaborators include @polygon &amp; Web3 name service providers. We look forward to building a community with more partners to create better and more sustainable online social experiences.
+82,"11/ Got a great idea but need funding? Grab some fertilizer! We’re offering a grants program to accelerate the growth of the ecosystem.  
+
+Apply here: https://t.co/nHUXwq0ihb"
+83,"10/ What’s bloomin’? 🪴 Lens Protocol is fully open source for the community to build on. Social apps, analytics platforms, verification systems, DAO tooling... whatever you can dream up, you can build. https://t.co/06NoTnKn6c"
+84,"9/ 🔄 Some things are too good to keep to yourself. Re-share a post using the mirror feature! By amplifying content, you receive a “mirror fee” from anyone who collects the original content through your share."
+85,"8/💚 Like what you see? You can collect publications from people you follow. A new form of self-expression, curate your collection, and show off what you love. This collect feature enables anyone to collect your content based on the price, edition size, and time limit you set!"
+86,"7/ 📝 Pictures, music, videos, a great poetic work of art – whatever masterpiece you want to create and share, you can with a publication. Lens Protocol supports IPFS and any media type that inspires you!"
+87,"6/👥When you follow someone, you’re granted a follow NFT. Each of these NFTs has a unique token ID that comes with innate rarity &amp; utility. These unique traits can be used to limit voting to your most loyal fans in governance snapshots. They can even be traded on an open market!"
+88,"5/👤Profile NFTs are the main primitive of the Lens Protocol. These dynamic NFTs are composable, non-custodial &amp; permissionless. Individual addresses can own profile NFTs, an address can have multiple profile NFTs &amp; a profile NFT can be owned &amp; run by a DAO via a multisig wallet!"
+89,"4/ Lens Protocol has familiar social media functions like having a profile, commenting, resharing a post, and more – but unlike social media of the past, Lens Protocol is powered by NFTs, so you own and control all of your content. Here's how it works👇👇👇 https://t.co/LqnQ8Kr37w"
+90,"3/ What is it? 🧐 Lens Protocol is a composable and decentralized social graph, ready for you to build on so you can focus on creating a great experience, not scaling your users. 😎 Read more at https://t.co/73lRDtMJ4C https://t.co/KvvDZDRqSI"
+91,"2/ Today everything changes. We’re excited to introduce Lens Protocol 🌿 a permissionless, composable, and decentralized social graph that makes building a Web3 social platform easy.  
+
+Dig in at https://t.co/UTTngajt2f"
+92,1/ Something is blooming... https://t.co/UMUs3qT3SD
+93,RT @Winbackevery: I should own this tweet @lensprotocol #digitalroots sig:0x9212a8e77d55a3405c43152664204168476d7a34b33cb8409baed5a7c784f25…
+94,"Verifying my identity for @viamirror
+
+sig:0x20db592b584797bb47cd206afd22f4a96cd6c3d997cb00c0b32051a64c9c57c24b2cda0c44413acddb2c48f177f2dfa4fa71780cd07033655e8f4d215b5b16d61c
+
+https://t.co/2pNTKWtKpD"
+95,RT @katramdeen: I should own this tweet @lensprotocol #digitalroots sig:0x28b29c56b5aed9803a86180ef2ba0bb3cb0715e942765b1fe11fcb5f9da244cd6…
+96,👀🌿 https://t.co/UMUs3qT3SD
+97,RT @Cyrus_Fazel: I should own this tweet @lensprotocol #digitalroots sig:0xedf560c357942063bf2da46ed806cded84cf0e33f80192a81c838bcd81447644…
+98,RT @RKT444: I should own this tweet @lensprotocol #digitalroots sig:0x4a80e43235962bdf5cecdc3fbe5cc7c475a9dda114ee26a1bd0798bd7308b34f6e838…
+99,RT @JessicaLawson92: I should own this tweet @lensprotocol #digitalroots sig:0x5660dd711fe6b628b50deb5008e9d3e3cc077015e2198a870edb9988e093…

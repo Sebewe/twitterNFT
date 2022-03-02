@@ -1,0 +1,162 @@
+,0
+0,@ColeThereum https://t.co/H2pj6Oc7qj
+1,RT @bag3Lb0y: @ColeThereum https://t.co/82BKLIRIUc
+2,@CaseyJScalf You should do both make a meta thread that holds all your threads. Then make your threads a synopsis of your articles/blogs. Make each thread fragment a small little preview of a bigger paragraph from the longer form with featured images when needed. Then each tweet is a hook.
+3,@CaseyJScalf just said medium as a verb. I feel like mediums kinda shit tbh. Twitter threads honestly is the best option. That games the twitter algo and gets you like minded followers  especially if your a consistent threader. Best to learn in the open. Reminds me I am due for a thread.
+4,Penguinares expanding the ice huddle metaverse to twitter! https://t.co/IluC9wPLbB
+5,@CaseyJScalf Nice you should write up a medium article on what you learned. Talk about gotchas to get through to print a good part. Been wanting to learn ABS as well cause you can smooth stuff with acetone vapor.
+6,@jeffjohnroberts Its not very professional for the SEC to keep me and many other victims sidelined from $100k in airdrops. Hes being perfecly modest if you ask me. Wen he sues them I will be first in line for my airdrop reinbursments.
+7,Wish this is actually huge! Because taking Russia off swift messes the citizens but now they are just forced to go bankless. https://t.co/8UX6oJBQTc
+8,"RT @awrigh01: The core use case of Ethereum is not the transfer of assets. 
+
+Its coordination."
+9,God I hope nobody ever uses nukes again. https://t.co/CGtpQb2j0V
+10,@0x_Vinyl I shoulda had my laptop out too haha
+11,@0x_Vinyl I got nothing 😭
+12,@9x9x9eth https://t.co/fDGuRfyDep
+13,@9x9x9eth @nftcarrot https://t.co/UrJjWz4yeV
+14,"RT @9x9x9eth: back to myself 🔷🙌
+
+Cute + Meme is enough for me to keep liking Pengs, without utility is fine by me. https://t.co/Zr55Ooq9pP"
+15,@9x9x9eth What does a peng gotta do to renuite with his boy? https://t.co/J4TAw6zCh5
+16,@fuckalota @Chubbicorn_219 Pretty sure if you were doing a border crossing your brain would be singing all the words on loop so you remember.
+17,@Chubbicorn_219 I defer to Balaji https://t.co/Qs74fkgsbh
+18,RT @ercwl: Wait a minute… a zkrollup on Bitcoin… would not just be a way to scale Bitcoin… it could possibly allow fully expressive Bitcoin…
+19,@cobie @LedgerGrandma Winner https://t.co/Nl5RazeoF4
+20,@Chubbicorn_219 https://t.co/r4uWElSjBx
+21,"@ActuallyAgents Seeds. You can’t eat bullets. 
+https://t.co/WN18pwyFIl"
+22,"RT @ercwl: in 24-72h you will sell the pico bottom the exact moment the market realizes war = QE and reverses
+
+just like last time. 
+
+like…"
+23,RT @CaseyJScalf: Setting my sights on exhibiting interactive art installations from powered by the #Bitcoin #LightningNetwork at this years…
+24,"Setup your MM thanks for reading👇
+https://t.co/7yLg7YMLOb"
+25,"The best way to protect yourself from all this as a user is to setup your MM wallet to point to the Flashbots RPC.
+Dont be a noob and use the public mem pool.
+Its the same method you do when your adding a new L2 into your wallet. 
+No more sandwhiched trades. No more failed trans."
+26,This is mostly all done on the Flashbots network. Flashbots is a private network where you can send transaction bundles directly to miners and not publicly show your trades in the public mem pool to get exploited.
+27,You would then sell this bundled transaction of yours and the apple farmers to a miner. The miner will typicaly take like 80%-90% of the profit from the bundle. This is where the term miner extracted value comes from.
+28,You notice that this apple farmer wants to trade for 10 oranges. What you would do as a MEV (seeker) is arbitrage trade in the same block as the trade is happening. You would bundle the first transaction the farmer +10🍎 then you bundle your aritrage trade -10🍎 right after it.
+29,"Lets say your an arbitrage trader waiting for those poor apple farmers to make a huge trade causeing large slippage for you to gobble up. 
+
+What you would do is observe the public memory pool (mem pool) where everyones transactions are gathered before they are put into a block. https://t.co/vQATXIUIv9"
+30,Yes he basically did. That is what is refered to as slippage. In this example the farmer traded 5% of the pool which cause the price to drastically change and created that arbitrage opportunity. Now that you understand Dexes like uniswap lets bring this example back to MEV
+31,"The beauty of uniswap is notice how we never even refered to a USD, BTC or a ETH price we only priced them relative to each other. The outside world via arbitage is what determines the price. 
+So you may be wondering well didnt the apple farmer just give away some of the apples?"
+32,This will almost instantly happen because the current market rate is 1:1 so anyone buying those 10 apples stands to profit. This is what is refered to as an arbitrage trade and is the main mechanic that drives uniswap price discovery. Also refered to as front running.
+33,"Remeber how from earlier the 1🍎 = 1🍊
+Well the pool now is showing 1🍎 = 0.81 🍊
+This is where the magic happens. Uniswap now needs another trader to do the opposite of the apple farmer and buy up those 10 extra apples to get the pool back in balance."
+34,"So now your the apple farmer you just farmed 10🍎apples. You put 10 apples into the pool and receive back 10 oranges 🍊
+The pool balance is now as follows:
+110🍎 + 90🍊 = 200 (🍎/🍊)
+Notice the constant stays constant. https://t.co/b4vSksEa5E"
+35,"Notice how there is no reference to any other currrency besides oranges and apples. When you add them together you get a constant value of 200 (🍎/🍊)
+
+That is what the constant product market means. Both units will add up to always be the same constant amount."
+36,"Lets say that you are an apple🍎 farmer and you want to trade for oranges 🍊
+The current conversion rate is 1🍊 = 1🍎
+
+Now some nice person offered to put 100 of each into a community pool so any person can come and swap for the other one.
+Pool:
+100🍎 + 100🍊 =  Constant (200) https://t.co/MrlO6BtqSN"
+37,"You may be wondering ok what does this look like in practice? Well lets use a basic example of Uniswap. Uniswap is a decentralized exhange that uses a constant product market maker model.
+
+Ok you may be asking wtf does that mean?
+
+Let me explain that with a fruit analogy."
+38,"MEV stands for (Miner extractable value). 
+Ok cool now you get it.......
+
+Basically thats kinda it. Miners in addition to getting transaction fees and the block reward can also earn extra value outside of the main consysus. Lets dive in."
+39,"You probably heard a lot about MEV or flashbots. You may have heard about bots extracting money out of your trades on uniswap. Or bots buying an entire block to sweep the punks floor. What is this MEV and wtf is going on?
+MEV for the laymen a🧵"
+40,@ActuallyAgents it feels like we’re due for another huddle chat. https://t.co/COgh4tbguK
+41,Gen Z is the first generation who can live their entire lives without a bank. They are pretty lucky they don’t gotta deal with mobsters like the bank cartel. https://t.co/fxiW5tdU6K
+42,"RT @jchervinsky: We need to build a privacy-preserving, self-sovereign, censorship-resistant, open-source digital identity system before th…"
+43,"RT @muneeb: For most people, the risk is we’re too early (and not too late). The impact of Bitcoin and crypto on the world will likely be 1…"
+44,"RT @Mecha_Penguins: Durag war is upon us, select your side for an opportunity to win 1 Durag Mecha
+
+✅ Must RT
+
+Recommended follow of @ppmct…"
+45,@nftsid @DokusoETH @swipethefloor you better start recruiting your warriors.
+46,@DokusoETH @swipethefloor @0x_Vinyl we got a showdown going on right here. ☝️Next meme
+47,@chefmehh @ppmctweets It’s true 😭
+48,I never considered the US government will become the largest crypto holder from just criminal seizures. That’s been it’s plan all along I bet. Watch people try and launder stollen funds then confiscate it once they are worth billions.
+49,@Petroo_mm https://t.co/JCqCYCxgNE
+50,"@DokusoETH @swipethefloor and the mechas?
+@Mecha_Penguins"
+51,@DokusoETH you need to settle this rag wars scouter v scouter. Does anyone know the owner of a red rag scouter? Please stand up. https://t.co/tQ1mwlgnMA
+52,"RT @gemxyz: New Gem contracts now live, cheaper than ever!
+
+Buying a single NFT listed on @opensea using Gem will now save you 6k gas vs bu…"
+53,"@fifilechien @Petroo_mm @Pudgy_Penguins Yo check those negative vibes at the door. We are a group that uplifts forgives and inspires. 
+
+Forgiveness is the final form of love.
+-Reinhold Niebuhr"
+54,@Joanfr9 @DokusoETH @LucaNetz He got the scouter rag bra.
+55,@coldpizza_eth @joeymooose Welcome back! https://t.co/kxsmbgTN6t
+56,RT @storming0x: Built different i guess. https://t.co/lx4d8QjrMv
+57,@RL00xx Yeah and even after you known a person awhile can still become a victim. I am sus of any link that isnt a trusted domain.
+58,@RL00xx Why are we using email still? Shits boomer tech from the 90s.
+59,RT @Churro808: Can't go wrong with a dose of soonium! @Elocremarc https://t.co/RlgnphNU4k
+60,@TheChild1996 @Berko_Crypto I think it will mater more for the stuff above floor. Most of those accounts won’t be as actively managed. Majority of the floor collections will have already been bought or moved to the new listing type by then. I think any new listing will not expire. But huge reset indeed.
+61,RT @wabdoteth: The BIGGEST nft influencers have ~100K followers. The average youtubers who have fallen off completely have several million…
+62,"@nftsid @IMMACrypto https://t.co/X0WdNBzAYo
+8887 bottles of soonium on the wall 8887 bottles of soonium. You take one down, pass it around 8886 bottles of soonium in the wall…. https://t.co/RLGT0sdPY7"
+63,@JoeyCoinz Come sing! https://t.co/bbo4Bj3z5L
+64,@IMMACrypto 8885 bottles of soonium on the wall 8885 bottles of soonium. You take one down pass it around 8884 bottles of soonium on the wall……🐧 https://t.co/4r50x1reWk
+65,"https://t.co/k5o7nGyJFv
+8887 bottles of soonium on the wall 8887 bottles of soonium. You take one down, pass it around 8886 bottles of soonium in the wall…. 
+Sing it with me!👇 https://t.co/xkQ4x4hW1L"
+66,@TheChild1996 @nftcarrot Put that in the OG pengu savings fund!
+67,RT @offshoot3D: Working on 3D apes for my collectors. This one is turning out awesome for the awesome @mondoir https://t.co/qHFXy11rBN
+68,RT @awrigh01: People like to focus on NFTs as authentication.  The bigger framing is NFTs as access control.
+69,RT @muneeb: I’m still thinking about Canada’s attempt to seize the bank accounts of citizens. It makes you feel that the fiat in your bank…
+70,@APompliano How will they hedge the shitshow they are about to preform? Is this the kinda play where everyone dies at the end?
+71,"RT @punk6529: The architecture of our digital world (metaverse) is the most important topic of this decade.
+
+It sounds boring so they distr…"
+72,"Being protected from Rogan is like being protected by the SEC. 
+
+Idk about you but I fucking hate being told what to do."
+73,@steakndpotatos All you gotta do is look at the name.
+74,RT @Elocremarc: @fintechfrank @NeerajKA Just waiting on the day when the dickbutts start showing up in congresscritters finacial discolsure…
+75,@fintechfrank @NeerajKA Just waiting on the day when the dickbutts start showing up in congresscritters finacial discolsures.
+76,"RT @jlwhoo7: Today is my last day with @CoinGecko, moving forward I will be building @HoogaGaming full time. Don’t think of this as a farew…"
+77,"RT @0xngmi: honestly coingecko is so undervalued:
+- founders bootstrapped it, went through multiple bears, and built it all without vc
+- th…"
+78,@ledgerstatus No your gonna need 2x 10gb fiber from 2 seperate ISPs.
+79,@statelayer @poordart The only thing Crypto should be solving is figureing out ways to pay your expenses with crypto. We have to opt out to win this game. They control the fiat ramps. They can't control how we pay each other.
+80,@Jodugame @Pudgy_Penguins All hail the Ice Fish https://t.co/uSBha80EvA
+81,@cobie Best one yet
+82,@walruswins @cozypenguinsnft Me too! https://t.co/PdhuD3MJD5
+83,Being into DeFi and NFTs at the same time. Is like having 2 marriages.
+84,"We need to stop calling web2.5 companies web3. See a breakdown if your confused. 
+
+Web3: Uniswap, Tornadocah, Aave
+
+Web2.5: OpenSea, Coinbase, Twitter hexagons.
+
+Web3 the front end website is decentralized as well. Web 2.5 you got a traditional server in the mix."
+85,@dwr @MarkKatakowski Network effects are a bitch. NFTs and ENS make you more portable. Web3 will eventually make Web2 interoperable. I call that web2.5 like twitters hexagon.
+86,RT @WrappedPenguins: You can now roam around @Digi_metaverse as your wrapped penguin! @pudgyverse https://t.co/cnecNLybZ9
+87,Bitcoin CT is really discovering ground breaking stuff! https://t.co/BUpbjIpSS0
+88,@steveaoki The huddle would like to point out your new penguin still has a @Mecha_Penguins to claim!
+89,@dwr Good point you should only be required to login if you need to sign something or prove ownership. Web3 sites should run their own ETH node and not rely on your wallets endpoint to get onchain data.
+90,"RT @0xngmi: But what if there was a way to avoid these issues? For example, a solution would be a collection with infinite customizable min…"
+91,Its been profitable to hold #Bitcoin for 94.3% of the days it has existed. Why anyone is still using a bank at this point is beyond me. https://t.co/UXIW6ioMY3
+92,@cobie Down only
+93,RT @Elocremarc: @flipdrago @opensea Omg mass delisting incoming  👀 https://t.co/q9jp7G6osl
+94,@RadiantStorm_ @flipdrago @opensea One can hope lol
+95,@flipdrago @opensea Omg mass delisting incoming  👀 https://t.co/q9jp7G6osl
+96,RT @dughash: Name this movie @chubbiverse https://t.co/A7xqLnYdaH
+97,@jchervinsky Were pro private business I doubt the government will ever issue a CBDC. It’s gonna just control the stablecoins as much as possible to keep the dollar milkshake.
+98,@2022CenturyClub @coinmamba @cobie Because that’s the boring  part. The interesting stuff cost gas including ERC-20 token approvals.
+99,RT @cobie: Now you can pay $90 to tip someone $5! 🙌 thank you twitter!

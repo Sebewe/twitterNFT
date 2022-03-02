@@ -1,0 +1,165 @@
+,0
+0,RT @0xFrame: Our latest beta.13 release (https://t.co/27sggawxsL) contained a fix for a change @Trezor made that broke the ability for many…
+1,"@BellyFlopClub @Trezor This issue is fixed in the latest Frame, we encourage you to try it out to claim your $LOOKS — https://t.co/FmWaNQoMgt"
+2,@BellyFlopClub @Trezor Yes
+3,"RT @alexmillertech: The Frame folks are awesome. Read about how they fixed Trezor's breaking changes themselves 👇
+
+As users, please do keep…"
+4,@punk6529 @opensea @Trezor ✌️Here’s a quick explainer of what happened: https://t.co/nAd0Ewsnoz
+5,We got beta.13 out ASAP because we ❤️ our users and don't want to leave them hanging no matter who is at fault. However we encourage @Trezor to work more closely with the Ethereum ecosystem to understand how their hardware is being used and what their users want.
+6,"3. Better communication: if breaking changes do need to be made, we'd like to see them communicated clearly. Obviously these changes can be disruptive and in the crucial time period of adoption after a new release better, more receptive support is key."
+7,"2. Consider all users: once a public library is published, it can be assumed it has users. One of our goals is to build a broader, more robust web3 community and breaking the contract of a widely used library at the request of one specific user is extremely exclusionary."
+8,1. Adhere to versioning best practices: breaking changes should be versioned as such. Releasing major breaking changes under a patch release more or less defeats the purpose of versioning in the first place.
+9,So what would we like to see improved in the future?
+10,For them to then break this integration without any advance notice or adherence to best practices shows a disregard for users and clients of their library and is a real detriment to an Ethereum ecosystem that already has to deal with a lack of wallet continuity and coherence.
+11,The irony of this is that Frame is one of the few -- if not only -- wallets to implement EIP-712 signing for @Trezor and to do so in a timely manner. We took great pains to support their new specification quickly and make this functionality available for users.
+12,"Due to noise being made on Twitter they decided to investigate. They stated the change was ""requested by the MetaMask team"", ""doubted this change would affect any users of this library"" since EIP-712 signing for Trezor was recently released, and refused to fix the issue."
+13,"We reached out to @Trezor for an explanation or a fix but received little to no response. Their cursory replies were blasé and dismissive. Our support request was answered 3 days later with a simple ""no one else is experiencing this, it must be a problem on your side""."
+14,"Last week @Trezor published trezor-connect v8.2.7 which, despite only incrementing the patch version, contained a breaking change for signing EIP-712 typed data. Because trezor-connect dynamically loads the latest major version, Frame's @Trezor integration was immediately broken."
+15,"Our latest beta.13 release (https://t.co/27sggawxsL) contained a fix for a change @Trezor made that broke the ability for many of our users to use @Opensea, @LooksRare and possibly other apps. Here's a short thread on what happened and what @Trezor could improve in the future."
+16,"RT @0xFrame: Are you currently working in web2 but want to make a jump into web3? We're hiring!
+
+✨Come build with us!✨
+
+https://t.co/W7fF0I…"
+17,"RT @punk6529: With this release last night, the @0xFrame and @Trezor  combo works again on @opensea and @LooksRareNFT.
+
+This is a useful br…"
+18,"@punk6529 @opensea @Trezor Fixed in beta.13
+https://t.co/jUdNGR2xgB"
+19,"RT @0xFrame: ✨ Frame v0.5-beta.13 is out! ✨
+
+This release includes:
+
+- The ability to edit ERC-20 token approvals 💫
+- A fix for users unabl…"
+20,"Are you currently working in web2 but want to make a jump into web3? We're hiring!
+
+✨Come build with us!✨
+
+https://t.co/W7fF0IG6zs"
+21,RT @StaniKulechov: Woke up today and fell in ❤️ again with @0xFrame wallet ✨
+22,"RT @Agnt0022: @0xFrame @Trezor I can finally use my Trezor, LFG!"
+23,@punk6529 @opensea @Trezor Out now! https://t.co/jUdNGR2xgB
+24,See the full changelog here: https://t.co/27sggawxsL
+25,"✨ Frame v0.5-beta.13 is out! ✨
+
+This release includes:
+
+- The ability to edit ERC-20 token approvals 💫
+- A fix for users unable to load their NFT inventory 🖼️
+- A fix for breaking changes made by @Trezor 😡
+
+...and lots more!
+
+Get it here: https://t.co/FmWaNQpk61"
+26,@AZELXBT We've identified a fix and will push it out in our next release as soon as possible.
+27,@AZELXBT https://t.co/A1viztRVYe
+28,@oxywashere We've identified a fix and will push it out in our next release as soon as possible.
+29,@oxywashere https://t.co/XlVcahCJdF
+30,RT @0xFrame: @punk6529 @opensea @Trezor It seems @Trezor introduced a breaking change to their trezor-connect library earlier today. We rea…
+31,@punk6529 @opensea @Trezor We've identified a fix and will push it out in our next release as soon as possible.
+32,@punk6529 @opensea @Trezor It seems @Trezor introduced a breaking change to their trezor-connect library earlier today. We reached out to them but have not received a response. Obviously pushing breaking changes like this is very disruptive and we're looking at ways to protect against it in the future.
+33,RT @trainface: @punk6529 @0xFrame @opensea @LooksRareNFT For the devs out there: @0xFrame also can connect to your Hardhat repo to sign tra…
+34,"@0xPr0 @punk6529 @opensea @LooksRareNFT Click ""Custom Tokens"" in settings: https://t.co/ysmloeqOK0"
+35,"RT @punk6529: Update:  Been using @0xFrame for the last 24 hours &amp; initial experience has been good.  
+
+It supports EIP-712 for Trezors so…"
+36,@LooksRareNFT recommend @0xFrame to your @Trezor users! ✨ https://t.co/WngSKbNGMn
+37,@alcuadrado @punk6529 Thanks for the feedback Patricio. We're working on better product documentation for Frame that we hope to roll out soon. You can turn off the ENS name verification on Twitter in the extension menu: https://t.co/rtNSVhoC73
+38,RT @punk6529: What is the feedback on @0xFrame?
+39,We're hiring! https://t.co/W7fF0IG6zs
+40,@AZELXBT @itsTAEO @NadavAHollander @punk6529 @opensea @MetaMask @Trezor @LooksRareNFT Is your Trezor updated to the latest firmware?
+41,@AZELXBT @itsTAEO @NadavAHollander @punk6529 @opensea @MetaMask @Trezor @LooksRareNFT Make sure you’ve selected an account (use the ^ on the right side)
+42,"RT @NadavAHollander: @punk6529 @opensea @MetaMask @Trezor If @0xFrame works as others are saying, please let us know and we’ll put out offi…"
+43,@NadavAHollander @punk6529 @opensea @MetaMask @Trezor Give it a spin ✨ Frame supports signing EIP-712 typed data for all Trezor devices! ✨ https://t.co/FmWaNQoMgt
+44,@punk6529 @opensea @MetaMask @Trezor 👋
+45,RT @GratefulApe_eth: Anyone has experience with @0xFrame ?
+46,"RT @ogfooh: In the event this is helpful to any of you that might have some $LOOKS rewards stuck behind a Trezor/MM, this worked just fine…"
+47,@RandyArchibald1 @yatsnotyachts @bettertorun 🙂 And we wrote a guide how: https://t.co/nRBo2ulwHC
+48,"@EternelETH @BamTowerOfGod Did you create ""watch-only"" accounts?"
+49,@KhangSTA_ @UniDexFinance @clover_finance @xdefi_wallet 👋 Check us out! https://t.co/FmWaNQoMgt
+50,"RT @decent_dao: We have devs who like using @0xFrame 🔐
+Solid software and support for hardware wallets. One dev was turned onto it because…"
+51,@ShrewdCharlie @CryptoGravity_ @opensea @opensea_support @looksrare It’s actually MM + Trezor which isn’t compatible. Frame supports signing EIP-712 typed data for all Trezor devices. https://t.co/nRBo2ulwHC
+52,RT @CryptoTummo: FINALLY CLAIMED MY @LooksRareNFT $LOOKS! Not waiting on MM again. @0xFrame is amazing. Great UX.
+53,"RT @0xFrame: Trying to use your @Trezor with @LooksRareNFT?
+
+Use @0xFrame! 🚀 Frame supports signing EIP-712 typed data for all Trezor devic…"
+54,"RT @justjamesxyz: I'd also recommend just switching your main wallet to Frame, it's great"
+55,@LooksRareNFT @Trezor https://t.co/KRWDemPKtE
+56,@TheDigitalArtC1 @degenomix https://t.co/KRWDemPKtE
+57,"Trying to use your @Trezor with @LooksRareNFT?
+
+Use @0xFrame! 🚀 Frame supports signing EIP-712 typed data for all Trezor devices. ✨
+
+We created a post to help you get set up: https://t.co/NbS1YysHeP"
+58,"RT @0xFrame: Need to claim your $LOOKS on @LooksRareNFT? 🤔
+
+Frame supports signing typed messages with both @Trezor One and @Trezor T! ✨
+
+D…"
+59,"Need to claim your $LOOKS on @LooksRareNFT? 🤔
+
+Frame supports signing typed messages with both @Trezor One and @Trezor T! ✨
+
+Download Frame here https://t.co/FmWaNQoMgt and jump in our Discord (https://t.co/Dm7kcXUwSY) if you need any help getting started! 🙃"
+60,"RT @degenomix: Own a Trezor but can't withdraw your $LOOKS?
+
+Use @0xFrame instead of Metam*sk to sign + claim
+
+Otherwise, good luck waiting…"
+61,"@jessepollak @companioninabox Hey all 👋 it seems like you might be including a nonce in the transaction payload that isn't hex encoded? This warning is returned by the node when we try to estimate gas for the transaction.
+
+In general we recommend not setting a nonce unless there's a specific reason to do so."
+62,@NftFren @ZZZAGABOND 👋
+63,"RT @0xFastly: Finally got around to claiming and staking $LOOKS - thanks to @0xFrame wallet, which already works with @Trezor 😅"
+64,"RT @0xEval: A quick tutorial on how to setup Flashbots RPC for @0xFrame 
+👇
+https://t.co/9wnrY2Zf5J"
+65,"RT @0xToit: Du to the issue i have with MM on my PC today, I started using @0xFrame 
+
+What a futuristic experience! I'll be using it more a…"
+66,@NelsonRodMar @Ledger This means your ledger either disconnected or fell asleep -- you will see a green strip at the top left of your account when your signer is connected and ready -- join the Discord in our profile if you're still having issues.
+67,RT @Intenex: Holy crap this is huge - thank you so much for the heads up! @0xFrame is the most underrated wallet of all time how have I not…
+68,@RandyArchibald1 Your Trezor passphrase is not your (12 word) seed phrase. We do not ask for a seed phrase when using a hardware signer. If you have an extra Trezor passphrase that should be the only thing you enter there when asked.
+69,@RandyArchibald1 This is Frame giving you the option to enter a Trezor Passphrase https://t.co/bLqCUeCthG you can leave it empty if you don't use one
+70,@RandyArchibald1 @richerd You do not need to enter your seed when using a hardware signer. Can you explain more what you mean?
+71,"RT @PremiaFinance: ICYMI 
+
+@0xFrame wallet is now supported on $Premia! 💎 https://t.co/Fl1by31Y4d"
+72,@nootrality 🤔 looking into it!
+73,"RT @0xFrame: If you're a fan of Frame and want to help us build the best cypherspace spell casting tools in web3, we're hiring! https://t.c…"
+74,"If you're a fan of Frame and want to help us build the best cypherspace spell casting tools in web3, we're hiring! https://t.co/W7fF0IGEp0"
+75,@wongmjane 👋 https://t.co/zkZHc8n1JF
+76,"RT @CryptoGucci: 2/
+
+@AaveAave V3 goes live on @arbitrum 
+@0xFrame releases 0.5.0-beta.12
+@VitalikButerin releases Paths toward single-slot…"
+77,@Nakor28912673 @LeJournalDuCoin Oui! https://t.co/RpI2ClXr0f
+78,@teemupai 👋
+79,RT @0xFrame: ✨ Let's dive a little deeper into our new send functionality and how it works: https://t.co/DhJHfp5E9s
+80,"and if working on this seems interesting to you, we are hiring! 🙃 https://t.co/W7fF0IG6zs"
+81,RT @cyberducketh: Awesome stuff from @0xFrame ! Especially excited about parallel chain UX. Dapp devs take a read!
+82,✨ Let's dive a little deeper into our new send functionality and how it works: https://t.co/DhJHfp5E9s
+83,@kraveez 🙃
+84,RT @kraveez: The builders are building
+85,RT @sinavaziri: Buttery smooth
+86,RT @0xFrame: Check out our newest release with the ability to send assets across all of your active chains! 🎉 https://t.co/FPx7By8AYi https…
+87,Check out our newest release with the ability to send assets across all of your active chains! 🎉 https://t.co/FPx7By8AYi https://t.co/7EzP07t8FH
+88,"RT @infinitepillars: If Twitter dot com wasn’t willing to do it , Frame was and did it ! Welcome to verified Ens names on twitter !"
+89,"RT @cryptoseneca: .@0xFrame is so dam good. once you get used to the UX, there's 0 chance you're ever going back to metamask."
+90,@4tt4r We've been tracking down a few of these issues with this release -- please upgrade to beta.12 https://t.co/0PiqHJemxC
+91,@Sigri44 Fixed in beta.11
+92,"RT @shoopywoopyy: was finally able to claim my $looks on trezor, thanks @0xFrame"
+93,"RT @BlockchainMacro: Wait...@0xFrame just released an update to now be able to send Cryptos. 
+
+I have been waiting for this update to final…"
+94,RT @transmissions11: 👏 put 👏 your 👏 smart 👏 contracts 👏 on 👏 github👏
+95,"RT @yuradmt: PSA: If you haven't been able to claim the $LOOKS airdrop with your Trezor, try it with @0xFrame wallet. 
+The newest version w…"
+96,RT @1998_austrian: you can't talk to me if your wallet is not as beautiful as @0xFrame https://t.co/NqjTBilPOj
+97,RT @shrimpyuk: So happy that @0xFrame finally added an in-app way of sending nft's/currency and my god is it BEAUTIFUL! Don't miss metamask…
+98,@CStampar Thanks @CStampar!
+99,RT @CStampar: The new @0xFrame UI for sending transactions is stunning 🔥🔥

@@ -1,0 +1,114 @@
+,0
+0,"RT @HowellONeill: Following the Ukrainian government and Facebook, Google says Ghostwriter is actively targeting Ukrainian gov and military…"
+1,"RT @hexplates: In hard times, join me in trying to create better tech policy. On 3/1, I’ll be presenting my @AspenPolicyHub project on coun…"
+2,@billseagull I'm not sure if I'm impressed or worried for your health... 😂
+3,"@BrettCallow 😂 no, no, that seems rock solid..."
+4,"@DaveMWilburn Come on, you hate fun too Dave!"
+5,"@cyberGoatPsyOps I know, I know... 😂"
+6,@etenebris_ @shad0wbits Thank you!
+7,"@shad0wbits It's a fair question - I haven't seen enough info about the likely leakers here to make an assessment. There is precedent for leaked data to be altered though...I thought I recalled a good roll-up of that somewhere, but can't find it. Maybe someone knows what I'm thinking of?"
+8,@uuallan https://t.co/cxanMNt81i
+9,"I know I'm a Debbie Downer. I fully support any joy or glee you get from reading the leaks, and I'm right there with you. Just...don't make any big decisions based solely on leaked info, okay? https://t.co/xXwMWR7N54"
+10,"Yes, the Conti leaks are interesting and analysts should look at them. But remember we don't know if the info was altered before leaking or if it's completely accurate. Intel analysts consider multiple sources before reaching an assessment. I highly recommend that approach."
+11,RT @sansforensics: The Call for Presentations for #DFIRSummit 2022 is OPEN! Share lessons learned or best practices from all aspects of the…
+12,"RT @ericgeller: Microsoft says hackers deployed a new piece of malware in Ukraine ""several hours before the launch of missiles or movement…"
+13,RT @signalapp: We've had an uptick in usage in Eastern Europe &amp; rumors are circulating that Signal is hacked &amp; compromised. This is false.…
+14,RT @CamlisOrg: The first archival CAMLIS proceedings are online! https://t.co/MZPI8InfYM This only includes the authors that submitted pape…
+15,"I'm thrilled to co-chair the all-new, free, virtual Ransomware Summit with @rj_chap! Join us on June 16 and keep an eye out for the CFP that's coming soon. https://t.co/gYLercCWMP"
+16,"RT @rickhholland: ICYMI, on Friday I wrote a new blog ""Russian Cyber Threats: Practical Advice For Security Leaders"" https://t.co/thkf9FRdY…"
+17,RT @malware_traffic: 2022-02-25 (Friday) - #Emotet infections dropping #CobaltStrike today - My #epoch5 infection saw the following Cobalt…
+18,"If you're concerned about Conti, AnchorDNS is another family to focus on detecting. Lots of actionable network details in this post. https://t.co/LY5BioiI3m"
+19,@MalwareTechBlog https://t.co/3EvwfMErLK
+20,"RT @MalwareTechBlog: I don't know who needs to hear this, but all other kinds of hacking didn't cease to exist in the past 48 hours. The li…"
+21,RT @fr0gger_: I briefly analyzed #HermeticWiper to give an overview of its capabilities. I have deliberately omitted some details for bette…
+22,"Conti is already going after most every industry, so you should already care about them regardless. Look for Qbot and Cobalt Strike as likely precursors. https://t.co/TJhxaNw4yE"
+23,"@KxBenson Dang, sorry to hear it. Hope it isn't too long!"
+24,"RT @redcanary: Mimikatz ascends the threat ranks, Emotet increases phishing campaigns, and the new Coral Crane activity cluster emerges. Ch…"
+25,RT @Unit42_Intel: We've updated our post on how to protect against the potential cyber impact of the Russia-Ukraine crisis with new informa…
+26,"@juanandres_gs @threatintel @ESETresearch @silascutler @InsideStairwell @TomHegel @Mao_Ware @redcanary @CISAgov @Bing_Chris @KimZetter @joakimkennedy @ericgeller Right back at you, Juan. Look for the helpers. ♥️"
+27,RT @nakashimae: U.S. targets major Russian banks and tech sector with sweeping sanctions and export controls following Ukraine invasion w/@…
+28,RT @executemalware: Here are some IOCs for a handful of #qakbot #qbot emails from today (TR distribution). The .zip files were password pro…
+29,"RT @runasand: I'm able to provide free VPN accounts to journalists in Ukraine. DMs open, reach out and I'll get you set up. 🇺🇦"
+30,RT @Andrew___Morris: This is available now. The following are links to all IPs that are scanning/attempting to compromise *exclusively* Ukr…
+31,RT @jadefh: The latest from ⁦@Unit42_Intel⁩ ⁦@PaloAltoNtwks⁩ #threatintelligence  https://t.co/VLNVtZMM0n
+32,RT @USTreasury: The U.S. has taken significant &amp; unprecedented action to respond to Russia’s further invasion of Ukraine by imposing severe…
+33,"RT @Mandiant: In our latest podcast, @7ufail, @heferyzan, &amp; @EHaeghebaert discuss their research on the activity of UNC3313. They also deta…"
+34,RT @rickhholland: I have been thinking about practical suggestions that cyber security leaders worried about the Russian/Ukrainian invasion…
+35,"It's tough, but don't lose track of other significant threats happening today - unrelated to Ukraine. https://t.co/VjtpjjjQiO"
+36,Excellent blog complete with details about the intrusion chain that preceded #HermeticWiper deployment. There are many detectable behaviors in that chain! https://t.co/NIBFTRqQI0
+37,"RT @RobertMLee: If you are in the US/UK/ANZ at a small co-op/muni &amp; need ICS cybersecurity support (Dragos Platform technology, managed ser…"
+38,@SecEvangelism I hope you are staying safe! Thinking of you and everyone in Ukraine right now.
+39,"RT @MarrelleBailey: If you missed today's @WWHackinFest panel discussion about building communities in #infosec with @ericalikestech, @Supr…"
+40,"@DAlperovitch @SilveradoPolicy Wow, that year went quickly! Congrats!"
+41,@juanandres_gs Do you...need us to stand up a Kickstarter to buy you chairs? 😂
+42,@SwiftOnSecurity @selenalarson https://t.co/PqTFXKF70O
+43,"@selenalarson Yes, on at least one file - hashes overlap: https://t.co/r0nA4HHEKT"
+44,@SeraphimDomain https://t.co/RhFZyzlCMp
+45,"As you're reading this, note this point: adversaries likely had control of the AD server already. They were already in. There's a broader intrusion chain beyond just the wiper, it just isn't publicly known yet. I'm watching for any details on what happens BEFORE wiper deployment. https://t.co/59SZTpTlXA"
+46,@ESETresearch Thank you for sharing!
+47,RT @ESETresearch: Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was insta…
+48,RT @jhencinski: Once a month we get in front of our exec/senior leadership team and talk about #SOC performance relative to our business go…
+49,"RT @NCSC: New Sandworm malware Cyclops Blink replaces VPNFilter
+
+https://t.co/NxHaWWJW4b"
+50,"I sincerely hope you were already looking for ransomware (and more importantly, ransomware precursors), and agree everyone should continue to do so! The work you've done to build solid defenses over *years* should give you some reassurance during uncertain times. https://t.co/cJhOfp6RFl"
+51,"RT @MITREattack: Virtual registration is now open for ATT&amp;CKcon 3.0! 
+
+Join us online on March 29-30, kicking off at 9am ET each day. We'll…"
+52,RT @SANSInstitute: THIS WEEK! Don't miss our 2nd annual SANS+HBCU #BlackHistoryMonth Capture-the-Flag for students &amp; alumni of any #HBCU in…
+53,@techieStef @redcanary We are so thrilled to have you join the flock Stef!!!
+54,"RT @TheDFIRReport: Qbot and Zerologon Lead To Full Domain Compromise
+
+➡️Discovery: Net, Nltest, AdFind, etc
+➡️Persistence: Scheduled Task…"
+55,@Viking_Sec What an amazing family ❤️
+56,RT @Lawsecnet: I would like to invite you to a new section on https://t.co/fhoTBMavsd - the reading room. The world of threat intelligence…
+57,@RobertMLee @RidT There's a lot of misinformation floating around today....
+58,"RT @CamilleEsq: Last year, thru donations of the twitterverse, @blackgirlshack was able to help pay for 7 people to go to Hacker Summer Cam…"
+59,@KxBenson https://t.co/re7yL4iq0P
+60,"@JohnHultquist ""Malicious"" is doing a lot of work there."
+61,"@DAkacki I'm not entirely sure what I just watched, but I didn't hate it."
+62,"@Kxyne Heck yeah, that's an important action!"
+63,@KJanton Thank you for confirming! I'm pretty worried about this one. 🙁
+64,RT @snlyngaas: New technical analysis from @CERT_UA of the DDoS and spam campaign on Ukrainian gov agencies and banks on Wednesday: https:/…
+65,"RT @JennaMC_Laugh: Right now, @CISAJen speaking at @AspenCyber says there aren't specific, credible cyber threats to the U.S. right now fro…"
+66,RT @ki_twyce_: This is such an honor to be celebrated by my peers and @Cover6Solutions I enjoyed my time being a mentee for @tywilson21 and…
+67,RT @crtheisen: @likethecoins This is what the prep looks like: https://t.co/jRvNkoMz2f
+68,@crtheisen THANK YOU for perfectly capturing what I feel like most guidance is right now!!! 🤣
+69,"@tcr00x Follow @JohnHultquist, @RALee85, and @DAlperovitch. There are probably others but those are the ones I can think of off the top of my head at 7:30 pm on a Friday :)"
+70,"@Ledtech3 @ffforward I don't think any are public, but honestly I haven't had time to look. I bet if you search on the format `123 (1).zip/123.xlsb` they'll be on sandboxes somewhere, seems like this was pretty widespread."
+71,"5. Think of the people on the ground in Ukraine and send whatever types of good thoughts you believe in. This is a real conflict with real human consequences, and we as cybersecurity professionals shouldn't forget that."
+72,4. Take @RobertMLee's advice and take the weekend off if you aren't responding to anything urgent. https://t.co/KTAuC032EY
+73,"3. Have someone from your team keep an eye on OSINT and stay in comms with community colleagues. If there's cyber activity, especially that expands beyond Ukraine, someone is likely going to share it. The entire community is hyper-analyzing EVERYTHING right now."
+74,"2. Look at sources with helpful, actionable guidance like this @Mandiant guide: https://t.co/kaZjhMjTnn and decide if you need to update your IR plans."
+75,"If it's not actionable, it's not intelligence. Yes, we should watch what's happening in Ukraine and orgs should prepare appropriately. However, vague warnings like ""prepare for cyber attack!"" aren't helpful. Here's what I recommend doing: 1. Go find your incident response plans."
+76,RT @RobertMLee: I’m all for preparation but prep was the years and months leading up to this - not now. No one knows if anything will happe…
+77,@ffforward @iagreewithkevin @BleepinComputer @malware_traffic @executemalware Thank you!
+78,"@iagreewithkevin @BleepinComputer That's a really great question, I have no idea!! @ffforward @malware_traffic @executemalware anyone know? I've always just thought it's two letters that don't stand for anything, but I could be wrong."
+79,"@RobertMLee Thanks Rob, right back at ya! This one was all my team while I was in meetings 😂"
+80,RT @snlyngaas: New: White House attributes DDoS attacks on Ukrainian organization this week to Russia's GRU -- Anne Neuberger said it from…
+81,"This appears to be a widespread #TR #Qakbot #Qbot campaign today that could lead to Cobalt Strike, Bloodhound, and things that look very ""pre-ransomware-y."" The domains/hashes change, but the detection opps mentioned here are more durable. I highly recommend looking for this NOW. https://t.co/zoWFrPIN0F"
+82,"RT @ersincmt: After the US, now the UK government attributed the DDoS attacks against Ukrainia on 15-16 February to the Russian GRU.
+
+Offic…"
+83,RT @MITREattack: Attending the #BEYA2022 STEM conference this week? Tomorrow afternoon (2/19) ATT&amp;CK for Enterprise lead @jamieantisocial w…
+84,"RT @DavidJBianco: The @SANSInstitute @new_2_cyber Summit 2022 agenda is out. If you're new to the field or trying to get in, this free even…"
+85,"@selenalarson Heck yeah, I can't wait!!!!!"
+86,RT @selenalarson: Some personal news!!!
+87,"RT @hatr: New:
+
+#Turla is one of the most skilled hacker groups operating. 
+
+@FlorianFlade, Lea Frey and I've spent close to a year chasing…"
+88,"Good thread. I'll add that we should all be cognizant of cognitive biases right now... Confirmation bias: many are looking for ANYTHING to fit the hypothesis that Russian cyber attacks are happening. Anchoring: Focusing too much on one piece of info, often the first piece we see. https://t.co/y57xmKU78k"
+89,"@__winn @USCC_GOV So awesome, they're lucky to have the chance to hear your expertise!"
+90,"@Mister_O_A Thank you, glad you found it useful!"
+91,"RT @ericgeller: Heads up, folks. Not clear if this is a one-off incident or part of a bigger campaign that's just getting started. Stay tun…"
+92,"RT @ChristopherJM: In Ukraine right now, hackers are attacking state-owned Privatbank &amp; Oschadbank, as well as Ministry of Defense. ATMs &amp;…"
+93,"RT @KimZetter: It's helpful when reporting on ""cyberattacks"" against Ukraine to distinguish between destructive attacks against computers/d…"
+94,Starting now!! https://t.co/dGZ4C8x4yL
+95,"@ChicagoCyber Lol a few years ago I would never have expected I'd have non-creepy, real internet friends. 😂 Glad to count you as one! (And an IRL friend too, of course.)"
+96,@ForensicITGuy @Daniel_Infosec Maybe the email attachment? 🤔 I like this metaphor and support taking it to the next level. 😂
+97,@SamaraaaRW Congratulations!!!!
+98,"Join me tomorrow! Lots to talk about, as always... https://t.co/UjJg1KTdYP"
+99,RT @ChicagoCyber: This is awesome @x33fcon. I hope you get some really diverse speakers applying. https://t.co/i0n1I46AOX

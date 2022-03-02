@@ -1,0 +1,229 @@
+,0
+0,"RT @AlexMasmej: Do you want to break into web3?
+
+At @tryShowtime we’re looking for someone in Community to handle:
+• social media managemen…"
+1,@richerd @nnnnicholas Hence the “self hosted” part!
+2,I just had a dream that everybody’s incentives were aligned
+3,"RT @WeekInEthNews: #MuchClicked
+
+@optimismPBC fee explainer
+@eulerfinance Uniswap Oracle Attack Simulator
+@onewayfunction Chainlink VRF ope…"
+4,The real coordination problem is 2 anons trying to meet each other at a web3 conference
+5,Awesome resources in this thread https://t.co/iaIFxkPLcs
+6,@DerekBarrera What has worked for me is learning and building in public. Technical and educational content tends to resonate with the right people
+7,100% feel the same way. There is a necessary level of dedication and focus that I have never experienced before https://t.co/cCfBytRKl0
+8,"RT @pbrody: To all the critics who say Ethereum is secretly centralized, come on by EthDenver. No centrally run organization could produce…"
+9,"gm frens, who do I know at ETHDenver? Hit me up if you want to chat about smart contracts"
+10,"this is my favorite Solidity book
+
+it's from 1986
+
+few https://t.co/5H7MOutbBD"
+11,"@js_horne one day I'll come up with a Solidity DSL and call it ""Rigidity"""
+12,@transmissions11 @paradigm @matthuang @FEhrsam Ser you dropped this: 👑
+13,"@pierrencnc @cj_pais That's because you call abi.encodePacked() with the uint values, meaning that the binary representation of these numbers is added to the json.
+
+You probably want to convert them to their string representation first using something like this first: https://t.co/yoN4ZJeecZ"
+14,@edbwt interesting analogy 😅
+15,"@cj_pais @pierrencnc Ha very cool! It's 0x7fffffffffffa615 in hex, so INT64_MAX - 23018 (using the signed version for some reason)"
+16,"@Mudit__Gupta @the_ethernaut Both are interesting! 
+
+I started from the point of view of detecting offchain calls, but there is a fun corrolary that you can force a call to be offchain with a require(msg.sender == address(0)) 
+
+https://t.co/m25sFtdHdr"
+17,"@beskay0x Exactly! 
+https://t.co/eKyZHxEC0G"
+18,"@pierrencnc Similar idea discussed here: https://t.co/9XAlVyirMY
+
+I'm actually really into it :) Someone needs to do it just for the heck of it"
+19,"@NoahCitron @the_ethernaut Yep! And gas price is usually defaulted to 0 or 1 too (but also easily overridable) 
+
+https://t.co/d4RTvm7B1H"
+20,"RT @the_ethernaut: Solidity trivia #34:
+
+You have a public view function in a contract. Can it know whether it's been called as part of a t…"
+21,@therealjfrantz Probably 0 in remix but the real value of the previous block when targeting an actual chain
+22,@staringispolite An example of what I had in mind: https://t.co/kv28osz9Ts
+23,@nnnnicholas 🥰
+24,"@js_horne @ourZORA What do you think about this scenario, where a contract tries to trick the UI into displaying different royalties than the value that will be used during the payout? 
+
+https://t.co/kv28osz9Ts
+
+Based on https://t.co/V60eYHvHmO"
+25,"@staringispolite Mhhh I see. I can’t think of a way to do that off the top of my head, that would be extra nasty 🤔"
+26,@staringispolite That’s really the only use case I can see for now. Imagine a shifty contract that looks reasonable to marketplaces but tricks you into acceptable something you didn’t expect. Prompted by this discussion: https://t.co/vz0rf7tZIU
+27,"Now the thing is, the values used in this off-chain check can be spoofed. And maybe in fact they should, with values that look more in line with regular transactions.
+
+Does anyone do this when invoking view functions? https://t.co/uCbPvPtiD1"
+28,"Based on this table, we can come up with a crude off-chain detector
+
+DM me if you see ways to improve it! https://t.co/adbGE1KHIj"
+29,"I'm sure there are more sophisticated ways to do it, but things like sender addresses and gas parameters by default give a strong signal that code is evaluated off-chain
+
+https://t.co/7CkWkardLj"
+30,Why do we care? Because that makes it possible to have contract code display some data to a frontend (like a rate/price/royalties %) but actually bait-and-switch with different data when the transaction lands on-chain.
+31,"Ever wondered what values like msg.sender and tx.gasprice are when you're in a view function? 
+
+TLDR they can be anything when they're evaluated off-chain, and indeed they vary wildly by provider. Which opens up the possibility to fingerprint when we're evaluated off-chain (🧵) https://t.co/5zHahguzMP"
+32,@kieran_eth Maybe call it Ethereum+ and have a couple different profiles for your household members
+33,"@isiain @ourZORA In one sense, do you really own an NFT if you get 0% of proceeds from selling it? It's definitely weird, right? 
+
+I can imagine this working if it's clearly advertised (and maybe for a charity), but I could also imagine users feeling scammed / exploited"
+34,"@isiain @ourZORA But that means it's up to the marketplace to interpret that payout ""request"" and cap it to something that's at least legal (like 100% in Zora's case), or even lower to something more ""usual"".
+
+In the Showtime marketplace we ended up capping royalties payouts at 50%"
+35,"@isiain @ourZORA EIP-2981 is super open-ended, right? It's interesting but also dangerous that the protocol allows literally anything as the royalty payout (not just a fixed % like most ppl assume)"
+36,"My latest hobby is checking out NFT marketplaces that support on-chain royalties and seeing how they deal with royalties that are larger than the sale amount
+
+@ourZORA v3 supports up to 100% royalties https://t.co/K5RFctoYcQ"
+37,"RT @dievardump: Solidity Saturday: 
+
+More and more versions of ERC721 including Enumerable with for-loops are coming out.
+
+A small 🧵 on  (1…"
+38,@m1guelpf @tryShowtime gm king 👑
+39,RT @binitamshah: SHA-256 explained step-by-step visually : https://t.co/6SZ8rLLd75
+40,@viamirror My polygon contracts https://t.co/yPwkNNcLWH
+41,"Note to future self: 
+- the project was configured with solc 0.8.0 and `""@openzeppelin/contracts"": ""^4.3.0""`
+- it worked at the time, but today it pulls oz 4.5.0 which requires solc ^0.8.1 😭
+
+What's the best way to avoid this, use only explicit version identifiers?"
+42,"There you have it, the verified contract for the ShowtimeGenesis NFT airdrop:
+
+https://t.co/pVtVda36V7"
+43,The joy of verifying a contract that was deployed by someone else and left unverified for months https://t.co/kE6ZMpG3FA
+44,"@zak_krevitt This is a very exciting and powerful technique, but is also sufficiently arcane that most working programmers have never used it directly. @leonardoalt is an absolute mad lad (in a good way) to do something like this *in Solidity* 🤯"
+45,"@zak_krevitt Symbolic execution lets you avoid giving a concrete value to your inputs. So instead of operating on e.g. some number (like 42), you run your program with some symbolic value (like x). So it lets your virtually explore more (all?) of the possible execution paths instead of 1"
+46,"@zak_krevitt Hey Zak! It's kind of hard to explain in a tweet but I'll give it a try 😅
+
+When you run a test, you explore 1 execution path in your code. You  pick some arbitrary input, and check that the output is correct for that input. Nerds call that a ""concrete"" execution."
+47,Cool use of OpenZeppelin Relayers 👌 https://t.co/pKRELrI5z8
+48,"@AlexMasmej @MartinLundfall @eip1559 If the first step of writing a smol 10B contract is to be into analog synthesis, I am on the right track"
+49,@P1erreM 0x03433830468d771A921314D75b9A1DeA53C165d7 ✌️
+50,"30.5k voting power change!
+
+https://t.co/TfEsT5gRZb https://t.co/WrTvo3uLoD"
+51,"@dystopiabreaker @_prestwich if you switch to area chart, y axis starts at 0"
+52,"MRW I see an EVM Symbolic Execution Engine in Solidity
+
+https://t.co/lxBzdqgqQi https://t.co/COaZJ2hsbR"
+53,RT @EthernautDAO: Minting is open for everyone! Remember NFTs will reveal every 50 mints! Enjoy and remember every mint is a possible new w…
+54,"@ExistentialEnso @0xJacket @cupidhack @AlphaSerpentis_ Check out Mastering Ethereum too, still an excellent resource: https://t.co/T6DtM3pRiH
+
+For questions and feedback, there are always helpful devs in @developer_dao and @EthernautDAO"
+55,"@inplco @mb__nft @nicksdjohnson (hey @DuneAnalytics wizards, has anyone figured out a way to query the reverse ENS name for an address?)"
+56,"A look at the top ENS Delegates gainers and losers in the past 24h:
+
+-50267 brantly.eth 
+-23587 https://t.co/EVebfiO0Sr
+-9903 spikewatanabe.eth
+
++9656 interplanetarycompany.eth (@inplco)
++26200 mabu.eth (@mb__nft)
++32118 nick.eth (@nicksdjohnson)
+
+https://t.co/9KmIGxdV8N"
+57,"@dumbnamenumbers It depends on your speed tolerance, this post really is about erroneously set max priority fee"
+58,"My queries probably overestimate a bit, I think I get the occasional MEV bot that intentionally sets very high values for maxFeePerGas and maxPriorityFeePerGas, not sure how to exclude these
+
+🤓 if you're a data/sql whiz, can you sanity check my queries? Thanks!"
+59,"Some of these results are surprising, e.g. over 1750 ETH overpaid on OpenSea, but when I submit a bid I see a reasonable max priority fee (so the OpenSea frontend seems to do the right thing). Are people using alternative frontends or outdated wallets? https://t.co/1RcsKny2Vm"
+60,"As a dev, make sure you're not explicitly passing a gasPrice option when you submit a transaction. It is deprecated (use maxFeePerGas if you have to instead)
+
+I suspect this is the main cause of these big max priority fees
+
+(👋 @ricmoo can you confirm?)"
+61,"Quick reminder: as a user, always double check the suggested gas price before sending a transaction.
+
+See screenshots for bad vs good -- on mainnet 1.5-2.5 gwei is typically good enough. If you see hundreds in there, you are definitely overpaying by a lot https://t.co/ItMm3rK2Mt"
+62,"Trying to quantify how much has been overpaid by users because max priority fee is set too high:
+
+https://t.co/Qh0y4iIElG https://t.co/izZeuW0hWp https://t.co/wJjCqANmd8"
+63,"@ExistentialEnso ""I hate them because of my religion""
+""I murdered him because of Twinkies""
+
+same energy IMO"
+64,gm to everyone who doesn’t hate entire classes of people
+65,Shopping for anon outfits for ETHDenver https://t.co/f2juYLhIm6
+66,"@nnnnicholas @0xtanaka @BoredApeYC @nytimes renouncing ownership would be the best, no?"
+67,https://t.co/KHYkeRiWQC https://t.co/kftjQ6WLVM
+68,"@nnnnicholas @dapptools @MartinLundfall @gakonst The repo:
+https://t.co/I5PTRyyXpb"
+69,"@nnnnicholas hey we can use invariant testing for that! And what do you know, a little @dapptools test finds a violation, the total supply can indeed be above 10000
+
+cc @MartinLundfall @gakonst https://t.co/UE5qai1dF0"
+70,"@dumbnamenumbers EIP-4444 would make it harder to trace older transactions, but not impossible. There will be incentives to preserve historical data (right? 😅) so I’m not particularly worried"
+71,@Deborah__I @tryShowtime And what about that unmistakably breathtaking programmer art? 🎨 https://t.co/B9aI2aoDmK
+72,@nnnnicholas And also https://t.co/ndcYy61NgM
+73,"@nnnnicholas When in doubt:
+
+https://t.co/LirX89CpTe"
+74,@dumbnamenumbers Yes! Check this out: https://t.co/D0Ksr5vYuV
+75,"Sketch for a presentation about gas
+
+Would be a fun lil web app to build: enter a tx hash, get your gas receipt 🧾 https://t.co/0XSwLnbQkT"
+76,TIL that geth estimates the gas limit by doing a binary search https://t.co/6mLiu1Fo0P
+77,@the_ethernaut 😂
+78,"@William94029369 @gakonst @LooksRareNFT do it 💪 
+
+@ourZORA v3 also includes 2981"
+79,RT @0xalpharush: @the_ethernaut DM if any want to work in security
+80,"@AlexMasmej What makes for a great company culture?
+
+- empathy
+- psychological safety
+- autonomy and purpose
+- feeling supported
+- being involved in decisions
+- ability to give feedback
+- feeling free to dissent
+
+❌ “Winning”"
+81,I was able to get a web3 job through @EthernautDAO and so can you https://t.co/02PnjTMZ2V
+82,"RT @BlockEnthusiast: Plz fix frens. 
+
+Priority Fee should never be set to equal max fee."
+83,@erichdylus Is that what is happening by setting max priority fee == max fee? It looks to me like they didn’t really update their code after EIP-1559
+84,@StErMi @m1guelpf Well thanks @FrankieIsLost 😄
+85,"@m1guelpf Very crisp 🤌
+
+Have you tried unrolling the loop in didPlayerWin? I think it should save a little bit of gas
+
+Something like this: 
+https://t.co/3bHsuxWxMm"
+86,@StErMi @m1guelpf https://t.co/QQNHY2V8De
+87,@dumbnamenumbers Yeah MM’s UI is really not helping there unfortunately 😩
+88,"This is like ordering something for $100 and choosing to leave a very generous but completely unnecessary $130 tip.
+
+As a user, you need to double check and edit the suggested gas fee every time, 1.5 gwei priority fee is enough to be included in a block"
+89,"Solidity people are doing crazy gas optimizations
+
+Meanwhile some frontends still suggest transactions with a max priority fee set to max fee
+
+Example:
+- this user could have paid 68.2 base fee + 1.5 priority fee = 69.7 gwei
+- instead they paid 162.1 gwei, 2.3x too high https://t.co/7xUcg7z9RM"
+90,"RT @NoahCitron: A few days ago, @samczsun pointed out that @indexcoop's Rari pool 19 was being attacked. While this was indeed an attempted…"
+91,"@m00nsilly @doodles Oof, sorry that happened. Cautionary tale for every body else, triple check your price before you list
+
+https://t.co/um3Gj7optx"
+92,"@doodles now the NFT shows that it's been reported for suspicious activity on OpenSea
+
+@m00nsilly is that you?
+
+https://t.co/goaaKJMpnv"
+93,"What's going on with this transaction? 
+
+https://t.co/apn2GREkf2
+
+26,905 Gwei max fee per gas, resulting in 5.8 ETH in tx fees (!)
+
+Scooping up a @doodles well below floor (4.99 ETH), sent via flashbots, is that someone exploiting an opensea inactive listing?"
+94,"@wisespiracy I can't think of a good example right now, and in most cases you probably don't"
+95,@shark0der @arturbegyan Yes! I think of calldata as the natural habitat for message call args
+96,"RT @algo_class: For us, blockchains will not be about digital money (except as means to an end) but rather a new computing paradigm—–a prog…"
+97,@0xRektora What’s the intuition behind external functions costing less gas?
+98,"@MichalDobak I’m not sure, I would drop down to asm to get an intuition for why this may happen"

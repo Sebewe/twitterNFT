@@ -1,0 +1,120 @@
+,0
+0,"Can we please, please get @MetaMask to add a history of off-chain signatures to their extension?   So many people are coming to me asking how they got compromised, and there is no way to tell if they actually signed something. Please retweet this for visibility!"
+1,Special thanks to @LazyNFTs and @mcuban for providing a super clear way to check on my NFTs and make sure they were safe during the OpenSea and Etherscan outages yesterday!
+2,"@MayWayfarer21 @Mental_Canvas @Procreate that is a really cool piece, awesome work, excited to see what else you do there!"
+3,"RT @wilxlee: red flags in nft projects🍎
+(full list compiled) 
+🧵👇"
+4,How Minting 20 ERC721 tokens for $24 on Ethereum is possible with ERC721A v2.1 and the NOOBPUNKS contract: https://t.co/BVowwd4AWo https://t.co/RpUSo4KZN3
+5,"@NFTethics A while back, NFT Culture attempted to define a framework for self-regulation and holding projects accountable, we called it the ""NFT Project Bill of Rights"". Would love to have your feedback. Link here: https://t.co/y1BUqZ8UHq"
+6,"RT @NFTCulture: #NFTs can be overwhelming. NFT Culture makes it easier. 🧵
+1. Sign Up For Our Daily Newsletter.
+2. Buy a token (.045 RN) and…"
+7,NFTCultureLabs published 2 new open source library contracts based on some implementations floating around on the internet. BooleanPacking.sol - for easy packing of bools to save on gas. MultiIncrementer - a gas efficient take on Counter in OZ. See: https://t.co/MKi8VJEpvE
+8,"ERC721P and our ERC721Public both support burning tokens, which is a benefit compared to ERC721A. Gas consumption is comparable for individual mints at 70k gas. ERC721A will still allow for cheaper bulk mints, but at the risk of a more complicated implementation."
+9,"ERC721Public features better formatting and comments, as well as an ERC721PublicEnumerable implementation that more faithfully implements IERC721Enumerable than the original ERC721Enum code from Pagzi Tech."
+10,"Last night, NFT Culture Labs released its first open source project in Github: ERC721Public -- a cleaned up version of ERC721P (ERC721 deriviative originally by Pagzi Tech), based on the newest Open Zeppelin ERC721 release. See: https://t.co/JdyHfnKplL"
+11,RT @NFTCulture: Incredibly thankful to the entire @niftygateway team for including the #NFTCulture Token on the platform.  We have an amazi…
+12,@NFTCulture WEN PHYSICAL PIB?!
+13,"RT @NFTCulture: Free Tokens are great, but like all #NFT cycles it will become an attack vector. be careful out there fam."
+14,"RT @MT1000_: Wow! The crew in the Beeple server saw this coming before this was announced!
+
+@beeple x @joerogan 
+
+Could there be a better p…"
+15,"RT @yaterpillar: Merge colors (everything but the alpha):
+
+Red &amp; White: Top 5
+Black &amp; Yellow: Top 100
+
+Black &amp; White: Everything else
+Blue…"
+16,RT @NFTCulture: Here's some alpha: @rhymezlikedimez doing a stealth drop on OpenSea starting at 12pm EST. 8 #NFTs. 24 hour auction. inspire…
+17,"On Nifty Gateway you can buy and sell NFTs directly from your Ethereum wallet, in ETH, and save up to 75% on gas fees! https://t.co/iQMJruTqZ4 (this is a form tweet, but not paid or anything to promote this, just thought its cool)"
+18,"Been fun speculating about the Pak project, will have more this afternoon on our usual Friday Happy Hour stream. https://t.co/D0scH3WTLf"
+19,"RT @jerrybrito: 1/ Good news: Sec. Yellen says recent FATF guidance on cryptocurrency is consistent with FinCEN regulation, i.e. that it do…"
+20,"@refikanadol @NFTCulture That sounds awesome, thanks for that tidbit, Refik."
+21,"The Pagzi code is cheap for On-Chain calls but expensive for Off-Chain calls, but since off-chain doesn't use gas, this extra cost doesn't matter."
+22,"So the Pagzi Tech team rewrote the contract to not maintain _balance. The OZ code that kept that array up to sync was expensive in On-Chain calls, but optimized for Off-Chain calls."
+23,"Open Zeppelin's approach yields consistency across their ERC 20, ERC 721 and ERC 1155 contracts. BUT, ERC 721, because it only supports non-fungible tokens, does not need the ""_balance"" tracking to achieve its core functionality."
+24,"What the Pagzi Tech Inc. team did is notice that ERC-721 Open Zeppelin tracks ownership of NFTs using two separate approaches, _owners and _balances."
+25,"Toy Booger Contract, with some interesting gas optimizations, still being reviewed by the community: https://t.co/h6r6ocr5Sp"
+26,"RT @NFTCulture: Live with @TomBilyeu and @herrerabox talking about their new #NFT Drop!
+👇👇👇
+https://t.co/oZaTJezvUN
+
+@NiftyMike #NFTs #NFTC…"
+27,RT @swapkiwi: Service tweet: How to revoke a platform‘s access to your NFTs👇 https://t.co/R7t0A1Sv4x
+28,RT @YKarkai: My art...that I drew...is on @ReeseW 's profile picture...this.is.so.crazy. Never would I have imagined this day to ever happe…
+29,@TZhongg @IslandsXYZ 0xeF321D58DD9F6C9f513D1F68150E40446E5E5fdd
+30,@choeyoutheway @WoodNft @NFTCulture Amazing!!
+31,"RT @NathanCRoth: 68,200,000 coinbase users
+      400,000 opensea users
+
+0.59% of coinbase users own an nft.
+
+You are on the left-most end o…"
+32,RT @paperdstudio: @foxslightly @supergremplin @BoredApeYC @NBATopShotEast @Herb_Castillo @NFTCulture @Lucky1seth @friesframe @TheMatthewA @…
+33,"RT @NFTCulture: #NFT Announcement: 
+The sacrificial forge is live (ahead of schedule). if you want to participate in the snapshot for the @…"
+34,RT @InvestorUsf: Ceremonial forge complete! Worked perfectly and they're awesome looking. Fantastic work @NFTCulture team https://t.co/lqaQ…
+35,RT @NFTCulture: Good Morning Everyone!  We have an exciting announcement. The rest of the details will be announced tomorrow along with Lau…
+36,"Also, if you have a need for funds from a faucet, and its during regular business hours, be prepared to wait!"
+37,Requesting faucet funds into 0x05Ed4cf991c4ed7606930AB54dDbF27836C1f590 on the #Rinkeby #Ethereum test network.
+38,"I learned today that rinkeby is a lot harder to get eth for than ropsten, but OpenSea only supports rinkeby, so if you want to test your contract there, you have to tweet a wallet out. Go figure: 0x05Ed4cf991c4ed7606930AB54dDbF27836C1f590"
+39,"@MayWayfarer21, a super talented, upstart artist (and also great member of the NFTCulture community) released a really sweet piece Moksha - Into the Open Sea, that we hope can find a good home. See it here: https://t.co/iMZ5VlURx1"
+40,"RT @NFTCulture: We have something brewing. 🤐🤫 May want to put September first on your calendars.
+#NFTs #NFTCULTure https://t.co/AkqNUDIflE"
+41,"RT @piovincenzo_: If you haven’t already - you should join the @NFTCulture discord - it’s my home base!
+
+https://t.co/XIn0KXuFVO https://t.…"
+42,"RT @piovincenzo_: My partner @NiftyMike just sent me this piece while we were on stream by @tomyoo23 that i've had my eye on for a long, lo…"
+43,"RT @Lucky5Micah: Alright Twitter, I'm having too much fun with @worldofwomennft so I'd like to give out these 4 amazing NFTs. All you need…"
+44,RT @NFTCulture: We are live with the 🐐's @TomBilyeu @DanielSaNogueir &amp; @piovincenzo_  talking about the future of #NFTs https://t.co/aIqxie…
+45,"With all these NFT projects dropping, its easy to forget about all the good art pieces being created. I just picked up a really great one by @MayWayfarer21: https://t.co/gMnoaVdRWH    Be sure to check out the animation, its great."
+46,Our attempt at an approach to value the many new NFT Projects: https://t.co/3923ULpejH
+47,RT @piovincenzo_: Hell of a morning ☀️ https://t.co/q56S4OW0dV
+48,"RT @NFTCulture: We are 40 subscribers away from 1,000 on youtube subs which will allow us to apply for monetization. if you're a fan of our…"
+49,RT @NFTCulture: @frankkozik joins the #NFT community with his first drop on @veve_official this morning.  Learn more about this project and…
+50,Really clear and simple explainer for how to set up NFT Collectible projects w/o trying to construct the pieces by hand. https://t.co/CzyBndmrmL
+51,@DanielSaNogueir @_thesignal @NFTCulture Sent him an invite via DM!
+52,"@DanielSaNogueir December 24 is 24/12 in international date notation... if you divide 24/12 you get 2 which is February, which is when the 22nfts launches?"
+53,Really sweet piece by @chissweetart  available now on makersplace. https://t.co/tVKGm28G6h
+54,"RT @DanielSaNogueir: I'll be launching https://t.co/3dk15dhVBQ on the 22.02.2022.
+
+The pic below has some Easter Eggs for my most loyal fol…"
+55,https://t.co/hszaEkgBIy https://t.co/feTE2Irjuo
+56,RT @piovincenzo_: Hope this video is useful to people new to the space!
+57,"RT @NFTCulture: After our video on the @MELOD1P #NFTs, his team reached out &amp; we did a brief but awesome Q&amp;A about why he loves #NFTs. Our…"
+58,"RT @piovincenzo_: At this point @NFTCulture has done (written) interviews with Mark Cuban and LaMelo Ball.
+
+As we grow, these written inter…"
+59,RT @NFTCulture: Everything you wanted to know about the Bored Ape Kennel Club. Great project for a great cause.  #BAKC #BAYC #NFTs #NFTCult…
+60,"With all the new NFT Projects burning down the market, I thought I would do a quick video to show my process for auditing smart contracts. Whether you are a noob or a bit more seasoned, you might find the info useful. Video is posted here: https://t.co/cHMHDPwMwD"
+61,RT @fewocious: @NFTCulture @niftygateway 🤭
+62,RT @NFTCulture: ICYMI: We recently had a Q&amp;A session with @mcuban to ask him a few questions about the current and future state of #NFTs #N…
+63,"NFT Culture streaming live: https://t.co/Ar6O4Ex2pq    We are covering Defi, Pickles, Luchadors, MasterBrews and lots of random news from the week."
+64,"RT @LuchadoresNFT: 🚨Get ready to name your Luchador🚨
+🕘Wed, 16 June, 9pm UTC
+
+Names must be unique and will be permanent, so choose wisely!…"
+65,"Join the NFT Culture team for friday happy hour!
+https://t.co/lWA3je03p8"
+66,"RT @piovincenzo_: Going live 2/ @SpeculatorArt and @DanielSaNogueir discussing Gutter Cats, Super Yetis, Bonsais and everything in between.…"
+67,"RT @XCOPYART: the flames of 'token 0' will burn in R, G or B variations determined by the holders wallet address 🔥 https://t.co/iXPGWe6VBt"
+68,"RT @SpeculatorArt: What a night in the NFT world.
+
+Gutter Cats was a once in a month kind of success.
+
+Hope you all are either really dumb…"
+69,"RT @Crypto_Pio: I'm very, very excited for this interview.  
+
+I'm a huge fan of @sammiw0rld's work, and I have so many questions to ask her…"
+70,"Check out https://t.co/gmfo9NNcUZ, which added H=N marketplace capability. Our latest review of the site is here: https://t.co/fpM00VHIgQ"
+71,"RT @_xibbit_: Really enjoyed getting to know @shavonnewong_ a little better! Congrats again on  your invitation to @SuperRare!!
+
+And thanks…"
+72,"RT @NFTCulture: we're live with 
+@DanielSaNogueir talking about the @zenft_
+ project that sold out 8888 #NFTs immediately #NFTCommunity #NF…"
+73,RT @NFTCulture: We are going live tomorrow with @toomuchlag_ at 5:00BST to talk about their @niftygateway #NFT Community Drop Tomorrow PM!…

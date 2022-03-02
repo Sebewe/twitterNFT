@@ -1,0 +1,236 @@
+,0
+0,"RT @gaby_goldberg: Why I'm excited for web3 mobile in 2022:
+
+https://t.co/xKDfFWW9KO"
+1,RT @dwr: Underrated limit on web3 growth: you can't practically have an iOS app that allows you to natively buy or sell NFTs in-app because…
+2,https://t.co/JWvyTtyOKB
+3,"Some of the reasons we are building ethOS.
+
+Soon devs will have the ability to leverage mobile hardware as well, for novel use cases not yet explored in web3. https://t.co/YG5dD1ny7L"
+4,"@SOLMiningPunks Hi @SOLMiningPunks, feel free to query in the discord. Also there in the resources channel is the GitHub for the OS (fork of LineageOS) as well as the DAppStore repo and other resources."
+5,@motunbeg An OEM unlock-able Pixel 3 is our benchmark test device and this binary is 100% compatible with it. You could flash to another device if you build yourself though.
+6,Hello 🙋🏽 https://t.co/h7AeoR0Dgj
+7,@joinmirrorworld @iknowdavid @Dynamitedgg @The_Delysium @PegaxyOfficial @Dracoo_Master @AxieInfinity @ClashofIsles @LegendsOfVenari @OpenBlox_io @DefiKingdoms @GuildOfGuardian @voxodeus @ChubbyKaijuDAO @nuclearnerds @TheSandboxGame @foxyfamNFT @xiankunwu @DeterrenceAI @rct_ai @sandbox DMed 👍🏻
+8,RT @EthereumPhone: @iknowdavid @Dynamitedgg @joinmirrorworld @The_Delysium @PegaxyOfficial @Dracoo_Master @AxieInfinity @ClashofIsles @Lege…
+9,"@iknowdavid @Dynamitedgg @joinmirrorworld @The_Delysium @PegaxyOfficial @Dracoo_Master @AxieInfinity @ClashofIsles @LegendsOfVenari @OpenBlox_io @DefiKingdoms @GuildOfGuardian @voxodeus @ChubbyKaijuDAO @nuclearnerds @TheSandboxGame @foxyfamNFT @xiankunwu @DeterrenceAI @rct_ai @sandbox We're building, and would definitely love to chat with application developers that might be interested in what an Ethereum-first mobile OS might enable for them. 
+
+If that's any of you, come introduce yourself in our discord! 🤝"
+10,"@js_horne That's one big reason we are building ethOS. 
+
+We need a mobile OS as permissionless as our blockchains.
+
+If there's anything we can help with, drop by the discord and let us know, we'd love to hear your thoughts. 
+
+Ex of our decentralized App Store https://t.co/JWvyTtyOKB"
+11,"@george_adams21 The resources channel has links to the GitHub for the OS as well as the dApp store, the whitepaper, and also instruction on how to flash a test build onto a Pixel 3 👍🏻"
+12,"@george_adams21 Hello George, the best place to track progress currently is the discord. https://t.co/W5hx8yFijO"
+13,RT @rishavmukherji: @EthereumPhone ethOS on Pixel 2 https://t.co/N4k1mjLh0s
+14,"@MarkKatakowski @RyanSAdams For anybody with a pixel 3 that would also like to test ethOS, instructions are below, and we're happy to help with issues in the discord 🤝 https://t.co/53wjyZHF4n"
+15,RT @MarkKatakowski: @RyanSAdams Installed ethOS. @EthereumPhone https://t.co/NRP4fQ0fUE
+16,"Check out this app/widget prototype from @emunsi_, displaying data for an ethereum light node, running on ethOS🔥
+
+Uptime, peer count, etc. Do you run an ethereum node? What data would you like to see for your light node running on a mobile OS? Let us know in the Discord! https://t.co/PG0iC3jJSg"
+17,"Hello, ethOS node. 🔥
+h/t @joenrv https://t.co/0LFjszEUul"
+18,gm https://t.co/GapVIxPo8A
+19,https://t.co/WiOpUmMdoo
+20,"P.S. If you'd like to test ethOS on a Pixel 3, instructions are at the link below. As always, if you have any questions or need help, find us in the Discord! 💜
+
+https://t.co/F61UC6xMG0"
+21,"And that’s a wrap of the second ethOS community call! 
+
+If you’re interested contributing to, or simply following the project, please join our discord and introduce yourself!
+
+Audio of of the call below, -see you next call!🚀
+https://t.co/gYqozVasU8"
+22,"A: Opensea is a an easy one. There is no native buy experience in their app, because of existing store policies.
+
+ethOS solves this."
+23,Last Q from community: 'Example of an app that google or Apple censored that people might be able to use here?'
+24,"Rahul adds that ethOS will have big unlocks for devs integrating on a system level, but there's design delights unlocked for users on a native web3 OS. Ex: NFT wallpapers, status of txs in phone status bar, GWEI widget on home screen, etc. Little things add up to ↗️ experience."
+25,"Noginton then explains that if you'd like to contribute to ethOS from a design perspective, the best way is to get creative and prototype features that you yourself would like to use, and then share it in the discord where we can talk through it together."
+26,"Next, Nogington walks though Rahul’s design of a startup sequence.
+
+We are early imagining how Ethereum can integrate into a phone OS. Demos startup sequence having a native wallet connection, and minting of an NFT with an ethOS native system level wallet."
+27,"A: Good thought, -Joaquin shares that he is often in touch with them, and can certainly talk about what we can learn, and look for opportunities to work together."
+28,"Another Q from the community:
+
+Dappnode creates linux based OS for node operators preinstalled w/VPN &amp; UI. Can we look at what they’ve done &amp; have decentralized app store for node operators that can one-click run a node on their machine? Can we learn or work with them?"
+29,"A: Nothing stopping them from providing a great device with ethOS. Users choose devices on many factors. We encourage them building right device for their audience.  OEMs using ethOS would be a win, and we’ll always be an open alternative, developing under our guiding principles."
+30,"Another question:
+
+'If it’s open source, what’s stopping companies from coming in and providing a great phone with this OS and then centrazling it. Have you thought about that?’"
+31,"The app store itself will look similar to other app stores, but devs building web3 apps in existing stores can just get rejected, or pay 30% rev share. These pain points aren’t actually about decentralizatoin. They’re about user &amp; dev problems that are literally impossible today."
+32,"A: This is why we started ethOS. One pain points now is the wallet experience on mobile. No browser extensions, &amp; if we had, doesn’t address problem of native apps. We can do so much better w/the wallet bridging on ethOS at the system level. This experience should be seamless."
+33,"Question from the community:
+
+'Seems best projects are 10x what is offered by alternatives. ethOS could be in a strong position if product is better and decentralization isn’t the only differentiator. How can product be better?'"
+34,Next Nogington talks design. A lot of the work we’re doing now is exploratory on how to serve the possibilities of Ethereum integrated at a mobile OS and hardware level. Design is currently helping build the tools for the UIs for some of these items.
+35,"Tweet limit reached which broke the thread, so continuing on...
+
+Our Statement of Principles is living, public, and we welcome community feedback, which we would love to hear in the Discord. https://t.co/P1thk2kSz1 https://t.co/glMMjOGe14"
+36,"3) ethOS is free, opensource, and decentralized.
+
+Others should be able to develop with ethOS &amp; extend it, &amp; it should be community driven &amp; decentralized. This is why calls like this and your feedback are so important. User perspective is invaluable to guide the project."
+37,"While the MVP is hard, it targets the earliest adopters. Eventually it will be preloaded onto devices with the complexity of web3 abstracted away. A lot of our work on light nodes, wallet bridging, and system services will come into play here."
+38,"2) ethOS is simple and intuitive to use.
+
+We can’t succeed if it's harder to use than alternatives. Harder = less traction and doesn't serve the goal of creating a decentralized OS."
+39,"1) Users have Privacy, Transparency, and Control.
+
+We believe in being transparent on what the OS is doing, enhancing the privacy of users, and giving them the most control to handle how they use their data in the web3 ecosystem."
+40,"Next up, Rish talks about the Principles that guide the development of the ethOS project.
+
+How are we thinking not just about the next 6 months, but years long development cycles? We are guided by three main principles:"
+41,"There is a lot of cool stuff not on short term roadmap. Mark shares that after connecting w/team and seeing the challenges overcome and possibilities unfold, his excitement has only grown at the prospect of having an OS layer available for web3 development."
+42,"3) Community: Attract more people interested not just in building, but in helping us test, break, and fix what we release, then build more support around this community to turn it into an efficient system of releases, testing, feedback, and updates around the builds."
+43,"2) Decentralized ethOS app store: ethOS users can find, download, and install APKs from the store, and devs can upload these APKs to IPFS by listing them with our smart contract, and manage them. Also, build a knowledge base for devs to help them do this easily."
+44,"Roadmap a living doc modified by community feedback.
+
+First  6 month has 3 goals:
+
+1) ethOS MVP done: (we're close). Includes the Lineage fork of Android with a native wallet, light client, and wallet bridge, that is flash installed by the user on Pixel 3. Other devices after."
+45,"Next, Mark tells us about the 6 month roadmap. Reiterates that ethOS welcomes engineers as well as designers, writers, and coordinators.
+
+This distributed team selects for initiative, persistence, and passion.
+
+A LOT of work has been done so far in the past two months."
+46,"Next an audience Q: How do devs get involved? A: Discord is where everything happens. Be visible, ask to help w/piece you feel you can contribute. Very organic. Takes self motivation/initiative. We appreciate people asking Qs, &amp; owning a piece. We can give tasks to do."
+47,"If you are testing ethOS and have stability issues, feature requests, or feedback, let us know in the discord #testing channel.
+
+Besides testers, ethOS needs engineers w/experience in android AOSP in particular, as well as web and blockchain infra. There is a lot to do, -join us!"
+48,"WE NEED TESTERS! Pixel 3 is easiest: You can install test version now. You can build for your own device, but not guaranteed to work. If you try &amp;have issues, contact us Markus in Discord and he’ll help. This will also help us expand support for more devices eventually."
+49,"A native Light node lets users connect to the blockchain trustlessly without relying on Infura or Alchemy, and also lets developers not have to pay API fees to Infura or Alchemy."
+50,"With light node constantly running, we get 10 hours battery life, which is passable for MVP, but we are continuing optimizations to make node experience like it isn’t even there for users."
+51,"We’ve been working hard to integrate a light node into ethOS, &amp; have a first working version. ATM if you install ethOS on your device, you have a running light node at all times. We chose the Google Pixel 3 as our benchmark test device we’re currently building against."
+52,"The grand vision is to create a standard where Android wallets can interact with dApps. We’re working on this currently, and we’ll be sharing our progress as we go.
+
+Next Markus talks about ethOS’s native Ethereum light node capability, &amp; the need for testers in the community."
+53,"Second, give mobile-first devs an API that lets them create apps that better interact with other dApps or wallets on Android.
+
+The first version supports Wallet Connect compatible wallets."
+54,"Next, Nicola discusses wallet bridging, and the two goals ethOS has for its implementation:
+
+First, make the UX when interacting with the wallet and dApps improved compared to mobile wallets + web apps."
+55,"The Dev Portal is a web3 app where devs can connect their wallet, load their apps, deploy to chain, and manage all deployed apps. Good progress has been made with major paths covered, &amp; now working on tweaks like increasing the size of APKs you can upload. No major snags so far."
+56,"Next, Stipe talks about the Dev Portal. He explains how the chain is the source of truth for the apps, and that the goal is to keep the data deployed to the chain lightweight, meaning APKs are stored somewhere else.
+
+That place is IPFS."
+57,"This flow works now, fetching data from the chain, letting you browse apps and download them on to your phone.
+
+Jaoquim concludes that progress is coming along well with this team that formed organically, together, around a common ideal."
+58,"Jaoquim is working in conjunction with Stipe on the developer web app side, where devs can upload their APKs to our smart contract through our Dev Portal, and  ethOS will fetch the data from the smart contract to display the App Store experience that you’d expect."
+59,"First up is recapping where ethOS development currently is, starting with the decentralized ethOS App Store.
+Jaoquim explains that the store has no fees to list apps, no restrictions to list as with Apple/Google stores, no 30% cut of transactions taken. A big win for web3 devs."
+60,"Did you miss the 2nd ethOS community call, and are looking for a full summary? Let’s jump in!
+
+Thread below⤵️"
+61,"Thanks for your excellent questions and comments on the 2nd Community call!
+
+If you've been following ethOS, please take our (quick!) survey to help inform our design &amp; development decisions as we build the world's 1st mobile Ethereum operating system. 🤝
+
+https://t.co/pPbkilfTwz"
+62,"The 2nd ethOS Community Call is happening NOW, in the discord #communitycall voice channel! 🔥🚀 https://t.co/tSNfBhysev"
+63,"Reminder that the 2nd ethOS Community Call starts in 1 hour, at 9:00 AM PST in the Discord (link below).
+
+See you there! 👋
+
+https://t.co/tSNfBhQ363"
+64,"We'll also be asking for your questions and feedback on what is important for you to hear from us moving forward. 
+
+It's early days, so please make sure to join and share what's on your mind. We look forward to seeing you on the call! 🙏🏻"
+65,"Time to share the agenda of the 2nd ethOS Community Call happening this Thursday at 12:00PM EST!
+
+We’ll cover
+1. Where we are now in development
+2. The ethOS near and mid-term roadmap
+3. Statement of Principles that guide ethOS
+
+Join us in the Discord #community-calls channel!"
+66,"@jstn @CVMiniGames A few centralized private actors can be functionally equivalent to nationstate censorship. 
+
+This is why we are tackling our slice of the problem with ethOS. We need mobile operating systems as permissionless as our blockchains."
+67,"The next ethOS community call will be January 13th at 12PM EST. Join us! 📱
+Details will be posted in the ethOS discord events section. https://t.co/KqogVmBpNj"
+68,"App submission flow operational! 🔥🔥
+
+Any dev can send APKs to the contract of our DECENTRALIZED APP STORE, where the store front-end displays to users. 🤯
+
+No permission required.
+
+Rinkeby contract address below, -mainnet to come.
+https://t.co/vN9iY2qebq https://t.co/VIJARp71ZA"
+69,"RT @dwr: An under-the-radar open source Ethereum project I'm excited about: 
+
+https://t.co/mvDKm0BTiK"
+70,"Build and flash guide here:
+https://t.co/ZhWnbYQWV7"
+71,@baltasarer @rishavmukherji Pixel 3 is our benchmark test device and this binary is 100% compatible with it. You could flash to another device if you build yourself though.
+72,"GM. If you have a Pixel 3, you can install ethOS right now! 🔥
+
+boot.img file is to flash the boot loader, and the zip file is ethOS. 
+
+Questions? Head to the discord and we can help. 🤝
+
+https://t.co/iVFP1Njw9L"
+73,"A big day for ethOS! Thanks to @mhaas_eth, the light-client now runs as a system service.
+https://t.co/F61UC6xeQs https://t.co/O9kpyrkgdT"
+74,gm builders.
+75,"Development isn’t slowing down for year's end!
+
+🚀this week:
+-Web3modal login with MetaMask and WalletConnect
+-Account switching support
+-Dedicated connect page
+-listed dApps page
+-404 handling
+-Protected routes
+
+New Years resolution: Say GM in the discord and join us in 2022!🤝 https://t.co/RlsZndIixd"
+76,"Development continues with a very cool update shown to us by @mhaas_eth:
+
+The ethOS browser automatically appending and resolving .eth addresses to their @ensdomains profile, using @xyz. 
+
+Check it out! https://t.co/hbhSZ5Vlsp"
+77,🙏🔥 https://t.co/GapVIxPo8A
+78,@mikedemarais 👀
+79,@WalletConnect @pedrouid ❤️
+80,"It’s happening: The 2nd ethOS community call will be on January 6th! Join details to come in the Discord #announcements channel.
+
+Our community has grown since the last call, so if you're interested in an OS as permissionless as your blockchain, join us and spread the word!"
+81,"Action item #3 from today's Design Sync Call complete✅
+https://t.co/ewR9LTVAKP"
+82,"Imagine a mobile operating system that lets you mint a drop on the go, effortlessly, with no browser interop issues...
+
+This demo by @rahulushah takes us there (@chain_runners we see you! 👀)
+
+Come see what we’re building in the discord and let us know what you think! https://t.co/uQwI9gl2J3"
+83,"It’s a wrap for the first ethOS Design Sync Call! 👏
+
+Today's agenda: 
+
+☑️ Choosing a visual language for ethOS MVP 
+☑️ Native dApp store
+
+Meeting notes below are always available in the Discord #resources channel. Come join us and introduce yourself! 🤝
+
+https://t.co/48o5i0A70v"
+84,"The ethOS whitepaper is now live! 🚀
+
+If you're new to ethOS, this is the perfect place to start. Give it a read, then let us know what you think in the discord.
+
+https://t.co/TKu1KwGDh3"
+85,"Discord link in bio has been updated, so come introduce yourself!
+
+ethOS is a community-built project; if you're reading this, YOU are the community 🤝"
+86,@VijarKohli Just updated!
+87,"Today was the inaugural ethOS community call. This global crew has talent, and the excitement was palpable.
+
+We are building!
+
+Join us!"
+88,"How-to on building and flashing ethOS-Test:
+
+https://t.co/F61UC6xeQs"
+89,You deserve an OS as permissionless as Ethereum.
+90,"RT @MarkKatakowski: Imagine the Ξphone. Your favorite dapps, native to your device. Web3 needs an OS as permissionless as Ethereum itself.…"

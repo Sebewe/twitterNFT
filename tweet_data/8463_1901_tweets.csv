@@ -1,0 +1,196 @@
+,0
+0,RT @sudobangbang: So proud to be a part of an awesome team &lt;3 &lt;3
+1,@maggielove_ From the way back machine… 🤣 https://t.co/9fTSWafzlO
+2,A huge thank you to the organizers of #ETHDenver for another spectacular ecosystem event. So so so great to be back and re-connecting with everyone. The @blocknative team is already looking forward to 2023! @EthereumDenver https://t.co/dNmKm1Yr6M
+3,A pleasure and a joy to be back on stage at #ETHDenver. Blessed and humbled to be a part of the community! https://t.co/s0XO0UIM88
+4,@Vreezman You bet! Glad you enjoyed it
+5,@davlucmac @EthereumDenver Thanks so much! Glad you enjoyed it. ☺️
+6,A few scenes as things warm up here at #ETHDenver @EthereumDenver https://t.co/TRtTBJOPMx
+7,GM here we go #ETHDenver 🤩@EthereumDenver https://t.co/AjUIgMB6eb
+8,"Looking forward to sharing our perspectives on the past, present, and future of Ethereum Gas Fees on Friday at 1:30pm MT. “From PGAs to 1559 to ETH2 — How Everything (and Nothing) Changes With Gas Fees” https://t.co/xjCCKYyica @EthereumDenver #ETHDenver @sched"
+9,RT @blocknative: Are you building @EthereumDenver? We teamed up with @CoinbaseWallet to create a #Web3 developer quickstart guide to help y…
+10,"RT @blocknative: Introducing our new visual identity
+
+https://t.co/kX102y177Q"
+11,"RT @FantomFDN: We're very excited to announce that @blocknative now supports Fantom!
+
+Blocknative tools offer unprecedented granular-level…"
+12,RT @fluxrayeth: 1/ How to use blocknative to monitor if a contract flips the sale switch. This will let you know the instant a sale goes ac…
+13,"@mark_mkzo You can read all about how and why our Gas Platform calculates fees here. Tl;dr our MaxFee estimates are internationally conservative and, under most circumstances, your your actual transaction fee will be much _less_ than the MaxFee you set. https://t.co/3gy2IfFJ5A"
+14,"RT @blocknative: 1/
+Is there a correlation between #ETH price volatility and gas price? 
+
+Absolutely. But it’s not that simple… [thread]"
+15,RT @blocknative: 🚨 ALERT! For the avoidance of doubt: Blocknative has NOT issued a token on @binancechain trading on @pancakeswap. The BLNV…
+16,🛳⛴🚢 https://t.co/CfSAAUfA83 https://t.co/9Nvn5rnwME
+17,"RT @WeekInEthNews: #MuchClicked
+
+@sniko_ don’t use raw secrets on web
+@blocknative Transaction Preview API
+@crisgarner Forge guide
+@doomsda…"
+18,"@nassyweazy @soulmachine @blocknative For obscure addresses, Delivery Priority generally will not be a factor. But for popular addresses – like PancakeSwap – this can be a big factor."
+19,"@nassyweazy @soulmachine @blocknative Second “it depends.” As in, it depends on which address(es) are being monitored. @blocknative plans are ranked by Delivery Priority. As in, if two accounts are listening for events on the same smart contract, the queuing system sorts outbound API events by Delivery Priority."
+20,"@nassyweazy @soulmachine @blocknative “It depends.” First, the @blocknative API events delivered to free Prototype accounts are subject to up to 2,000ms additional latency. FREE BLOCKNATIVE = SLOW BLOCKNATIVE. We need to make this explicitly in the payloads themselves. Details on this here. https://t.co/IsPj0vbCQG"
+21,@soulmachine QQ: are you using @blocknative's free Prototype tier? Or a commercial account (Production or above)?
+22,"RT @delitzer: This seems like it should enable massive security and UX improvements in wallets.
+
+Who is going to be the first to integrate?…"
+23,"RT @blocknative: Blocknative Transaction Preview API is now available on Ethereum Mainnet! 
+
+Wallets, protocols, and traders can now see ex…"
+24,"RT @blocknative: On Making Sense of Blockchain Mempools with @mcutler
+
+This On The Brink Podcast discusses:
+- How blockchain mempools work…"
+25,@aseoconnor @blocknative Honored and humbled to be working closely with you on this journey. 💪🏼
+26,"RT @TallyCash: Drop you ENS name, follow us, and add (🐶,🐶) to your bio.
+
+This could be serious."
+27,@TallyCash Mcutler.eth
+28,RT @MuratLite: I'm happy to announce we just shipped Browser Alerts for gasPrices on our Gas Extension: https://t.co/58Js83EICp
+29,"RT @LucaTreat: Time for an update:
+We've been spending the last couple weeks working on completely rebuilding our NFT Creation infrastructu…"
+30,"RT @blocknative: 🚨 Platform Update:
+
+Blocknative now supports replacement transactions on @0xPolygon across Mempool API, Mempool Explorer,…"
+31,RT @foldfinance: @Forkast_News @blocknative @mcutler Sushiswap Relay uses Blocknatives gas pricing platform #ETH #Ethereum $FOLD
+32,"RT @Forkast_News: Gas fee unpredictability is a highly problematic aspect of the Ethereum ecosystem, writes @mcutler of @blocknative. 
+
+Wha…"
+33,RT @blocknative: Announcing @FantomFDN Support in Blocknative Onboard https://t.co/e210f88xvn
+34,"RT @FantomFDN: We’re thrilled to announce that the @blocknative has integrated Fantom support into Blocknative Onboard!
+
+Onboard includes m…"
+35,@WizardsDAO mcutler.eth
+36,"Big thanks to @MattWalshInBos for having me on the @OnTheBrinkCIV podcast! We are working to introduce @blocknative to a broader audience and make it easier to understand what we do and why it matters. As always, feedback is welcome. https://t.co/jvg2aTZKxW"
+37,"RT @BinanceChain: Monitor #BinanceSmartChain mempool with @blocknative 👇
+
+https://t.co/A5NQ9eIN0x"
+38,"RT @jiecut42: @mcutler @nanexcool @blocknative 👀
+Woah, also nice to see the recent gas prices chart. With 2 decimal places granularity for…"
+39,RT @sunlearnstorock: Super stoked to start my new journey @blocknative! Making mempool data more accessible and usable is a critical missio…
+40,@nanexcool Happy to report that the @blocknative Gas Estimator now includes this view as well! :) https://t.co/9VtyjmJ5gp
+41,"RT @blocknative: Are you a ⚡️🤖 Searcher?
+
+Our latest post details how to use the mempool for Flashbots. It covers how to:
+🔎 Filter and test…"
+42,Fun to help provide some @ConstitutionDAO context and commentary on @cheddar yesterday. And super cool that @blocknative real-time infrastructure played a role in the underlying  @juiceboxETH UX. https://t.co/VUC9h4cjio
+43,RT @johnjefferies: A group of crypto enthusiasts pooled over $40 million dollars in an attempt to win a copy of the U. S.  Constitution las…
+44,I am scheduled to appear live on @cheddar (https://t.co/Ezb5FrV2UJ) at 1:40pm CT (~45 minutes from now) to talk about @ConstitutionDAO. Anything in particular that you recommend I attempt to incorporate into the discussion? #nopressure 😅
+45,@cdixon 👆🏼 This.
+46,"RT @REIMAGINE_2021: That's a wrap for DAY 3 of #REIMAGINE: Is El Salvador, ""Bitcoin by Decree?""
+Watch @mcutler from @blocknative at some of…"
+47,"RT @blocknative: 🚨 New data shows the surprising reality of Ethereum Gas Fees during major #NFT launches. 
+
+Hint: it’s not what you might e…"
+48,"RT @iafhurtado: Great weekly AMA session at @LimeAcademyHQ thank you @mcutler for the great insights.
+Most important takeaways
+1) BN catche…"
+49,"RT @LimeAcademyHQ: 🚀Week 2 of LimeAcademy is already here, and it's a great pleasure to announce that this week our AMA guest speaker will…"
+50,Excited to welcome @johnjefferies as @blocknative’s first-ever CMO. JJ brings a wealth of crypto-native experience – and regulatory leadership – to our rapidly growing team. Want to join the fun? We would love to have you. Apply now via https://t.co/QK6pWY5WYe https://t.co/Y6pzMsz2NS
+51,"RT @CryptoCoinShow: We speak with @mcutler, CEO of @blocknative on the mempool, transactions and how they work prior to confirmation, the e…"
+52,@ricburton And… I’m two sessions in to learning wing foiling. Of course wishing I had started ~18 months ago when many of my friends/neighbors got started and attempted to convince me to join the fun. 😬 https://t.co/RMvLmHY5Se
+53,"The best time to get involved in crypto was ~3 years ago. 
+
+The next best time to get involved is right now. 
+
+The worst time to get involved? ~3 years from now. 
+
+Choose wisely. Act with intent. 
+
+[Note: this pattern holds true for many/most things in life.]"
+54,@jasoncwarner 💯
+55,What three (or more) emojis best describe your team? I’ll start @blocknative == ⛴🚢🛳 https://t.co/cmsyLMS8sh
+56,"Super fun to lead the ‘ EIP-1559 &amp; NFT Drops’ session at today’s #PLAYFUL Summit from @DystopiaLabs. Big thanks to everyone who attended! As discussed, here is a link to the slides – which include some alpha re: NFT drops and gas prices. 🤔😲 https://t.co/gbQEuvdT89 https://t.co/L3pmJ3qBSc"
+57,RT @ChrisBlec: Looks like this gas estimator from @blocknative will be my replacement for Gas Now.. unless anyone can suggest an even bette…
+58,Finally got around to posting @blocknative's recommended reading list for the crypto-curious. Our standard set of resources for friends and family who are looking to begin their crypto journey but are not quite sure where to start. What did we miss? https://t.co/NPXa65QBlG
+59,"RT @blocknative: Are you crypto-curious? 
+
+Our CEO and co-founder — @mcutler — just published a blog post to help you dive deeper down the…"
+60,"RT @blocknative: An update on EIP-1559 adoption — preliminary results from our Mempool Data Archive:
+
+📈 Comparatively low volatility in the…"
+61,"RT @pillarwallet: “And just think about what you needed to do to get to the actual internet....” 👩‍💻🙄
+
+@mcutler outlines how getting online…"
+62,RT @DystopiaLabs: 5/ We’re honored to be joined by speakers like: @suji_yan @realMaskNetwork @RebeccaRettig1 @AaveAave @abandeali1 @0xProje…
+63,"RT @blocknative: Join @mcutler at Playful: A #NFT &amp; #DeFi summit from  @dystopialabs on October 4th.
+
+Sign up here:
+https://t.co/bzthz1HHyq…"
+64,@zachkrasner @0xtuba 👆
+65,"RT @0xPolygonTech: 📢 @blocknative is coming to @0xPolygon!
+
+🧱 Polygon #Developers can leverage their front-end libraries and API to deliver…"
+66,"RT @Extraballz: @blocknative 
+
+The best crypto tool I've come across recently... 
+
+https://t.co/xXMoDUWWB4"
+67,"RT @blocknative: An update on EIP-1559 adoption — preliminary results from our Mempool Data Archive:
+
+⚖️ We appear to have reached an equil…"
+68,"Happy to share two requested refinements to the (wildly popular) @blocknativeGas Estimator: 
+ 1. Easy access via a shorter URL: https://t.co/xTCqadSgux
+ 2. More precise Priority Fee displays: two extra decimals!
+
+Time accept that we have become a Gas Company? 🤣
+
+🚢⛴🛳 https://t.co/oGiawgf2XX"
+69,@angilly @matthewegould @nielr1 @ChrisMeisl I prefer the term OG. 🤣
+70,"@PMashikian @DrexelUniv @ZWLBP Indeed he was! As fate would have it, he and I have connected on this. 😅"
+71,Twitter fam: anyone have a solid contact at @DrexelUniv? Ideally faculty/administration in the photography/design program. Asking on behalf of my eldest. An aspiring photographer and (if I have anything to do about it) future NFT creator. This is Q – on the other side of the lens https://t.co/eNwMSm6iqN
+72,Oh that’s awesome. Let us know how it goes. :) https://t.co/KvlaQFVh2X
+73,"RT @pillarwallet: We're LIVE with @caseorganic, @mcutler, @mm319 and Brad Kam discussing the state and the future of DeFi UX!
+
+Join us NOW!…"
+74,@njess 👋🏼
+75,@baltimallie @AlaskaAir Same same. Long time customer who sticks with Alaska specifically to avoid this scenario. No choice but to buy the last seat on the last @JetBlue flight tonight… for which I paid out the nose. Will def impact future flight decisions. And still no explanation? 🙃
+76,My parents just pointed out the cover of today’s (Sunday) @nytimes. Probably nothing. #mainstreaming https://t.co/ej7h6KNPi9
+77,"RT @BITech: 4 founders who sold startups to @Cisco (including @mcutler, @dugsong and @mohitlad) reveal the best and worst parts of being bo…"
+78,RT @sassal0x: The @blocknative Gas Estimator Browser Extension just changed the game - so much amazing information packed into a neat littl…
+79,"RT @blocknative: An update on EIP-1559 adoption — preliminary results from our Mempool Data Archive:
+ 
+🤔 Type 2 transactions seem to have s…"
+80,"By popular demand, the @blocknative EIP-1559 Gas Estimator is now available via a Chrome/Brave browser extension. Includes a few clever features that are worth checking out. 👀 Just keep shipping… just keep shipping… 🛳⛴🚢 https://t.co/jaq1hWU9cW"
+81,"RT @CryptoGucci: Want to know how to calculate #Ethereum EIP-1559 gas fees?
+
+Check out this great article from @blocknative 
+
+https://t.co/…"
+82,"RT @bradyowen_: Today’s must-read article from @blocknative:
+
+“A Definitive Guide to Ethereum EIP-1559 Gas Fee Calculations: Base Fee, Prio…"
+83,"RT @nanexcool: I would have called this ""Everything You Always Wanted to Know about EIP-1559 Gas *But Were Afraid to Ask"" but ""Definitive G…"
+84,"RT @zachkrasner: When we need a real answer, we turn to @blocknative 👏"
+85,"RT @njess: the shape of the ETH network has changed a bit since the last update
+
+this is worth a read re how gas fees / txn priority works…"
+86,"Do you have questions about how Ethereum transaction fees _really_ work under EIP-1559? If so, our intrepid team @blocknative just published a new post that tackles this thorny subject head on. Check this one out. Feedback welcome! https://t.co/RMtcNFeZGb"
+87,@Adam_Cutler @tarungangwani @JasonHitchcock @haralabob Forgot a good one: check out @KnownOrigin_io for quality works that generally won’t break the bank. Great team there as well!
+88,"@Adam_Cutler @tarungangwani @JasonHitchcock @haralabob Best starting points are likely the major NFT marketplaces. These aggregate and feature collections. Fair warning that the space is vast and the prices are… well… you know. 
+- https://t.co/UEYyA1nnOQ
+- https://t.co/Lx78PMKxzG
+
+For artists, check out @pplpleasr1 @beeple etc."
+89,"RT @ensdomains: Happy to have collaborated w/ @KeystoneWallet on this! 🤝
+
+Getting ENS support on hardware wallets has been a challenge, &amp; w…"
+90,"EIP-1559 keeps marching on, with Type 2 transactions rapidly approaching 50% of global Ethereum transaction volume. Want to price your Type 2 transactions accurately? Use our Gas Estimator, which is powered by our Gas Platform API. Links at the bottom of the thread. https://t.co/TMC3rHGnwp"
+91,RT @andrewhong5297: Some stormy Sunday reading - I spent the last few weeks studying user behaviors in @artblocks_io auctions based on memp…
+92,"RT @pillarwallet: Will #DeFi cross the Chasm? What's stopping it from mass adoption? 
+
+Hear answers from our panelists:
+@caseorganic from @…"
+93,RT @terryangelos: @AriannaSimpson Lots of good alerts and info from @blocknative
+94,"By popular demand: we just added @0xPolygon support to our global mempool data platform. Read on for details, or go hands on today with Mempool Explorer. 🚢⛴🛳 https://t.co/WSCDQIgKJX"
+95,Now using this as my primary example to illustrate that things just work differently in crypto. 😲 https://t.co/Q38rcKzVHm
+96,"RT @blocknative: Blocknative is hiring 🚀
+
+Learn more and apply to join the team →  https://t.co/078p83k03I https://t.co/lGD8Mrr2n5"
+97,A brief update on the state of EIP-1559 adoption across the network. Spoiler alert: it’s growing. 📈😎 https://t.co/yLbJUAIdxE
+98,RT @danfinlay: @evan_van_ness @OpdahlPeter @blocknative @MetaMask @kumavis_ “Should be easy” 🙈. We’ve taken these changes extremely serious…
+99,"RT @Timccopeland: Thanks to @blocknative and @0xedenau for helping a lot with this piece!!
+
+https://t.co/rMmv3Lj17s"

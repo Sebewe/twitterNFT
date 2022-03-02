@@ -1,0 +1,132 @@
+,0
+0,@DegenSoul Human pfp https://t.co/LUIuNhhn08
+1,@zscuffed My bags 😂
+2,"@ABigThingBadly @CliveApestein @0xApes_NFT @DegenSoul This was funny 😂 good one Vivek 😂
+
+@DegenSoul FTW 🙌"
+3,@VickWowo @0xApes_NFT Wow! Happy birthday 🎊🎂
+4,@USApe_12741 @KoladaAustin Keep up the good work. You will definitely get there!
+5,@rathganis @BlountJesse Captcha as cool pets did!
+6,@1202reklaW Minting and panic go hand in hand😂
+7,@1202reklaW Minting wallet should always be different than wallet where you have critical assets.
+8,@1202reklaW Make sure to revoke access to opensea! It might be signature phishing too.
+9,@BabyCoby_ @opensea https://t.co/48ziFPJENS
+10,@BabyCoby_ @opensea @CoryHardman
+11,@BabyCoby_ @opensea @NadavAHollander
+12,@BabyCoby_ @opensea @shivar FYI
+13,@Mfer_Chicks Holyshit mfers! https://t.co/D8WZk4ES2F
+14,@PaviaCEO Welcome king 👑
+15,@Mfer_Chicks @sartoshi_nft https://t.co/qrGh36gJ93
+16,@christurcotte_ @Mfer_Chicks hello hello! https://t.co/uvQ2v5qDi5
+17,@christurcotte_ @Mfer_Chicks Ok this I dig. Gotta grab few it seems!
+18,@S2TE_CRYPTO @davidbroom1983 @ryanallis NFTs are like Trojan horses to hold ethereum 😆
+19,"@S2TE_CRYPTO @davidbroom1983 @ryanallis Does it consider the fact that NFTs lock ethereum as well? The ones who have NFTs are kind of building huge ethereum wallets where ethereum is kind of hodled.
+
+So technically, ethereum staking + NFT triggered stacking is how I see it. Very bullish on Eth!"
+20,@punk9059 My personal conclusion was yes it was signature phishing.
+21,@punk9059 We talked in depth here if you are interested. https://t.co/yWgIGONFRK
+22,"@flywheelfund I don’t have a rare, but do have an awesome plot (-11,0)"
+23,Added some @CritterzNFT plots. Still cheap at 0.3 eth floor.
+24,@nftsteven1009 @0xApes_NFT 7 and 1 golden fur = 8
+25,"RT @0xApes_NFT: 0xApes Creative Competition 🟨
+
+We want to see what the Tribe can create. We know the Tribe has talent. Feel free to show us…"
+26,@glooperbloopers @beaniemaxi @beaniemaxi is the Catch 😆
+27,@cryptic_rick @nifty_1337 @BarbiecueDGG @grayboysdao Or Angel toga lol only 14 😆
+28,@BarbiecueDGG @grayboysdao Congrats! 36 Eth is a huge amount 🍻
+29,@FuckinPoe @grayboysdao Noice!
+30,"#NewNFTProfilePic to celebrate 2 Eth floor by Gray-Boys!
+
+Don’t worry 0xapes, this is just for a day! I’m an 0xApe for life ❤️ https://t.co/CEnPnAT4Yw"
+31,@Formula_RageR4 @MrJamesonNeat @DiscoverXnft Metaverse land &gt; pfp utility wise at least.
+32,@alei198634 @0xApes_NFT That*
+33,"@alei198634 @0xApes_NFT But, yes long term that’s would really awesome!"
+34,"@alei198634 @0xApes_NFT It’s kind of risky. The marketplace needs to be thoroughly evaluated by 0xapes community before releasing it to BAYC. They have a lot at stake than us :)
+
+May be start with other projects and then bring in big boys."
+35,Holyshit @grayboysdao almost at 2 Eth!
+36,@BoradApe Family missed Borad. Borad need more active.
+37,@afearfuljesuit @Rewkang @MechanismCap @nftworldsNFT @fahdananta you should probably get some @nftworldsNFT
+38,@treasuresETH @undacappn @Nate_Rivers @mart1ndoteth Ok this is actually scary. One signature to validate multiple transactions. This attack in that scenario is just getting started. People can easily farm signatures via mints and leverage them to drain wallets.
+39,"@undacappn @Nate_Rivers @treasuresETH @mart1ndoteth Thanks for the analogy. According to your analogy @Nate_Rivers would have signed 10 times on a phished link for 10 NFTs he owns? Not sure how many NFTs he lost, but there should be 1-1 mapping of NFT to signature spoofing according to the logic mentioned here."
+40,@treasuresETH @mart1ndoteth From same victim* 10 signatures of same victim for 10 stolen NFTs.
+41,"@treasuresETH @mart1ndoteth Coming back to this. If each listing requires a signature, then for every NFT that was stolen (from same victim) there should be a corresponding signature to farm by the attacker right? Thus if 10 NFTs are stolen attacker should have 10 signatures right?"
+42,@NadavAHollander What is the purpose of a signature if someone can replicate it? Ideally no one should be able to relay a signature right?
+43,"@undacappn @Nate_Rivers @treasuresETH @mart1ndoteth Yes, the thing which confuses me the most is what is the purpose of signature if someone can relay the signature? It beats the purpose of having signature! Thus I am still not convinced that this was just a phishing and not a bug in the contract."
+44,"RT @JackRhysider: The brakes on a car are only there to enable us to go faster. 
+
+The security team should should be looked at the same way…"
+45,"@Nate_Rivers @treasuresETH @mart1ndoteth The NFTs that were lost, do you know if you listed the collection before? Also, the ones which were not stolen did Opensea have access to it?"
+46,"@treasuresETH @mart1ndoteth You are right with regards to signature. One has to sign for every NFT. But, the individual still mentioned this a month ago - ""There is a bug in the WyvernTokenTransferProxy approval that allows anyone to transfer NFTs to other wallets"" may be this doesn't need a signature?"
+47,"@treasuresETH @mart1ndoteth No, if you list it once and gave access to Opensea then you don't need to list other NFTs. That's why you pay for transaction only once and not every time to list a NFT from same collection."
+48,@treasuresETH @mart1ndoteth So it’s possible you legitimately gave access to Opensea to do a transaction i.e. sell a NFT and you signed it with your keys because this is by function.
+49,"@treasuresETH @mart1ndoteth Obviously it requires a signature by the owner. When you list a NFT via opensea, you authorize opensea rights to sell or transfer. If the bug is in the contract and if you didn’t revoke the access, opensea still has access to your NFT and the specific collection."
+50,@treasuresETH @mart1ndoteth What proves it was a phishing attack and not a bug which was exploited?
+51,@mart1ndoteth @treasuresETH https://t.co/qveYvjV181
+52,@Nate_Rivers @pranksy @opensea Opensea punting on phishing to save their ass.
+53,"@treasuresETH It’s not phishing, it was an opensea bug! They are just trying to punt it to phishing.
+
+https://t.co/klcYZyZWUg"
+54,@quantwhale This 💯
+55,Holy sh!t! This is it. https://t.co/TpNo8tgwJH
+56,"@dearearth_ @mutantcats DAO is another one. It’s not utility project per say, but they do have almost 2300 Eth worth NFTs in their DAO so lot of liquidity to buy good projects.
+
+Example in attached screenshot, you may look at their discord for more purchases they have. https://t.co/zOCzd2kdS6"
+57,"@G_Gallows @lifestylearb @CyphrETH In that scenario, if the e-mail origin is compromised that means somewhere network is compromised and the email server/service provider along with it."
+58,"@G_Gallows @lifestylearb @CyphrETH Spoofing email is not difficult, but I checked the email I got and that is definitely not spoofed. I checked the “show original” part of email and it looks legitimate.  It had DMARC, SPF
+
+Not sure though what phished email the individual users who were compromised got."
+59,@dearearth_ @nftworldsNFT is the kind of NFT project you should look at.
+60,@ElectionDayMad1 Just make sure another wallet has no access to opensea. Double check by checking on https://t.co/0EZS7liCge or etherscan token approvals.
+61,@adrianhetman @dguido https://t.co/EiEw3TL5Df
+62,"If https://t.co/0EZS7liCge is not working for you. 
+On etherscan there’s an options to connect your wallet under “More” -&gt; “Token approvals (beta)” -&gt; “ERC-721” -&gt; Connect to wallet -&gt; Click on By Contract -&gt; Revoke access."
+63,@89Justintime I don’t think this is a phishing issue. Almost all opensea emails has a UUID like the one in your screenshot.
+64,"@lifestylearb @CyphrETH The email came from opensea email Id. 
+
+If this is actually a phishing email that means opensea network is compromised and someone leveraged opensea’s email to send emails to the end user."
+65,@LooksRareNFT This is actually cool!
+66,@NosajxjasoN @theycallmeshwaz @ABigThingBadly @0xApes_NFT Ok
+67,"RT @Tree_of_Alpha: Coinbase's ""largest-ever bug bounty""
+
+How a flaw in the new Advanced Trading feature would have allowed a malicious user…"
+68,@Booster2271 @DavidLeobrik Nice update! Keep up the good work 🤜🏻🤛🏻
+69,@SirWilliamEth I believe this guy is looking rad now. I wonder how would he look like when @grayboysdao would be at 5 eth floor price 😅 https://t.co/PRjza8ClL8
+70,"RT @0xApes_NFT: Growing weary of the Shamans meddling in witchcraft and the unnatural, the gold fur elite turned to the cold and wired embr…"
+71,"@NosajxjasoN @theycallmeshwaz @ABigThingBadly @0xApes_NFT If you think it’s a straight rip, then you are ignorant. Read up.. will save you some time and energy."
+72,"Please tell me how is this not one of the coolest NFT projects ever! 
+
+This is an actual video I took!
+#nft #metaverse #AugmentedReality 
+
+Very bullish on @xonexpp https://t.co/ufkjz5p5R1"
+73,@dearearth_ Is this automated?
+74,@theycallmeshwaz You think everyone who bought a 0xape bought a 0xAzuki as well? Do you have some data to back that comment? Percentage would be nice 😂
+75,"@theycallmeshwaz @ABigThingBadly @0xApes_NFT Do you measure intelligence with the type of NFT one buys? Interesting 😂
+
+You either were too early or had too much money to buy a BAYC. None of that makes someone intelligent IMHO."
+76,@nftworldsNFT So you do want 20 eth floor eh 😆
+77,@Ludus14 @0xApes_NFT Golden fur FTW
+78,Be careful.. formula for your baby or someone’s baby from your family/friends might be recalled. https://t.co/vLZAgdGJE0
+79,@0xsaad_ @opensea @0xApes_NFT It seems your machine/phone was compromised. Was that the only nft in your account which was stolen?
+80,@0xApeBot @0xGroovy dayum that’s a great flip man!
+81,@0xBender Still not late for them to change their tokenomics. I think @LooksRareNFT is here for long term.
+82,@dearearth_ Like no one is actually looking at the image? 😂
+83,"@1202reklaW My only concern would be the beast @Coinbase_NFT 
+
+But, I think looksrare has a future. They just need to fix their incentives."
+84,@1202reklaW Haha true. I’m dollar cost averaging. I like the platform so would like to get some more $looks 😂
+85,Going to add more here.
+86,@DegenSoul @0xApes_NFT Sell this one for 6k eth 🔥
+87,@1202reklaW I thought you sold half?
+88,@harryos02518714 @mutantcats Not a financial advice my friend. Would suggest doing your own research.
+89,@rahul_siyal @Creflo_Bitcoin @0xcarlisle @mutantcats @wndgame They will share the vault where ownership will be transferred.
+90,"@DJohnson_CPA @circlepay Interesting when SPACs are getting hammered, they doubled their valuation."
+91,This is known as information arbitrage. Money can be made here 💪 https://t.co/jQx0oameRA
+92,@fahdananta Wow people are raising 1.5M for pre pre seed? Time to quit my job it seems and start a pre pre pre seed startup 😆
+93,"@GlopNFTs @grayboysdao @nftworldsNFT I’m a grayboys owner, but grayboys are not the 1st proxy ownership utility. @mutantcats is. I have position in both of them."
+94,@Debussy100 https://t.co/nrTLfKiH9a
+95,"@Debussy100 Not really, look at what @xonexpp is doing."
+96,@not_katarina still not too late for @grayboysdao
+97,"@dearearth_ May be there's some patter recognition. If you do hide  few polygon ones, may be the future drops will directly go to hidden folder."
+98,@dearearth_ For me it directly goes to hidden folder..!

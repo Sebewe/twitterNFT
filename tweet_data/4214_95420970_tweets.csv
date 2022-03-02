@@ -1,0 +1,118 @@
+,0
+0,"First rule of DeFi: One shall not put funds into an unverified smart contract !
+
+Reality: already over 70M$ in new @ZKSpaceOfficial rollup
+https://t.co/y6KHc4Pbde
+
+Guys, please verify and open source your code 🙏"
+1,@godsflaw Count me in
+2,"@norswap zkRollups post state diffs not for each individual tx but for the whole batch of txs, so this, depending on usage patterns, can significantly impact the calldata usage"
+3,@ChainLeftist @shegenerates @GetKalao @Collectparticle @Platypusdefi OasisDex on Ethereum predates Solana's Serum by a couple of years and when gas prices were low it had biggest volume on ETH/DAI pair
+4,@KingJulianIAm @calchulus @DuneAnalytics And @InsightsFlow
+5,"@jadler0 Ok, ""formally"" is a better word ? 😅"
+6,"@levin_idan If the state transition is valid according to L1 fraud proof adjudicator contract, the only way to revert it would be to manually stop the whole rollup. Fast withdrawal bridges will get rugged unfortunately"
+7,@levin_idan For certain types of attacks - yes. Buy we do need mature ecosystem of L2 nodes that watch Sequencer's state updates. Right now we are still not there yet
+8,19/ The takeway - Rollups are complex. We are still early. EVM equivalence - while obviously great for quick adoption given maturity of Ethereum ecosystem - has also its challenges. Regardless - stay optimistic 😀
+9,"18/ If the implementation of the SELFDESTRUCT on L2 had a bug, the bug essentially would be within consensus rules as the execution with the bug is perfectly valid from the computational point of view"
+10,"17/ Is it possible then that such state contains a bug
+since it is accompanied by zk-proof ? The answer, unfortunately, seems to be yes, as zk-proof simply attest to the validity of L2 execution"
+11,"16/ What if such bug was present with zkEVM zkRollup, i.e. zkRollup that proves EVM execution directly ? In these  systems anything that’s proven is “canonical”. Once the state is pushed to L1 and is accompanied with zk-proof, it is final"
+12,"15/ The potential loosers would be only fast-withdrawal bridges that did not catch the bug in time and facilitated the withdrawals. This, clearly centralized, powers may be necessary “training wheels” while rollups are still early beta tech"
+13,"14/ It is also worth noting that even if the fraud proof system would not catch the bug, as the bug clearly was not within the consensus of what was agreed to be the correct semantics of the SELFDESTRUCT opcode, Optimism could manually stop the Rollup"
+14,13/ So it *could* be that the attack would not succeed depending whether L1 adjudicator would actually consider the bug to be a “correct” behaviour or not
+15,"12/ FWIW, SELFDESTRUCT is not directly availabile on @arbitrum  AVM virtual machine, so you need to check their EVM-&gt;AVM translator to see what would happen"
+16,11/ With OVM 2.0 Optimism team is working on an interactive fraud proof system (similar to Arbitrum’s) and it will come down to SELFDESTRUCT semantics implemented there https://t.co/lpuzADp2qI
+17,"10/ Back in OVM 1.0, fraud proof system adjudicator simply re-executed transaction that was “suspicious”. And it did re-execute it on L1 geth so the result could potentially be that Validator was right"
+18,"9/ This, in theory, should immediately make Validator post a challenge with the fraud proof. And now things are getting interesting as it will be up to the L1 adjudicator to decide who is right - the Seqeuncer running buggy software or the Validator running soft w/out a bug"
+19,"8/ Imagine now that there was a node (a watchdog) checking L2 state with software that did NOT contain the bug - clearly hacker’s account would not have corresponding ETH there and state root, as computed by such Validator, would differ from what was posted by the Sequencer on L1"
+20,"7/ Withdrawing that ETH though has to go through the standard 7-day fraud-proof window (unless you are using fast withdrawal schemes, but this is topic for another discussion). This gives time for external Validators to see if the state root posted by the Sequencer is correct"
+21,"6/ Bug allowing to create ETH by repeatedly calling SELFDESTRUCT was only present on optimism-geth. 
+So the Sequencer, after executing hacker’s contract, would post to L1 an L2 state with hacker’s account having gazillions of OETH. Clearly not good, right ?"
+22,5/ For more details on what happened then see https://t.co/SdA3kVIULP
+23,4/ Semantics is one thing but the actual implementation is another. The Ethereum community not so long ago learned about this in Aug 2021 when bug in one client implementation caused temporary split in the network as state computed by other clients differed
+24,"3/ SELFDESTRUCT semantics is described in the Ethereum’s yellow paper very precisely - balance of destroyed contract should be moved to ""beneficiary"" contract. You clearly would consider optimism-geth 
+implementation a bug https://t.co/cSOChRyggD"
+25,"2/ The bug in the optimism-geth allowed the exploiter to mint virtually unlimited amount of OETH by repeatedly 
+calling SELFDESTRUCT on a contract due to the fact that for the duration of the transaction OETH was temporarily held in both the destructed contract and beneficiary"
+26,1/ How serious was the recently disclosed @optimismPBC  Optimism vulnerability ? Is there any chance that the fraud proof system could avert the potential disaster ? Is such vulnerability possible for zkRollups ? https://t.co/KcmWnfXozZ 👇🧵
+27,"@apram89 I was looking for ETH transfers to the bridge, while they used wrapAndTransferETH method which normally is used to move funds to Solana. Not sure, why. Anyway, it can be seen here https://t.co/xXvvaexWPk"
+28,@08351ty @zkLend @ZKPadfi @SerityFinance @zkxprotocol Don't underestimate #MakerMafia 🌹https://t.co/Dz0bK0LahU
+29,"@solanafm @DuneAnalytics @InsightsFlow @GoogleBigQuery @solana @wormholecrypto So they ""wrapAndTransfer""-ed ETH to L1 Escrow but guardians did not mint corresponding tokens on Solana side ?"
+30,@Mudit__Gupta By far the best thing that I have seen in weeks. Thank you for sharing 😂 It does make me seriously reconsider my priorities
+31,"16/ Is there any other angle that should be considered ? We plan for @l2beatcom to have a comprehensive review of existing bridges and their risk factors. Fees and speed are important, but they are not the only factors for bridging assets across different domains"
+32,"15/ This led to grave concerns regarding the value of whAssets. Wormhole team claims that the bridge was ""refunded"" although it would be nice if they provided the details how this was actually done"
+33,"14/ As it happened, smart contract had a bug 
+that allowed hacker to make it mint tokens even though guardians did not consent to that. Either way we observed unauthorised minting of asset on the destination domain https://t.co/VXcYydyrPf"
+34,"13/ Then, on the Solana side, you have a smart contract that actually mints the whAssets. It is designed to mint assets only if sufficient number of signatures from guardians were obtained. So this is your second risk assumption"
+35,"12/ It is a custodial bridge, i.e. you have to trust “guardians” that they will indeed mint the exact amount that was deposited. Note that they could mint any amount if they colluded and chose to do so, so this is your fist potential “risk assumption”"
+36,"11/ With this basic framework in mind you can try to analyse any bridge. For example, consider latest Solana
+@wormholecrypto  incident. This bridge is a great example of a lock/mint bridge - you lock assets on Ethereum and mint corresponding ""whAssets"" on Solana"
+37,"10/ If swap does not succeed (for whatever reason) will 
+tokens be returned and after what time ? Do users need to trust somebody on that (like with centralised exchanges) or the return is guaranteed by the smart contract logic (like with HTLC-based bridges)"
+38,9/ Finally with swaps the main concern is whether the protocol guarantees that the swap takes place and what are the worst case scenarios for swap initiators ? Can they loose their funds ? (i.e. not receive tokens that they have been promised)
+39,"8/ With burn/mint stealing assets on a source domain is not a concern, however unauthorised mint is a similar problem to lock/burn exuberated by the fact that we cannot track if the amount of locked/minted assets match in real time"
+40,"7/ In both cases assets on a destination domain will cease to be fully redeemable for locked assets on a source domain which can lead to a stampede for exit,
+halting withdrawals, sudden crash of the value of the destination asset or all of the above"
+41,6/ So what can go wrong ? With lock/burn you should be primarily concerned with the possibility of stealing locked assets held in escrow and/or unauthorised minting (w/out corresponding locking) on a destination domain
+42,"5/ Finally with swap bridges you don’t mint, you are swapping existing asset (which - presumably - must have been pre-minted before). Examples: @ConnextNetwork , @CelerNetwork , direct deposits via centralised exchanges, and any other bridges 
+that use atomic swap technique"
+43,"4/ Burn/mint means you burn assets on a source domain and you mint assets on a destination domain. Examples: upcoming L2-&gt;L2 @MakerDAO  Wormhole, @AaveAave  Portal, @HopProtocol . Many L2-&gt;L2 bridges work that way"
+44,"3/ Lock/mint means you are locking assets on a source domain (locked asset is kept in Escrow) and you mint assets on a destination domain. Examples: @0xPolygon  PoS bridge, @WrappedBTC , and most L1-&gt;L1 and L1-&gt;L2 bridges"
+45,"2/ Bridges move assets between domains by either lock/mint, burn/mint or swap. You may also have a combination of these three mechanisms"
+46,1/ When thinking about different bridges and risks associated with them it is useful to consider the worst case scenarios. Let’s see how such risk framework could be constructed 🧵👇🌉
+47,"Everybody who forked geth should trust Peter on that. Also, please make sure you understand the difference between storage (state) and data (txs history) before you engage in a debate https://t.co/KDvJvvgoJx"
+48,"@solanafm @DuneAnalytics @InsightsFlow @GoogleBigQuery @solana Looking for transaction that ""refunded"" @wormholecrypto after the hack"
+49,"@diyan_slavov @peter_szilagyi @howtoplaypoker2 @CCryptolio @toghrulmaharram @riazahmedpatel1 Data availability refers to availablity of blockchain txs, storage is access to blochchain state. Two very different things"
+50,This is shaping up to be really great event. I hope we will see you all in #Amsterdam #DevConnect https://t.co/JTAhBED1ej
+51,"@GuthL @DuneAnalytics @InsightsFlow @GoogleBigQuery @solana @aleph_im They indeed seem to be able to custom built indexers for specific dApps like @RaydiumProtocol , but how about simply fetching txs that interacted with @wormholecrypto in the last week ?"
+52,"I can use number of tools to find historical tx on Ethereum, ranging from querying full/archive node, to @DuneAnalytics , @InsightsFlow , @GoogleBigQuery etc.. What to use to find old tx on @solana ? Serious question..."
+53,@_sha256_512 Absolutely. So is sending rocket to the moon. Much safer to stick with horse carts. Way less complicated and risky
+54,"My crypto-journey started 5 years ago with #Bitcoin, but seeing this I cannot help but thinking that it is slowly a lost cause - the community there have been taken over by clowns https://t.co/4yUlrNJTrU"
+55,If you are an insider (ie for years been working with MakerDAO community) you see why this is such a bad take. How can you stay decentralized if you don't know what threats you may be facing from regulators ? https://t.co/TJMu7jkCNj
+56,"If you cannot see verified source code of a smart contract, then what are you even doing in this space ? ""Hello Ethereum"" from Aug 2015, the first verified smart contract, gm 😊   h/t @mierzwik https://t.co/qeiYNmkT4m"
+57,"@wormholecrypto Where can we see the ""restore"" transaction ? Have wETH been burned on Solana side ?"
+58,I am so used to being able to verify Smart Contract code on Ethereum that I thought this is a standard feature of any smart contract platform. Turns out it is not. Why this is not a top priority ? https://t.co/HFtjq3hBAP
+59,@odin_free https://t.co/Xx4Cpp1PxK
+60,"@epolynya Hang around with @MakerDAO community, you won't feel alone with being paranoid about security 😊"
+61,@YoungZacharyYo1 @ralexstokes You cannot. Your best hope is to check 4bytes directory for common method's sigs
+62,"@CCryptolio No, because - as I said - consensus is not a scalability bottleneck. Both BSC and Polygon proved that it's easy to simply include more txs in a block and increase throughput. We want scalability, not throughput. And yes, avalanche is a novel consensus protocol. Nobody denies that"
+63,"@ABlekh We are not talking about rugpulls here, I was discussing Roll-up tech, specifically zkProofs and fraud proofs. I am sorry if you misunderstood me"
+64,"@ABlekh No sir, that's not how this works ☺️ owners cannot steal if users don't allow them to"
+65,"@humblealphashil @riazahmedpatel1 @epolynya It's the other way around - they do inherit ETH security but then they weaken it through introduction of upgrade keys. Same with bridges to other L1s, most (all?) are secured by MSigs"
+66,@riazahmedpatel1 @humblealphashil @epolynya They rely on at least one honest verifier. But it's Ethereum that acts as adjudicator if there is a dispute
+67,"@humblealphashil @epolynya Well, @l2beatcom is doing everything they can to give users proper info. At the same time some users are happy to deposit into unverified contracts ..."
+68,"@CCryptolio I am very much familiar with it. The thing is, consensus is not a scalability bottleneck in Ethereum. Nor in Bitcoin, FWIW"
+69,"So you build a fortress and temporarily hold a key to a main gate while you test out its defences and you are still attacked by people from a nearby straw house that your security, because of these temp keys, is inferior... 🙈 I wish we competed on the merits ... https://t.co/0OeTIuSoZZ"
+70,"@CCryptolio @LKirchbaumer It is completely meaningless stat, Ethereum 3 years ago processed more or less exactly the same number of txs and it was order of magnitude cheaper. Ask yourself why today it is so expensive"
+71,"@CCryptolio Block production will require more and more computing power in the future. If users want to keep block producers honest, block verification has to be cheap. This ultimately cannot be achieved on L1, you need to build L2s on top of L1 to make it possible"
+72,"You can choose ""fast and cheap"" L1, anon, but remember - it won't be you who will define consensus rules there. It will be increasingly small and centralised set of validators instead. Value decentralization if you really care about disintermediation and equal and fair access https://t.co/G1LHFbvd1I"
+73,"@GhostIzbud @Swagtimus The same one used to change consensus rules in Bitcoin in its early years that caused its fork as in this BIP https://t.co/xzwrmoNyZn, i.e. social consensus"
+74,"@_bassen_ Users need to verify primarily new blocks, so access to new block transactions is crucial. Access to historical transactions is less important as the probability that old block is invalid is close to zero"
+75,"Finally, does it really matter if casino operation is super efficient and they can accommodate millions of users and billions of transactions if your funds are simply not safe there ?"
+76,"But if you want to play long game, put your life savings there and sleep well w/out worrying about your funds, you better care that other users constantly keep casino owners honest"
+77,"As a result users are at the mercy of casino operators. Well, good luck if you insist on playing in such casino. It is probably ok to play for a while and quickly exit before owners defraud casino's funds. Whoever is left there will loose everything"
+78,"""Data availability"" is crucial for verification of casino books, users need to have access to every single transaction. If this access is denied, so is the ability for users to independently verify if casino owners are not cheating"
+79,"It does not matter much if casino is owned by 5 or 500 owners. What does matter is that casino users can trustlessly verify, that the casino owners are not cheating. And if they are, there must be a way to take over casino operations"
+80,Most importantly each user can easily verify if the casino owners are not trying to steal some of the cash by either issuing some chips to themselves or simply grabbing cash from the cashier
+81,"Since you have a guarantee to cash your chips, you may never have a reason to actually do it as your chips are as good as your cash. You may play in the casino for years, go for extended holiday, never fear of casino insolvency"
+82,"When you go to a casino, as you enter you buy chips to play inside. Imagine after winning big on a roulette that the cashier is closed and nobody wants to exchange your chips for cash. Wouldn't that be a shame ? With L2s you are guaranteed to cash your chips. It is that simple 👇"
+83,"@Recon_B2 Not sure if I understand the question, but yes, state diffs are stored there, see https://t.co/DnJaLlOeBY for more info"
+84,"As other L1 leaders give up on decentralization, Ethereum may be the only decentralized computing platform left out there https://t.co/mqzrPr4bB8"
+85,"Greed and ""ape culture"" will surely result in more exploits and Ponzis. We haven't seen the biggest ones yet and these undoubtedly will be fake L1s and fake L2s where all your funds deposited there will be at risk"
+86,10/ And this is exactly what @l2beatcom is planning to do along user-friendly UI that will allow users to use forced transaction feature
+87,9/ Both parameters can be changed by the Rollup Operator and it is important for end users to understand what are current values and be notified of the change
+88,"8/ Both timeouts need to pass, ie. 6545 blocks and 86400 seconds (24h). Only after that delay users can actually force their queued transactions. 9h long outage of the Sequencer was simply too short for this mechanism to be used"
+89,"7/ So what is the delay currently ? It is defined by two parameters, maxDelayBlocks and maxDelaySeconds which you can read directly from https://t.co/XSrow2bUWC https://t.co/bQ5KohV0uM"
+90,6/ This way users can make sure that Sequencer cannot keep ignoring txs submitted via L1 for too long
+91,"5/ Only when transactions sit in a queue for some time, they can be ""forced"" via L1 to SequencerInbox by calling another method of Arbitrum bridge called forceInclusion()"
+92,"4/ In fact Sequencer might not have been down at all but was censoring some txs, so users can use this mechanism to make sure that they can never be censored"
+93,"3/ L1 can indeed be used to force transactions into SequencerInbox (normally only Sequencer can post tx batch there), however there is an important caveat. These user txs are first queued so that Sequencer can actually pick them up if outage was relatively short"
+94,2/ Some users were wondering if it was possible to process withdrawals via L1 secondary tx channel @RyanSAdams  https://t.co/TwE9qxdJS1
+95,"1/ Why independent monitoring of Rollup parameters is important ? Let's take anti-censorship mechanism of @arbitrum as an example. On Jan 09 their Sequencer experienced 9 hour long outage 👇🧵
+https://t.co/PoUR6d1YAu"
+96,@ercwl Not a perfect answer but some ideas here https://t.co/NpSLsnNsCs
+97,"@CryptoExplain23 No, there are few independent teams supported by EF. If you are interested in details, here's a good writeup: https://t.co/ZZOOETSpFY"
+98,"@CryptoExplain23 No, EVM equivalent: Optimism, zkEVM (still in the works)
+
+EVM compatible: Arbitrum, Starknet, zkSync"
+99,@a_vaunt @optimismPBC @StarkWareLtd No

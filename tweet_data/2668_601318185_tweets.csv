@@ -1,0 +1,215 @@
+,0
+0,"The combination of provable on-chain randomness using ChainLink + a backend computing the metadata on the fly is great at preventing:
+🛡️reveal being gamed by bots
+🛡️team gaming the randomness
+
+This technique should be used more often in NFT drops.
+
+Kudos @evankeast , @poopie 💯"
+1,"SpaceDoodle holders have the ability to ""dock"", essentially unwrapping their token and get back their original @doodles .
+
+The concept is quite simple:
+Wrap: deposit @doodles into the SpaceDoodle contract and mint a Space Doodle
+Unwrap: deposit Space Doodle and retrieve @doodles"
+2,"Once all trait values have been defined, the contract will emit an event, so that the backend service can properly generate the metadata and upload the image on ipfs.
+
+It seems that the random assignment of the Spaceship itself isn't relying on ChainLink VRF..maybe..sequential?"
+3,"Each trait has a value from 1-8:
+- 1/256 chance to get an 8
+- 2/256 chance to get a 7
+- 4/256 chance to get a 6
+
+Those values are written directly in the SpaceDoodle smart contract, which indicates that they will be used later on by other contracts. https://t.co/PVbsS9yKbE"
+4,"The first time a @doodles is deposited, a spaceship with 5 traits (piloting, mechanical, stamina, bladder, vibe) is randomly generated.
+
+SpaceDoodle contract is using ChainLink VRF to compute a random 256 bit word per Spaceship, which will then be used to roll the dice per trait."
+5,"Context: Existing @doodles holders can finally deposit their token and create a spaceship in order to launch to space.
+
+Space Doodle is a brand new NFT collection - in order to get a Space Doodle, one must deposit their @doodles into the SpaceDoodles contract. https://t.co/YNQ4FebxbV"
+6,"Space @doodles finally launched into orbit today 🚀.
+
+🧵An explanation thread on the new SpaceDoodle collection, how the randomness works, and the mechanism to wrap/unwrap the token."
+7,@_0xAnon_ @doodles Check Doodles official discord &amp; Twitter
+8,@0xQuit @doodles Let's just say.. the landing back on earth will be rough..
+9,"People are selling their space @doodles at 5-7 ETH thinking that it's a free ""additional mint"" 🤦‍♂️.
+
+SELL YOUR SPACE DOODLE == SELL YOUR DOODLE https://t.co/8j9GOJi1wr"
+10,"@IcarusFortune Team can have an initial allocation unlocked right after mint to start funding.
+
+They were okay without, I’m sure they can wait one more month"
+11,@0xKartik All we need is one reputable project to pioneer the way 😊
+12,"Recent pixelmon drama:
+
+Funds raised during a NFT drop should be locked with monthly payments to the team over [X] years.
+
+NFT holders vote monthly if the team deserves its payment, cool use case of DAO voting no?"
+13,⚠️⚠️ @doodles discord hack ⚠️⚠️ https://t.co/P3AoDYRnUr
+14,"@vasa_develop @gemxyz @NFTX_ wow, I didn't know you guys supported NFTX as well. Thought it was only OS/LR. Thanks"
+15,@vasa_develop @gemxyz you see all those 1.255 listing? They don't appear in OS.
+16,"@vasa_develop @gemxyz Curious to hear why Crypto Coven prices on Gem isn't updating correctly?
+
+https://t.co/V7WpXspxH8"
+17,Tweets about the correlation between crypto/stock prices and war/invasion are pretty insensitive.
+18,@BitcoinLixin @QuadrataNetwork we can arranged that 😂
+19,@DanielStagner I’ve experienced the same thing but likely just because my content is 👎
+20,"The @QuadrataNetwork team @ ETHDenver.
+It was really fun meeting everyone there, so many talented teams building on Web3.
+
+I’m really excited for the future of Blockchain technology, and how Quadrata will fit in this ecosystem. Stay tuned! https://t.co/IJByEBk3xL"
+21,@PacoSinclair Have NOT been following at all (at ETHDenver). Pray for my NFTs to still be here
+22,"ETHDenver hackathon winners have been announced.
+
+Price: All your NFTs"
+23,"Using @TornadoCash or any mixers doesn't necessarily mean you're doing something shady (@VitalikButerin uses @TornadoCash for privacy reasons).
+
+However, using a mixer might flagged you and prevent you from interacting with a CeFi."
+24,@BitcoinLixin @BoredApeYC Tagging a few respectable Bored Ape members I love @DylanMayoralNFT @Zeneca_33 @0xQuit @kevinhabits - give a warm welcome to @BitcoinLixin
+25,@Zeneca_33 Would like to add that Hexagon pfp IS NOT a guarantee that it’s Zeneca. Stay safe
+26,@PetsBurada Keep me posted when you find it 🤝
+27,@Zeneca_33 Heard that many times 😭
+28,"@Jeppe15 There were not when I asked that poll, they were 4-5 ETH I believe"
+29,@AcceptMeAsJesus @YannickCrypto @the_x2y2 Worth claiming?
+30,"Your twitter feed is all about success stories..
+
+..and there's me https://t.co/U3WtBOI0zE"
+31,"The new @TheSandboxGame LA house is 🔥🔥🔥.
+
+@borgetsebastien and I got photobombed by @coolcatsnft https://t.co/CgbU1HHbM7"
+32,@luson121 We would have to decline your application https://t.co/Xbn4ujA7vv
+33,@Sean25225 @sudoswap Can you imagine if they dedicated so much brainpower and effort into building real products with value 😂
+34,"Latest trend of scams @ @sudoswap.
+Beware of those fake $WETH offers using NFT (ERC-1155). https://t.co/dvvgzcFYDT"
+35,@darthcrypto_eth @BitcoinLixin @KeystoneWallet 💯
+36,"History has shown that all societies are based on imagined hierarchies:
+
+1) Caste System (1500 BCE)
+2) Racial Hierarchy (1600)
+3) Gender (♾)
+4) ....Digital Identity / NFT Ownership??"
+37,@luscaseth hey Luscas. DM me if you're selling your Karafuru :)
+38,"⚠️⚠️ BEWARE: SCAM ⚠️⚠️
+Scammers are using NFTs with a logo of $ETH on @sudoswap with name like ""8 Ether (Wrapped)"".
+
+This person just lost its rare @KarafuruNFT (worth &gt;8 ETH). https://t.co/iROV8cWvpS"
+39,"@TheCryptoBubble Higher price, low supply, and the free stuff for the homies"
+40,@the_ethernaut Web3 🤝 ♥️
+41,@andrewzip I was asking on the Karafuru discord if anyone wanted to trade Kara. so he reached out to me on Discord.
+42,"I received 4 $ETH for free today. What NFT should I buy?
+Jk. sent it all back 🙌 .
+
+ALWAYS DOUBLE CHECK BEFORE CONFIRMING A TRANSACTION. https://t.co/mOxG5hdJMi"
+43,@Crykei24 @Aleksa2217 @ChiticaruCostin @zebatut I got you 🤝. Thanks for reading :)
+44,"@Crykei24 @squiggles @opensea @Aleksa2217 @ChiticaruCostin @zebatut If you are planning a futur rug, loop me in"
+45,"We all don’t have enough $ETH 👀
+
+H/t: @benjaminion_xyz https://t.co/abDJQO7epE"
+46,@dgmason I’ve been in crypto a while and I absolutely do not get excited to see price drop
+47,@BENCHUCHUU @pixie_DG @metaversej_eth @dgnayshay Any Dreamers is always GMI ❤️
+48,"@0xstink Winners will be pick in 333 hours, make sure to remember to come back to check if you won"
+49,Repeat after me: I will not tag 3 of my Twitter frens to earn an imaginary NFT or $ETH
+50,@jlejuwaan It won’t let you execute the trade (or should alert you)
+51,@szzomu @squiggles @StonerApeClub What I meant is that I don’t think they are linked to Squiggles who went through all that trouble to obfuscate their trace.
+52,@dingalingts @neemanaztv @garyvee 1 min of my life that I’ll never get back. You owe me @dingalingts
+53,⚠️ The team can mint an unlimited supply of NFT. https://t.co/Jfi6GfjpHk
+54,"7/ TL;DR:
+- Team anon with fresh new wallets: they did not leave much trace behind
+- Mint of 800 ETH coming from a single account: unsure if inflating numbers or just a failed NFT sniping operation
+- Promo/Collab between @squiggles and @StonerApeClub - likely just a victim?"
+55,"6/ All Rinkeby accounts used to test the Squiggles contract are also fresh new wallets that receive 0.1 ETH from a faucet that does NOT require social media link verification.
+
+The @squiggles team hasn't withdrawn their $ETH yet with 2500 $ETH sitting in the contract"
+56,"5/ All operator accounts are all fresh new wallets (less than a day) funded by a Binance account (same exchange as the 800 ETH account).
+
+Except the 0x25d (@AlexxSAC), 0x030 (@StonerApeClub) - see screenshot for their side of the story https://t.co/wA0zs4BUA7"
+57,4/ Another bot scooped 60 ETH worth of @squiggles (detectable because of the exact same gas price). Although those accounts have a pattern that looks like real bots with previous snipe on the following projects @ThePixelmon (RIP) or @killergfnft. https://t.co/tTfrk0OKFF
+58,"3/ Mint numbers were inflated with over 800 ETH coming out of a single account distributed across 160 distinct brand new wallets.
+
+Each accounts then sold the Squiggles at a big loss -60% https://t.co/8rI7XP52uF"
+59,"2/ First, the obvious: if you see a combination of the points below, it usually smells fishy:
+☑️ Team fully anon
+☑️ Twitter created recently with big followers
+☑️ Discord created recently with big followers"
+60,"1/ Context:
+@squiggles, a 10K collection launched less than 24hours ago its Auction mint (1 ETH).
+
+With over 200K twitter followers and 300K discord members, big marketing splash, decent OS volume, the HYPE was real.. but is it?
+
+https://t.co/upONSGfYQl"
+61,"🕵️🕵️ Detective Edition #3
+@squiggles amassed over 2500 $ETH during its recent mint.. but got suddenly taken down from @opensea.
+
+Is @squiggles a scam or not?
+
+Blockchain Transactions don't lie - let's take a look 🧵"
+62,@Intenex @CuriousAddys @mai_on_chain ESPECIALLY when we’re talking about @mai_on_chain 🤯.
+63,@DhannteG Never reveal your back to anyone
+64,@Jeppe15 and people can see all the rug coins I invested in 😭
+65,@DylanMayoralNFT @AxieInfinity Do you have to pay gas to play?
+66,@Mudit__Gupta How does one get in
+67,"Everyone: Privacy/Anonymity is what attracts to me crypto
+
+Everyone Also: Web2 me / Web3 me"
+68,"@kevinhabits nice, let's meet !"
+69,"If you are at ETHDenver and haven't yet been canceled, let's meet up 🤝"
+70,"@Mudit__Gupta EIP-3074 to allow EOA to sends batch tx, and abstracting the fees by the another party"
+71,"@ArkkEsthetik You just got yourself a new ""canceled-believer"". Thanks for the write-up"
+72,The real question is “cancelled” or “canceled”.
+73,@MuyaoShen @CoinDesk Congrats!
+74,@Babakukunbe @BEANS_nfts tweet deleted?
+75,"6/ Happy ending however: the person who minted the NFT just sold it to @Cryptopathic for 7 ETH.
+
+Congrats :) https://t.co/lDVHXk4KGE"
+76,"5/ Coming back to the Vanity Block, this mint is purposely trying to capture in a NFT the first NFT that consumes 100% of the available space.
+
+A single block with a single transaction 🤯."
+77,"4/ Less nodes == Higher centralization.
+
+Ultimately, that's what the likes of BSC and other L1s are doing. They are able to offer higher throughput by increasing the requirements to run a validator node, and therefore increasing block limits :)"
+78,"3/ This limitation is what is currently causing high gas cost on Ethereum as there are more demands (more transactions) than available space in each block.
+
+So why not increase the limit? Increasing the limit is bad for decentralization as it requires higher specs to run a node."
+79,"2/ Ethereum transactions are executed when a chosen miner include them in a block.
+
+A new block is mined roughly every 13 seconds.
+A block capacity is currently limited to 30M, arbitrary limitation defined by the Ethereum core team."
+80,"For Normies #1:
+
+A few days ago, a Vanity Blocks NFT was minted using 30M of gas (3.42 ETH in fee).
+
+This is *likely* the highest gas consumed by a single transaction that has occurred since Ethereum genesis.
+
+How does this work? 🧵
+
+H/t @bertcmiller https://t.co/qyXEmeNfTM"
+81,@alphasoups shoot me a quick DM if you don't mind
+82,@Derpnat0r Hope you recovered your funds
+83,"@Intenex Beeeeeen, nop. It literally just rebooted in my hand, and then factory reset."
+84,@PacoSinclair Nano X for me. Collection wide problem 👀
+85,@PacoSinclair Damn seems like it's happening a lot more than I thought. Hope you can recover your seed phrase safely 🫂
+86,@0xstink take one for the team 🤝
+87,"@KartikGaniga not on that one, but luckily, it was a brand new one with not a lot of funds."
+88,"@Crypt0packa not this one. I bought it specifically for a hardware wallet reviews I did not that long ago..
+
+Should be amending my review now .. Luckily, I didn't have much"
+89,"@KartikGaniga I'm not sure, but I experienced this a few days ago:
+https://t.co/9o6QcvYBg4"
+90,"No joke.. my ledger literally factory reset on its own 😡, account wiped.
+
+ALWAYS BACKUP YOUR SEED PHRASE."
+91,@dapperjman @BurnableLabs Nobody listen to me 😭
+92,@tmophoto Oo thank you
+93,@rleshner Toadz owners are just vibing.. and mad
+94,@3stacksnft Nooo what about my stealth launch 👀
+95,@kobud0 I gotcha 🤝
+96,"@Zeneca_33 You want a bullet list of anti bots measures?
+P.S: i know I’m late but I finally have the prototype of how to do a fully public launch anti bots, anti wasted gas etc."
+97,Wormhole is the Trojan horse baiting the best Ethereum gigabrains to learn Solana smart contracts.
+98,"@IcarusFortune It would be affecting a lot of things on Solana.
+Every wETH pairs on Solana.
+
+Essentially wETH lost its peg with ETH as apparently Wormhole is responsible for ~20% of all wETH:ETH.
+
+Also bad for $ETH as 94K ready to be dump"
+99,"Explanation for the Normies of the ""Wormhole exploit"" of 94K $ETH (~$250M) with my limited abilities of the Solana ecosystem.
+
+Like &amp; Follow for more quality educative content. https://t.co/OqE7hH6Yt8"

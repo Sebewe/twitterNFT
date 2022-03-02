@@ -1,0 +1,114 @@
+,0
+0,@SajalShlan Wow! TIL
+1,@the_dome_news @jason_argo2 @ExpansionPunks Me 😁
+2,How it feels using tradfi apps and crypto apps simultaneously. https://t.co/AFjmcfIhRC
+3,After a brief intermission I'm back with the Solidity posts. The quote tweet is so right! Marking a reference type variable in a function as calldata will lead to cheaper execution cost (the downside being you can't mutate it). In this example it saves you 44647 wei! https://t.co/iuAhPGVe8b https://t.co/y7ukSZSplm
+4,@ShannonLeePerr1 @Rainmaker1973 @elonmusk @SpaceX Very cool idea!
+5,On day #24 of #dailyblockchaindevconcept I present to you: Structs https://t.co/Pvm4R6iFqi
+6,On day #23 of #dailyblockchaindevconcept I present to you: Libraries in Solidity. https://t.co/HwdKVzPP0m
+7,"On day #22 of #dailyblockchaindevconcept: The order in which you declare your ints/uints can affect the cost of deploying a contract! Account #1 was used to deploy the unoptimized version, account #2 deployed the optimized one. Both accounts started with a 100 eth balance. https://t.co/Smw0EPcoOz"
+8,@TWiStartups @friedberg Now this is creativity. Love it!
+9,God created Arrakis to train the faithful.
+10,"On day #21 of #dailyblockchaindevconcept I present: Marking variables as constant can make the contract cheaper to deploy. (See 2nd image. 1st account deployed the unoptimized version, 2nd account deployed the optimized version, both accounts started with 100 eth balance) https://t.co/Zv9RYwvT9w"
+11,On day #20 of #dailyblockchaindevconcept: Interacting with other contracts by calling their public functions! https://t.co/9m3RaJPRns
+12,@Jason He definitely motivated me to work harder!
+13,@VickWowo @ExpansionPunks Hexagon gang
+14,#NewNFTProfilePic Hexagonal #xPunks https://t.co/V458w2FXS8
+15,On day #19 of #dailyblockchaindevconcept I present to you: contract inheritance https://t.co/yMPcds5OA9
+16,On day #18 of #dailyblockchaindevconcept I present to you: block.timestamp and the time unit keywords https://t.co/iVs8CXGpVL
+17,"On Day #17 of #dailyblockchaindevconcept I present to you a version of yesterday's code, where we added a check so that only the owner can withdraw funds from a contract, but this time implemented via a modifier: https://t.co/9XPShvfCDj https://t.co/wgEhrb05L1"
+18,@BigJohnDubbs #XPUNKS
+19,"Yesterday I shared how you can withdraw the balance of a contract deployed on Ethereum. However, that code made it so that ANYONE could withdraw the balance. On Day #16 of #dailyblockchaindevconcept I present to you a simple (though not the recommended) way to secure withdrawals https://t.co/nwlVfJ9a0t"
+20,RT @BigJohnDubbs: Tomorrow is the day. Monday Funday W/ Dubbs &amp; Dani. We will focus mainly on #xPunks and all around good vibes. Discord Ni…
+21,@BigJohnDubbs Some pretty cool ones left! #XPUNKVIBES
+22,In previous tweets of my #dailyblockchaindevconcept series I've shared examples of how to accept ether into a contract. This time I'll show you how you can move it from the contract to an address: https://t.co/LfVPZPomvS
+23,Something that surprised me about Solidity is that there's no direct way to perform a string comparison. On day #14 of #dailyblockchaindevconcept I present to you one way to perform a string comparison in Solidity: https://t.co/YXhxucmaKH
+24,If anyone has any suggestion on how to best share snippets of code on twitter I'd welcome them as well. Been thinking of actually putting a link to a web-based Solidity IDE with the code so that people can actually play with it and not just look at an image.
+25,Retweeted as it was brought to my attention that my images were getting cropped 😅. This one is cropped on the preview but you can click on it to look at the whole image.
+26,"Day #13 of tweeting a blockchain development concept I learned recently. Today's topic: Solidity mapping type, the equivalent of dictionaries in python and C#. #dailyblockchaindevconcept https://t.co/iVuAIF7tWb"
+27,@alxxram Hi Alex! thank you for mentioning this. Will look on how to avoid this for my future tweets 😁.
+28,Day #12 of tweeting a blockchain development concept I learned recently. Today's topic: The `ether` suffix. #dailyblockchaindevconcept https://t.co/p6wp6MNVar
+29,@Jason You're my favorite bestie. Also I'm always astounded at the quality and amount of information you provide for free!
+30,"Day #11 of tweeting a blockchain development concept I learned recently. Today's topic: the payable modifier, msg.value and address(this). #dailyblockchaindevconcept https://t.co/ZOBrmrDHMD"
+31,Day #10 of tweeting a blockchain development concept I learned recently. Today's topic: require #dailyblockchaindevconcept https://t.co/cwxJk6HWMF
+32,Day #9 of tweeting a solidity development concept that I learned about recently. Today's topic: arrays in Solidity and meaning of msg.sender inside contract methods. #dailyblockchaindevconcept https://t.co/RpBah6GDKc
+33,"Day #8 of tweeting a blockchain development concept I recently learned. Today's topic: ""Implicit"" return from function by naming return parameters. https://t.co/BPhKdCIq8Q"
+34,@MikeFebNFT @DataNFT_ @ExpansionPunks This is great!
+35,Day #7 of tweeting a solidity concept that I learned recently. Today's topic: the ability of Solidity function to return more than 1 value. #dailyblockchaindevconcept https://t.co/Qz757AsRNS
+36,Day #6 of tweeting a blockchain development concept that I learned recently. Today's topic: usage of `string memory` and a brief acknowledgment of the if statement. #dailyblockchaindevconcept https://t.co/UfbWhZtelL
+37,Love it https://t.co/LO28jVNb01
+38,@joshbobrowsky @ExpansionPunks Welcome!
+39,In day #5 of tweeting a blockchain development concept I learned recently I present to you some info about function/method declaration. #dailyblockchaindevconcept https://t.co/7B90WcgmMX
+40,"RT @ExpansionPunks: We announced this in Discord, adding it here for broader awareness that we have nothing to do with the XpansionPhunks p…"
+41,"Day #4 of tweeting a blockchain development concept I recently learned. Today's topic: the address type.
+#dailyblockchaindevconcept https://t.co/LMUL6p0Lqp"
+42,@JaiminDesai93 👋
+43,Day #3 of posting a blockchain development concept I recently learned. #dailyblockchaindevconcept https://t.co/3q1oINC14D
+44,Day #2 of posting a bite-sized blockchain dev concept every day during 2022. Today's concepts: Solidity pragma directive and specifying the code's license in a comment. #dailyblockchaindevconcept https://t.co/gwHBVA38TE
+45,@hi_rankin Dad
+46,@kobvel @ExpansionPunks Looks rare!
+47,"This year I want to get into blockchain development, starting with Solidity. Every day I will be posting a bite-sized concept. The intended audience are devs who already know 1 other programming language. Here's 1/365 of #dailyblockchaindevconcept https://t.co/vbK53B4v2k"
+48,@crypt0hindsight @ExpansionPunks gm
+49,I'd also suggest to accompany its reading with @DanikaXIX book club series on youtube. Makes for a very enjoyable experience and can help you out on some of the harder to understand parts of the work. https://t.co/SYxGnnrtC3
+50,Just finished the first Dune book which I picked up after being hooked by the recent movie adaptation. Would highly recommend. In addition to being excellent sci-fi entertainment it also contains quite a few bits of wisdom applicable to our lives. https://t.co/2KqODHHG79
+51,@mattsaxe17 @ExpansionPunks Looking good!
+52,TIL You can derive the general formula by simply completing a square! https://t.co/qamiVou4tc
+53,@JordanLyall Hi! pmunoz.eth
+54,@RainNFTs @ExpansionPunks Let's do it.
+55,Added another #xPunks  to my collection. https://t.co/LtlgJu9eda via @opensea
+56,@ethaflam gm
+57,@iamghislaine Gusto en conocerte! #xPunks 🔥🔥🔥
+58,Getting my mind blown #Xpunks https://t.co/o4Itzhk18C
+59,@natbrunell Of course!
+60,I'm falling into a Dune rabbit-hole.
+61,Just got my ens domain pmunoz.eth. Gifts are welcome 😁.
+62,@AlexxNFT 👋
+63,My first NFT! just minted this fella: #ExpansionPunks #11478. https://t.co/PCaTs5YkUW
+64,"Just installed NodeJS on a new machine for the first time in a while, the machine also didn't have Python and node installed it. Didn't know Node needed python!"
+65,@SteveStuWill https://t.co/gHwk2V25Wa
+66,sys.setrecursionlimit(float('inf'))
+67,"@sirgalleto I'm the same, when learning a new programming language for example I prefer a book than a video, just makes it easier to jump between chapters / sections, also easier to annotate."
+68,"@joelnet Any sufficiently advanced technology is undistinguishable from RegEx.
+
+- Arthur C. Clarke"
+69,@xah_lee Looks beautiful
+70,@lexfridman Avalanche $AVAX
+71,"@rogerclu @pangolindex @OfficialZeroDEX @complusnetwork I'm new to AVAX and trying to understand this, are you saying that you can earn up to hundreds of % per year by being part of the liquidity pools in the pangolin exchange?"
+72,"@RaoulGMI Avalanche ($AVAX), innovative avalanche protocol for consensus, smart contract support with Solidity just like ethereum and has interoperability with ethereum too. The CEO of Ava Labs is a Cornell professor with deep knowledge of all things crypto."
+73,"Top searches in Charles Schwab platform, #2 and #3 are bitcoin related. https://t.co/3HU5X639x2"
+74,RT @skycatch: The Evolution of Data Capture and Analysis for Highwall Mining https://t.co/IWHaKJW1yi
+75,0x9edE32b75dF1C6D40cc814B5A5152a8f1C87C6C8
+76,"RT @aikohosoya: Amigos, un asilo de acá de GDL (Hogares de Ancianos AC) esta batallando un montón porque los abuelitos se contagiaron de CO…"
+77,@Rodrisanzrios @FelipeCalderon Promoted?
+78,@tyler Buy some more Tyler :p
+79,@avaxoshi @laurashin @el33th4xor This
+80,@joelnet But once the eyeball cyber enhancements are here...
+81,@sirgalleto Interesting
+82,@Binance_Spanish @avalanche_esp @jpfrut @Gambo7
+83,Great stuff https://t.co/VzqfU3mmzM
+84,"RT @Binance_Spanish: ♻️RT para ganar
+
+¿Qué problemas resuelve Avalanche?
+
+Avalanche resuelve los desafíos de escalabilidad y finalización d…"
+85,"RT @Binance_Spanish: ♻️RT para ganar
+
+¿Por qué se creó Avalanche?
+
+Avalanche es la primera plataforma de contratos inteligentes que confirm…"
+86,@kevinsekniqi X-avax15955tere3knlpp43zskfymjqqa3v0r9mxg4lwx
+87,@StevenSkiena Any chance these are open and available online?
+88,"RT @Hacienda_Mexico: ¿Sabías que hay un sitio de internet💻 para que alertes sobre casos graves de #corrupción?
+
+Aquí puedes generar una ale…"
+89,@sirgalleto Mensaje profundo
+90,@BestofLinkedin A true hero
+91,"RT @wellgousa: From the creators of the Korean blockbuster #TrainToBusan, Well Go USA presents #PENINSULA. Coming Soon. https://t.co/I7WEAp…"
+92,@DomLip94 Embarrassing
+93,@KarlyGrCm Ganaste una sala
+94,@chaselyons @mcmansionhell @sirgalleto
+95,@teaforpterosaur I'm guilty of this
+96,RT @csanz: Day of Robots with @zipline @BostonDynamics @KomatsuConstr and @skycatch ... thank our Mr Oashisan for your visit and your passi…
+97,@sirgalleto 200 IQ
+98,Qué clase de psicópata usa Twitter light mode?
+99,"Hm, upgrades."

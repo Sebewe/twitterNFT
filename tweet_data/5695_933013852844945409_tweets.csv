@@ -1,0 +1,195 @@
+,0
+0,"RT @camiinthisthang: GM 🌞 Today I’m dropping The Developer’s Guide to Getting Started with @graphprotocol 🧠
+
+A suite of content to help dev…"
+1,"@developer_dao Lurkers get left in the stands. You have to get involved.
+
+source: me. a lurker."
+2,@akhil_bvs 👋
+3,@societygremlin so good
+4,@bojanstef @developer_dao D_D
+5,Solidity static analysis: https://t.co/yRgYUn3189
+6,"RT @dievardump: 1) Alice opens https://t.co/izR2GHFEHR
+2) Alice connects her wallet and clicks on ""check airdrop eligibility""
+3) attacker c…"
+7,@_buildspace 1
+8,"RT @gh_trending_js: 📦 full-stack-web3
+👤 @dabit3
+⭐ 108 (+9)
+🗒 JavaScript
+https://t.co/TAoPgbZ08b"
+9,"RT @senrobportman: Appreciate the Treasury Department affirming that crypto miners, stakers and those who sell hardware and software for wa…"
+10,"RT @dievardump: Solidity Saturday: 
+
+More and more versions of ERC721 including Enumerable with for-loops are coming out.
+
+A small 🧵 on  (1…"
+11,"RT @dabit3: Today I'm excited to release The Complete Guide to Full Stack Web3 Development 💫
+
+A free and in depth masterclass teaching you…"
+12,@GremlinsNFT I’ve always had the power of invisibility
+13,@BearIslandNFT me too.
+14,@cryptonia_d69 who do we have to talk to to get that bumped?
+15,The next 15 minutes is the longest of my week. Can’t wait to dev talk with y’all! https://t.co/FTj5V6fzXf
+16,"@BearIslandNFT This is counts as three, right? https://t.co/JRtpD974cI"
+17,@run4pancakes @Haezurath @nachoiacovino this is nextjs and wagmi if you’re into that sort of thing https://t.co/RIWgqT0EjB
+18,@run4pancakes @Haezurath @nachoiacovino solid hooks https://t.co/s2whXegpDH
+19,@run4pancakes @Haezurath @nachoiacovino I like the very simple example in @dabit3’s full stack guide https://t.co/jfzmfxPnFD
+20,"I'm verifying myself for @mazuryxyz 🌊
+
+0x0CF661907E76C4921f7dF302092697799dc63B24"
+21,RT @transmissions11: 👏 put 👏 your 👏 smart 👏 contracts 👏 on 👏 github👏
+22,RT @0xkarmacoma: ☝️here is some web3 educational content for my @developer_dao frens
+23,RT @cobie: My life savings are secure in this man's invention
+24,"RT @locke_chain: Twitter Blue and their NFT profile picture feature does not support on chain, svg encoded pfps (like @AntiPfp, @OnChainMon…"
+25,RT @0xPaid: We don't click on links over here.
+26,"RT @dabit3: If you're looking to learn blockchain development &amp; are overwhelmed with threads &amp; roadmaps with dozens of resources, instead c…"
+27,"RT @poojaranjan19: ✨EIP-3668: CCIP Read: Secure offchain data retrieval✨
+
+Follow the recording for an overview &amp; demo presented on EIP-3668…"
+28,@MbaziiraRonn @developer_dao 👋
+29,"RT @onbjerg: @gakonst And for your CI needs: https://t.co/SUQMNV1VlO
+
+About 1 second install, nothing additional needed :)"
+30,@2irl4u Publish to a public blockchain forever or for a few months on a centrialized service using sign-in with Google? Seems clear to me.
+31,@_0xken @_cdCarlos_ @developer_dao yes; _; they can;
+32,RT @developer_dao: thank you @art3starr 👑 https://t.co/xM3QdT5BSm
+33,"RT @MyCrypto: .@ensdomains is on its way to supporting layer 2. ⛓
+
+How? 
+
+Via two new proposals that @Mrten_ dives into here: https://t.co/…"
+34,@JonnyTryProfile @BrantlyMillegan @ensdomains @tryProfile @tayvano_ Fix it now though.
+35,"RT @0xInuarashi: 1/ 🤑 How to reduce gas and achieve Enumerable functions for NFTs 101
+
+Reduce gas by up to 80% on mints and achieve Enumera…"
+36,RT @princess_nft: Its almost that time of the week again ! https://t.co/T21QJoG4Jy
+37,@codingwithmanny Is it this one? https://t.co/u9VyPPEwUm
+38,@BrantlyMillegan @ethleaderboard 🙋‍♀️
+39,"I use the term ""game"" lightly."
+40,Redeploy incoming. Game about to be halted... only time will tell. DYOR https://t.co/vFkXAs0luM
+41,"RT @0xPolygon: 1/3 A quick update and recommendations on the current state of Polygon PoS:
+
+- Polygon PoS is a permissionless network and i…"
+42,@WizardsDAO cachemon.eth
+43,RT @princess_nft: Hop in the space if you have and #web3 or #nft dev questions https://t.co/aMvX2Ayszo
+44,It’s that time of the week. LFG https://t.co/sNbyK5DtWW
+45,@wanderers_nft Gotta be the 🍄 https://t.co/H8u3Gg622m
+46,@squeebo_nft @ZssBecker what does enumerable do for us in this case?
+47,@defi_sparkles @santiagoroel @BoredBreakfast I’m curious about subscription renewal. Are you doing a push or pull renewal?
+48,"RT @Push_Pins: Find a Dev team that has this type of dedication to it’s community! @chibilabs 
+
+Community member lost her NFTs to a scammer…"
+49,And that's just the ERC721! Thanks to all the big 🧠s helping us tackle these gas prices. 🙏
+50,"By allowing the developer to provide their own implementation Solmate doesn't need to include the String library or unnecessary functions. This is very appreciated by those of us that like on-chain data URIs.
+4c https://t.co/Nmn7mhZvXl"
+51,"They also assume that the token id will be included in the URI. This requires the function to change the token from an unsigned integer into a string.
+4b https://t.co/DSbt6Kx9IY"
+52,"4) Opinions About Token URI
+@OpenZeppelin makes assumptions about the structure of a token's URI.
+
+First, an internal function to returns a base URI. This can be overridden in the child contract.
+4a https://t.co/KoYNgns9Iz"
+53,"Solmate makes the mapping public to satisfy the same interface. This means an extra view function isn't necessary.
+3b https://t.co/c2NHDni4wr"
+54,"3) Unnecessary Private Mappings
+
+IERC721 defines a public balanceOf function. @OpenZeppelin satisfies this implementation by keeping a private mapping of balances and a read function to access that mapping.
+3a https://t.co/mROhTdazZJ"
+55,"Solmate ERC721 reduces deployment cost.
+
+How?
+
+By removing:
+
+1) Transfer hooks (get fucked enumerable)
+2) Address
+3) Unnecessary private mappings
+4) Opinions about the token URI
+
+Deeper dive into 3 and 4 👇 https://t.co/kd41yebR2o"
+56,"RT @VitalikButerin: Happy new year!
+
+Today, a mini-tweetstorm of some of the things I've said and written over the past decade, and what I…"
+57,"#NewYear new #Wanderers planet. Come for a visit, #NFTCommunity .
+
+Open to friends and #TheLostColonies. https://t.co/KgqtbJXAwH"
+58,RT @developer_dao: 2022 is the year of web3
+59,"RT @cat5749: A few hours ago, a promising token called $YEAR was airdropped. It was set up as a ""year in review"" of your Ethereum transacti…"
+60,RT @etherlegend: The best way to settle the Web 3.0 debate is to dive in and write some code - A great intro read for any developer who wan…
+61,loving this @Galio_Studio minted on @LaunchMyNFT https://t.co/uvELB1favG
+62,"Are you new to this whole ""NFT"" thing? Do you have unanswered questions? Questions about a recent airdrop?
+WIN FREE NFT ADVICE EVERY WEEK!
+#NFTGiveaway 
+0. follow @princess_nft 
+1. Set the reminder
+2. rt #NFTCommunity 
+3. show up and be selected!
+https://t.co/fItwRtznRf"
+63,@wanderers_nft https://t.co/0d4UmxvoxZ
+64,"RT @gakonst: Frontend devs should be trained to:
+1. here's an ABI
+2. here's how you connect it to your provider
+3. here's how you call a wr…"
+65,"RT @spengrah: For the past couple months I've been on a journey to better understand what makes a DAO a DAO
+
+After several false starts, I'…"
+66,RT @jackbutcher: gm https://t.co/4M5fUZXez5
+67,"RT @boredGenius: How I almost cheesed the EVM, and how I was stopped by the lack of a NONCE opcode
+
+Trigger warning: EVM opcodes and raw by…"
+68,"RT @0x_ap: How to become a web3 developer without any programming experience
+
+An (ongoing) 🧵👇🏽"
+69,"RT @solidity_lang: Solidity 0.8.11 has just been released! 🪁 Most notably, v0.8.11 adds a first implementation of a Language Server and all…"
+70,@BrantlyMillegan cachemon.eth
+71,@BobbyThakkar cachemon.eth
+72,@dhaiwat10 #1
+73,@nftchance what are you using enumerable for? couldn’t you leave it out? what’s the time complexity of doing a lookup in a map vs iterating over an array of 10k items? that’s the upper limit in number of calls to the mint function? what’s the upper limit in number of enumerable calls?
+74,"RT @grt_iq: 🔥 Listen to @VitalikButerin at a @graphprotocol bday event in South America talking about The Graph, Ethereum, and Web3. $GRT"
+75,Orange you glad it isn’t another mammal? @anti_dao_ @AntiPfp https://t.co/xLCFnXU2H7
+76,@randomcirclesRC @AntiPfp nice antipfp you got there. #warmfrens
+77,@sushinft cachemon.eth
+78,@divine_economy cachemon.eth
+79,"RT @Montana_Wong: Adidas dropped their first NFT today. 
+
+The sale was capped at a max of 2 items per person and it sold out in less than a…"
+80,@nftdaoweb3 @AntiPfp cachemon.eth
+81,"RT @Cooopahtroopa: Crypto is no longer only about making money.
+
+- Find friends online
+- Work on what you love
+- Pursue a creative career
+-…"
+82,👇 https://t.co/eJJpToKAHy
+83,@marcelc63 the inefficiency is paid in contract to contract calls. what we save on mint will cost more in the long run
+84,@marcelc63 I don’t think this implementation is all that good and i don’t recommend it for large projects. the space time complexity of looping over an array vs doing a map lookup. people should stop praising this trick without fully understanding it
+85,We answer your NFT Dev questions every week and this week is no different. https://t.co/O9pMkohQjU
+86,@squeebo_nft @PagziTech https://t.co/5iAfX16caH
+87,"RT @MalwareHuntress: Holiday Reminders: 
+1. Don’t click on links 
+2. Don’t enter your personal information into “forms” 
+3. Nothing digital…"
+88,"RT @developer_dao: Ethereum Boilerplates ❖
+
+Collecting all Ethereum Boilerplates in order to accelerate Ethereum development process and en…"
+89,RT @NTmoney: Hal Finney predicted the NFT boom in 1993. Legend https://t.co/wQ353fXqK7
+90,https://t.co/omBUaPHTD1
+91,"RT @CozomoMedici: All projects have unique properties. 
+
+In my opinion this makes our space better, not worse.
+
+I enjoy a strong argument.…"
+92,"No shit, clowns. Global consensus and censorship resistance has always been difficult to scale and expensive to secure. Imagine not wanting to pursue them because “it’s too hard” https://t.co/a8iP189ZKc"
+93,@jhancik @NFTherder I’m not particularly fond of any of the optimizations here. there are better approaches than centralized  vip lists and replacing a map for an array.
+94,@johnnypolymath 🙋‍♀️
+95,"RT @dabit3: Tech I'm most interested in going into 2022 🐰
+
+EVM
+GraphQL
+AWS AppSync + serverless stack + CDK
+@solana / @ProjectSerum Anchor…"
+96,@squeebo_nft I've wanted to discuss your approach for a little while thanks to @pagzi. Have you tested downstream read costs of the chosen implementation?
+97,RT @KassandraSanch: Adding new code to legacy code https://t.co/fNg2yHXeOh
+98,"RT @rchrdbyd: CDK V2 is Generally Available, even if you read otherwise on a keynote slide;)"
+99,My beliefs are grayscale - and my confidence in them changes as I learn new things. - @juliagalef

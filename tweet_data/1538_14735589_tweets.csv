@@ -1,0 +1,198 @@
+,0
+0,@parrots Thanks. Congrats on the growth and milestone. It’s been fun to watch the journey unfold. 😊
+1,@parrots Any takeaways in terms of what drove the majority of growth and revenue? Has Android already become a meaningful addition?
+2,"@tobins @arjunram Yah, it’s all part of a tight feedback/iteration loop."
+3,@tobins @arjunram Both are true. Doesn’t matter what hat you ship if people don’t want it.
+4,@superbryntendo Weather today couldn’t be better. ☀️
+5,Why is the criteria for reporting a space different than the criteria for reporting a tweet? https://t.co/z5CWzKDAex
+6,"@palmin Yah, that’s seems likely to be the reason. They didn’t build it in a way where the entitlements can be easily transferred. 😢"
+7,@rjonesy @drbarnard Exactly. What’s the likelihood they remove the entitlement restrictions?
+8,"@MrGLWatson @twostraws @bzamayo Previously, if you transferred an app (eg. By selling it), your account would be ineligible for the small business program after transfer. That restriction has been removed."
+9,"This is great news!
+
+However, make sure to read the small print. There still may be transfer limitations for apps that use iCloud or ApplePay entitlements. https://t.co/feHycfotpU"
+10,@Punchbowl Thanks!
+11,"@Punchbowl I don't understand your pricing. The premium says $11.99/mo or $5.99/mo (annual), but when I select to Start Free Trial it says $24.99/mo.
+
+Where's the $11.99/mo option? https://t.co/ZLFub0olW4"
+12,@_chuckyc It’s never too late to learn. 😀
+13,"RT @abraibrai: Date of birth = soooo Web2
+Date of mint is where it’s at duh"
+14,@kabojnk @davidhoang Both great!
+15,@parrots Good to know! Not sure how I missed this; I may do the same.
+16,@parrots Any particular reason for the switch?
+17,"@agneevX That’s fair; they do a lot of odd things when it comes to featuring. 
+
+I think it’s a bit of an Apples /Organges comparison though. Apple would have to sniff the network, consolidate a list of all potential websites that involve tracking, understand how the data is used, etc."
+18,"@agneevX With that said, Apple defines “tracking” very specifically and it’s more specific than the average user’s definition. 
+
+In this instance, I’m not sure using Branch violates any terms other than not listing it in the privacy section."
+19,"@agneevX Overall, I agree with the sentiment though. The Privacy section is completely self submitted and therefore bad actors aren’t going to fill it out accurately. It’s also pretty confusing to fill out since the language to do so is fairly verbose and easy to misunderstand."
+20,"@randomnessncats @agneevX @AppleSupport With that said, they should list data collection in the Privacy section and that the collection isn’t used for tracking (based on Apple’s definition)."
+21,"@randomnessncats @agneevX @AppleSupport Gotcha. Unclear from the original post whether it prompted for ATT. The screenshot shows other permissions.
+
+Based on Apples definition of tracking, I’m still not sure, if it was prompted and denied, that they’d be violating any rules since Branch isn’t a data broker."
+22,@randomnessncats @agneevX @AppleSupport https://t.co/TjqYXNO8Qp
+23,@randomnessncats @agneevX @AppleSupport Branch (the SDK in question) may be a data broker (not positive). They mainly do mobile attribution so you can attribute where users are coming from.
+24,"@randomnessncats @agneevX @AppleSupport I’m not sure this is me necessarily true. They define tracking as related to ads, linking users from 3rd parties, and data brokers.
+
+If the app isn’t collecting the IDFV or one of the above, they don’t need to prompt as they just collecting for their own usage."
+25,@dill_iOS It’s working again. No idea how I fixed it though hah.
+26,"@GigabiteDan Thanks for the help. I tried a bunch of various things with no initial luck.
+
+However, it's working now. No idea what I changed, but I don't care as long as it's working now ha. 😆"
+27,"@nedim0x01 Thanks for the help.
+
+It's working now. No idea what I changed, but I don't care as long as it's working hah. 😆"
+28,Been trying to fix this error for over 3 hours. 😭 https://t.co/ao7MoUmqXK
+29,"@ChristianSelig @mdufort @teddumitrescu Yeah, I definitely feel the same. For my personal apps, I'm in the same boat. I'm only using Firebase for my own apps and I'm equally annoyed how hard it is to visualize the data. If you find a better ""indie"" solution that fits all your needs, I'd love to hear an update."
+30,"@ChristianSelig @mdufort @teddumitrescu That also allows us to look ""down funnel."" One variant may have higher conversion but might cause worse retention, for example. So, it's not always enough to know that a paywall/signup converts better, but that other things (such as retention) aren't negatively affected."
+31,"@ChristianSelig @mdufort @teddumitrescu RevenueCat, for example, has its own A/B testing where it buckets users. We forward what variants users are in through to our own analytics, so it's all in one place."
+32,"@ChristianSelig @mdufort @teddumitrescu Yeah, totally fair. This stuff can be confusing, so just wanted to clarify. 
+
+Unfortunately, the less expensive options specialize. So they don't have both A/B testing and great analytics analysis. However, for the most basics, Firebase can do it all, if you use GA console."
+33,"@ChristianSelig @mdufort @teddumitrescu This is what I was referring to by combining Firebase + Analytics tool.
+
+Firebase creates what users are in a variant of a test. App sends the analytics tool (Amplitude, Mixpanel, etc) what a/b test these users are in via “user properties” and use analytics tool for measurement."
+34,"@ChristianSelig @teddumitrescu @NathanBLawrence It’s not necessarily ideal if you want 1 tool for everything, but you can use Firebase a/b testing and then forward what variant users are in to your analytics tool (TelemetryDeck, for example) for deeper analysis.
+
+I do this with Firebase + Amplitude right now."
+35,"@chrisvasselli @ChristianSelig Yah, I believe that’s right. It’s using uniques, not totals. As long as you set the right activation event &amp; right conversion event, you’re good. I believe firebase will also give a confidence or statistical significance in terms of how confident one variant is vs another."
+36,@EthanLipnik You’re amazing. Can’t wait to see where you go from here. All my achievements were well past 19. 🙌
+37,@Cyclebrity Me too. 😃
+38,"@ChristianSelig Ultimately it depends on your needs and how deep you want to go on understanding user actions, optimizing funnels, a/b tests, etc.
+
+I think Amplitude has a free tier if you just wanted to try out the dashboard. TelemtryDeck seems nice, but I couldn’t find a demo for comparison."
+39,"@ChristianSelig @NathanBLawrence If you’re serious about an alternative analytics solution, I’d recommend at least inquiring about the price since the tool is really good, but may also be more than you need; it really depends what you’re missing from current analytics and what type analysis you’d like to see."
+40,"@ChristianSelig @NathanBLawrence I wouldn’t suggest Mixpanel for more than 25k users. It becomes way too expensive.
+
+With that said, Amplitude is much better than Mixpanel now.
+
+I’m not sure the current pricing of Amplitude though (we’re on some special plan); it’s one of those annoying “contact us” pricing."
+41,"@NathanBLawrence @ChristianSelig Agreed. I find both fairly confusing and time consuming to setup. 
+
+I use Firebase for my own apps, but they’re fairly basic. 
+
+At work, we use Amplitude (and formerly Mixpanel). Both are fairly intuitive and provide everything the free option don’t."
+42,"@emoryzanef @ChristianSelig I don’t think any scaled company is using Firebase for their analytics. We use Amplitude and previously Mixpanel. Both of which are infinitely better, but also not free. Firebase is good for the most basic stuff, but that great or intuitive for any complex analysis."
+43,"@NathanBLawrence @ChristianSelig Yes. If you’re going to use FireBase for analytics, it’s basically a requirement to use Data Studio to really see the data."
+44,"@nedim0x01 @tweetlytheapp Hah, no rush. You have plenty of time. All opportunities are learning experiences."
+45,"@ChristianSelig Hate this so much. Unfortunately, when this is the case, the answer is often “too much.”"
+46,@nedim0x01 @tweetlytheapp Amazing things to come for you. 😃
+47,"Career Highlights AMA
+
+🎷 HS Band Coach
+👨‍👩‍👧‍👦 Chief Community Officer
+📽 Viral Video
+🖨 Epson New Ventures Consultant
+🚀 Launched 2 Apps + 3M Installs
+🍎 App of the Day
+💥 Co-Founded Failed Startup
+💳 Startup 1️⃣
+👨‍💼 Startup 2️⃣ + Acquired 
+⚽️ Startup 3️⃣
+🤗 Sold App
+
+RT w/ yours"
+48,"Career Highlights - AMA
+
+🎷 HS Band Coach
+👨‍👩‍👧‍👦 Chief Community Officer
+📽 Viral Video
+🖨 Epson New Ventures Consultant
+🚀 Launched 2 Apps + 3M Installs
+🍎 App of the Day
+💥 Co-Founded Failed Startup
+💳 Startup 1️⃣
+👨‍💼 Startup 2️⃣ + Acquired 
+⚽️ Startup 3️⃣
+🤗 Sold App
+
+RT w/ yours"
+49,"One of my favorite books is “Tribal Leadership”. It helped me identify the stages people move through their career and ways to (collectively) move upward.
+
+Stage 1: Life sucks
+Stage 2: My Life Sucks
+Stage 3: I’m Great (and you’re not)
+Stage 4: We’re Great
+Stage 5: Life is Great https://t.co/d4G82ThwZa"
+50,"RT @RwoltX: Hi my names Rick. 
+
+Im an iOS software developer with an unusual background.  I went to prison at 18. I was a senior in high sc…"
+51,"@keleftheriou I guess that’s fair. To me, it’s over-indexing on bad actors, but I also don’t have a better solution for catching bad actors."
+52,"@keleftheriou Just wondering, when 95% of apps request the same permissions, does it really have the intended effect?"
+53,"@keleftheriou Right, but how would the average person know whether to enable or not? Almost all apps needs network access. So, once every app is requesting it, wouldn’t people start accepting it considering there’s no way to really know what it’s doing."
+54,@keleftheriou How would this work though? It’s not like they could see or understand the network requests.
+55,"RT @briannekimmel: When writing company values, don't forget to include operating principles
+
+ie: expectations around responsiveness, owner…"
+56,"@martinho_t @AppStore Yah, but I don’t recall it having Wordle functionality at the time; only the name. It now has the same gameplay and ads promoting it."
+57,"My wife just got an ad for “Wordle!” I guess the clones are still on the @AppStore.
+
+Looks like this one in particular has been around for years but pivoted into a copycat. https://t.co/0mIlkeMZFe"
+58,@sandofsky Not sure these things are related. 🤷‍♂️
+59,"@jeiting @mb Yah, that’s why we’ve explicitly decided not to add a button. It creates all kinds of weirdness in certain instances."
+60,@mb It's all confusing regardless. 😬
+61,"@mb Their own guidelines have said it's enough though, other apps do it, RevenueCat mentions it, and replying to the rejection with this information has gotten the app approved previously."
+62,"Does Apple Review not read the Notes section? 
+
+Our app has been rejected twice recently for not having a ""Restore Purchase"" button, despite not requiring one (as our account system is our restoration). Our notes to the review team clearly explain this."
+63,"If you need a belated valentines card, this Figma project is punny. 💘
+
+https://t.co/n4ruTzi1WC"
+64,@qzervaas @JordanMorgan10 Do you update both when you deploy a new version of the main app?
+65,"@JordanMorgan10 I was excited when they reached out about this for one of my apps. I made the demo version and had analytics to see where it was deployed. Unfortunately, while it was getting usage, I could never identify what stores it was coming from &amp; therefore, was unable to get a photo."
+66,"@sowenjub Sure, but it happens all the time and it's not always accurate. Last time it happened because we don't show a ""Restore Purchases"" button, but we were also required to have one."
+67,"@kovacsamate @levelsio I think the question becomes, how many years would it take the buyer to recoup their money and make a profit? 
+
+Most will want a payback period of 2-4 years. So figure out what your growth rate is and what the multiple would need to be to reach 2-4 year payback period."
+68,"@kovacsamate @levelsio There’s too many factors. It depends on the type of business, growth, company that’s buying it, etc.
+
+Mine sold for 15x annual revenue (not ARR), but that’s because I didn’t really want to sell it and the revenue wasn’t that much; the buyer just really wanted it."
+69,"@biyified Looks great and we’ll executed, but also generic. I think it’d easily be confused for any well-designed stock/trading/money app. I’d be curious to see how you could differentiate things a bit more to really stand out."
+70,"@jeiting I don’t know all the pros/cons, but an alternative to a loan or cash is Net Excercise (paying in stock). Employee gets less stock, but also doesn’t have to pay anything out of pocket."
+71,"@jeiting Definitely agree. However, I’m surprised to read this is novel. I can’t remember the companies that have done it right now, but early exercise for all employees exists (it’s not new) and I’ve heard of companies offering loan programs for helping come up with the $."
+72,@swifteves ❤️
+73,What percentage of the time do you get the white screen of death on the  AppStore Connect website?
+74,@JordanMorgan10 That’s aggressive 😆
+75,@mdufort @ddiakopoulos reminds me of your app.
+76,@mdufort That’s awesome!
+77,Answered all support tickets. 💪
+78,Tell me you play music without playing music. https://t.co/wXTg5gXYv1
+79,"@nielsmouthaan Yeah, it should be automatic in the background. For us, we have user accounts and therefore restore is done by simply logging in and they allow it, but they must have missed that in review."
+80,"@GigabiteDan Yeah. However, apps that have account logins aren't required to provide a ""restore"" feature since the account itself is what restores it. Logging in unlocks the features, for example."
+81,"Apple rejected our app for not having a “restore purchases” button, despite being approved without one for over a year. Of course, it’s perfectly fine, unless the guidelines changed, to not include a button, so long as users have some mechanism (eg. user account) to do so. 🤷‍♂️"
+82,"8-9 years ago, I made an app with a couple people. IAP we’re new-ish at the time and it took over a month to get through Apple Review. By the time it was finally approved, we had moved on to another idea and never released the original app. https://t.co/Nl5ZFUSJxy"
+83,@rjonesy I feel like the base product is mostly the same. What specifically are you referring to?
+84,"@davidgarywood @ChristianSelig Agreed.
+
+It’s important to align with user expectations and feel native to the platform. I think another iOS update is when that happens for my apps; Apple still adopts it in some places. 
+
+With that said, if there’s time and high priority stuff is done, no reason not to do it."
+85,"@ChristianSelig I agree with that. 
+
+I wouldn’t consider technical users the “average” user, but Reddit/Apollo users are also probably more savvy than the average iOS user.
+
+This is sad to admit, but it took me a while to learn context menus weren’t a custom thing; first noticed them on Twitter."
+86,"@ChristianSelig If we were talking Android, I’d feel more strongly about it since Android UI changes tend to feel/look substantially different. So many apps have bottom sheets (or custom ones) that the alert doesn’t feel that dated to me."
+87,@ChristianSelig You have a lot of users though. What percentage of users do you think they represent?
+88,"@ChristianSelig I think the average user wouldn’t know the difference or think they both have a purpose.*
+
+*could totally be wrong"
+89,@briannekimmel @ennaj__
+90,@JordanMorgan10 What is it?
+91,"Today, we (@yougotmojo) announced our partnership with the @MLB.
+
+If you have kids playing baseball or softball, you can download the MOJO app, for free, to help make coaching and learning easier and more fun; your kids will ❤️ it!
+
+https://t.co/fmRMGboDKI https://t.co/L2orRpQVI4"
+92,"@emcro Given that apps have to double opt-in now - both on the app and on the ad publisher side - I’m not sure what FB can really collect that the user didn’t opt into that would be considered creepy, but I get the implementation."
+93,Disappointed that “Pig” was not nominated for Best Picture and Nicholas Cage wasn’t nominated for best actor. It had all the pieces that Power of the Dog lacked. 🤷‍♂️
+94,@emcro Gotcha. So the app tells your sever someone installed the app and the server tells FB via conversion API? What identifier does it use?
+95,"TIL
+
+In the Rugrats movie, Reptar was voiced by @BustaRhymes. 😯"
+96,@shauncooley @briannekimmel Where? 🤔
+97,@emcro @HellerMemes @zachshakked What’s this do?
+98,@ddiakopoulos 420k in LA. I thought SF would be significantly more.
+99,"Who remembers when the Twitter feed comprised of the letters “RT”, hashtags didn’t link anywhere, and 50% of tweets were checkins from Foursquare? 🙋‍♂️"

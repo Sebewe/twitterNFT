@@ -1,0 +1,155 @@
+,0
+0,RT @NFT_Only: Calling All Kevins Where My Kevins At! @kevinpunksnft #KevinPunks https://t.co/hi0s0pTbv4
+1,RT @NFT_Only: HEY ITS Kevin here! @kevinpunksnft https://t.co/4O5GkrJwae
+2,RT @whalegoddess: @OpenSea (and maybe @LooksRareNFT) do not account for transfer ownership under OpenZeppelin construct. This means the ini…
+3,"RT @whalegoddess: ＠Opensea @opensea_support As @BabyCoby_ stated, most NFT collections use OpenZeppelin's owner construct when creating a c…"
+4,RT @whalegoddess: Mfer Black Womxn https://t.co/Due2YKvx2B are 5000 Queens of the Blockchain generated entirely from hand drawings by @cake…
+5,https://t.co/TukchczQel
+6,@sartoshi_nft bless up
+7,"Mfer Black Womxn https://t.co/Due2YKvx2B are 5000 Queens of the Blockchain generated entirely from hand drawings by @cakebops. this project is in the public domain; feel free to use Mfer Black Womxn any way you want.
+
+.01 ERC721A (cheap gas) public mint @ https://t.co/Due2YKvx2B https://t.co/hkzOTTC4sd"
+8,@BabyCoby_ @WendyWe82321918 @opensea_support Yea that was my favorite part of this thread
+9,My next project is by and for black womxn &lt;3
+10,"@OpenSea y u close Bug Bounty, ser. Pls Fix https://t.co/9mu5eYfk2C"
+11,"@BabyCoby_ @opensea_support My issue was resolved by manually updating their backend to the new contract owner. Re Bug Bounty, thats crazy and a shame. Thanks for trying tho."
+12,"Not an expert but it seems the correct thing to do would be check if each contract uses Ownable or look for Owner() function at least, then use deployer address as a second choice."
+13,"transferOwnership. I reached out over this in Request #200293 on @OpenSea_Support 
+
+Here is OpenZeppelin Ownership construct commonly used https://t.co/vQOq9OUONW"
+14,"I have ran into this issue with 3 different collections where I, even though not owning the contract, have hte ability to adjust royalties and description maliciously. @LowEffortNouns @DesignerPunks and @_awesomeApples all involved me creating a MetaMask deployer then calling"
+15,@OpenSea (and maybe @LooksRareNFT) do not account for transfer ownership under OpenZeppelin construct. This means the initial contract owner is able to adjust royalties to themself maliciously.
+16,"＠Opensea @opensea_support As @BabyCoby_ stated, most NFT collections use OpenZeppelin's owner construct when creating a contract. This comes with some functions including transferOwnership(address newOwner) write (to change owner) and owner() read (to read current owner)."
+17,"RT @muratpak: Congratulations.
+Kevin Punks are now a thing."
+18,RT @adhdegen: Today I was hired to work for the @super_yeti’s as the Discord Community Manager. This is the coolest job I’ve ever had. #Yet…
+19,"RT @EggBoisNFT: Gm! 👋
+
+It is with great pleasure that I share something special with all of you today:
+
+'Sup Phunks! Vol. 1 - A monthly new…"
+20,RT @rfdzee: the beginnings of kevin punk community https://t.co/NwtImJomSL
+21,@dievardump me too lolol
+22,@rfdzee YOUR PFP LFG
+23,@NftCelestials LOLOL
+24,@damn_essie it's hella hard to explain
+25,@phil_heal LMAO
+26,Found this dogshit in the mail https://t.co/bVlEjgyZRO https://t.co/KuJeVexxTJ
+27,@Thund3rnutz Happy Kevin to you
+28,who tf buying this dogshit https://t.co/bVlEjgyZRO
+29,@TMWSTW_NFT what company?
+30,@NFT_Only thats so degen
+31,can't even make this up https://t.co/m86QYwoOli
+32,party bid on a Kevin?
+33,"RT @DiscoverXnft: Btc is 43k and Kevin is 4 Eth. Anyone in Crypto/NFTs that tells you they know what they’re doing is lying. 
+
+I don’t make…"
+34,RT @rfdzee: Whatever the previous meta was; it's over. The new meta is Kevin
+35,RT @sartoshi_nft: nfts https://t.co/ANdyUHGnJE
+36,🤝You may resume degenning
+37,OK Everyone now lets all agree not to use gas above 52 gwei thank you
+38,"RT @AnonymiceNFT: It's coming.
+
+🚨 [̴R̴e̴d̴a̴c̴t̴e̴d̴]̴ = Evolution 🚨
+
+🔦 Genesis mice are searching for DNA chips in weekly on-chain events.…"
+39,"Deploying, wish me luck"
+40,@LowEffortPunks buy punk
+41,@BabyCoby_ @opensea can't believe this is how we reach out to OS with our issues
+42,RT @BabyCoby_: @opensea Your platform does not recognize when a contract has been transferred to new ownership. Old owners are still able t…
+43,"RT @jiangshi_eth: @Coinbase_NFT This hand drawn @LowEffortPunks punk is probably my favorite nft. 
+
+I chose him spring 2021, when all that…"
+44,@LowEffortPunks woah
+45,RT @MFPOOMA: We've been having steady sales on the Pumas let's keep it up! https://t.co/jUXX94D2PU
+46,RT @ZelenskyyUa: Ukraine has submitted its application against Russia to the ICJ. Russia must be held accountable for manipulating the noti…
+47,"“For the first time ever, the European Union will finance the purchase and delivery of weapons and other equipment to a country that is under attack,” the EC statement said."
+48,"https://t.co/TDjFFoCMiA
+
+As an American I believe Ukraine should be an EU member country, and deserves support from the European Commission as described above. Best of luck with the processes https://t.co/Q6p8EsXXXN"
+49,can devs do something?
+50,@ETHBucks @adhdegen @super_yeti Nice yeti!!
+51,"RT @ETHBucks: Ferda culture. #NFTs
+Light purple fur to protect me from the crypto winter
+The gold background represents store-of-value😜
+""Th…"
+52,RT @LowEffortPunks: i have spoken https://t.co/kxjFLI1xsA
+53,RT @CookeMonstrPunk: https://t.co/NdbsM2aNC3 Minting now gas efficient contract .01 over half way minted out. Comic up on the website/ has…
+54,RT @MFPOOMA: The positive reviews keep coming in @whalegoddess 🙌
+55,RT @jonasdubin: @DesignerPunks @MFPOOMA Best minting experience I’ve ever encountered! Also the #DesignerPunks are 🔥🔥🔥
+56,@LowEffortPunks me llamo lep
+57,@atopshot @LowEffortPunks @blotta_eth Fact
+58,RT @atopshot: @blotta_eth @LowEffortPunks Buy Punk -   not financial advice but lets just say this the average price of a lambo is around 2…
+59,@LowEffortPunks nice
+60,RT @LowEffortPunks: TODAY: PUNK
+61,@badmanteas Cant ..
+62,"Just check my vault already ""whalegoddessvault.eth"""
+63,IYKYK rare 1/1 bro https://t.co/wBOgtuDYmA
+64,Learned how to use HardHat to test my code quickly. Thanks JON!!
+65,"I almost thought about selling this @LowEffortPunks , i really shouldn't. I'm ultra bullish on Hoodies. https://t.co/lzfaJvqjbq"
+66,@atopshot @LowEffortPunks Good Punk
+67,RT @atopshot: @LowEffortPunks Picking up Fish Trick Punk highlight of the weekend.  NEW PFP!!! Fooking A great Saturday!
+68,@LowEffortPunks sheit
+69,RT @LowEffortToadz: @whalegoddess Toadz prison
+70,"@LowEffortToadz cant buy Low Effort Toadz
+
+Crisis
+https://t.co/XoQwPsVAMq"
+71,@MoonshotGP Verify your source code so we can all see what you're doing :)
+72,@LowEffortPunks or something
+73,RT @LowEffortPunks: blockchain tutorial well there are some blocks and some chains and you chain them together or something so there's that
+74,"RT @dedcel2: DESIGNER PUNKS LAUNCH PARTY
+https://t.co/nS2xryI6Td"
+75,"RT @DesignerPunks: Here are the DesignerPunk Kids Official Links:
+
+LooksRare - https://t.co/cdUqLLDwXW
+
+OpenSea(booo) - https://t.co/4CTQ2O…"
+76,.02 public sale https://t.co/6cOkfJyjrb
+77,RT @MFPOOMA: Join me in my Space! https://t.co/wfIBxags4x
+78,@LowEffortPunks oh fuck
+79,"RT @LowEffortPunks: IT'S TIME TO DO WHAT IS RIGHT
+
+100 PUNK BE READY https://t.co/RZzV1Xg9QH"
+80,RT @nastasyah_art: GUYS!! My brother got in touch couple of minutes ago. He is alive and in Kharkiv with other solders right now. He said h…
+81,RT @DesignerPunks: .@DreamcastleArt just minted the first Zombie! 🧟 https://t.co/RMNjjKrbHl
+82,@LowEffortPunks hi
+83,RT @hun7ar: nft road maps be like https://t.co/0XDh2f2iQx
+84,"RT @greg16676935420: $2 million raised vs $70 million raised
+
+Work smarter not harder https://t.co/lk6JxUb7wp"
+85,"RT @Chxkka: ""There are no devils in hell...all of them are here with us...""
+King Augustine Silver II https://t.co/1qnduKvP52"
+86,@DmytroKuleba @MFA_Ukraine LFG
+87,RT @DmytroKuleba: We did it. Cyprus confirmed it will not block the decision to ban Russia from SWIFT. Ukrainian diplomacy keeps working 24…
+88,Yes https://t.co/iW0gcQ0Y8I
+89,WTF happen today
+90,"RT @MFPOOMA: We’re having a @DesignerPunks Public Sale Launch Party tomorrow!!!
+
+https://t.co/bJAlGChR9D"
+91,"Tomorrow @MFPOOMA is dropping more Designer Punk KIds at public sale
+
+.02 ERC721A &lt;3 Definitely check it out.
+
+(I'm the dev but not directly pulling from this project's sales)"
+92,"1 NFT .005 gas
+
+25 .005 gas
+
+Thank u ERC721A &lt;3"
+93,"Got some rare ENS, anyone wanna pay my rent??? xDDDD https://t.co/JRgLSVOpBd"
+94,Open Call for Code Review https://t.co/K2F5XO6hU4
+95,"Mint My Balls
+https://t.co/pB9f9AzpPD
+
+ERC721 Full On Chain 8ball responses for just .005 &lt;3"
+96,@BaGGZz_ GL King
+97,@BaGGZz_ @CryptoPhunksV2 Das u ser
+98,"RT @DesignerPunks: The mint page has been changed to clear some things up! 
+
+Select the number of DesignerPunks you had on 2.18.22 and then…"
+99,"RT @Razorie1: @mattdowney irl nounished me!
+
+⌐◨-◨
+
+High quality stickers and a snapback, which was generous size so it fits my big head too…"

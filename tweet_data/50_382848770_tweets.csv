@@ -1,0 +1,112 @@
+,0
+0,@CryptoBoyzCC0 @cryptoadzNFT Omg I love it
+1,@neweratrades @andy8052 Yes. That's the phishing aspect. But perhaps a design flaw if one sig can allow the exploiter to (1) inject arbitrary code after acquiring the sig and (2) that code allows them to take any approved asset.
+2,"@andy8052 Phishing or not, their contract allows injection of a malicious contract that can yoink all your approved assets in one shot. Expected behavior?"
+3,@dfinzer Can’t you guys stop it by cutting off the old contract now?
+4,@0xBender Hard to understand *everything* we are signing when typed transactions are not the norm… don’t even work on Trezor…
+5,"RT @Nesotual: Seen confusion about the OS thing so.
+
+Attacker had people sign half of a valid wyvern order, the order was basically empty e…"
+6,"@0xfoobar Just looking at some more examples... private sale buyers are usually in position addrs[1], while the NFT contract is in position [4]... what's going on?"
+7,Is there an @WyvernProtocol  expert that can break this down for us?
+8,"@0xfoobar Looking at calldata, these appear to be signed private sales. Probably collected over time Note that addrs[4] is the exploiter's wallet. @0xfoobar do you agree? https://t.co/1cxZAIh8iO"
+9,"RT @wndgame: How to revoke NFT approvals using Etherscan:
+
+- Go to https://t.co/6GhWWaElZm (may load slowly because of high traffic)
+- Sele…"
+10,Revoke it all. Figure out the truth later. https://t.co/IAx9CEl6Eo.
+11,"RT @FingerprintsDAO: We are delighted to share that we have acquired 115 Terraforms by @mathcastles, making us the fourth largest holder of…"
+12,@CardilloSamuel R2l2ZSBhbHBoYQ
+13,@CardilloSamuel Please give clues
+14,RT @cryptoadpunks: Thank you all. We just made the largest contribution to the @cryptoadzNFT treasury. 😭
+15,"RT @cryptopunksbot: Punk 5822 bought for 8,000 ETH ($23,702,160.16 USD) by 0x69c488 from 0x7eb28b. https://t.co/n9OIDRY3WB #cryptopunks #et…"
+16,@budlight !vibe
+17,RT @GIToadz: The G.I. Toadz would like to match @Anonymoux2311 generous donation of 42.069 ETH to the Toadz Treasury as a function of the f…
+18,@CardilloSamuel @raelix1 Pleased to hear this
+19,RT @heidiklum: Do you think my new Cryptopunk looks like me? ❤️😛 https://t.co/qE4njfYiuT
+20,RT @rleshner: Yeehaw
+21,"@rleshner Congrats, epic"
+22,"RT @cryptopunksbot: Punk 5577 bought for 2,501 ETH ($7,704,080.16 USD) by 0xcfc505 from 0x9c9113. https://t.co/AteVE6ihAt #cryptopunks #eth…"
+23,"@CardilloSamuel First thing I did when you started minting, probably many others too. Also, please verify :)"
+24,@Anonymoux2311 @cryptoadzNFT @supergremplin Appreciate your support and friendship over the past year
+25,"RT @Anonymoux2311: The spirit of @cryptoadzNFT has always resonated with me - the amazing art from @supergremplin, the lily pad !vibe and t…"
+26,@heemeth @DoNOTMint our savior
+27,@hype_eth habibi!
+28,"@loosegoose888 We finished up testing the launch, unfortunately we ran into small issue when deploying the site into production. We're on the clock fixing this, and to my knowledge this is a relatively simple thing to fix. I am extremely sorry for yet another delay, and hope to launchverysoon"
+29,"@loosegoose888 No more delays, we have it done. Just giving you guys the time padding so you nobody's left out. 5:15 EST."
+30,@VonMises14 Show us where Larva even *attempted* to formally revoke the license from these tokens. Then we can get some smart people to debate whether it's valid.
+31,"@VonMises14 @DickeyNate @larvalabs Cool that they dumped on people first tho, right?"
+32,@DeezeFi Devs did something smh
+33,We will never take away your derivatoadz #cryptoadzNFT
+34,"@BurnableLabs Thx for the reminder. Just set it with reference to our metadata's IPFS CID which is tamperproof (same as base URI, containing references to all art via CID as well)."
+35,@casperdefi @CoolmanUniverse Better in my hands
+36,@casperdefi @CoolmanUniverse We don’t sell honoraries where I am from. !Vibe
+37,@snekbas now v3
+38,!ooh
+39,"@drivenbyboredom @belikewater893 thanks. yea, well intentioned post by OS but unfortunately leads sheeps to slaughter..."
+40,@drivenbyboredom @belikewater893 Don't do this. Seriously. MUST revoke approvals first.
+41,@CardilloSamuel @andy8052 More than just a drama tweet. It was tweet by the most holder unfriendly IP policy in NFT space telling people to rip off the foundational NFT project's IP.
+42,@CardilloSamuel Is this official approval that we can all start selling XenolC NFTs?
+43,@backseats_eth I get airdropped about 600 fake BAYCs a day
+44,@opensea Two services folks you should recommend people use until you implement a UI    https://t.co/9uHarzf5dQ    https://t.co/IVW0xwiSu3
+45,@opensea How about revoking permissions?
+46,"@opensea How about recommending folks send their cancels via Flashbots RPC, a free, trusted, and well respected service?"
+47,@jpegnick @swolfchan @niftygateway nope
+48,@backseats_eth Say more
+49,@GuyZalaxy I promise you’re gmi
+50,"@pranksy @opensea Might be easier to revoke approvals first, before sending the cancels. https://t.co/lm0Ql4X4xD"
+51,@BoredApeYC 5567 just landed in my lap. @Juicetra
+52,@dingalingts I was able to write up the code for this in 30 minutes
+53,"RT @bertcmiller: TIL!
+
+Some interesting details in this thread about NFT MEV too
+
+mev-inspect-py already has some OpenSea data in case anyo…"
+54,I suggest anyone cancelling orders on Opensea also use the Flashbots RPC to send their cancellation https://t.co/d5fNLjpDZg https://t.co/pqRkCazveg
+55,"@darren_ogoff @worldofwomennft Unfortunately that wasn’t me, was the bad guy trolling with his OS username"
+56,"@bertcmiller you asked about other forms of non-atomic NFT MEV, here it is. @opensea sent an email encouraging apes to paint blood on themselves and jump into shark infested waters. https://t.co/WNf15ytmHp"
+57,"And note that if you ever give back permissions, the listings can come back to life... so still cancel them after you revoke."
+58,Please take @dingalingts's advice here https://t.co/ySoxisX2cI
+59,"@Samihamburger @sierragomezduh @swolfchan @opensea @BoredApeYC Correct, not me, guy is trolling…"
+60,@0xBender This
+61,"@JfellzZ That’s it, web3 is over."
+62,@ethereumdegen Cool pets game on polygon and they are paying our gas. Excited.
+63,MAYC returned at cost https://t.co/uUlTNQT75L
+64,@hotlneblng_ @AlexMorizio74 Correct
+65,owner please DM me here or on discord... https://t.co/O8z06GjrcD
+66,@0xfoobar At least they “did something” ????
+67,BigPapap - I saved your mutant from OS glitch... DM me... https://t.co/VHiCrirlVX
+68,Devs did something https://t.co/HPjJkWUZKz
+69,@drbullfrug Pls ser
+70,@bertcmiller Ask @punksOTC how much he’s made bundling fat fingered punk sales this year. I bet it’s in excess of $10m.
+71,@0xfoobar @0xStroudonian I recently resubmitted and got it in a day after waiting since June. It’s useles though.
+72,@dcrypt_eth @CryptoAdz !vibe ser
+73,@crypto_marlo @cryptoadzNFT Glad I convinced you to take it out of the packaging 😃
+74,@0xfoobar @cryptopunksbot that's @JfellzZ but I actually sold recently!
+75,"@bertcmiller Last one: Punk floor is less than the price of selling a $PUNK token into a DEX. Bot buys punk, tokenizes it into $PUNK ERC20, sells on a DEX and collects the spread. 3/3"
+76,"@bertcmiller Seller lowers asking price and buyer comes in at the same time without seeing the new price on the UI (or it’s in mempool). Bot buys at new lower price and sells to the buyer at the higher price, collecting a spread.  2/3"
+77,@bertcmiller There are two more atomic punk arbitrages we have seen. 1/3
+78,"RT @backseats_eth: I'm excited to announce the first product coming out of Backseats Studio – https://t.co/jdd1jbviFz!
+
+Build alongside @Pl…"
+79,@zerobeta done
+80,@econoar And everyone chasing lesser APR on L2...
+81,@jak_vault @LooksRareNFT Burned some ETH too
+82,@jak_vault @LooksRareNFT Proof of concept
+83,"@eth_ben @pirate_cheetah Nah, just a taste."
+84,"@eth_ben @pirate_cheetah But this was 20% in like 2 hours and 10 minutes, not over a year"
+85,@eth_ben @pirate_cheetah 20% roughly. Today ended up being pretty good but only because the price mooned while the website was down and you couldn't claim!
+86,@pirate_cheetah @eth_ben Just proof of concept. Not really a trade I want to make... Today it got pretty close to being negative EV
+87,@eth_ben It was me ser
+88,@surfcoderepeat Lol I was just restating it. It’s in testing already :)
+89,RT @BUY_JPEG: This absolute gigabrain spent 9.2 ETH in fees wash trading in a collection which doesn't have trading rewards enabled. https:…
+90,@0xfoobar It's more fun than WND with 1/100 the gas cost
+91,@takenstheorem Beautiful
+92,@hype_eth @feeswtf lame
+93,@0xfoobar @LooksRareNFT I feel the same way tbh.
+94,@ethereumdegen Their docs are not great. This would be amazing.
+95,"@stevefink But ser, I have the original rocks"
+96,@Anonymoux2311 Buy one
+97,@Anonymoux2311 Get ledger restore seed to it
+98,"@stevefink But ser, my rocks"
+99,"@crypt0savage If the price holds up and arbitrageurs do what they do, could be north of 2500 by 7pm eastern"

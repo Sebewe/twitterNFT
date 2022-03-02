@@ -1,0 +1,246 @@
+,0
+0,"The Crab Strategy contract handles deposits &amp; withdrawals, and automatically modifies its mixture of Squeeth debt &amp; ETH collateral to create a position with an approximate delta of 0 to the price of ETH (neutral exposure to ETH)
+
+Read more: https://t.co/Fy7UZJnHHy"
+1,"🤫 For the first time since launch, there's ~100 ETH capacity available in the Crab strategy!
+
+The strategy makes money (in USD terms) in crab markets - when ETH is moving sideways, like a crab 🦀🦀🦀 https://t.co/yWWKV6lFhU"
+2,"RT @ChaasEth: 1/ Doing a breakdown of @opyn_ 's ""Squeeth"" for those who (like me) don’t eat, breath, and sleep derivatives. Will try to use…"
+3,RT @rossisbossof: SQUEETH!
+4,"RT @OrBit_Markets: We just published our first OrBit Insights piece about how to trade volatility basis with the squeeth.
+#squeeth #defiexo…"
+5,RT @kermankohli: @beanintern squeeth squeeth
+6,"RT @laevitas1: Some of you have asked for it and now it's live:
+https://t.co/EM3KE9NTpM
+@opyn_ Squeeth data is available on the dashboard,…"
+7,@kermankohli @anilkadimisetty or https://t.co/W83fyVoiJm
+8,"RT @0xTomoyo: This is a succinct explanation of what power perps are, it's exactly how Squeeth's index price is calculated (just ETH^2)
+
+Th…"
+9,@dini_xcii @zapper_fi this is the correct answer
+10,"Want to see Squeeth positions added to @zapper_fi?
+
+Please support this by:
+
+• Upvoting the protocol request
+• Replying to the request with cat memes
+• Liking and RT this tweet
+
+Vote here: https://t.co/swv6mb4F7h https://t.co/PXzg0i05hD"
+11,"RT @alpinechicken: Awesome article from @guil_lambert on connecting uni v3 and squeeth. 
+
+Gamma is the connecting force between options, CF…"
+12,"RT @AlphaSerpentis_: Hopefully this works!
+
+                       🕯
+              🕯             🕯
+        🕯                          🕯…"
+13,"📊 We've added historical funding and volatility to the Squeeth front end!
+
+Check it out 👉 https://t.co/yrDaYaTgKw https://t.co/IfeZpiDsL9"
+14,"RT @guil_lambert: 3/ Now let's consider squeeth, a recently released financial product by the @Opyn team. 
+
+Squeeth is a type of power perp…"
+15,"RT @guil_lambert: I just published: ""Gamma transforms: How to hedge squeeth using Uni V3""
+
+We demonstrate how 1-tick Uni v3 LP positions ca…"
+16,"You have 100 eth worth of collateral (on day 1), a liability of 50 eth worth of minted oSQTH, and a LP position worth 100 eth. Total outlay is 50 eth and you get fees on 100 eth worth of LP so 2x leverage 😻"
+17,"Say oSQTH is 0.25 eth
+
+Deposit 100 eth to vault
+mint 200 oSQTH
+LP minted 200 oSQTH  + 50 ETH
+deposit LP to vault
+pull out 100 eth from vault (LP is enough now)"
+18,"You can now use @Uniswap LP NFTs as collateral for short squeeth positions @ https://t.co/eoWsIz8n0S !!
+
+🦄 + 🐱 = capital efficiency! https://t.co/S6gOGX3QLg"
+19,RT @ChaasEth: Would’ve loved to be a fly on the wall for the @opyn_ naming discussion where they landed on “squeeth”
+20,@ChaasEth @_Dave__White_ can confirm a leverage beverage was consumed
+21,"RT @StakeDAOHQ: Our $UNI and $LINK Covered Call are now &gt;80% full, a week after launch🚀🚀
+
+Estimated weekly performance: 0.50% APY for both🔥…"
+22,"RT @andrewjleone: Sqrth has something we have shared a bit on and are excited to build. It is a ETH power perp with a 0.5 power.
+
+0.5 power…"
+23,"RT @andrewjleone: Bonus claim(s) for anyone reading to the end: 
+
+LPing on a oSQTH-USDC pool is fairly isomorphic to a ETH-USDC perp
+
+The p…"
+24,"RT @andrewjleone: A full range mint+LP position is similar to a covered call in some ways, excluding funding and trading fees.  
+
+You have…"
+25,"RT @andrewjleone: A full range buy+LP position is similar to an eth^1.5 payoff (squeeth-lite), excluding funding and trading fees. 
+
+You ha…"
+26,RT @alpinechicken: LPing squeeth is like riding a bike. The bike is initially vega neutral. The bike has gamma from squeeth and from uniswa…
+27,"RT @AlexisGauba: You can now use @Uniswap LP NFTs as collateral for short squeeth positions at https://t.co/S28te1guSc !!
+
+🦄 + 🐱 = capital…"
+28,"RT @andrewjleone: demystifying LPing squeeth
+
+covered call-ish vs squeeth-lite
+
+what are the ways to LP squeeth and why would I want to be…"
+29,@APOideas @yevhenx 👀
+30,RT @alpinechicken: This is the way
+31,@AlexMasmej @tryShowtime gl!
+32,RT @AlexisGauba: squeeth lp vaults? 👀
+33,"RT @yevhenx: p.s. if you want to collaborate and/or build one of these strategies as an automated ""one-click"" vault, ping me here or in tel…"
+34,"RT @yevhenx: @opyn_  #squeeth
+
+If you've excited about Squeeth, as I am, but confused about how you can use it, here is a description of se…"
+35,"RT @APOideas: Trying to find oSQTH $$ price? This lil' script might help. It takes as initial inputs:
+-ETH price
+-period (fixed value of 17…"
+36,@Fio02618066 @argentHQ https://t.co/NpWzX3h0In
+37,RT @0xcarlisle: @damedoteth Love some squeeth
+38,@unnawut who’s the baby? 🤔
+39,"Opyn's Head of Legal @tamarajene will be discussing how DeFi can self-regulate today at 4:00pm MST @ Art Hotel.
+
+Come Squeeeeth!
+
+https://t.co/MYdYV3BuWe https://t.co/X47xqBELEO"
+40,"RT @APOideas: Tired of 2x leverage, of the linear life? Squeeth offers better upside AND downside performance, and has no expiry date. Powe…"
+41,RT @smeddysays: @WindraThio @opyn_ Have a reverse angle 😁 https://t.co/prZcSst9Er
+42,RT @anilkadimisetty: @developer_dao We at @opyn_ are building new DeFi primitives in the derivative space and looking for senior engineers…
+43,RT @EthereumDenver: Squeeth With Me  Crypto Options and Derivatives  by @AlexisGauba https://t.co/gcPXQRFXxQ
+44,RT @negroprogrammer: @malonehedges squeeth pronounced sqwehth
+45,RT @AlexisGauba: baby squeeeeeeeth 🦈🦈🦈
+46,RT @antonttc: Wtf did I miss 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+47,RT @0xholman: @WindraThio @opyn_ Very bullish on the broader opyn ecosystem. Well done team
+48,"RT @ugolino_me: oh no I missed the most incredible talk from @opyn_ at #ETHDenver2022 
+
+NGMI"
+49,"RT @StakeDAOHQ: Herd, which new options strategy will hit $10M in TVL first?"
+50,"RT @melwritesmiami: The Ethereum Community is UNREAL! There are so many amazing companies. This morning, I heard from the @opyn_  team! Lot…"
+51,@0xholman @WindraThio https://t.co/EUcGJspgdH
+52,RT @WindraThio: I’m bullish squeeth because not many teams can do the baby shark @opyn_ https://t.co/bLK1yDQ5hz
+53,"RT @andrewjleone: @opyn_ is at @EthereumDenver all week, hmu if anyone want to meet/chat squeeth, options or other fun derivs"
+54,@blockCheng @AlexisGauba well well well
+55,"Come say Squeeeeeeeeeth!
+
+@AlexisGauba will be chattin abt the squeeeeths today at 11:20am at the Art Hotel 🐱
+
+https://t.co/5uw8DBtOEP"
+56,RT @Muhd_Amrullah: HAHAHAHA i definitely wanna see Spongebob Squeeth Pants https://t.co/sTZ3V22xjL
+57,Probably the strangest and greatest squeeth meme ever created https://t.co/AYxAfvyDsA
+58,RT @StakeDAOHQ: Gm $LINK marines https://t.co/snjf014zvK
+59,@VirgeenaHurts https://t.co/N5WUMpl1YV
+60,"If you aren't happy single, you won't
+be happy taken. Happiness comes
+from building and weird crypto memes, not relationships."
+61,"@ResearchVariant @colin0x @DeribitExchange @tradeparadigm A few resources:
+
+Original Power Perpetuals Paper: https://t.co/WAExlQ1W82
+
+Squeeth Insides Volume 1: Funding and Volatility
+https://t.co/LnXN5ZZvFA
+
+Guide to Hedging Uniswap v3 with Squeeth
+https://t.co/B8tn1EAqHP
+
+Squeeth Primer https://t.co/PixunjrLxU"
+62,"@adesar2000 some have even commented 'good project' 
+
+we're bullish"
+63,"Curious about the Squeeth mechanism? 🧠👇
+
+https://t.co/PixunjrLxU"
+64,"Deposit USDC to borrow Squeeth and sell it:
+
+Right now long ETH short Squeeth at 200% collateralization ratio is close to delta neutral
+
+If you can deposit USDC to borrow Squeeth and sell it, you can be truly short ETH delta and short the ETH² payoff
+
+https://t.co/IEg1iAwWYQ"
+65,"Crab Strategy:
+
+The Crab Strategy contract handles deposits &amp; withdrawals, and automatically modifies its mixture of Squeeth debt &amp; ETH collateral to create a position with an approximate delta of 0 to the price of ETH (neutral exposure to ETH)
+
+Read more: https://t.co/Fy7UZJnHHy"
+66,"Long Squeeth: 
+
+• Leveraged position with unlimited upside, protected downside, and no liquidations
+• Exposure to pure convexity (ETH² payoff), giving it a more favorable payoff than 2x leverage
+• Constant gamma exposure
+• Holders pay a premium funding rate for this position https://t.co/WFJV2UIm0h"
+67,"Squeeth for any market condition 📈↔️📉
+
+Long Squeeth 📈 
+Crab Strategy ↔️
+Deposit USDC to borrow Squeeth and sell it 📉"
+68,@APOideas @yevhenx @alpinechicken lfggggg!
+69,"@APOideas @alpinechicken This is sick, are you turning it into an simulator / interface?"
+70,RT @faraaz: squeethin @opyn_
+71,RT @BenZipa: Hedging Uniswap v3 with SQUEETH by @alpinechicken https://t.co/sScv3NXO6e - Simply amazing!
+72,"RT @AlexisGauba: Opyn squad is headin to @EthereumDenver! 
+
+If you've used the squeeeeeeeths I'd love to chat :) DM's open! 
+
+Will also be…"
+73,RT @alpinechicken: I’m not sure it’s responsible to make vol trading this accessible. At least sprinkle some equations in there to keep out…
+74,"RT @wadepros: Which is the best Implied Volatility (IV) comparison between Squeeth and Deribit options?
+
+Most accurate: replicating portfol…"
+75,"RT @Native_0x: IYKYK
+
+@opyn_ https://t.co/724XKSig6s"
+76,"RT @StakeDAOHQ: It's always good to have options😏
+
+LINK, UNI, AAVE, SUSHI Covered Call Strategies now open for deposits, joining our market…"
+77,"RT @DefiantNews: 🎙️In today's Defiant
+
+🚀$SLP Soars 70% in 24 Hours As @AxieInfinity Plans Major Emissions Cut in Season 20 Update
+
+🗳️Vote U…"
+78,RT @yugacohler: @0xfushi Squeeeeeeeeeeeeeth
+79,"RT @llllvvuu: 1mo update on @opyn_ squeeth
+
+https://t.co/iK9KxOtHes
+https://t.co/5VsFn0GSXt
+
+price becoming efficient as IV trends down to…"
+80,RT @mihai673: https://t.co/RbY2qV99S4
+81,"RT @alpinechicken: Controversy over squeeth greek (squeek) sensitivities in the mint + LP use case is tearing our community apart. 
+
+Friend…"
+82,"RT @alpinechicken: What are mint + LP squeeks? (long +, short -, neutral ~)"
+83,RT @AlphaSerpentis_: https://t.co/XiIBH7tRtW
+84,"RT @PotionLabs: Today we are making public several important pieces of content: 
+
+📍 Kelly Optimal bonding curve derivation
+
+📍 Kelly Machine…"
+85,@1A1zP1 @cropcircle_eth @layer3xyz imagine the vibes of meeting a baby squeeth for the first time. Kid would have so much upside
+86,@cropcircle_eth what about squeeth?
+87,"PartyBid the Squeeth white paper 👀
+
+https://t.co/nwUxeiazOi https://t.co/CVQBga4Ntf"
+88,wdyt @viamirror @ourZORA?
+89,Should we mint the Squeeth white paper as an NFT?
+90,"RT @alpinechicken: Great summary!
+
+So squeeth is long gamma, long delta
+
+Short squeeth is short gamma, long or short delta
+
+Crab is short g…"
+91,RT @_Dave__White_: good but needs an EDM remix
+92,@mikegushansky @IamSuperMassive squeeeeeeeeeth
+93,"The appropriate way to pronounce Squeeth
+
+@IamSuperMassive never misses https://t.co/cuJjehaDm5 https://t.co/99GkV80kc3"
+94,"RT @DefiantNews: 📈Squeeth, or Squared ETH is a new power perpetual from @opyn_ 
+
+Long squeeth (ETH²) gives you a leveraged position with un…"
+95,RT @alpinechicken: @FatMnyShenny @opyn_ @DeribitExchange Sort of! It's one step removed. If you trade squeeth with a delta hedge you get so…
+96,"RT @alpinechicken: 5/ SqueethFact 2: You can trade squeeth by buying when implied volatility is low and selling when it is high.
+
+@DeribitE…"
+97,"RT @llllvvuu: Q from @snarkyzk about how @opyn_ squeeth + @PrimitiveFi can replicate vanilla call.
+
+you'll notice right away the integral f…"
+98,Squeeth makes trading derivatives cute again 🐱🦀 https://t.co/lUMcotllvA
+99,@macho_rambo_ @eulerfinance @Keeper_DAO @arbitrum @optimismPBC @0xPolygon ct sleepin 😴

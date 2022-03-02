@@ -1,0 +1,263 @@
+,0
+0,"@dwr well, at least i got the follow"
+1,@jillrgunter Anathem - i've started it like 4 times
+2,@dwr this is a dangerous rabbit hole that will lead to becoming a philosopher
+3,@dwr @libovness Just channeling my Tom Hardy
+4,"this is cool but what devs really want is kubernetes, the horror mini series
+
+https://t.co/ERTJF0YHX5"
+5,"@jessewldn i think you mean the underlying blockchain technology, good ser"
+6,come work with us! https://t.co/9j8GM2aMI8
+7,"@maksim_s @ArtirKel @stephen_wolfram never got into watching game streamers, but i love programming streamers
+
+watching @pfrazee building ctzn and @chrisbiscardi streaming rust challenges was really fun"
+8,discord is a weird name for an app that brings people together
+9,"@ericabrescia a simple example
+
+on slide 2 he relies on the fact that there are 10,000 crypto currencies to strengthen the claim on energy consumption. 
+
+on slide 4, he chooses the one with the slowest throughput when making a claim about tx rate."
+10,"@ericabrescia i was surprised at how poorly researched and misleading the assumptions underlying the arguments are. 
+
+the most generous reason i can ascribe to the writers motivations is intellectual laziness, the least generous would be intellectual dishonesty."
+11,@pmarca that ml system is either very good or very bad
+12,@zhayitong @coinbase @VectorDAO @js_horne @slavakim_ @jaysonhobby congrats!
+13,RT @brettberson: Pumped to open up applications for @firstround Angel Track.  Our goal is to enable the next generation of angel investors…
+14,"@AlokVasudev alchemy has a webhook that could feed into a TG bot, but you'd have to set up the server
+
+https://t.co/QbHu6X0955"
+15,@dwr https://t.co/dE76lXfTHf
+16,@seldo @ceejbot @zem42 ACH for hierarchical/decentralized - everything moves through nacha but banks can set their own rules for what they allow between each other
+17,"don't sleep on zk-systems
+
+being able to post a message anonymously with a proof that you belong to a group is a powerful social primitive
+
+excited to the the progress on this from the wizards at @0xPARC https://t.co/8WCO2RPwgv"
+18,"@dwr Idk, that’s a pretty brutal takedown of Go. Sends a strong message."
+19,"@andrestaltz is it correct to think of this as a nickname system for rooms? 
+
+where names are unique within a room, but not across rooms?"
+20,"@tommycollison unorthodox recs: 
+
+house of suns if you like easy reads 
+a canticle for leibowitz if you like challenging reads
+hyperion if you like literature
+lord of light if you like mythology
+last and first men if you like to start with the classics"
+21,"@frzshk @dwr @farcaster_xyz on the contrary, i argue that networks and clients should have total freedom to implement whatever measures they want to prevent spam for their users. 
+
+i don't connect with people i don't know on linkedin, while im happy to talk to anyone on twitter."
+22,"@frzshk @desoprotocol @farcaster_xyz there are many differences, but the most obvious one should be that deso puts content on-chain while this article makes the case for it being secured off-chain."
+23,"@mave99a yes and i mention it in the article. we borrow some ideas from AP's design.
+
+the one thing we do differently is put the name (identity) on-chain.
+
+very important for ux because you can control your identity while delegating your entire client experience to a managed service."
+24,"@benedictevans @sriramk assume each user only stores first order actions like ""i follow x"" and ""i liked y""
+
+you can write a crawler that ingests everything, and exposes an api to query across multiple degrees
+
+actions are cryptographically signed, so you can verify each crawler response if you want"
+25,"@benedictevans @sriramk good point. 
+
+the visible signals - reactions, shares and follows - are baked into the protocol and stored alongside the message.
+
+invisible signals like viewing time may be proprietary to each client, but this might be ""good enough"" for a recommendation system."
+26,"@benedictevans @sriramk The data layer of our network is, as you point out, spiritually similar to RSS with cryptographic signatures to improve security. 
+
+That's what makes it easy for anyone to build a recommendation system (or any other feature) on top."
+27,"@benedictevans @sriramk If the data layer is open, then distribution becomes a marketplace.
+
+Anyone can build a client and server and offer a better recommendation service."
+28,"@benedictevans @sriramk Blocking and promotion isomorphic at some level.  
+
+The network chooses if and when you see something, because they have a monopoly on user data, and by extension, distribution.
+
+If you don’t like their choice, well that's too bad."
+29,"An articulation of how @dwr and I designing @farcaster_xyz, a new social networking protocol. 
+
+If you know Solidity well and want to work on this, we're hiring and my DM's are open.
+
+https://t.co/Jai85zmeC8"
+30,"Ideas for building sufficiently decentralized social networks
+
+https://t.co/QLj0AXUXCH"
+31,@pmarca Okay this might be the best one
+32,@smsunarto an elegant puzzle is pretty good
+33,@amytongwu it takes two
+34,"i wonder if they realize how much they sound like people who used to mock them, back when they were the ones making strange new things https://t.co/SZS8d6LD4a"
+35,"@libovness AirPods Max, switched over after 10 years of using the QCs which are a close second"
+36,"@Suhail email hasn't just been slow, it's basically static.
+
+the real reason is not that it's hard, but that it is far more profitable to improve email clients than it is to improve email itself. 
+
+the right answer might be to find ways to reward people for making useful protocol changes"
+37,@Suhail edit: companies* with happier users
+38,"@Suhail historically building centralized products has been a lot more profitable than building decentralized protocols.
+
+web3 makes it more profitable for builders to build decentralized protocols. potentially more profitable for users too."
+39,"@Suhail in markets with network effects: 
+
+centralized product →  rent-seeking centralized monopolist with unhappy users (e.g. most social media)
+
+decentralized protocol → competitive, centralized company with happier users (e.g. email, browsers)"
+40,"@_Dave__White_ the bloody baron questline alone has such great  character and plot development that it could be turned into a standalone movie
+
+which is more than i can say for most standalone movies."
+41,"@sriramk - https://t.co/ECJxl80tQv
+- https://t.co/lxeolfKOOh
+- https://t.co/6fwIcdqmP0
+- https://t.co/PYPQ28UnYW"
+42,@thetkkong Varunsrin.eth
+43,"This tricks @opensea and @etherscan into showing them as legitimate ""Mint"" Events, and unsuspecting users may ape into these fake NFT's.
+
+Expect these attacks to become more common, always be careful when buying new NFT's!"
+44,"So the contract creator can mint the same token to the same people, again and again, generating thousands of events.
+
+Which they do here:  https://t.co/JvPlkvRTIq"
+45,"The flipped ape contract exploits this to trick users. It emits a transfer event when a new token is minted, just like the ERC-721 spec says. 
+
+But it doesn't implement the logic to prevent the same token from being minted again."
+46,"This standard is called ERC-721, and it defines the functions (the ABI) and a set of rules for how they should work (the logic).
+
+It's very easy to check if a contract complies with the ABI, but hard to check if it complies with the logic."
+47,"All NFT contracts implement the same ABI, which makes writing NFT apps easy.
+
+If you write code that checks for transfers from one NFT contract, it will work just fine when pointed at another. That's how @etherscan and @opensea can easily track all NFT's."
+48,"So to talk to a compiled smart contract, you need the source code. Or at least enough of it to know the names and shapes of the functions in the bytecode. 
+
+This stripped down version of the source is called an ABI."
+49,"Ethereum smart contracts expose functions to read or write on-chain data. 
+
+They're written in human-readable Solidity but are compiled into very efficient byte code before being deployed. 
+
+The downside of byte code is that it's not readable."
+50,"A closer look at a flipped punk shows the same one minted hundreds of times by different people. 
+
+Someone is spoofing events, making it look like famous collectors are minting NFT's when they aren't.
+
+How is this happening? https://t.co/dS7jIfF3Ld"
+51,"If you follow @punk4156  or @CozomoMedici on OpenSea, you may have noticed that they're minting hundreds of flipped punks and apes. 
+
+But don't go minting any yourself just yet.
+
+https://t.co/YHL5p3r8NU"
+52,"RT @elonmusk: @SenWarren And if you opened your eyes for 2 seconds, you would realize I will pay more taxes than any American in history th…"
+53,"@benedictevans storing your life savings in a key is not a desirable state for most (like running an email server under your desk)
+
+but being able to to do that makes it easy to exit or switch ""hosting providers"" at any time.
+
+i think this is an underrated superpower of crypto networks."
+54,"since congresspeople vote on things that affect the value of USD, the logic extension of this argument is that they shouldn't hold USD either. 
+
+https://t.co/D1amfJy5c6"
+55,"founder checklist for crypto vcs in 2022:
+
+- do they give good advice?
+- can they make helpful intros?
+- are they going to decide quickly?
+- will they rewrite my development toolchain in Rust? https://t.co/Enc8rTRnnG"
+56,"@cdixon There was a debug mode on Alexa that let you see every transcription it recorded when it thought it you had invoked it. 
+
+Took me about 30 seconds after finding it to disconnect every smart speaker in my home."
+57,"@cdixon I suspect their most important achievements will be Golang, Tensorflow and Kubernetes.
+
+Though it's hard to imagine any of them being as culturally iconic as C or Unix 30 years from now."
+58,@matthuang Psytrance
+59,@wheatpond Seville
+60,"todays airdrops are a good starting point, but there's a lot to improve on. the winning systems will figure out how to:
+
+- favor users over hoarders.
+- distribute value gradually and predictably.
+- use simple algos instead of governance votes."
+61,"web2 network effects == get users
+web3 network effects == give to users
+
+paradoxically, the more you give away the more valuable your share becomes (up to a point)."
+62,"my favorite bit about explaining web3 to web2 people is the moment when it clicks that airdrops are a way to finance cac with future potential instead of cash on hand.
+
+the second part is when they realize how easy retention is when users are literally invested in your success."
+63,"@mlevchin why not both? 
+
+https://t.co/t6jtmW1eA7"
+64,"After decades of charging less for things, corporations have finally realized they can boost their stock by just charging more for the same things.
+
+Turkeys will now cost $1,250,872.12. https://t.co/yh4bcJqICb"
+65,@blakeir the beginning of infinity
+66,"@spencernoon ""nobody uses ethereum anymore. the blocks are too full."""
+67,@Austen buy and stake eth2 on coinbase
+68,@antoniogm That is a very legit selection
+69,it is a fundamental law of computer science that xcode will always take 1 hour to install even if you add an infinite number of cores/iops/geebees
+70,"endgame for consumer startups: become a verb 
+
+endgame for saas startups: become a job description"
+71,"@garrytan @kenk616 but exactly what role did you play in ""not being a billionaire co-founder"" at Palantir?"
+72,"Sandbox VR is the first game-changing experience I've had with VR.
+
+If you can build that AND survive the pandemic as a brick-and-mortar business, you are definitely gmi. https://t.co/GAj1HCfHEl"
+73,"gm, even to people that don't like to gm"
+74,@lennysan the real power move is to only raise from your users
+75,"@cdixon if us credit card companies bore the cost of fraud, this would get fixed very fast."
+76,"""you get .0002% shares over 4y, 90 days to exercise, 409a is still being decided. we're totally 5x more valuable than our last round. no, i can't share our cap table, revenue or outstanding shares.""
+
+""...  no thanks, i'm joining this web3 company instead""
+
+""goddamn ponzi schemes"""
+77,@hunterwalk don't forget the calories you burned while cutting it
+78,probably nothing https://t.co/OuzcKZryIK
+79,@dhaber 🙋‍♂️
+80,".@dwr and i are growing the team 🚀🚀
+
+if interested, click through to the form👇 https://t.co/AMW55aY3eq"
+81,"typescript compiler: 
+
+Type 'Document' is not assignable to type '{ bloop: (string | MagicFoo)[]; bleepDeBloop: (string | MagicFoo)[]; somethingFoo: (()=&gt;{} | MagicFoo)[]; somethingComplicated: (string | MagicBar)[]; otherFoo: (string | MagicFoo)[]; }' which is missing... 
+
+me: https://t.co/lAF0PIofgv"
+82,"i want calendly, but for maker scheduling: 
+
+1. enforce 3-hour daily maker blocks, but find ideal times based on meeting requests.
+
+2. let mark lower pri meetings and suggest reschedules to increase maker time.
+
+3. automatically do this if both sides opt in. 
+
+does this exist?"
+83,@garrytan worlds most lit bathroom
+84,"RT @dwr: Looking for an Electron consultant for a 2-week project. 
+
+Experience with TypeScript and US timezone required. 
+
+DM me your GitHu…"
+85,@gakonst when i need to run a bunch of ad-hoc balance queries against a remote node.
+86,join us. https://t.co/WJwIF2sO9n
+87,@toddg777 @zosegal @dwr zk-poo?
+88,"@matthuang here's a few that are worth a read: 
+
+a fire upon the deep
+old man's war
+altered carbon
+revelation space
+neuromancer
+cryptonomicon"
+89,@MonetSupply @bantg need capital call primitives on-chain
+90,"want: issue tracking system with hard cap on number of visible tickets per builder on the team. 
+
+forces constant prioritization by merging or archiving."
+91,"@matthuang @arjunblj iphone face down in sand, what a flex"
+92,"@daltonc identifying pmf early is surprisingly hard for most people, unless they've seen it happen before. 
+
+the less you know about what success really looks like , the more you rotate on founder status, investors and press.
+
+wonder if there's a way to compress the learning curve?"
+93,@TurnerNovak @BananaCap_ how do you source all all this fresh banana meme dealflow?
+94,finally! thanks @sid_coelho i can now use this as my primary https://t.co/k1R9YozOCc
+95,"@ljxie A Fire Upon The Deep, Neuromancer, Three Body Problem, Cryptonomicon, Rendezvous with Rama"
+96,"@lennysan clubhouse, airpods"
+97,"Github Copilot, you know me too well. https://t.co/u5MOQ1XbXR"
+98,"every sufficiently large company reaches a scale where it's positive EV to write your own compiler. 
+
+reminds me of that time when ms excel built it's own c compiler to target powerpc and x86 at the same time. https://t.co/oaHPGpnRdA"
+99,"Github's shipping velocity feels like Google circa 2008. Also, I want to use everything they make.  
+
+https://t.co/qfuk5sqeXG"

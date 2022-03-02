@@ -1,0 +1,380 @@
+,0
+0,"@PatrickAlphaC 1 slot — constant vars are hard coded into the contract’s byte code at compile time, and immutable vars are hard coded during the execution of the contract’s constructor."
+1,@SheetFighterNFT Omg 😭
+2,"We managed to bring GPT-3 data on-chain, and store it in an efficient way.
+
+But, that's just the beginning.
+
+@SheetFighterNFT is going to continue to be a hot-bed of creative technicals feats.
+
+Next up?
+
+Our Ethereum &lt;--&gt; Polygon bridge."
+3,"Of course, that means we have to parse and split up that long string, when you query the contract for the Sheet's metadata.
+
+But, that's not a problem.
+
+Getting the Sheet's metadata is a view-only transaction, so it costs literally zero gas to parse the string. https://t.co/4EVt2jAFag"
+4,"Instead of storing each string as a separate variable, we stored them all as one long string, concatenated by a pipe character.
+
+Why would we do that?
+
+To reduce the number of slots the data took up in storage.
+
+Fewer slots = less gas https://t.co/s0kw6zzwBF"
+5,"After getting the GPT-3 data on-chain, we had to figure out how to store it.
+
+The main challenge was reducing the cost of gas. 
+
+Each sheet had five different pieces of text we had to store, so we did something we hadn't seen done before."
+6,"If alarm bells are ringing in your head right now — good. 
+
+You noticed that anyone could've easily altered ""_flavorTexts"" and arbitrarily named their Sheets.
+
+That's where the signature came in, which let us verify that ""_flavorTexts"" was the unaltered text created by GPT-3. https://t.co/I3vYt7BMDf"
+7,"But, how did the GPT-3 generated texts actually get on-chain?
+
+The answer lies in the smart contact's ""mint"" function.
+
+When you minted a Sheet, you passed in the GPT-3 generated data yourself. That's the ""_flavorTexts"" parameter.
+
+This all happened under the hood, of course. https://t.co/uVe88ZIRau"
+8,"When users (lovingly dubbed ""Sheet heads"") minted their Sheets, something cool happened.
+
+GPT-3 generated texts that represented their Sheet's name, and the names of it's fighting moves, were placed on-chain. https://t.co/V6NnB4JWTD"
+9,"The goal of all this was to build something totally new and push the boundaries of what we could do on-chain.
+
+The lore and high production value of the project were huge components of @SheetFighterNFT's success on the day of launch, as were the pretty unique technical nuances."
+10,"It's no secret that storing data on Ethereum is expensive — brutally expensive. 
+
+But, there was another problem, too.
+
+The GPT-3 generated data had to be created off-chain, and users had to bring it on-chain, themselves. That presented security risks.
+
+So, we had to be creative."
+11,"12 days ago, we did something we'd never seen done before.
+
+We took GPT-3 generated data and placed it on-chain on to Ethereum.
+
+Here's how we did it, and why 🧵"
+12,@AleResnik @markpinc @ferenstein Same. More of us here than I thought.
+13,"@DMSchlabach @thebrunchguy this is how my onboarding was at Index, and it made a world of difference"
+14,"Slowly, then all at once."
+15,@gumby_007 @SheetFighterNFT 🤩
+16,@mango__pear @SheetFighterNFT i have giganerd energy flowing through my veins
+17,Rust feels like the next.js version of C++
+18,@ledaveissafe @antiprosynth @JornvZwanenburg @DRC542 @sassal0x @ASvanevik Agreed
+19,"@antiprosynth @JornvZwanenburg @DRC542 @sassal0x @ASvanevik I don’t have a dog in this fight, but this isn’t intellectually honest. Avalanche C-chain boasts a different consensus mechanism that leads to faster confirmations. The Avalanche C-chain is a geth fork, but it isn’t“literally just a geth fork with gas limit cranked a bit”."
+20,"If you find a signer on a multisig that actually signs transactions...
+
+Hold onto them. Hold on to them tight."
+21,"Oh, you're a ""Web3 dev""?
+
+Name 3 reasons why you hate Rinkeby."
+22,@WillPapper @DennisonBertram It's killing me right now!
+23,@gnovak_ @0xgaut This is actually genius
+24,@0xgaut I want this on a t shirt
+25,@javier123454321 My man!
+26,"Rinkeby ETH feels almost as valuable real ETH.
+
+Can the devs DO SOMETHING"
+27,"The best part of the tutorials is how low-level he can go, while keeping them entertaining and light-hearted.
+
+Anytime someone asks me how to learn blockchain development, I point them to his channel.
+
+Link here:
+https://t.co/dyclnw0YcP"
+28,"If you're going to learn Web3 development, learn it from the best.
+
+@PatrickAlphaC makes arguably the most practical, entertaining, and easy-to-understand tutorials in the space, and posts them for free on YouTube.
+
+Flashloans, NFTs, DappTools, debugging... you name it! https://t.co/Zmr3RtRfcF"
+29,@convexdegen *cries in ethers.js*
+30,"Web3 is still clunky and expensive to use.
+
+That's the opportunity."
+31,"@javier123454321 My personal preference would have been Vue / Nuxt.js, but I've been React-pilled now"
+32,@Jierlich I’m a react-pilled gigachad now
+33,"The Web3 stack:
+
+• React / Next.js
+• Ethers.js
+• Typescript
+• Solidity
+• Foundry
+• Alchemy"
+34,@Jierlich @madrealities The devs might be doing something 👀👀
+35,"Before you consider gas-optimizations that tradeoff security, make sure you've taken care of lower-hanging fruit, like variable ordering."
+36,"By grouping smaller datatypes together, StructB uses only two slots.
+
+On the flip side, StructA uses three. https://t.co/c5bVqCWcq9"
+37,"More slots = more `sstore` operations,
+
+and `sstore` operations are WILDLY expensive.
+
+You can use fewer of them by properly ordering variables."
+38,"Why should you care about the order of variables?
+
+The EVM breaks up storage into 32-byte slots.
+
+• uint8 takes up 1/32 of a slot
+• uint256 takes up an entire slot
+
+But, why does that matter?"
+39,"StructB stores the same types.
+
+But, there's an obvious twist:
+
+the order. https://t.co/FRYndUJ8hP"
+40,"StructA stores three numbers.
+
+Two are uint8 types.
+
+One is a uint256 type. https://t.co/J0gpTXKR29"
+41,"You can easily gas-optimize your Solidity contracts. 
+
+Here's an example: https://t.co/akBZvBq6a2"
+42,Unless you're my cofounder 👀
+43,"If you work in crypto, your attention is:
+
+1) incredibly valuable
+2) incredibly scattered
+
+The best way to refocus your attention?
+
+Be unreachable a few hours a day."
+44,@theyoungcrews From now on every Crews tweet is an omen and you can’t convince me otherwise
+45,@thebrunchguy @intros_ai Typeform feel! 1000x times over
+46,@Hammad1412_ @davidesilverman @Matthew_Graham_ @MisterMadila @Jierlich Let’s do it! DM inbound
+47,"@indexcoop @Ape7075 I’m obviously biased, but can’t recommend @indexcoop enough. The people, products, and mission are top notch."
+48,"@altryne @infura_io @AlchemyPlatform @MoralisWeb3 @avalancheavax Stuff I’m working on right now is all on Ethereum mainnet and @0xPolygon’s PoS side chain, but will certainly expand to other L2s and L1s long-term"
+49,"@altryne Depending on the project, I've used @infura_io, @AlchemyPlatform, and @MoralisWeb3. 
+
+For @avalancheavax projects, specifically, I used their own native public node API for development, and then @MoralisWeb3 for production."
+50,"You don't realize how easy Web3 development can be.
+
+In 3 lines of code, you can:
+
+• connect to a node
+• create a contract instance
+• read data https://t.co/28UKxjxgEL"
+51,"@javier123454321 Stating an opportunity, not a criticism"
+52,I don't know any long-term thinkers that have panicked over recent price changes.
+53,"Six years ago, when @Jierlich and I became friends, I knew we’d build something big together.
+
+Today, it’s official. We’re off to the races. 
+
+DMs are open to the curious. https://t.co/MlztYDbgtt"
+54,"The best DAO contributor I know shuts off:
+
+• Discord
+• Telegram 
+• Twitter
+
+everyday for deep work."
+55,@Jierlich might be working on something 😳 who knows
+56,"Most DAO contributors aren't technical.
+
+Most DAO tools suck if you aren't technical."
+57,"By approaching Web3 protocols as regular old products, you'll learn all of the valuable context that makes it easier to remember the individual pieces.
+
+Now you don't have to memorize protocol details in isolation."
+58,"How is it solving that problem?
+
+In other words, dive deeper into the protocol's implementation, and understand the ""how"" of what they're doing.
+
+E.g., Chainlink is building a decentralized network of oracles to allow data to enter contracts in a decentralized way."
+59,"What problem is it trying to solve?
+
+All protocols are created to solve a problem.
+
+Now that you know the target audience, what is the specific problem they're having?
+
+E.g., prior to Chainlink, Dapp developers were struggling to get real world data into contracts safely."
+60,"Who are its users?
+
+Paint a general picture of who the protocol is trying to acquire as a user.
+
+E.g., @chainlink is trying to help developers that are building complex Dapps."
+61,"Web3 is an industry. Concepts will stick when you think of Web3 protocols as products in that industry.
+
+The same questions apply:
+1. Who are its users?
+2. What problem is it trying to solve?
+3. How is it solving that problem?"
+62,3 steps to learn any complex Web3 protocol:
+63,"@telegram, I'm being impersonated on your platform, and this individual is my name to promote their fraud and scam my audience.
+
+I reached out to your ""notoscam"" account, and I'm waiting for a response, per https://t.co/cRoGBHYEIz https://t.co/o5LzklZ0CK"
+64,"L2s are facing the same issue as alt L1s:
+
+network effects.
+
+At inception, each L2 has:
+• no liquidity
+• no contracts
+• no users
+
+The problem?
+
+Less utility per user."
+65,"In 2017, I was one of the four people I knew writing smart contracts.
+
+In 2022, I'm one of the the ~20 people I know writing smart contracts.
+
+Pick up the skill.
+
+The demand &gt;&gt;&gt; the supply"
+66,"What to do in a bear market:
+
+build."
+67,"If you work in Web3, you're chronically distracted:
+• Twitter
+• Discord
+• Telegram
+
+Shut it off for a few hours a day.
+
+You'll build so much more."
+68,"@hexonaut I think the real problem is that the network effects Ethereum accrued don't translate to L2s. 
+
+If all my users are on mainnet, deploying on an L2 alienates me from them."
+69,"The best Web3 builders don't necessarily have:
+
+• The most coding experience
+• The most advanced degrees
+• The most resources
+
+They are:
+
+• The most creative
+• The most willing to learn
+• The most persistent
+
+All you need is the willingness to keep trying and keep learning."
+70,"The worst understood concept in crypto:
+
+progressive decentralization.
+
+DAOs strive to become decentralized quickly, but it's impossible for any decentralized system to start off that way.
+
+At inception, there needs to be trust that there will quickly not need to be trust."
+71,"What I thought contributing to a DAO was like:
+
+• working on cool problems
+• learning from gigabrains
+
+What it's actually like:
+
+• working on cool problems
+• learning from gigabrains
+• ""PLEASE sign this transaction"""
+72,@theyoungcrews The exceptions are the super hero glue people like you 🥲
+73,"How most DAO contributors spend their time:
+
+20% deep work
+80% meetings/context switching
+
+How they should be spending their time:
+
+80% deep work
+20% meetings/context switching"
+74,"You're probably wrong if you think decentralization is the most important trait of an L1 or L2.
+
+I still deploy to Ethereum, because:
+
+• my users are there
+• the infrastructure is there
+
+Not because:
+
+• it's more decentralized than other L1s
+
+Network effects really matter."
+75,"Down market = time to build
+
+Let's get after it."
+76,@j_austincain @0xPolygon @sandeepnailwal @_jdkanani @MihailoBjelic @sourcex44 @shreyansh_27 @0xPolygon just snagged a good one
+77,@theyoungcrews @indexcoop @AlphaLemonade @BenGiove @banklessDAO @joey__santoro @0xMaki @AlchemixFi @sayinshallah @ribbonfinance LFG!!
+78,Memes and diamond hands are the twin pillars of crypto success.
+79,@chaserchapman @Jierlich 👀
+80,"@josh_blatt_ Rust is definitely fast, but smart contract computation isn't the bottleneck for L1 scalability.
+
+The bottlenecks are:
+
+• cost of writing data to storage
+• time to consensus for validators"
+81,"Smart contracts should not be written in general purpose languages, like:
+• Rust
+• JavaScript
+
+Smart contracts should be written in languages built for the task.
+
+The guardrails matter. 
+
+We're operating in a dark forest."
+82,@theyoungcrews The sheer anxiety that would give me
+83,"Web3 founders are repeating the painful mistakes Web2 founders made.
+
+Learn from them.
+
+Don't be a product searching for a customer.
+
+Know your customer before you know what you're building."
+84,"Fire bullets, before firing cannon balls.
+
+Use prototypes, not products, to verify that you're solving their problem.
+
+quick prototype = tight feedback loop
+
+Most Web3 builders start writing code ASAP, and it prevents them from learning fast. https://t.co/oCkd2QQY56"
+85,"Don't make the classic Web3 mistake.
+
+Work backwards from your customer:
+
+1. pick your target customer
+2. understand their experience
+3. solve their most painful problem
+
+A ton of Web3 startups start with a product, and then try to find their customer.
+
+Oof. https://t.co/ZDZVadkWI0"
+86,How to build Dapps that people will *actually* want to use:
+87,"The worst understood skill in smart contract development: testing.
+
+It's not enough to write unit tests.
+
+The best developers:
+- understand the gamut of possible security pitfalls
+- use tools like @mythx_platform and the @trailofbits Ethereum Security Toolbox"
+88,"DAOs are great, because the incentives of decision makers and the organization are aligned.
+
+Aligned incentives = well intentioned decisions
+
+DAOs aren't great, because decision makers aren't necessarily the best informed about a topic, but this is true in traditional orgs, too."
+89,@theyoungcrews lmao NFTs embedded in streetwear IS great content. I'm on it.
+90,@Jierlich Can’t wait to have something to use it for
+91,"Tools you should learn before Solidity:
+
+1. ethers.js, or
+2. web3.js
+
+You need to know how smart contracts are used, before learning to write them."
+92,"The biggest problem DAO contributors face is the enormous cost of context switching.
+
+Contribute to multiple DAOs, and you incur disproportionately more mental overhead.
+
+Contribute to multiple working groups? Same thing.
+
+After a certain point, more =/= better."
+93,@davidesilverman 👀
+94,"Closed source, fully centralized, and arbitrarily inflated.
+
+*closes Delta miles tab*"
+95,Get your ETH off exchanges and into wallets you control.
+96,Focus on the inputs
+97,@agazdecki Oh no 🙈
+98,"@ScottHickle Lifting weights is one of the most flow-inducing activities for me. 
+
+That said, check out The Mind Illuminated. It’s one of the best resources I’ve come across for “meditation” — training your ability to focus your attention, and become aware of when you’ve lost your attention."
+99,@pedrouid @AlchemyPlatform This is great! A proxy makes sense. We’ll give this a go. Thanks!

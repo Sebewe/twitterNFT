@@ -1,0 +1,356 @@
+,0
+0,"@archmagefi_ hey! I’m using your archmage-finance theGraph endpoint for my @yewbow_  interface.
+
+I have a few questions about your implementation. Please DM me, would be greatly appreciated :)"
+1,"@AncapSansad I used @matplotlib to create a graph at each transaction, each one saved as a PNG image. Then I used @FFmpeg to combine those images into a movie."
+2,"@curcio_ml Would using uni v3 positions to ""hedge"" squeeth make money then?"
+3,"@AlexKEuler It's not clear to me either 😅 
+From my article: ""Why would someone want to hedge a long squeeth? I’m not entirely sure."" 
+But I guess a net positive income may result from shorting ETH on a perp futures exchange and collecting fees by deploying the Uni v3 LP position."
+4,"@StittsHappening @DefiEdge Not sure if collecting fees scales linearly with the number of positions since you only need to sign the transaction once.
+@DefiEdge: how does that work on https://t.co/uPFobXBmSK?"
+5,"11/ It is easy to see how this approach can be generalized to neutralize the gamma of any (positive convexity) payoff function.
+
+Power perp? Log perp? Exponential perp? Long options? Binary options? The gamma for all of them could be hedged using Uni v3.
+
+Happy hedging! 🌲🌲🌲🌲"
+6,"10/ Deploying 8 LP positions may cost a lot of gas, but it could easily be done using a Decentralized Asset Management tool like @DefiEdge
+
+For instance, 4 LP positions can be deployed at the same time in on https://t.co/OKsd3Mi5rI (I'm told &gt;5 positions will be enabled soon) https://t.co/ek2pSoqtpi"
+7,"9/ Hedging the delta of the combined position results in a payoff curve that's flat in both value and delta (in green below) across the entire range of the LP positions.
+
+It is thus possible to construct a fully hedged squeeth whose value stays constant over any arbitrary range. https://t.co/2SH72bQveP"
+8,"8/ Deploying several Uni v3 LP position with the right liquidity makes the gamma of the LP position exactly equal to -2, thereby neutralizing squeeth's gamma = 2
+
+The approximation can be improved by adding more LP positions. I'm showing an example using 8 positions. https://t.co/SqBLIci9U7"
+9,"7/ In other words, they can be used as the basis of what I call the Gamma Transform, which can be used to approximate any payoffs with negative convexity as the linear combination of several 1-tick positions.
+
+Let's apply this to squeeth, whose gamma is always equal to 2"
+10,"6/ Why do we care? 1-tick positions can be seen as a Kronecker delta, which is zero everywhere and with an area equal to 1 at the current tick.
+
+Since each 1-tick position have no overlap and they are all independent of one another, they can be used to approximate any function: https://t.co/8WwZU5M42X"
+11,"5/ More specifically, its shape looks like a rectangle of width 2K*(r-1). To keep the area under that curve equal to unity, the height of that rectangle needs to be -1/(2K*(r-1)): https://t.co/vffYOvfJGT"
+12,"4/ If we look at the gamma of a Uni v3 LP position, then things get interesting: both gamma and delta are discontinuous at the upper and low price, but the Gamma of a single-tick Uni v3 position looks (almost) like a rectangle as the range factor approaches 1 https://t.co/lzk9LcOsgV"
+13,"3/ Now let's consider squeeth, a recently released financial product by the @Opyn team. 
+
+Squeeth is a type of power perpetual whose return is equal to the square of the price of ETH (squeeth = square-eth)
+
+It's gamma is constant at all price and always equal to 2: https://t.co/4NTreR85i8"
+14,"2/ Formally, Gamma is defined as the second derivative of the value of an asset. Recall that delta is the first derivative of the value of an asset
+
+Delta = slope, Gamma = slope of the slope
+
+Here's the gamma and delta for a positive convexity instrument like a long call option. https://t.co/afiptMuq9J"
+15,"1/ First, what is gamma? Gamma is a measure of the ""convexity"" of an asset. 
+An asset with a positive convexity will increase in value faster as its price goes up. OTOH, an asset with negative convexity will see diminishing returns.
+Here's a graph showing how gamma affects price: https://t.co/A8pzR7DlSN"
+16,"I just published: ""Gamma transforms: How to hedge squeeth using Uni V3""
+
+We demonstrate how 1-tick Uni v3 LP positions can perfectly hedge the gamma of positive convexity assets like squeeth.
+
+Gamma transforms? squeeth? convexity?
+
+Let's dig in 👇
+
+https://t.co/AD7ZRRu2iZ"
+17,"@fuckyourputs @llllvvuu @0xkrane @0xcoli @crypto_noodles @MLGavaudan @dydxprotocol @AntonioMJuliano @perpprotocol @CrocSwap An unhedged LP position is like a short put.
+
+A ~50% hedged LP position is a perfect straddle.
+
+A 100% hedging a LP position is a naked call.
+
+You can test it out yourself here: change the hedge H factor from 0 to 1 to see the different payoffs https://t.co/gZ2ND0OftS"
+18,"@0xbabi What should it be called? 
+
+DerivatETH?
+dETHrivatives?
+QuantETHtative finance?
+∂ETH/∂x?"
+19,@odin_free Some ETH miners don’t even know about it 👇 https://t.co/YZBRu3TEP5
+20,@lostbutlucky @wireless_anon @AlamedaResearch *not all pools are worth it.
+21,"@lostbutlucky @wireless_anon @AlamedaResearch Anything looks like a scam if you don’t know the rules.
+
+LPs take on risk so that users see less slippage and better prices when using AMMs. Fees should compensate LPs for taking that risk, but not all pools are with it. 
+
+The key is to know which one are, and at which range."
+22,"I’m thinking of the best way to disseminate the results of my research as part of my @uniswapgrants and the @yewbow_ analytics platform. 
+
+Question: How would you like to consume information and analysis about @Uniswap v3 and the broader DeFi ecosystem?"
+23,RT @EthereumDenver: Riding the Unicorn: Uniswap v3 as a Perpetual Option Primitive by @guil_lambert  https://t.co/uqQzbnGko8
+24,"@llllvvuu @0xdoug There is no external market to trade Uni v3 positions, so yeah fees have to reflect some measure of realized volatility.
+
+Someone could lend out the LP position for a fixed fee based on their predicted IV and the borrower will pay IV now and receive fees=RV from the position."
+25,"@llllvvuu @0xdoug IV is based on fee accrual of a 1-tick LP position and comparing the returns to a corresponding ATM option. Nothing to do with IL
+
+The actual expression is 
+
+IV = 2*feeTier*sqrt(24hVolume/tickLiquidity)
+
+Here’s how I derive it: https://t.co/Xpf8CfFEHO and https://t.co/rM26RG6SrJ"
+26,"@llllvvuu @0xdoug &gt;MM is options is also surely a simplistic analysis
+
+Hopefully not too simplistic, I based my whole ETHDenver talk on that 😅
+
+https://t.co/7MfC5RwZ4x"
+27,"@llllvvuu @0xdoug Several options traders that use geometric Brownian motion models to price options need a word with you.
+
+How widespread is JIT though? I see no JIT mint/burn events on etherscan in the ETH-USDC pools in the past several hour even though many transactions are &gt;$100k in size (?)"
+28,"@0xkydo A real mining rig in his house I think. He just built the setup 6mo ago. 
+
+He tried to shill me some other coin he was going to mine when I told him his setup wasn’t gonna work in 6 months"
+29,"Took an Uber on my way to #ETHDenver, turns out the driver is running an Ethereum miner but he had no idea the merge is coming…"
+30,"Lazy LPing is the same as selling an ATM put option that expires years (decades?) in the future
+
+That's a fine strategy, albeit not for everyone.
+
+Ultimately, Uni v3 doesn't ""destroy"" any strategy, it simply gives more control over the level of risk LPs are willing to take https://t.co/jT9mIYvfuA"
+31,"@X3Finance @sjwill99 @lesigh3100 @Uniswap This answer is incorrect.
+
+""Leverage is an investment strategy of using borrowed money to increase the potential return of an investment."" (investopedia)
+
+Leverage means you can lose more than you put in. That's not the case for Uni V3"
+32,@X3Finance @sjwill99 @lesigh3100 @Uniswap How?
+33,"@X3Finance @sjwill99 @lesigh3100 @Uniswap You cannot create a leveraged position in Uniswap, so max IL is the same regardless of the range of the position in Unit V3.
+
+And IL is not a real loss, in the sense that got cannot offset other gains from a tax perspective. See below:
+https://t.co/HUgSFSV1lh"
+34,"@0xdoug But you're right about fees in high vol regimes. 
+
+We can look at the IV of the ETH-USDC trading pairs on https://t.co/jo44yJuhnp: 
+
+•1% pool: IV = 137%
+•0.3% pool: IV = 96%
+•0.05% pool: IV = 82%
+
+Since returns are proportional to IV, high fee pools benefit the most right now"
+35,"@0xdoug How low is low vol regimes?
+
+The max fee on Uniswap is 1%. The implied volatility needs to be less than ~19% for the daily 1sd expected to be less than 1%. 
+
+Most crypto assets have IV&gt;75%, so even the 1% pool will see trading activity every day if there's enough liquidity"
+36,"I'll be speaking at #ETHDenver about my work on a groundbreaking options protocol based on @Uniswap:
+
+•Perpetual options for any Uni V3 asset 
+•Permissionless long/short options
+•Oracle-less BS pricing
+•Built-in margining
+
+Tune in on Wed to learn more!
+https://t.co/7MfC5RwZ4x"
+37,"@chudnovglavniy Reminds me of this article by @cdixon 
+
+https://t.co/JjAFbOojET"
+38,"Thanks @ConnorYMartin for giving me the opportunity to talk about @yewbow_ and neutral positions in Uniswap v3!
+
+For those that missed it, here are the two flowcharts I created to help beginners deploy+manage LP positions
+
+https://t.co/I80neUiC1r https://t.co/bO4A6q0CUy"
+39,"@0x_bear @ConnorYMartin I push all the code here, you can even run the interfaces locally: 
+https://t.co/eCrpXuIlXZ
+https://t.co/fBlXEQGwAy"
+40,Tune in tomorrow if your want to hear me talk about how to deploy directionally strategic positions in Uniswap 🦄 https://t.co/xjyTAqM6I4
+41,"RT @yewbow_: Here are some details about the latest update to the https://t.co/XxaRII6pbd interface.
+1) The historical implied volatility i…"
+42,"@sjwill99 @lesigh3100 @Uniswap But are these impermanent losses real though? Can they be used to offset capital gains for tax purposes?
+
+I buy 1 ETH for 2500 and deploy it between 3000-3001 in the ETH-Dai uni v3 pool. ETH price is now 5000. What do I tell the Tax Man? +500 in PnL or -2000 in IL?"
+43,"@sjwill99 @lesigh3100 @Uniswap You could have bought a 100x leveraged perp and made 100x more, should that also enter in the IL calculation? 
+
+Hold if you want to hold, LP is you want to LP. There's no point in comparing them.
+
+I'm happy if I end up with more ETH/Dai than I started with. As should you."
+44,"@lesigh3100 @Uniswap How is Uni v3 LPing leveraged? You cannot put in more than you already possess and you can't get liquidated even if the price goes to zero (?)
+
+My schtick is that Uni v3 LPing is a lot like being short options, but even then all ""option writing"" is alway 100% backed by collateral"
+45,"RT @hexonaut: Wrote some thoughts about web3 protocol frontends.
+
+TLDR is we need to move away from having the core protocol be linked to a…"
+46,"@lesigh3100 @Uniswap I don't believe Uni V3 should only be used by ""very sophisticated"" market makers."
+47,"@sjwill99 @lesigh3100 @Uniswap This strategy requires tokens to be sold back to ETH when exiting the position, so IL is irrelevant. Positive PnL or negative PnL is what matters.
+
+And the best way to not get rekt is to stay small. This is not for everyone, never invest more than your willing to lose, etc etc."
+48,"@TalQuant @Uniswap Mainnet LP positions should be &gt;1ETH in size to be worth it IMO, but you can go much lower on L2s.
+Slippage won't be an issue for most liquid pools, but anything &gt;10ETH may be problem in lower liquidity pools.
+
+My recommendation: stay small and keep position size between 1-10ETH"
+49,"@B0R444 @Uniswap There's always going to be some need for a human intervention, especially the part about whether your initial bullish-neutral-bearish assumption has changed."
+50,@deanrey3 @B0R444 @Uniswap Sacrificing some of the simplicity of Uniswap v2 for a &gt;10x increase in capital efficiency is a good tradeoff in my opinion.
+51,"I've created a couple of flowcharts to help beginners deploy+manage their @Uniswap v3 liquidity position.
+
+•Part 1: Choosing a size+range for a given holding timeline –eg. 1d, 1w, 1 mo, 1y?
+
+•Part 2: Managing LP positions via daily checks –ie. when to exit position+take profits https://t.co/Y6mPe8Cp28"
+52,"The ""true"" price of all crypto assets will eventually be set by Uniswap on mainnet, the same way commodities prices are set on futures markets. https://t.co/5RDVp3gVAG"
+53,"RT @wilburforce_: Squeeth live, some initial data about a day into trading https://t.co/vtfle63jTR"
+54,"@LeoMorozovskii @eulerfinance &gt;Need to micromanage positions on Euler to account for position changes on Uni pools?
+
+Yes, but fee accumulation widens the breakeven points. 
+
+No need to rebalance if the position is in range and profitable. https://t.co/74dX1sAZJN"
+55,"@0xdef1 @eulerfinance @AlphaFinanceLab Token deployment is permissionless on Euler.
+
+https://t.co/VgmQEEtqlN"
+56,"@ivangbi_ @NoahZinsmeister @eulerfinance Token deployment is permissionless on Euler, so new tokens will be available to borrow much more quickly than on other platforms. 
+
+https://t.co/VgmQEEtqlN"
+57,@alpinechicken @haydenzadams viz. https://t.co/VLOPGynPwW
+58,"@kyoronut @eulerfinance LP positions only have positive profit/loss or negative profit/loss.
+
+P&amp;L is what needs to be hedged, impermanent loss doesn't exist 🙃"
+59,"@trustlessexp @eulerfinance I agree. But the borrowing rate would match the *token* rate of return in a LP position.
+
+Liquidity providers would still provide ETH/stablecoin, and they'd keep returns from providing that liquidity. 
+
+So steady state borrow rate ≈ 50% of the LP returns rate."
+60,"@AseemSood_ Yes. But it will only be profitable if you expect the price to increase again, so the overall assumption is bullish in the long term despite a short-term bearish bout.
+
+Participating in truly bearish pools (go to zero type of tokens) will not be a good strategy unless hedging."
+61,"8/8  Permissionless lending on @eulerfinance is a game changer:
+
+-LPs can participate in all pools whether bullish/bearish/neutral
+-Uniswap users will trade on more liquid pools 
+-Depositors will earn more yields on @eulerfinance due to Uni LP borrowing
+
+Win-win-win 👏"
+62,"7/8  Delta-neutral LP positions can also be deployed in Uniswap v3. 
+
+In this case, the liquidity provider will have to borrow H tokens, which is slightly less than 50% of the position's value, and lock the borrowed token with ETH at the middle of any range r (Price/r, Price*r) https://t.co/swjcQETEP8"
+63,"6/8  LPs that hold a truly bearish perspective on an asset may even deploy a bearish LP position by borrowing 200% of the token and selling a part of it so that they can lock it at 50:50 ratio.
+
+eg. borrowing 400 UNI tokens, selling 200 for 1 ETH and locking them in ETH-UNI pool. https://t.co/SxUCKX3ppQ"
+64,"5/8  Concretely, a delta-neutral position in Uniswap v2 is realized by borrowing 100% of the token and locking in the same value of ETH or stablecoin. 
+
+eg. borrowing 200 UNI tokens and locking them with 1 ETH in the ETH-UNI Uni v2 pool creates a delta-neutral LP position. https://t.co/ECVD7MBmWQ"
+65,"4/8  As an alternative to LM, liquidity providers should have the opportunity to provide liquidity with an asset borrowed on @eulerfinance instead of buying it outright
+
+That's because shorting an asset can be used to create delta-neutral and bearish LP positions in Uniswap v2/v3"
+66,"3/8  As a result, LPs should simply withdraw all assets from bearish pools in order to protect their portfolio’s value.
+
+Liquidity mining can offset some of these losses, but LM is not sustainable and could lead to the price spiraling down due to a selling feedback loops."
+67,"2/8  The problem with liquidity providing is that only pools with a bullish token are profitable.
+
+That's because the value of a LP position has a positive delta and it will follow the price of the asset.
+
+Token ⬆️, LP value goes up
+Token ⬇️, LP value goes down https://t.co/ZSD03SJwuS"
+68,"I just published ""How to deploy delta-neutral liquidity in Uniswap —  or why Euler Finance is a game changer for LPs"" 
+https://t.co/rqCgyL3V8e 
+
+1/8
+In this post, I show how @eulerfinance allows LPs to deploy directionally strategic positions on Uniswap."
+69,"@alexanderwu2000 &gt;O-1, ALIENS OF EXTRAORDINARY ABILITY
+
+Congrats! 👽"
+70,"I'm delighted to announce that I am the recipient of a UNI Grant!
+
+This grant will allow me to focus 100% of my attention on Defi education, Uniswap v3, the @yewbow_ analytics platform, and much more 🚀
+
+Thanks @uniswapgrants, @haydenzadams, and the rest of the @Uniswap team! https://t.co/VBtnDcNMAz"
+71,"@LefterisJP A 3rd dose does increase  neutralization efficiency against omicron, likely bc booster was 25d ago and 2nd dose was &gt;150d in tested population
+
+So what you said is likely true, but who got 2nd dose recently? 
+
+Counting days since last dose is too confusing, so 3rd dose it is. https://t.co/EFs4fSGDXN"
+72,"RT @0xperp: put together a list of defi derivatives, options, futures, perpetuals, vaults, powerperps, eos, and nft derivatives. There is m…"
+73,"@dcfgod 🙃
+
+Ever heard of the Central Limit Theorem?"
+74,"@0xperp @geoff_l @RuneKek @Uniswap ☝️that, and making directional bets when LPing because it's extremely hard to maintain a perfectly balanced position. 
+
+📈Feeling bullish? Buy token and lock all of it above current price. 
+
+📉Feeling bearish? Borrow token, sell for ETH and lock ETH below current price."
+75,"@RuneKek Not even sure @Uniswap realizes this, but Uniswap v3 LP positions are the perfect primitives for permissionless options.
+
+At least thinking about Uni v3 as an options protocol helped me tremendously in my LPing."
+76,"@0xkydo @JelyfishTN What narrative shift? Here's what the NEJM published exactly 1 year ago on Dec 30 2020 about the moderna vaccine.
+
+And that data was collected for the Wuhan strain, which is less transmissible than delta+omicron. 
+
+Then and now: Vaccine = no severe COVID
+
+https://t.co/L9TbsJJUng https://t.co/9CIBJ77igL"
+77,"@0xtuba @hasufl @MonetSupply LPing involves some level of market awareness that may impact the asset price. To remain totally neutral, DAOs should consider deploying options instead. 
+
+https://t.co/QlDz5fwjbO"
+78,"@getty_hill @tzhen @labsGFX Many my colleagues actually worked at Bell Labs in the 1980s and 1990s, hit me up if you'd like to know more about how it operated."
+79,"@tzhen ☝️everybody at Bell Labs was heading their own 1-person research lab. No support staff or overhead
+
+It was easy to collaborate because you could simply walk up to your neighbor and ask them for advice. 9 times out of 10 you were talking to the actual world expert on that subject"
+80,"@tzhen The problem is not getting research funding. Many agencies will happily give you 0.5 to 2.5 million dollars if your proposal is good enough
+
+Rather, we need to find a way to emulate Bell Labs: fund 100s of talented individuals to do what the hell they want, no strings attached."
+81,"@p_e Why the need to rebalance if it's not a profitable strategy? 
+
+Time ""in-the-money"" is the only thing that matters."
+82,"@VolQuant Maybe it's not for you, but I find that short iron condors are an excellent delta neutral strategy for retail traders that can't afford to go naked on high priced underlying (SPX, AMZN, GOOG, etc)."
+83,@alpinechicken @haydenzadams What about using a short squeeth to hedge an ETH-squeeth Uni V3 LP position?
+84,RT @greg16676935420: Tesla will never accept Ethereum because it requires gas
+85,"@0xkydo @mxwtnb @p_e @tarunchitra @GuilleAngeris @alexhevans The liquidity is indeed constant across the range, although the absolute number of each asset locked at each tick is not. 
+
+You can see this by hovering the flat plateaux in low liquidity pools to see different locked amounts. https://t.co/ANnMP3hHZB"
+86,"@0xkydo @mxwtnb @p_e @tarunchitra @GuilleAngeris @alexhevans 👆The professor is wrong once again: I've made a mistake above when converting between r and Pb/Pa.
+
+The correct expression should be:
+Slippage = (Order Size)/(Total TVL)*ln(r^2)
+
+Which reduces the slippage to 1.39%, a bit closer to @mxwtnb's answer."
+87,@SHL0MS @a16z lambert.eth
+88,"@0xkydo @mxwtnb @p_e @tarunchitra @GuilleAngeris @alexhevans Slippage = (Order Size)/(Total TVL)*ln(√r)
+
+              where r = √(priceUpper/priceLower)
+
+In your example, r = 1.15 and the slippage is 0.35%.
+
+Interestingly, slippage is independent of the pool's fee tier. https://t.co/EzUOnj53lC"
+89,"@crypto_noodles @lyrafinance @optimismPBC @Uniswap Full range covers &gt;70 orders of magnitude of price action. Want Lyra = 10^35 ETH? Full range covers that possibility 🙃
+
+&gt;1% fee is to maximize DAO fees
+Got it. Liquidity mining is a way for DAOs to extract as much value as possible from users and community members 👍"
+90,"@BJP3333 @lyrafinance @optimismPBC @Uniswap Deploying 1 ETH at full range in 1% pool means that 0.000114ETH is active at the current tick
+
+x*y = (50¢)^2
+
+$40M in asset at full range results in 1ETH of active liquidity at every tick.
+
+Full range liquidity mining:
+Fast ☑️
+Safe ☑️
+Capital efficient ❌"
+91,"@lyrafinance @optimismPBC @Uniswap Why the 1% fee tier? If the goal is to reduce price slippage, use the 0.05% pool.
+
+And Full Range is worse than Uni V2 as it dilutes active liquidity by a factor of &gt;10^70
+
+Rebalancing costs are low on L2, there has to be an optimal midpoint between 1-tick and full range... https://t.co/MR8OPIqgcz"
+92,"@0xkydo @mxwtnb What about this: the probability to end in-the-money after a time T when starting in the middle of a (Pa, Pb) range. Here, r = √(Pb/Pa).
+
+The vol in this cheat sheet is set to 100%, but head over to https://t.co/jo44yJuhnp to get the Uni v3 implied volatility of any pool. https://t.co/RWRn35akbM"
+93,"@0xkydo @ribbonfinance &gt;goal is rewarding LPs who are actively managing their liquidity.
+Why? 
+
+1-tick LPs are already collecting an outsized fraction of the fees, not sure they should collect LM rewards in addition to that.
+
+1-tick: high-frequency traders 🤖
+minWidth: community members 👯"
+94,"RT @mxwtnb: a helpful rule of thumb for uni v3 ranges:
+
+to calculate the capital efficiency of an order which is X% around current price, y…"
+95,"@0xkydo @ribbonfinance 3- Engagement : not sure how trading on Uniswap enhances the core protocol itself. 
+
+4- dumping on LPs? I doubt that's the case, but more liquidity makes this easier. LPs also deploying liquidity at 50:50 ETH:token provides a steady stream of ETH capital ready to ""buy the dips"""
+96,"@0xkydo @ribbonfinance 2- Price: there will be downward pressure on the price with liquidity mining &amp; liquidity will leave after the $2M incentive ends
+
+Maybe subsiding liquidity is better? Lend $RBN from treasury to LPs as a form of leverage ie. LPs deploy ETH but access 2x liquidity w/ $RBN matching"
+97,"@0xkydo It depends on what the teams want to incentivize. 
+
+Reduce slippage? Stabilize the price? Increase engagement? Dump they bags on LPs?
+
+1- @ribbonfinance chose the 1% pool, so millions in active liquidity will never reduce slippage beyond 1%. The 0.05% pool would have beeb better"
+98,"@bax1337 @reflexerfinance That's a good start, but prescribing specific upper+lower bounds doesn't work for non-stablecoin pools. 
+
+The minWidth parameter still allows LPs to deploy positions centered around any price as long as tickUpper-tickLower &gt; minWidth"
+99,"Liquidity incentives are broken in Uni v3: 1-tick positions perform extremely well, but only if you're an ultra-active whale
+
+I forked staker contract (&lt;10 lines diff) to require that staked positions have a minimum width to address the 1-tick LM issues:
+
+https://t.co/oIknvAJnVN https://t.co/60kD5dbEih"

@@ -1,0 +1,116 @@
+,0
+0,"RT @nicksdjohnson: The ENS DAO's first newsletter, written by editor-in-chief @daylon_eth, is out: https://t.co/rgftGmGloW"
+1,RT @ensdomains: ENS is a protocol that focusses on extensibility and upgradeability. This means our smart contract architecture is complica…
+2,"RT @taytemss: cool ens update!!!
+you can search and view ENS profiles now in an alpha preview of the new manager! 
+
+https://t.co/PwGUX7GRHr…"
+3,RT @0xJim: RT and drop your ENS for a surprise next week 🤝
+4,@0xJim serenae.eth
+5,RT @_jefflau: 1/ With the recent $100k snipe of bbc.eth on @ensdomains we are looking at an exponential price decay curve. More detail for…
+6,"RT @nicksdjohnson: So, there's going to be a lot of questions about this. Let me break things down a bit and explain what's going on and wh…"
+7,"@aoxborrow @nicksdjohnson Perhaps another good argument for an English auction in the future. With Dutch, you're immediately revealing the max price you would go (or at least somewhere around the midpoint or higher I'd guess). Where as in a ""regular"" auction you only reveal your minimum bid to start."
+8,"@nicksdjohnson In my opinion, the average person has never heard of a Dutch auction and struggles with the concept at first.
+
+https://t.co/cSSKdqeo51"
+9,"@nicksdjohnson I would only push back on the ""simple to understand"" bit. :)
+
+On the surface it is technically very simple, but it's also very easy to misunderstand the high starting price as some sort of gouging attempt by ENS, when that's not the case!"
+10,"@nicksdjohnson Especially since when you register through the ENS manager, your Controller and ETH address record are automatically set to your address in the same transaction, which is not true if you buy a name from a third-party marketplace!
+
+Many people miss this"
+11,@aoxborrow @enstools @ensdomains serenae.eth
+12,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 6/6 However, with all that said, in the *meantime*, I think the only good solution to address sniping is to correct our current Dutch auction model to use an appropriate starting price. With abundant reasoning in the UI as I've stated before too!"
+13,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 5/ But in order for this to work, it also should be easy to use and low-gas for the user. Maybe an L2 solution there, not sure. But that is going to take months to build, verify, and audit, and it WILL be complex and more bug-prone."
+14,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 4/ Functionally it's the same outcome, but emotionally it's much different for most people, I think."
+15,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 3/ The main difference is that with a Dutch auction, there aren't really ""bids"", there is just one sale when the price comes down enough and that's it. 
+
+So people *feel* like they ""never got a chance"". But they did have a chance, it's just that it was out of their price range."
+16,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 2/ @nicksdjohnson is right in that the ultimate outcome would be the same, it just goes to the highest bidder.
+
+However the optics are so much better, people know and understand this format as what a ""regular"" auction looks like."
+17,"@nicksdjohnson @garypalmerjr @smith77778 @MAB @ForSureNotHere @BrantlyMillegan @ensdomains 1/ I am open to the idea of an English auction in the future, and here's why."
+18,"@garypalmerjr @nicksdjohnson @aoxborrow @ForSureNotHere @smith77778 @MAB @BrantlyMillegan @ensdomains I disagree, there is also no sniping in a Dutch auction IF the starting price is far above what anyone is willing to pay. Am I wrong?"
+19,"RT @BrantlyMillegan: hey @TayZonday, welcome to .eth. i'm developing a vision. i just registered chocolatename.eth. you wanna work together…"
+20,"@spikewatanabe @futurealisha @nicksdjohnson You're not pitting multiple contenders against each other *yet*, you're just deciding who you would like to see in the race. So I think it makes sense for one person to vouch for multiple potential stewards, especially since ultimately not one but three stewards will be elected."
+21,"@spikewatanabe @futurealisha @nicksdjohnson Yeah, just semantics but...
+
+""Should Spike Watanabe be nominated for the Meta-Governance steward election"" is one proposal on one snapshot space, and
+
+""Should Bob Jiang be nominated for the Meta-Governance steward election"" is a separate proposal on a separate snapshot space"
+22,"@spikewatanabe @futurealisha @nicksdjohnson I think the nominations are not really ""voting"" but ""vouching for"" someone. So one person can vouch for multiple stewards.
+
+In the actual election that wouldn't be true I assume."
+23,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 6/6 Like: ""1 MILLION DOLLARS?!?! ENS has just been taken over by greedy devs!""
+
+Try to preemptively address the complaints that I can already see coming."
+24,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 5/ I would propose expanding on ""ensure everyone has a fair opportunity"" in the UI as well to make it clear why the initial price is so high. Maybe explain what a Dutch auction is, link out to a core team blog post / wiki articles / etc."
+25,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 4/ If the goal is to eliminate sniping, raising the starting price of the Dutch auction will certainly do that.
+
+However, I'm also worried about the optics here. People will accuse ENS of being greedy/etc. without understanding all the reasoning behind this decision."
+26,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 3/ A regular English auction was also proposed, but I don't think that would have any different outcome (the highest bidder would still win) and would add a lot of undue complexity."
+27,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 2/ No premium just means that sniping still happens, and whales still win by using high gas premiums that go to miners instead of the ENS DAO."
+28,"@nicksdjohnson @garypalmerjr @spikewatanabe @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 1/ Upon reflection and reading through all the discussion here, I agree that the current Dutch auction is still the most fair solution we have so far."
+29,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 6/6 But I'm not sure the above scenario is common enough to really worry about. I've dealt with many more support cases where the name hasn't been sniped, it's just in the decaying premium state, and users are taken aback and confused about why it suddenly costs so much."
+30,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 5/ So the name might still have a premium in that case, it would just go to miners instead of the ENS DAO."
+31,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 4/ And another side note, even if the manager UI did allow users to Request to Register before the grace period ends, if a wealthy person *is* attempting to snipe the name at the same time, they would still probably be able to win just by putting a ridiculously high gas price."
+32,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 3/ I think the premium was appropriate for the time it was introduced (https://t.co/oTSgtGcwna), at the end of the registrar migration window. But is it still appropriate now?"
+33,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 2/ If the namespace is overrun by speculation and not actual use of names, then that doesn't help anybody, and will be *more* harmful than locking poorer people out of sniping names."
+34,"@garypalmerjr @nicksdjohnson @ForSureNotHere @BrantlyMillegan @MAB @ensdomains 1/ To be fair, I can see @nicksdjohnson's side too, he's also thinking about the long-term viability of the ecosystem, and ensuring that rampant squatting doesn't happen IS very important."
+35,"@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 6/ Anyway I think with or without a premium, it might still make sense to allow the Request to Register to happen before the grace period ends in the UI, as @BrantlyMillegan suggested. As long as the UI is clear and people don't get confused thinking the name has already released"
+36,"@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 5/ A higher premium means more revenue for ENS and *maybe* less squatting, but also more hurt feelings from the community when they think they're going to be able to register their name and then get slapped with that premium screen."
+37,"@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 4/ I suppose the premium DOES mitigate squatting, simply because it only allows the wealthy to squat, cutting more people out of that opportunity. Is that mitigation really worth it though?"
+38,"@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 3/ And if the price comes down to a range where multiple rich people can afford it, then you'd *still* have the same issue where one using the manager UI would be disadvantaged when compared to someone invoking the smart contract directly."
+39,@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 2/ An extremely high premium that declines from $1m *essentially* just means that you are extending the grace period out until the price comes down enough such that the RICHEST person who wants the name can now afford it.
+40,"@nicksdjohnson @ForSureNotHere @BrantlyMillegan @garypalmerjr @MAB @ensdomains 1/ I feel like people are GOING to race for names no matter what, a premium doesn't stop that, as we've seen.
+
+A $2k premium just ensures that only the already-rich have the privilege of racing for those names. The higher the premium, the greater this effect I think."
+41,"RT @nicksdjohnson: EP2, the first executable proposal for the ENS DAO, is now live for voting onchain! If you're a delegate, please go vote…"
+42,Verifying myself: I am serenae on https://t.co/qJRkTnX0pL. uW1lxnORDg8xUIP04JLUb2hELkphDMvv9pDx / https://t.co/fqvLQ7un4B
+43,"RT @BrantlyMillegan: i have a single goal between now and 12midnight tomorrow (27.25 hours for me), which is to get 11 more integrations fo…"
+44,@BrantlyMillegan $BREADSTICK (Max supply: ∞) https://t.co/6R4xa3mx2U
+45,"@nicksdjohnson Super super cool stuff, and will be a LIGHTNING ROD ⚡️for #ENS adoption I think"
+46,"@nicksdjohnson That's cool, so would people be adding things like ENS avatar/etc records inside their DNS manager interface instead then, and theoretically they'd never need to use the ENS manager? Or maybe they might still need to use it for certain actions like creating subdomains?"
+47,"@nicksdjohnson So with DNSSEC your DNS interface would just sign some message that includes your owner ETH address that the ENS DNS registrar would validate (via oracle), no special TXT record needed?"
+48,"RT @nicksdjohnson: What if I told you we've found a way to reduce the gas cost of using your DNS name in ENS - to zero?
+
+Using the two fort…"
+49,"Who will be the first to register a .gov #ENS domain? 🤔
+https://t.co/R89e86KSiJ"
+50,"@avsa This bit might come with some sticker shock for some, as registering your DNS domain on ENS can cost hundreds of dollars currently!"
+51,"@stlouisfed I wonder what the next arrow is pointing to, that you cut off in your pic?🤔"
+52,"@milkXBT Then why is cia.eth expired?🤔 
+https://t.co/3Ig19XabQD"
+53,"RT @timepieces: This is amazing! We cannot wait to implement on https://t.co/1uKsAupTwc! 
+
+👏🏼👏🏼👏🏼"
+54,"RT @BrantlyMillegan: The Sign-in with Ethereum EIP has finally been merged! 🍾🍾🍾
+
+EIP 4361 is the result of months of community calls, discu…"
+55,"your periodic reminder
+- no plans to ever do another $ENS airdrop
+- nothing you do after Oct 31 will affect your $ENS airdrop
+- don't share your secret wallet phrase w/ anyone
+- ENS supports all cryptos
+- you can import DNS names into ENS
+- #Krampus is the best Christmas movie https://t.co/fsZTd6cKUJ"
+56,@SHL0MS @a16z serenae.eth
+57,"@futurealisha @taytemss @ensdomains @taytemss is an absolute rockstar!! Very well deserved, congrats!"
+58,"I want to show mercy and goodwill to newbies in the community who may have made a mistake when sending their $ENS tokens back to the contract addr.
+
+At the same time I don't want to set a precedent where people will expect every mistake of theirs to be reversible in the future."
+59,"I support and will vote yes on EP3 for the @ensdomains DAO (include accidentally returned funds).
+
+However I think there is some important discussion on this topic in this thread that interested parties should read: https://t.co/5QjST5nOYS"
+60,"RT @nicksdjohnson: Delegates! EP3, a proposal to return tokens accidentally sent to the @ensdomains DAO, is now live for voting on Snapshot…"
+61,"What did I just get myself into... #JoinTheWebb 
+@Worldwide_WEB3 https://t.co/PDszt13kbt"
+62,@nekoi7yu 解決出来て良かった！その上に記事まで書くなんて素晴らしい、ありがとう！😊
+63,"@ryanli_me @BrantlyMillegan @CyberConnectHQ Oh hey I guess I was @nicksdjohnson's first follower on the virtual plaza, that's cool!
+
+Damn it is really cool entering in someone's ENS name and not having to worry about whether it might be a fake account or something. nick.eth, bam, done. No faking possible. https://t.co/g1YLRfJNT2"
+64,"What are you gonna do when you make it? 
+@ensdomains #ENS https://t.co/7Rzfx2j9PD"
+65,@spikewatanabe @BrantlyMillegan @ensdomains @Starbucks @futurealisha @ValidatorEth BARISTAS HATE HIM
+66,@SaucedXYZ @ensdomains !
+67,@jellyfire1 Reminds me of https://t.co/CfplBVb8lM

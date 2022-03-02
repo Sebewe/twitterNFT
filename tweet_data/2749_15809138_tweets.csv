@@ -1,0 +1,399 @@
+,0
+0,"@KentoInami for the ecosystem, early
+
+early = much harder to manage, operate, compensate, motivate, incentivize, innovate and become relevant
+
+late = project might get rugged or regulated but code and concepts live on for a more decentralized team to pick up"
+1,"For those specifically wanting to donate to Ukraine, use the below address to withdraw from https://t.co/Y9AkMydqRO:
+
+0x165CD37b4C644C2921454429E7F9358d18A45e14
+
+I have a feeling private donations to global causes will be an enormous use case.
+
+Godspeed!
+
+https://t.co/XKREp1RkAt"
+2,"Privacy warnings:
+
+1) Note that if you deposit 2,000 $DAI then withdraw immediately, someone can likely associate the two transactions.
+
+2) Deposit and send round numbers. Do not for example deposit 0.696969 $ETH and withdraw a similar amount."
+3,"4) Once funds are settled, withdraw to any L1 address or internally to any alias.
+
+Internal sends expose no identifying information whatsoever.
+
+Withdrawals to L1 reveal amounts but will look like ""Aztec Private Rollup sent 2,000 $DAI,"" keeping the sender's identity secret. https://t.co/lSQ0jCRnoo"
+4,"3) Shield your initial deposit.
+
+$ETH deposits will appear in your account as shielded zkETH after the next rollup settles (variable timing, but we backstop all deposits at 6 hours). https://t.co/Gbog5p2BSW"
+5,"2) Register an alias.
+
+Aliases make it easy to send other users funds internally, but no one can associate your deposit address to your alias, nor can anyone see your balance or transaction history. https://t.co/FXQuWQkfDP"
+6,"1) Go to https://t.co/Y9AkMydqRO and shield some $ETH.
+
+What this does is deposit $ETH into Aztec's rollup contract.
+
+Aztec's rollup then issues you a private encrypted claim note that can be redeemed for the underlying $ETH. https://t.co/OGwNoGhl3K"
+7,"Someone used Aztec over the weekend to send 2,000 $DAI anonymously to the Ukraine crypto donation address.
+
+If you want to support causes with private crypto payments and donations, here's how: https://t.co/cz19F6zLMb"
+8,"@08xmt i'm trained on javelin, just hold over until dial tone and press right trigger"
+9,@The_Shark_7 @aztecnetwork @compoundfinance @AaveAave Precisely
+10,"@The_Shark_7 @aztecnetwork @compoundfinance @AaveAave Back-end integrations with Aztec are fully permissionless and don't actually require any work from the core team.
+
+Anyone can integrate our bridge--this proposal is an economic + marketing partnership.
+
+Aztec interacts directly with L1, so no cross-chain considerations here."
+11,@sovereignsignal @officer_cia Yes! Thank you 🙏
+12,"Has anyone compiled an anon account starter kit?
+
+Looking for things like:
+- Privacy tools
+- Best practices
+- Anime pfp generator"
+13,"how to succeed on cryptotwitter, 2022 edition:
+
+- inspect element, draw lines on TA chart, sell ebook
+- russian mechanized warfare doctrine, a thread (1/203)"
+14,"RT @aztecnetwork: We just launched a proposal to integrate @compoundfinance with Aztec.
+
+zkRollups are here.
+
+- 10x cheaper than L1
+- L1 li…"
+15,"War.
+
+The very sound of it forces you to weigh and weep for what we have and hold dear.
+
+Peace was a blessing."
+16,"so many people are like can i read a book about crypto and i'm like
+
+1) there's no one book
+2) i know you don't read bro, stop lying to yourself"
+17,@joyceyyc @aztecnetwork @groprotocol That is very helpful! Thanks—we’ll look into it
+18,"It's far more important to me where you fall on the libertarian &lt;&gt; authoritarian spectrum than the left &lt;&gt; right one.
+
+""Exercise every power to eliminate the bad guys"" works until the bad guys think you're the bad guy."
+19,I don't know who needs to hear this but crypto payments don't work if everyone can see your token balance.
+20,"@chaserchapman Let's talk!
+
+Privacy on a public blockchain is possible:
+
+https://t.co/Ot627lYEF9"
+21,"And if you haven't yet joined our community of (now *slightly* less than) 10,000 zk nerds and privacy-heads, jump in!
+
+https://t.co/Xc6EzfCaq3"
+22,"I welcome input from other people in the growth / Discord communities!
+
+Guess this is what they mean by build in public. And rebuild in public.
+
+💪"
+23,"Some product suggestions for @discord (that they are already aware of):
+
+1) Build better anti-spam/scam tools
+2) Turn purge into a role-permissioned function (or remove it entirely!)
+3) Have owner or super-mod review of major server changes"
+24,"It's obvious Discord wasn't designed for managing communities of this size.
+
+Otherwise we wouldn't be cobbling together solutions from 3rd-party bots.
+
+10,000+ member power communities are not meant to be served on Discord, and yet the network effect is too powerful to ignore!"
+25,"3) Improve welcome messaging.
+
+We're creating a channel so new spam joins are more easily spotted / moderated and users are educated upfront on best practices:
+
+- Filter with captcha verification
+- Disable DMs
+- Assume all DMs are scams
+- Do not click external links"
+26,"3) Continuously update auto-kick to ban malicious bots.
+
+We know bots use ""Aztec"" somewhere in their usernames. We autokick all users with that string."
+27,"2) Use bots to enable roles-by-default (purge only kicks users without roles by default, making it harder to fat-finger).
+
+Users join &amp; get assigned a role automatically."
+28,"This could have been prevented with a few practices we have now implemented:
+
+1) Enable moderation exclusively through bots. That way no moderator has server-level ""kick"" permissioning.
+
+Here are a few we've played with:
+@DynoDiscord (also offers autobanning)
+@mee6bot"
+29,"We suspect that a friendly mod hit ""purge"" in an attempt to restrict server membership to legitimate users.
+
+The result was the loss of 1,000+ users overnight. https://t.co/U2JS9FXl0t"
+30,"We've deputized our amazing community mods (and core team) to kick spam accounts.
+
+Human processes:
+- Report scam/spam trends
+- Kick / ban all user-reported accounts
+
+Bot processes:
+- Automate learnings from humans
+- Captcha-verify
+- Auto-kick accounts with ""Aztec"" in username"
+31,"Well as many of you know, spam/scams are a HUGE problem on Discord.
+
+Books will be written on the amount of money made by crypto Discord scams.
+
+For instance there's a scambot hitting project Discords including ours &amp; @zksync that has taken thousands from our communities."
+32,"Anyone with kick permissions can remove members from the Discord with ""prune.""
+
+But why grant kick permissions?
+
+Who other than the core team would want or have to use kicks and bans?"
+33,"Insanely enough, Discord used to enable pruning of any members who hadn't been active in the last 24h!
+
+That's how @veefriends lost 97,000 members last summer (!!):
+
+https://t.co/cxBc9hkdZJ"
+34,"For those who don't know, @discord has an extremely convenient k̶i̶l̶l̶ ̶y̶o̶u̶r̶ ̶c̶o̶m̶m̶u̶n̶i̶t̶y̶ prune feature.
+
+It allows you to kick all members who are inactive for at least 7 or 30 days.
+
+In our case, 990 members haven't been active in 30 days (~10% of our members). https://t.co/MDWJX0VRjQ"
+35,"Oof.
+
+Just lost 1,000+ members from the @aztecnetwork Discord overnight due to a potential moderation fat-finger of the extremely dangerous ""prune"" feature.
+
+Sharing our L to spread awareness/best practices in the growth community: https://t.co/yMySsEjT6J"
+36,@adeets_22 commitment &lt;--&gt; control
+37,down so bad we might have to build something
+38,@HilaryShirazi @wesyang Demand the right to tools of self protection and self sovereignty in advance of central authorities vacating their mandate
+39,"@motherpredicate @dystopiabreaker Execution will all be on Layer 1 Ethereum for the time being. Private smart contracts native to Aztec will be possible with Noir, our Rust-based DSL."
+40,"@llllvvuu @dystopiabreaker Transfer funds to Aztec’s roll up contract, get issued a private claim note in the rollup, and interact with any L1 protocol using Aztec as proxy. The anonymity set is determined by deposits and withdrawals not by individual bridges."
+41,"@JulzRoze @maggielove_ See it’s a Layer 1 but +1, so kind of one more layer you know? That’s why it’s called layer 2, like…it’s not that hard to understand lol. Anyway you single?"
+42,🤫 https://t.co/8gYJtFiUeS
+43,Any rock climbers going to ETHDenver? I’m looking to sneak in a little bouldering sesh among all the chaos 😬
+44,@0xJim jonwu.eth
+45,"No one:
+
+Business Insider:
+
+Social engineering is the hottest new Gen Z trend. Find out what it is and how it might become the top college major by 2025 —&gt;"
+46,@JulzRoze Lmao
+47,@nicoglennon Appreciate it my mans 🙏🏽
+48,"2: @kelvinfichter 
+
+https://t.co/owt6CfI5VK"
+49,"More-technical dives on how the attacker spoofed signatures from the Guardians (bridge validators), making it look like the mint was approved:
+
+1: @samczsun
+
+https://t.co/B2zaOhxTyN"
+50,"""There are new security patterns that need to be learned, like it was with DAOs and Defi.
+
+And the community seems to be learning it the hard way: one hack at a time.""
+
+Amen.
+
+Building is hard. These learnings will make cross-chain bridges like Wormhole better with time.
+
+✌️"
+51,"And it's not unsolvable per se, just a newer problem!
+
+Here's gigabrain @zac_aztec:
+
+""The attack surface for cross-chain bridges is different and novel.
+
+e.g. the poly network hack exploited cross-chain messaging code that enabled a re-entrancy attack."""
+52,"If state gets rolled back on one chain, that ripples across the bridge to another chain.
+
+The more successful the bridge (and its canonical assets):
+
+a) the bigger the target for an attack
+b) the more assets at risk"
+53,"But that's still one of two big weaknesses:
+
+1) You have to trust a smaller set of validators to faithfully communicate blockchain state
+
+2) Bridges mix the security of multiple chains and by definition compound risk"
+54,"Vitalik was saying ""it's a lot easier to 51% attack a bridging protocol's 19-node validator set than an L1's 30,000 nodes, and if the prize is big enough, it could happen.""
+
+He didn't say that multi-chain bridges are at a greater risk of smart contract bugs than anything else."
+55,"At the end of the day, despite the size of the hack--
+
+(and the inconvenient fact that the two largest hacks of all time on the @RektHQ leaderboard are cross-chain bridges)
+
+--this was a smart contract bug.
+
+https://t.co/huMg4xKGGq"
+56,"So like, what next?
+
+Is the cross-chain thesis totally fucked?
+
+Is Solana a 3rd-rate blockchain?
+
+Did Vitamin's cross-chain prophecy become true?
+
+https://t.co/clE4v2ivAk"
+57,"I mean if you're Alameda what would you do:
+
+- Let Wormhole $weETH collapse and tear through Solana, destroying some protocols, hurting others badly, weeks of FUD and terrible $SOL publicity
+
+- Write the check and it blows over by tomorrow"
+58,"It wasn't even all the $ETH on Solana:
+
+Most of it is bridged and secured by @FTX_Official.
+
+Speaking of which, who covered the shortfall?
+
+Likely the market makers and exchanges who provide $weETH exit liquidity during the hack.
+
+Or:
+
+https://t.co/ZSC3S01FpD"
+59,"But it never happened.
+
+Wormhole for its part is making good on its $WETH backing, pledging to fill the $325 million shortfall in a matter of *hours*.
+
+$weETH is back to parity with other forms of $ETH on Solana.
+
+https://t.co/SlbWkhJ9XC"
+60,"There could have been extreme knock-on effects of assets going to 0:
+
+1) Liquidity pools with $weETH
+
+2) Lending protocols with $weETH collateral backing becoming undercollateralized
+
+3) Borrowers with $weETH collateral getting liquidated
+
+https://t.co/5j8GZFoOsp"
+61,"So where's the systemic risk?
+
+In the hour after the hack, all the paper claims on $ETH became paper claims on...nothing.
+
+Wormhole $ETH price expectedly diverged from other, more secure forms of $ETH (secured by bridges from e.g. @FTX_Official):
+
+https://t.co/S35sCaGQAi"
+62,"The rest of the haul was swapped on Serum for $SOL and $USDC:
+
+https://t.co/RhJ56ZEpqn"
+63,"They bridged 2/3 of it back to Ethereum, redeeming it for $ETH from the Wormhole contract.
+
+After all, $weETH is just a paper claim on Solana.
+
+It's redeemable for $WETH locked on Ethereum, but it's ultimately secured by Wormhole.
+
+https://t.co/1863ApQFvx"
+64,"So what the hacker did is exploit a bug to trick Wormhole into minting them a bunch of $weETH on Solana.
+
+Like, $325 million worth."
+65,"Bridging funds is one feature of cross-chain bridges, done via a mint-and-lock mechanism:
+
+1) A user puts $WETH into Wormhole's Ethereum smart contract
+
+2) Validators observe and agree that the user did so
+
+3) Wormhole $ETH ($weETH) is minted from Wormhole's Solana smart contract"
+66,"But something something centralization, something something censorship resistance!
+
+So instead there is a *set* of trusted observers who watch smart contract activity.
+
+Each says ""I saw something happen on Ethereum.""
+
+Then, if they all agree, then the message is passed."
+67,"Say I was trying to pass a message from Ethereum to Solana.
+
+How would I do so, given they don't talk to one another?
+
+The first way would be for me to simply say to someone on Solana:
+
+""I saw something happen on Ethereum. Trust me."""
+68,"First, how cross-chain bridges like Wormhole work:
+
+A bridge is essentially a way to agree on the current state of two different networks.
+
+You can think of it as a cross-chain communications protocol.
+
+A blockchain-to-blockchain messaging app."
+69,"Whew. Hell of a week for systemic risk.
+
+Wormhole, a Solana cross-chain bridge, was exploited today for $325 million (120,000 $ETH).
+
+Here's what happened, why cross-chain bridges are hard, and why Vitalik's warning about cross-chain security probably doesn't apply here: https://t.co/rxiTvRDL2E"
+70,@UncleDiaz @inversebrah wow it all makes sense now
+71,we really need a CT historian
+72,"investors: where is this $325m coming from
+
+wormhole: ur mom"
+73,"@dmihal @Saber_HQ How would this work with a different invariant? Wouldn't all the ""real"" ETH just get drained and the pool go to 0? LPs still rekt"
+74,@kankanivishal @derek_hsue The United States?
+75,"@CipherSovereign Yeah there's layers to this shit.
+
+Macro FUD
+Mainstream Bitcoin news FUD
+DeFi FUD
+...
+
+Secret is buy NFT's?"
+76,"@SamMaddens @HunterBM Thanks for the share. Think this needs a slight revamp but I think the core analogy holds:
+
+- ETH has a certain number of lanes (blocks)
+- Just because we invented buses (rollups) doesn't mean there will be less demand for ETH--they are not the same as the people in the cars"
+77,"In case you want your daily dose of Elmer FUD:
+
+1) https://t.co/ojPDjOjR9p
+
+2) https://t.co/Ur0ziShEhZ
+
+3) https://t.co/exxVXwBvq1"
+78,"When it rains it pours, always:
+
+1) Bitcoin ETF denied
+2) New SEC overreach
+3) Big banks colluding to corner stablecoins
+
+I'm waiting for the classic Tether/China FUD narratives to get rolled back out before the bottom."
+79,@nicoglennon attacked
+80,"Top: project is a unique primitive with strong revenue, sustainable tokenomics, &amp; good team--long-term hold with asymmetric upside
+
+Bottom: how do i read these fukin charts"
+81,"@macrocephalopod 100%. When it works (modern healthcare roll ups, eg) there is a reason the cashflow is worth more as part of the parent. In crypto, acquired treasury assets are commodities"
+82,"@MakerMegaphone @aztecnetwork Aztec has &gt;$1.5 million of $DAI in the system currently: 
+
+https://t.co/9kIc18hP2H"
+83,@pythianism Same as it ever was. Same as it ever was? Same as it ever was! Same as it. Ever. Was.
+84,@yuan_han_li @epolynya King 👑
+85,Men will literally frontrun a simpDAO mint with Flashbots instead of going to therapy https://t.co/coQeWvIUrB
+86,@0xJacket Always huge multiplier because mcap is determined by marginal selling price. If only one token sells at $1 then the prevailing price is $1
+87,@SerNft Lol I like it
+88,@Chaosmos_Tian We love the spice ✨
+89,"@Eth_Experience Maybe ""collective action problem"" is more apt, but:
+
+If everyone stakes, everyone wins
+If most people stake but you unstake, you win at everyone else's expense
+
+https://t.co/gzYD44OWM6"
+90,@cyounessi1 Not sure what part you’re asking me to respond to—reading your thread we’re basically in perfect agreement.
+91,@CryptoBudFox Thanks!
+92,"@dropkickdarren Extremely fair but IMO the original vision was stable or at least low vol  price with rebasing rewards. Historical price action doesn’t reflect that. Not an easy problem by any means, but stable price likely would’ve meant better user education"
+93,@0x_bear No but treasury earnings are
+94,@VelvetMilkman Appreciate it homie
+95,P.S. everyone who followed me from my Theranos thread please unfollow me at once so every DeFi post isn't downonly for my follower count thx
+96,"For the record, I've never sold $OHM and have been staked longer than 99%+ of holders.
+
+It's one of the core innovations in the war for liquidity--and one of the simplest in its approach.
+
+""I agree to never sell"" is one of the most valuable promises anyone can offer in crypto."
+97,"In summary:
+
+@OlympusDAO offers a service called ""not selling your token,"" which gets more valuable the more tokens it owns.
+
+A bunch of people forgot that was the reason for this whole thing + the team failed to control price.
+
+Now it's down -90% and people are a little salty."
+98,"As to $OHM's premium above RFV--it was never really supposed to trade far above the treasury value.
+
+I see this as a policy or mechanism weakness--levers were available to keep price within a narrow range.
+
+It might cost Olympus the ball game.
+
+https://t.co/8sqDJsfQrj"
+99,"And that's also why the Curve Wars exist.
+
+Curve controls liquidity.
+Convex controls curve.
+[Redacted] controls Convex.
+
+And on and on."

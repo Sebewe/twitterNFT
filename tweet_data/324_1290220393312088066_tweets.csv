@@ -1,0 +1,194 @@
+,0
+0,RT @iSocialFanz: I sat down with @NFTs_girl to talk all things @NFTCryptoChicks and I can promise you that after listening you’ll be inspir…
+1,"@coolcatsnft @grantthegoatyt
+ 
+@farokh
+ 
+@andrwwang
+ 
+@cloncast
+ 
+@Lynqoid
+ 
+@xtremetom
+ 
+@steveaoki"
+2,"@horndogdoteth @649Speedy @coolcatsnft I will do the same, wonder if the data of each player will be available on polygon or I have to do a community sheet where everyone enters their loots of the chest. With enough data points, we can figure out which items are more rare and valuable."
+3,@AtownBrown @coolcatsnft look at it again 1 year from now :D
+4,@coolcatsnft @evanluza what do you think about the idea of a maximum amount of claimable $milk per day ? It would help with the limiting the circulating market supply and good for price stability.
+5,@649Speedy @coolcatsnft Hope he's buying more milk https://t.co/z9aNcGSy7Y
+6,@imcrvshed @coolcatsnft gm
+7,@crypto_whippet @SNlPER__ @horndogdoteth @beast_eth @649Speedy @evanluza @wenmilk_eth
+8,"Hello my @coolcatsnft and cool pets gang, what will you do once you can claim your $milk? 
+
+#nft #nftcommunity #cooltopia #coolcats #coolpets #WLTC"
+9,RT @PUMA: New PFP… what do you think @coolcatsnft? https://t.co/KkfYitj9WX
+10,I just minted my @RubberDuckBP! 🐥 https://t.co/lgi9NkQUoo
+11,@notkyogai @coolcatsnft Welcome son
+12,@horndogdoteth @0xhoang
+13,@Kenn1k_Nguyen @coolcatsnft @SNlPER__ @beast_eth @horndogdoteth @farokh @xtremetom @evanluza @cloncast @Lynqoid @KeithGrossman This month !!!
+14,@Robbydotgm @coolcatsnft @SNlPER__ @beast_eth @horndogdoteth @farokh @xtremetom @evanluza @cloncast @Lynqoid @KeithGrossman https://t.co/1aarYhLoh0
+15,@agent8michael @coolcatsnft @SNlPER__ @beast_eth @horndogdoteth @farokh @xtremetom @evanluza @cloncast @Lynqoid @KeithGrossman https://t.co/1aarYhLoh0
+16,@aScoopOfSundae @coolcatsnft 😸
+17,@boligbaronen @coolcatsnft @SNlPER__ @beast_eth @horndogdoteth @farokh @xtremetom @evanluza @cloncast @Lynqoid @KeithGrossman explains the steep line.
+18,"The number of @coolcatsnft listed for sale reached an all time low over the weekend. Only 4% are listed for sale. Diamond paws community.
+
+@SNlPER__ @beast_eth @horndogdoteth @farokh @xtremetom @evanluza @cloncast @Lynqoid @KeithGrossman 
+
+#coolcats #nft #nftcommunity #coolpets https://t.co/kucTIJDFx7"
+19,@SOLtsla @Iam0xB0B @NFTCryptoChicks https://t.co/OoTYS4NO0w
+20,@Iam0xB0B @NFTCryptoChicks https://t.co/OoTYS4NO0w found it
+21,@Iam0xB0B @NFTCryptoChicks Which analytics platform is this
+22,@YourFinanc3 @coolcatsnft I think you need a cat for this. Here’s the link: https://t.co/p5WmKk6Qlw
+23,@Acai4Me88 @xtremetom @coolcatsnft Definitely 🚀
+24,@grantthegoatyt Goat
+25,@Opchuu @xtremetom @coolcatsnft Yes 🚀🚀🚀
+26,@YourFinanc3 @coolcatsnft Can’t wait to claim the $milk 🚀🚀🚀 https://t.co/IPgOBiVPcN
+27,"From @xtremetom 
+
+@coolcatsnft #nft #coolcats #coolpets https://t.co/PzwIQHg59r"
+28,RT @kimnuyen_: @vietbruce1992 Wünsche es mir so sehr
+29,"RT @JenGriffinFNC: In apparent warning to the United States and NATO, Putin says in televised speech announcing war: “A couple of words for…"
+30,"RT @Conflicts: BREAKING: Russian President Putin - ""We decided to launch a special military action [...] aimed at demilitarisation and dena…"
+31,"Thanks @KeithGrossman for reminding us why we are in this space and what the @coolcatsnft has done for the whole NFT space. Community first, utility second. 
+
+LFG @xtremetom @evanluza @cloncast @Lynqoid 🚀😁😁
+
+#coolcats #coolpets #NFTs #NFTCommumity 
+ https://t.co/2T0KLKUt9s"
+32,@kimnuyen_ Kommst du am 15.03
+33,"We performed an internal test that showed some issues we need to work through, but our team was doing quests, buying boxes and getting pets to final form.
+
+Stay tuned to discord and twitter for future updates!"
+34,"You may see a Pet moving from base to final form in the production environment as we test the process from start to finish (this will be adjusted and sped up for test purposes only).
+
+So far, this week's testing has shown a huge improvement in our environments."
+35,You may see some testing happening in our production environment / contracts. We are starting to test claiming $MILK and other functionality of the site.
+36,When we launch the game we will likely bring it up for a window of time to allow everyone to get in and claim some $MILK and do some quests. We’ll then bring it back down to analyze the amount of traffic and adjust our rate limiting accordingly so that everyone can play the game.
+37,The results of the tests will be shared once we have had time to identify and assess any issues we find.
+38,"The goal is to ensure the system is not swamped with requests for blockchain transactions and running at a slow crawl. Of course, these changes require testing and that is being done internally today with the whole team."
+39,allows us to handle as many transactions as possible with our current infrastructure.
+40,"The response time on Polygon main net is a concern and could result in a less than ideal experience for users. However, we are aware that right now any experience would be welcomed. With that in mind, our backend team has tightened up rate limiting and implemented a system that"
+41,"Recently while testing, we have seen response times on the Polygon test net of about 3-10 seconds. Upon testing the same code base on Polygon main net we started to see times of around 10-30 seconds, which is not ideal."
+42,"We feel you deserve to know what we are doing, the issues we are facing, and how we are working to overcome them.
+
+__**Tech Update**__
+
+**Please note we have tried not to include any technical jargon in this update.**"
+43,We are very aware that there are a number of questions and concerns that need to be addressed. The intention of these tech updates (stepping stones) is to share our development process with the community and answer those questions.
+44,"From @xtremetom on the current @coolcatsnft developments:
+
+“It’s time to beef up the nothing-burger announcement from yesterday, in which we laid the foundation of the stepping stone idea.
+
+#coolcats #coolpets #nft #nftcommunity #welovethecats"
+45,@def_leopard0 @NFTs_girl @not_madi_ @TokinAubXo @NFTCryptoChicks @Lew_Langer @CrazyNoob_ @ETH_Guy51 @EllaJNguyen @BrandonBlitz1 @BenjaminBitcoin @Johnbongo2004 @notDeerowz @BigBeard_NFT @VegasGuyNFT They hate us cause they ain’t us
+46,"RT @def_leopard0: Gm, if you’re bullying #WomenInNFTs because they support @NFTs_girl @not_madi_ @TokinAubXo and the @NFTCryptoChicks team…"
+47,"Wish I could 69420 the hell out of my $MILK. 
+
+@elonmusk @coolcatsnft #coolpets #nftcommunity #sixtynine #nft #cryptohumor https://t.co/jSdlSTqvw6"
+48,@Cibbers_ @coolcatsnft https://t.co/Pxl4m3fYyg
+49,@lichun2649 @coolcatsnft Where can I check
+50,@breepinkunicorn @WomenTribe_nfts Wohooo 🥳 https://t.co/FZYvxMSkuW
+51,@beast_eth https://t.co/MAELA43ozQ
+52,@rogacheva_art 🌚
+53,"1) Community first
+2) Utility second
+3) Art third"
+54,"When people tell me to dump my @NFTCryptoChicks, all I had to say was:
+
+“I AM NOT FCKING LEAVING.”
+
+LFG @NFTs_girl , we got this. 🙌🏻
+
+#Cryptochicks #womeninnft #wow #NFTCommunity #nft https://t.co/PHdH78qHgk"
+55,RT @LilMoonLambo: my entire net worth is in this man's hands https://t.co/BoaSvHyOue
+56,@NFTCryptoChicks We will be relying heavily on community voice and sentiment to inform future direction.
+57,"@NFTCryptoChicks We will be leaning on the community to identify women artists to partner with on artistic vision, future collections/drops, and delivering value to the holders.
+
+We will work on a concrete plan for support OG collection holders with 1/1s and rares in any future collections."
+58,"@NFTCryptoChicks We are ensuring that all wallets for project finances are multi sig.
+
+We will provide full transparency on the allocation of royalty funds between operating, tax &amp; legal expenses, and team compensation."
+59,"@NFTCryptoChicks We are communicating with the artists surfaced, who have connections to the artwork of the OG and Baby Chicks.
+
+We will be finalizing and announcing a new team structure."
+60,"@NFTCryptoChicks **4. Immediate steps we’re taking to move forward mindfully**
+
+We are prioritizing transparency, and we are focusing on having this be a community driven project."
+61,"@NFTCryptoChicks I want to acknowledge that making this decision isn’t easy, but everyone wants to do the best they can to help establish a solid foundation for future success."
+62,"@NFTCryptoChicks They will be compensated, and they will continue to be supporters of the project with their own holdings of the collection. It takes time to navigate this transition, but we’re all aligned that this is the best path forward for the success of the brand."
+63,"@NFTCryptoChicks Based on the decisions made during the early days, the current landscape of web3, and the strong work experience of the current team, we’ve all agreed that it’s in the best interest of the community that the founding team step back from future operations of the project."
+64,"@NFTCryptoChicks **3. Transitioning to new structure to support future growth**
+
+The founding and current team are all committed to ensuring the community is set up for long term success - This is the core tenet of all discussions."
+65,"@NFTCryptoChicks including: Aub, Plunk, Dee, Phunky, Madi, and our entire mod squad that is so deeply embedded within the community."
+66,"@NFTCryptoChicks often with the focus of removing bias and concerning behaviors from the team operations.
+Current: Emm joined the project in October and quickly emerged as a primary leader for the current team,"
+67,"@NFTCryptoChicks Founding: Polly, AKA, and Nick were the core founding team members that launched Crypto Chicks.
+Previous: Alex, Sokos, and Anna helped in the early days, but all have stepped back for a variety of reasons:"
+68,"@NFTCryptoChicks **2. Clarity on team members**
+
+We’ve seen a number of questions from the community trying to parse through who is who, so hopefully this quick overview is helpful!"
+69,"@NFTCryptoChicks **1. Background on the early days of the project**
+
+AKA has drafted an explanation on some of the questions that have arised. He is posting this in https://t.co/QNmRzyc9pZ"
+70,"@NFTCryptoChicks 📌  **__Today we want to cover:__**:pushpin:
+1. Background on the early days of the project
+2. Clarity on foundin, previous, and current team members
+3. Transitioning to a new structure to support future growth
+4. Immediate steps we’re taking to move forward mindfully"
+71,"@NFTCryptoChicks We’re consulting with subject matter experts across all areas of the business, and we’re still committed to detailed, daily updates."
+72,@NFTCryptoChicks We’re trying to strike the right balance of keeping the community informed and doing the due diligence necessary to ensure our communications and next steps are the right ones for all holders.
+73,"@NFTCryptoChicks Everyone has been hard at work charting a path forward to ensure this is **NOT** the end of the project, but instead an opportunity to launch us all into a new and better era."
+74,@NFTCryptoChicks 2nd - I want to recognize our mod team for their above and beyond efforts to keep the community up to date as much as possible and supporting genuine feedback/concerns.
+75,"@NFTCryptoChicks Message from Emm in the  the cc discord:
+
+1st - I want to say a huge thank you to our community members for being positive and encouraging - AND for being thoughtful and constructive in your feedback."
+76,@thejpegqueen @NFTCryptoChicks Welcome 🚀🚀🚀
+77,"RT @NFTCryptoChicks: We’ve updated our community in our Discord with more transparency and details on our path forward. 
+
+Thank you to our…"
+78,"@NFTCryptoChicks Community first, Utility second, Art third.  I fully trust the leadership team and EMM @NFTs_girl"
+79,@austin_hurwitz @coolcatsnft Can’t wait for next week 🥚
+80,"3 reasons to be bullish on #coolpets: 
+
+1) Only 406 out of 18.6K listed on OS (2%), 98% are HODLING
+2) @coolcatsnft team is extremely transparent in their communication regarding the delays
+3) $MILK price above 0.05$ even though the game is not even out yet
+
+#WAGMI #NFT #Coolcats https://t.co/aH21rb0Cz7"
+81,@horndogdoteth https://t.co/yyzA4BZgXu
+82,RT @coolcatsnft: Cooltopia is back on track for next week 💙 https://t.co/hjJpQg0AqZ
+83,@kimnuyen_ Come 😎
+84,"When your ex found out you own @coolcatsnft 🙄
+
+#coolcatsnft #coolpets #nft #nftcommunity #NFTs #nftmeme https://t.co/OkUG0cD8A8"
+85,"When your ex found out you own @nftcryptochicks 🙄
+
+#cryptochicks #womentribenft #bossbeauties #worldofwomen #WomeninNFT #nft #nftcommunity #cryptohumor #nfthumor https://t.co/ZSU1l0Dqow"
+86,"In Web2 , my wife would kill me for having 13 #babychicks with others. 
+
+In Web3, I think its acceptable. @NFTCryptoChicks
+
+#nft #nftcommunity #cryptochicks #babychicks #timemachinepotion https://t.co/Qiy2iAHkSM"
+87,@itsminiETH @cryptorayrays Welcome fren 🥳
+88,RT @0xNuna: Who’s ready to time travel? https://t.co/CcYZCe2aYq
+89,@nq Gm 🥛
+90,@cozywyatt Congrats 🥳
+91,@concitbro @coolcatsnft Welcome 🥳
+92,@Rewkang @BoredApeYC @AzukiZen @RTFKTstudios @CryptoDickbutts @larvalabs you forgot @coolcatsnft
+93,"How would you explain it to her? $milk
+
+ @coolcatsnft @beast_eth @649Speedy @horndogdoteth @grantthegoatyt 
+
+#CoolCats #coolpets #nftcommunity #nft https://t.co/zmjI6BHcPD"
+94,"@andrwwang LFG, where’s the link"
+95,@Ommane @coolcatsnft 25x 😳 https://t.co/StASpNAJh9
+96,"$milk trading at 25x already, at 0.25$ … insane. 
+
+@coolcatsnft @beast_eth @horndogdoteth @649Speedy @QuickswapDEX 
+
+#nft #nftcommunity #coolpets #CoolCats #opensea #quickswap https://t.co/RfB1D0UFBS"
+97,RT @crypto_whippet: $MILK is tradable and already at 17x
+98,@SirRusselSprout Let’s $milk the cats
+99,RT @649Speedy: Cool Cats !floor https://t.co/kDl2IoClpw

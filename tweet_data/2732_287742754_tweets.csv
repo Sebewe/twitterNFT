@@ -1,0 +1,133 @@
+,0
+0,@senjaiRW @ara_p @JustinTrudeau Also.. how is this tolerated?  🤮https://t.co/Gvigy7CS5s
+1,"RT @nexta_tv: ❗️ #Ukrainian government received more than $4 million in cryptocurrency donations
+
+Within hours of posting the wallets, more…"
+2,"RT @AsamiTerajima: I am currently in #Kyiv, reporting #Russia's war 24/7 for @KyivIndependent while also completing my degrees for universi…"
+3,@RussianEmbassyC @mfa_russia gtfo
+4,"@CRYPTOCHRIS24 @zapper_fi Haha I was just kidding, there’s no airdrop for Zapper Core holders. It’s a gift we give to our employees that is custom made by an artist."
+5,@CRYPTOCHRIS24 @zapper_fi That’s a secret I’m sorry 🤫 . There’s a rumour holders will get a huuuuuge airdrop.
+6,@MildBits710 @sebaudet26 Gorlo* ser
+7,@gmalette Nodemon I think? And I don’t use swc most of the time because of the quirks. Next time I’m at a computer I’ll run benchmarks for you 😉
+8,"@gmalette swc is pretty fast, but you might need to tweak your code a bit for it to work well https://t.co/0curSk6r2A"
+9,"@__xuorig__ It must be something in the air. I also went through the same phase and started listening to a lot of Limp Bizkit and Sum 41 lately, out of nowhere."
+10,@Lpapi_speaks @zapper_fi I wish I was there too! Next time!
+11,"We wrote a little Slack bot that uses our indexed NFT data to return the most traded collections over a period of time. We even have wash trading filtering! 
+
+Just a little preview of all the cool things we'll be able to do in @zapper_fi with our new data. https://t.co/JBpzki9cw1"
+12,@bubby_io @zapper_fi @DeBankDeFi Yes and we want to empower our users to build integrations the way they want for their protocols 😇
+13,"@bubby_io @zapper_fi @DeBankDeFi It’s a tough problem, but we have a solid team and a good plan."
+14,"@bubby_io @zapper_fi @DeBankDeFi 2/2 We had something close to ship a few weeks ago but decided it wasn’t good enough. We need to nail this thing. See it as a temporary slow down for exponential growth once we ship. We’re aiming for greatness in the long run, same for NFTs."
+15,@bubby_io @zapper_fi @DeBankDeFi 1/2 We are working on this problem. Racing to implement protocols is not a sustainable nor desirable approach in the long run. DeFi growth is exponential. Therefore we’re working on a way for the community to easily integrate their protocols with Zapper.
+16,@ShopifyEng @rails Typescript
+17,"It’s ok if you don’t ship code every single day.
+
+Sometimes it’s better to sit down and take the time to really understand the problem you’re trying to solve rather than writing improvised code. The latter never ages well."
+18,"RT @jmwind: This is the most common question I'm answering in recent fireside chats...
+
+Q. How do you handle/manage the stress of working i…"
+19,"@sebaudet26 @unifren Once we ship mainnet NFTs 😅 Adding more won't be difficult because it will all be built using the same infrastructure, as long as they are EVM compatible."
+20,RT @Irrelephantoops: https://t.co/6Y50ZcgTaw shipped a new social feature and leaderboard 👀
+21,nothing beats pushing straight to master https://t.co/4t8lvSmIPd
+22,@freelandies @zapper_fi BigQuery is one of the tools we use among others. It's used to perform data analysis on very large datasets.
+23,Our real-time NFT ingestion mechanism via pub/sub is now working 🚀. We also sync our relational database in BigQuery to perform complex aggregations on it. We'll start using this data in @zapper_fi very soon 🤞
+24,@NBAtrollsDOTcom @zapper_fi @Cheesecake Ahh so you're the one slowing down our servers.. I see...
+25,"@0x_marc @heals_mark @zapper_fi Yep! We currently rely on OpenSea for this data but we built our own NFT indexer to compute that on our own, alongside rarity scores etc. The indexer is mostly finished and working great, we now need to integrate it! You should see a bunch of improvements landing in a few weeks."
+26,RT @sebaudet26: We have a bunch of open roles and are looking for terminators! 🦾😎
+27,@PayTrie fyi I can't log in at the moment.
+28,@sebaudet26 @frwcbot https://t.co/6KvUUXXwDH
+29,"@mbaril010 Ohm forks stopped spawning, that’s a start."
+30,@cryptoMaxi420 @zapper_fi You can look at @sebaudet26 ‘s leaked designs for this 😉
+31,"@cryptoMaxi420 @zapper_fi Balances, rarity score, transaction history / volume etc"
+32,@sebaudet26 Baby centipedes are bullish too apparently
+33,@sebaudet26 Dicklebutts obv
+34,I just hit 1k followers. Does that mean I'm an influencer now?
+35,"@snowflake4547 @zapper_fi We are indexing the transfers from those but won't capture them as ""sales"". They will be treated as simple transfers."
+36,@tomuky @zapper_fi To each their own! 😇
+37,"@tomuky @zapper_fi We also store metadata, traits and everything."
+38,@tomuky @zapper_fi Haha trust me it is. I had goosebumps when I checked my balances the first time and saw that everything was  accurate. We also store all the sales history. We currently only support OpenSea as a marketplace but will add more strategies eventually.
+39,@corbpage @sui414 @flipsidecrypto @zerion_io @zapper_fi @CovalentDesign @AlchemyPlatform @graphprotocol +1 You can do awesome stuff with the public BigQuery datasets available
+40,@grod220 @zapper_fi This is not BigQuery. We do use public datasets from BigQuery for some of the stuff we do but not this one.
+41,@zapper_fi 12 billion USD*
+42,@AgamemnonEth @zapper_fi @crypto_coven @Dicklebutts No @crypto_coven but I do have some @Dicklebutts I just haven't shown the whole list 😇
+43,@t3rtium @zapper_fi We might make it eventually public. We still have a few weeks to finish the work on our side to integrate it with our app and dogfood our APIs.
+44,"The devs at @zapper_fi just finished indexing all the NFT transfers and OpenSea sales since block 0 on mainnet.
+
+That's:
+- ~26k collections
+- ~25 million NFT transfers
+- ~12 billions in sales on OpenSea
+- Very bullish https://t.co/HBcikBl5VN"
+45,@Leboxer2 @sebaudet26 The plan is to have NFT support for multiple chains yes. We are starting with Ethereum mainnet but will iterate from there.
+46,"@sebaudet26 No pressure. 
+
+Kidding we are almoooost there."
+47,@sassal0x Yes please. More bearish tweets.
+48,@zapper_fi 💪
+49,"RT @zapper_fi: Our first community call of 2022 starts at 1pm EST. Over 1000 people have RSVP'd to attend this call🤯
+
+We can't wait to conn…"
+50,@0xMaliki @zapper_fi We're working on this ser so that NFTs NEVER disappear anymore. We're building our own database.
+51,"RT @zapper_fi: This product update recaps the new NFT Collection page, the Zapperverse Season 2 finale, the latest @Zapper_Learn articles,…"
+52,"@niz14_ @sebaudet26 @zapper_fi @alienfrens Sees @sebaudet26 is rocking a new pfp.
+Has some FOMO. Checks the floor on OS.
+Closes OS."
+53,@Irrelephantoops Any regrets?
+54,@AgamemnonEth @LooksRareNFT Don’t forget to index the price column.
+55,Super stoked that @maxime__bedard joined @zapper_fi on Monday. Maxime is a very talented production engineer coming from @Shopify I have had the pleasure to work with in the past. It's one of those hires you know will be a game changer. Happy to have you on board Max!
+56,@benfromdallas @bubby_io Some people could use this false narrative to discredit Ethereum after the Merge. I think it's important for everyone to understand that PoS does not directly correlate with lower gas fees.
+57,"📣 The Merge, or transition of #Ethereum to Proof of Stake, is NOT meant to and will NOT visibly reduce gas fees. This is a false narrative. L2s and sharding are the solutions to the gas issue, not PoS."
+58,@tornadobro11 @zapper_fi We love you too ♥️
+59,RT @AgamemnonEth: Don't know about you but there was a void in my life since I couldn't see my staked #LooksRare on @zapper_fi. Now I feel…
+60,@SemiSupers This one I didn't mint but acquired on the secondary market for a good price. Can't go wrong with an ape. https://t.co/L3fAFSe5Ez
+61,@sebaudet26 May the force be with us.
+62,@sassal0x Just let me know. I can hardcode Eth to 10k for your Zapper portfolio
+63,@justseels @zapper_fi Merry Christmas! 🎅🎄
+64,"Honestly, good thread.
+
+2022 will be a pivotal year for @zapper_fi. Buckle up y’all ain’t ready for this. https://t.co/P5g9eAGw0t"
+65,@poplovski @forgottenrunes 11/10
+66,@Videotron 📣 La commande vocale avec la télécommande fonctionne. JE RÉPÈTE la commande vocale fonctionne.
+67,@Videotron Un enjeu? 🤡
+68,"RT @sassal0x: Happy New Year from Australia everyone!
+
+2022 is the year Ethereum finally becomes a Proof of Stake network.
+
+The Merge is co…"
+69,@wongisrite Worth watching for the satire but a bit underwhelming.
+70,@zapper_fi is back up. Merry Christmas! 🎅
+71,"RT @zapper_fi: 🎊Somehow, a New Year is right around the corner!🎊
+
+We want to take this opportunity to reflect on how far Zapper has come in…"
+72,RT @sebaudet26: New account page on @zapper_fi lookin' fine 🔥🤌 https://t.co/7JNkCgpCCL
+73,@10xray @zapper_fi We’re working on it! Shipping in iterations.
+74,@0xStraylight It’s simple math. 1 dick = 1 butt
+75,@cryptovvolf @Dicklebutts looks rare
+76,"@AgamemnonEth @Dicklebutts @Dicklebutts , the best kept secret."
+77,@poplovski Wuuuuuuut
+78,@smilinglllama @sassal0x @mbaril010 would never wear that #opsec
+79,"S tier production engineering talent joining Zapper soon 👀 Not that I’m surprised, we’re having a blast here. https://t.co/HCVfRreQ8a"
+80,@0x_marc @sebaudet26 Fomo is a lifestyle. It’s about the thrill of the roller coaster ride.
+81,RT @AgamemnonEth: bullish on @zapper_fi in 2022
+82,"@raise_exception @zapper_fi Next up, we will get rid of the brute-force approach on the backend to know what apps the user has interacted with by compiling a view of holdings for every user via ETLs built from blockchain events."
+83,@raise_exception @zapper_fi The client used to fetch these supported apps with a first roundtrip and then balances via multiple HTTP/2 requests. But with streaming we perform a single call. This eliminates the necessity for this initial network roundtrip.
+84,"@raise_exception @zapper_fi Indeed, on a first load Zapper will brute-force balances for all applications, but then it caches the set of apps used by the user in the backend. This cache needs to be in the backend so it can be invalidated if the user performs a transaction on-chain."
+85,@maonini_ @InnerFire11 @Deadfellaznft 👀
+86,@alexsnaps @jonhoo Ohhh need to get that one.
+87,@voogarix @zapper_fi We're on it
+88,"@cory_eth @zapper_fi We are not using websockets but ""server-sent events"" over http which is a form of streaming. Every X seconds the client requests balances with a single request and the server streams them as they get computed. Once all the balances are returned the connection is closed."
+89,@chrishobcroft @latetot @zapper_fi We shipped the change yesterday but optimized even more today.
+90,@KryptoSimoon @zapper_fi https://t.co/PzFRp3mCNP
+91,@0x_hiatus @zapper_fi It's in our pipeline!
+92,@0x_Osprey @zapper_fi It's hard to give a precise number without accurate client side instrumentation. Comparing backend metrics would be comparing apples and oranges. But cache hits are almost instant now and cache misses are at least 2x faster.. I guess? 😄
+93,@0x_Osprey @zapper_fi We eliminated a network roundtrip that was required before fetching balances. So that's a ~200ms shaved off. We also got rid of request queueing in the browser and there's overall less client overhead.
+94,"Have you noticed @zapper_fi got faster?
+
+We changed the way we fetch balances and now use streaming instead of parallelizing HTTP/2 requests. 
+
+That's just the beginning though 😏. We have other huge improvements coming soon."
+95,@AgamemnonEth St-Hilaire? https://t.co/WGfUUKxC3l
+96,@hnycrypto @thedailygwei Same I’m obsessed
+97,@poplovski @Worldwide_WEB3 @CoeurDeFraise03 It’s on my todo list 😇
+98,@MildBits710 @sebaudet26 @PhABCD @statelayer @AaveAave @sudoswap @llpresswell Awoye à maison ma bande de gorlos
+99,@anneouellet94 Fomo is a lifestyle

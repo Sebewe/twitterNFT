@@ -1,0 +1,139 @@
+,0
+0,@bmann @ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns @WalletConnect sounds like an eip opp! 🙌
+1,@bmann @ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns I think it’s just a matter of time before native mobile wallets support their own version of snaps. @WalletConnect could evolve to support RPC extensions with little hassle.
+2,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns As you’ve already touched on in your research, we’re really optimistic about efforts like @gnosisSafe and @argentHQ who have production deployments with meaningful multisigs. And of course best practices need to make their way to those multisig shardbearers too."
+3,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns If I could press a button and have wallet infrastructure and the EVM use HD keys and ZKPs to demonstrate relationships to achieve new-key-per-tx, believe me I would. But ultimately the market plays an important role here and it’s dangerous to ignore it."
+4,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns Otherwise you would need to make a compelling GTM strategy for users to abandon their current wallets for one that supports your proposed system perfectly as imagined, or convince existing wallets to adopt your scheme entirely."
+5,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @BlockchainComns As mentioned in my previous response, I believe MM snaps and related systems that allow for further derived HD keys are the best shot at implementing the system you describe at scale."
+6,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer Furthermore, the specification supports EIP-1271 which does enable multiple key usage, multi-sig, and rotation. Was this considered in your analysis?"
+7,"@ChristopherA @chrismessina @kimdhamilton @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer We can only do so much with a single spec, and we won’t be able to solve multiple key use and rotation in one fell swoop, as convenient as that would be. There is a reason for multiple BIPS and I’m sure you know best of all that these things take time and combined effort."
+8,RT @matthew_d_green: Ugh god. Serious flaws in the way Samsung phones encrypt key material in TrustZone and it’s embarrassingly bad. They u…
+9,@ChristopherA @kimdhamilton @chrismessina @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer @DeanTribble @marksammiller https://t.co/id1JLXRYSi
+10,"@ChristopherA @kimdhamilton @chrismessina @Obstropolos @SpruceID @openid @bluesky @willnorris @selfissued @justin__richer m3tam@sk snaps allow for additional ad hoc key derivations within an extension, written in a secure subset of javascript invented by @DeanTribble and @marksammiller. extensions of a browser extension is kinda 🤔 but i don’t see a better path forward frankly"
+11,"@chrismessina @Obstropolos @SpruceID @openid @bluesky @willnorris i’m really grateful that we might have another swing at this with web3, and i think we can agree it’s too important to mess up. really hoping to have your support in this along with other old-timers like @selfissued @justin__richer @ChristopherA @kimdhamilton and so many more"
+12,"@chrismessina @Obstropolos @SpruceID @openid yes it’s really apparent that folks who were building oauth and oidc really wanted a more decentralized web and to put users first, artifacts like https://t.co/YrX25UvocD are a clear testament to this. it sucks to see how it ultimately evolved."
+13,"@chrismessina @Obstropolos then you may be happy to learn that @SpruceID ❤️ @openid!! we are planning SIOPv2 compat for SIWE, welcome you to join our community calls to discuss further, thanks for your clarifications. we’re just trying to follow through on the impls too"
+14,"@chrismessina @Obstropolos Our OIDC impl is here!
+https://t.co/7X2VjvzQD9"
+15,"@chrismessina @Obstropolos With respect to deployed systems, we love https://t.co/A0kmwxSxb5 (https://t.co/xMVXzODLnS). Could you please share where to find the source code for Google, Facebook, https://t.co/9i44Ymquev, and Active Directory impls to follow through on your claims?"
+16,"RT @Obstropolos: I just published my thoughts on why Sign-In with Ethereum is a game-changer for user-choice on the internet. 
+
+https://t.c…"
+17,"RT @SpruceID: We're happy to announce the release of our Ruby gem for Sign-In with Ethereum, as well as support for Rails applications: 
+
+h…"
+18,"@alebaffa Hi Alessandro, we have outlined interoperability paths for all of the standards on the community calls found in https://t.co/P3AfW0fzpx. Please review before spreading misinformation. SIOPv2 has not been “standardized”, there was an implementer’s draft only."
+19,RT @AnikaRaghu: Honored to facilitate a conversation between some of the brightest thinkers/builders in web3 encryption @Zac_Aztec from @az…
+20,"RT @SpruceID: Good morning ETHDenver! 
+
+Find a member of the Spruce team starting today (@obstropolos @wycdd) to receive a Spruce-themed #P…"
+21,"RT @SpruceID: We’re partnering with @Centre_io to introduce #Verite, a set of decentralized identity protocols that combine interoperable s…"
+22,@ceramicnetwork @multicoincap @usv @3boxlabs 👏👏👏
+23,"@milan3patel @SpruceID @iamdecentral @dabit3 @0xPolygon @graphprotocol @HardhatHQ @edgeandnode @NEARProtocol @ArweaveTeam @IPFS @paradigm @ceramicnetwork @solana Thanks for your interest. Please see our column in the Verifiable Credentials Data Model Interoperability report here: https://t.co/0TsMZHcnnx…
+
+Let us know if you would like help with adding JWT support or anything else, DIDKit is Apache 2.0 with audits to be released soon!"
+24,@_dianakris @GirlsWhoCode @SpruceID supports this
+25,@decentralgabe @Sismo_eth 💯
+26,@decentralgabe yet!! @Sismo_eth
+27,@rileyphughes there are also actual consequences for putting VCs on the public internet. i think the second part is really hard
+28,"verifiable credentials: non-transferable NFTs in a yet-to-be-committed rollup
+NFTs: verifiable credentials encoded on-chain, made transferable
+
+🤷‍♂️ i think it’s not worth arguing, and it’s better to spend energy talking to users and building"
+29,@rubinovitz @medhakothari @rubinovitz for sure!!
+30,"@harryhalpin @AleoHQ @darkforest_eth @SpruceID Hi Harry, please check out https://t.co/NeSg8XH80K
+
+DIDs can be privacy preserving but they are no means guaranteed to be. But saying that ""DIDs are not privacy preserving"" is like saying ""URIs linked to key material are not privacy preserving"", total strawman."
+31,RT @Obstropolos: There is no room for hate in the space. Web3 and Identity are delicate enough without categorically excluding whole margin…
+32,@hudsonjameson j/apl would be cool
+33,"RT @SpruceID: Today in Web3, keys are used mostly for assets and smart contracts on blockchains, but this only scratches the surface of wha…"
+34,"RT @EthereumDenver: Your Keys, Your Data. @SpruceID https://t.co/FzzANrXWM6"
+35,"RT @signinwitheth: Want to get started building with Sign-In with Ethereum?  
+
+The Sign-In with Ethereum developer portal is now LIVE and c…"
+36,"RT @poojaranjan19: ✨EIP-4361: Sign-In with Ethereum✨
+
+To provide an overview of this interesting proposal, ready to move in ""Review"" status…"
+37,@maurelian_ white elephant protocol
+38,RT @freezydorito: underrated skill in computer science is how to break down problems into even bigger problems. how to snowball making a bu…
+39,"RT @decentxyz: gm
+
+we are excited to announce that @decentxyz is a part of the @ycombinator W22 batch, and backed by their alumni DAO @Oran…"
+40,RT @SpruceID: And it’s all happening on https://t.co/LeVQjwwGPs
+41,@isosteph cc @Obstropolos
+42,RT @mr_ligi: Thanks to @by_caballero and wayne of @spruceid for rekindling the @ChainStandards CASA calls and thanks to @pedrouid @joelthor…
+43,@secparam @SpruceID is hiring for both!
+44,RT @puffyvolvo: https://t.co/UhchEpPvEH
+45,@ionlazer @Obstropolos @wholisticguy a shame you find gpg exploitative. best of luck!
+46,"@ionlazer @Obstropolos @wholisticguy michael we’re implementing pgp interoperability with dids, PRs and contributions welcome!! https://t.co/aq8y9vCizJ"
+47,"RT @Obstropolos: Less ""Sign-In with Google""
+More ""Sign-In with Ethereum"""
+48,there should be a @Cloudflare cloud HSM service
+49,RT @SpruceID: Today is a great day to Sign-In with Ethereum.
+50,"@ItchyDinoJake @BrantlyMillegan @ensdomains has anyone noticed the duolingo tiktok is 🔥?
+
+https://t.co/kmkyc2xewp"
+51,@yugacohler @coinbase welcome to the ecosystem!! glad to have more crypto folks collaborating
+52,@BrantlyMillegan @ethleaderboard wyc.eth
+53,"RT @thegarrettscott: Just had my first meeting in the Metaverse. 
+
+Here’s the top 16 reasons I’ll never take a meeting any other way:"
+54,"daobar's number: the cognitive limit to the number of DAOs you can be a ""member"" of and still feel anything"
+55,"RT @cszhu: oh you have a weighted blanket? haha that's cute, I sleep with the crushing weight of all the shitty code I wrote years ago stil…"
+56,"@zck this entirely depends on the culture of the remote org you join. if you’re treated like a second class citizen without opportunities to build real connections with your colleagues and industry peers, then sure. but not all companies are like this"
+57,@BrantlyMillegan poweroverwhelming
+58,"@dystopiabreaker +1 to curves that are harder to misuse! i’m not a cryptographer, just poking fun at the widespread distrust at NIST’s recommendations"
+59,@dystopiabreaker https://t.co/DvqcnC2i3o
+60,@ConejoCapital the true measure of a life well lived is how many ppl reply to your casually tweeted request for comfort food reccs
+61,@somemikesena @ceramicnetwork @SpruceID omg mike no
+62,@JobsOhio @Obstropolos
+63,@dystopiabreaker i think PoX is necessary for that non-duplicatable aspect globally. but within a domain that has an authority you don’t need one
+64,"Great piece from @ceramicnetwork, this is the way forward! At @SpruceID, we will be using a compatible system of capabilities-based permissioning that allows users to control access to their private data storage. https://t.co/0mA4NaPdB9"
+65,@dystopiabreaker @DhashS might know why
+66,"RT @Obstropolos: Hiring a memelord. Qualified applicants, please send:
+
+- Twitter handle
+- Link to the last flame war you were involved in…"
+67,"RT @1ofthemanymatts: Integrated @SpruceID's Sign In With Ethereum into a lil dapp yesterday, very impressed with how slick it is"
+68,RT @Tippen22: Starlink works great until the cats find out that the dish gives off a little heat on cold days. https://t.co/uyH3Kbqrie
+69,RT @engineers_feed: (6x9)+(6+9)=69
+70,@_dianakris https://t.co/HUhWscf9TE
+71,"@DisruptionJoe @somemikesena @divine_economy @ceramicnetwork @SpruceID It’s the same model, but we work on different pieces of it. At Spruce, we’re focused a lot more on achieving Zero Trust architecture and cross-platform tooling in Rust. Kepler can use Ceramic Documents as a beacon to route to private storage."
+72,RT @veryimportant: dave brubeck guilty on 5/4 counts
+73,RT @GabriellaG439: The CDC's new guidelines say that you can dereference a pointer so long as you're reasonably confident it is not null
+74,@Suhail emerge -av libreoffice
+75,@ezyang long live couchdb
+76,RT @jonahedwards: Keep Portland Weird https://t.co/NOdgnVzqXd
+77,@ezyang at least 10
+78,@tomcritchlow https://t.co/P3AfW0fzpx
+79,@ledgerstatus https://t.co/gHXzQGBkHc
+80,@SpruceID @ThisWeekInRust
+81,"@norootcause i think so! everyone thinks the first image is how it ought to be done, but really it's showcased as a bad example. instead check out the second image. https://t.co/3uY1quKT58 https://t.co/0qJh4VH8RB"
+82,"RT @cameron: The @Gemini Frontier Fund has made great progress this year investing in the future of financial, creative, and personal freed…"
+83,RT @brandonleehoop: Forget fintechs. This is actual innovation: https://t.co/H5EY3QqIko
+84,RT @moronmcbee: not all heroes wear capes https://t.co/YdvsVcFBjs
+85,"RT @SpruceID: Spruce is growing the team! Come help us drive the future of decentralized identity and data forward. 
+
+We're hiring for:  
+-…"
+86,RT @thanksgaving: Loose translation: a Japanese guy got Covid-19 in Shanghai a little while ago so the city published a list of places he w…
+87,"@joakimhi @dreadders2 @gather_town say what you want about the product, hard to deny their good product mgmt practices lol 👆"
+88,RT @Iinux: We cracked open the skulls of our masters and found nothing but flesh and blood
+89,@nicksdjohnson someone tell iana
+90,RT @svblxyz: @SwiftOnSecurity Why should I use JSON when IBM came up with something so much better: JSONx! https://t.co/ic8TaeEbEY
+91,RT @selfissued: Major progress on advancing these important specifications by the OpenID Connect working group!
+92,"RT @clarityteams: Clarity is a coordination &amp; info management tool for DAOs.
+
+DAO contributors tell us access control is their biggest issu…"
+93,RT @ApeFramework: We're Live 🚀  Introducing ApeWorX Beta - https://t.co/DINLp3PyMJ
+94,"RT @timepieces: This is amazing! We cannot wait to implement on https://t.co/1uKsAupTwc! 
+
+👏🏼👏🏼👏🏼"
+95,"@csuwildcat Have you read the full specification? SIWE is designed to be compatible with DIDs, VCs, and OpenID Connect SIOPv2."
+96,"@csuwildcat @BrantlyMillegan Hey, you may benefit from reading @OliverTerbu's work here!
+https://t.co/aS82oxNFxC"
+97,"@q9fmz @SpruceID @nahurst Really happy to see this!! 💯 Let’s join forces where possible. There’s a community call at 3:30 pm et today if you can make it, but happy to find more time otherwise. When we saw Nethereum already implemented support in C#, it saved so much time for everyone."
+98,"RT @element_fi: 1/ We’re thrilled that @gregoryclisa has joined Element as Chief Legal Officer!
+
+Greg’s a former Interim Director of Compli…"
+99,"RT @wwwjim: @ccheever We need good decentralized identity (DiD) solutions with great DX, there needs to be a layer above your wallet addres…"

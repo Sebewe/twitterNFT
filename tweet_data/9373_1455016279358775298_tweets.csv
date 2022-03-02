@@ -1,0 +1,220 @@
+,0
+0,"RT @shannonlitweets: Here's the simplest, non-technical analogy for MEV defi noobs (MEV= Miner Extractable Value) ✨
+
+(This analogy demonstr…"
+1,RT @_jefflau: The Exponential Price Decay contract will go to an @ensdomains DAO proposal soon pending any issues discovered by the communi…
+2,"RT @jgonzales19701: $100,000,000.00 usd the first ENS domain expiration day for premium domains … do you see now the potential value? https…"
+3,@MAB @ensdomains Jealous of that new ens you are sporting though 😍
+4,"RT @morphean_sec: @ZeroEkkusu00x Making a 16 hour foundry course, ser? Is this an alpha leak?
+https://t.co/w1m3dxe7D9"
+5,"RT @dystopiabreaker: it's deeply funny to me that most of the people actually building the infrastructure (zk research, mpc research, key m…"
+6,"RT @r_ross_campbell: access to limited liability is public good for web3 //
+
+so far @_KaliDAO @lex_DAO have open sourced &amp; built a totally…"
+7,RT @WillPapper: @divine_economy Gnosis Spending Limits are perfect for this https://t.co/M02J2AVVmB
+8,"RT @shreyjaineth: On-chain reputation is going to transform human coordination. 
+
+Breaking down the on-chain identity landscape 🔽
+
+https://…"
+9,"@0xcarnation Contracts can't initialize transactions. Only EOA accounts / users. So there is no way to fast forward time to see ""TXs"" ever? The dice example is likely a flaw in the fair number generation that miners could generate/find offchain early and reorg the chain or contract flaws?"
+10,"RT @namazso: I made a new auto-separated x86 ISA reference page: https://t.co/ffnPyCF4ZE
+
+Source for generator coming soon™️, I just want t…"
+11,"RT @noxx3xxon: The first in a series of EVM Deep Dives.
+
+To be a great solidity dev one must have a deep understanding of the EVM.
+
+https:/…"
+12,"RT @0xngmi: Progressive NFT reveals: https://t.co/4yZKnWEu84
+Dual NFT ownership for multisigs/DAOs: https://t.co/M1LgfJ1L1u
+Merkle tree NFT…"
+13,"RT @fiveoutofnine: Alternative idea: vested primary sale funds
+
+Most devs don't *want* to rug at first. It just happens because primary sal…"
+14,@istvannemeth12 @theweb3god @BloomCapital_ @unstoppableweb ENS makes the most sense as etherscan doesn't implement any other name contracts. So you can at least see .eth on etherscan transaction logs but not .crypto/.x/.nft etc as far as I know.
+15,"RT @0xsoul_: I hacked a quick PoC.
+https://t.co/nmW3gDTB5c
+I am not minting and then locking to avoid checking on every transfer if it's lo…"
+16,"RT @ZeroEkkusu00x: Testing on forked mainnet with Foundry just got easier!
+
+… A new cheatcode has arrived in the forge-std library: `tip`…"
+17,"RT @fabdaRice: Recent pixelmon drama:
+
+Funds raised during a NFT drop should be locked with monthly payments to the team over [X] years.
+
+N…"
+18,"RT @BlockSecTeam: Public burn: when burns==0, the first require canbe byassed.
+
+https://t.co/0PqXXSBDq5 https://t.co/MV2KjUf69w"
+19,"RT @fiveoutofnine: NFT minting with 30 day ETH back guarantee
+
+Maybe teams can do something similar to reduce risk for minters? https://t.c…"
+20,"RT @Loopifyyy: Apparently this isn’t the first time Pixelmon got exposed with their art. 
+
+Just before their 3ETH mint sold out, they chang…"
+21,"RT @0xTomoyo: @harmony_juan @K_mpec80 @0xtuba Ser
+
+Other liquid staking products have tiny liquidity ($10M-20M) which makes it impossible t…"
+22,"RT @TheSleuthCat: 1/ Nike is continuing its leadership in the #Metaverse space with the filing of multiple new &amp; innovative trademarks
+
+The…"
+23,"RT @danielvf: @RemittanceToken token was hacked an hour ago. 
+
+The contract used solidity 4. Burn() did not use safeMath for the balance ch…"
+24,"cia.eth registered for 10E
+https://t.co/JuOtxetGWl"
+25,"RT @transmissions11: reminder that ERC777 also has a PRE-TRANSFER hook, not just a post-transfer one
+
+this can break a lot of assumptions y…"
+26,@954px So it would not be as smooth / fluid / as good of sound quality for any songs that aren't Kanye/stems on release for the stem player. As it's harder for software to split songs into stems without having the master recordings I'd imagine. It looks cool though as a concept.
+27,"@954px That's for his songs, the stem player uses some software on a backend server to split songs into stems if they aren't already stems. So what I mean is that any of Kanye songs will come as stems already and be made that way, while other mp3s from other artists would not be."
+28,@954px Idk man. For files / songs that aren't from Kanye / his team it wont be able to separate the layers (vocals etc) as well as songs that come from him / his team that can be separated properly as made to be from the start. But you know i'm a skeptic of everything.
+29,"RT @laf0nd: the Russian military is now using the joke HTTP code ""418 I'm a teapot"" for all website connections not from a Russian IP addre…"
+30,"@razoreth @opensea @definedfi Works for testing if you want to get the product working / start work, then hassle opensea for your own :p 
+
+you will learn quickly if you havent already. You cant rely on opensea support for anything :shrug:"
+31,@razoreth @opensea @definedfi search github :)
+32,"RT @FrancescoCiull4: Web3 Stack - February 2022
+
+Layer 1
+· Ethereum
+· Solana
+· Polkadot
+· Cardano
+
+Layer 2
+· Polygon
+· Zk Sync
+· Optimism
+·…"
+33,"RT @0xMisaka: $13m of Arbitrage on #Solana in 30 minutes.
+MEV during Wormhole Incident Analysis 🧵👇
+
+Would love thoughts from @bertcmiller,…"
+34,"RT @0x_intern: HOLY SHIT!!! I found the best article on understanding the EVM for beginners:
+https://t.co/idFcIjl0Pj You're welcome"
+35,RT @ergot86: Did you know that many systems are still vulnerable to iTLB multihit? Here you can see a 10th gen i7 going rekt from an hyper-…
+36,RT @VittoStack: Solidity complete fundamentals Cheat Sheet: https://t.co/T1dBXLV9ZZ
+37,RT @r_ross_campbell: getting interesting https://t.co/hTx1GFI1AU
+38,"RT @kabir_ramzan: While I was waiting to hear back from Solana Labs regarding stake pool deployment issues, I decided to code an arbitrage…"
+39,"RT @wireless_anon: $500K #Solana Arbitrage
+
+5K SOL profit from a single trade https://t.co/mETvXIhVqx"
+40,RT @0xMisaka: $200k profit on #solana arbitrage https://t.co/hLsY2fuKdg
+41,RT @onewayfunction: Here’s a bot that tweets out newly deployed (fewer than 7 days old) Ethereum contracts that already have at least $1M T…
+42,"RT @fiveoutofnine: How to turn `if` blocks into 3 bit operations for small gas savings.
+
+I actually went with the top one because it was fo…"
+43,"RT @0xQTpie: im fully convinced doing mev is middle IQ (its smart people who drag themselves down)
+
+the melvin codes 9 languages to extract…"
+44,"RT @saurik: Last week, I discovered (and reported) a critical bug (which has been fully patched) in @optimismPBC (a ""layer 2 scaling soluti…"
+45,"RT @0xKatsuragi: the mutual respect for these top tier mev snipers has me in tears
+
+brothers in arms. a reverence between two battle-harden…"
+46,RT @cdixon: Gary does a great job here despite a super cynical interviewer
+47,RT @JWeb777: History doesn’t repeat itself but it sure as shit leaves clues. Beware the hype and FOMO. https://t.co/J2juzWu9tv
+48,RT @0xQTpie: i just want to make it clear that @mev_pete runs the most profitable MEV bot on @avalancheavax. they own majority stake in the…
+49,"RT @onewayfunction: I have a script set up that notifies me whenever there is a recently-deployed contract that quickly gets high TVL.
+
+Nea…"
+50,RT @MoonOverlord: the main way to make money in NFTs is spend 8000 hours a day online
+51,"RT @leonardoalt: Wanted to try out Foundry and recent @solidity_lang, wrote a symbolic execution engine with a Difference Logic solver as a…"
+52,"RT @EnsSales: 📈 record amount of big .eth sales in the last 24 hours 📈
+
+btc.eth @ 40Ξ ($127,386)
+play.eth @ 35Ξ ($111,463)
+game.eth @ 35Ξ (…"
+53,"@VirtualElena @bertcmiller https://t.co/ZUZoZ4h3ca
+
+for those looking"
+54,RT @cobie: Coinbase listings team must be compromised by feds in some way. It's hard to imagine that the complete dogshit that they list on…
+55,RT @sxysun1: longtail MEV Alpha: build a tool that automatically detects deflationary tokens in AMMs and then perform inventory manipulatio…
+56,RT @fiveoutofnine: some experimentation. seems like `++i` is about 5 gas cheaper per loop—guessing this is because a temporary variable doe…
+57,@NFTWizart @Don_Kingy @johnnygx_ @tonyberlusconi @alemsah @opensea @coolcatsnft @doodles @poetslost @RTFKTstudios @Deadfellaz @creatureNFT @KarafuruNft @AnimoNFT @psychedelic_nft @robotosNFT But one thing that doesn't add up with the SetApprovalForAll theory is that the WETH from the sales were transferred to 4 different addresses directly from victims wallet implying they have full control of it. SetApprovalForAll is for ERC721 and not ERC20 WETH.
+58,"@NFTWizart @Don_Kingy @johnnygx_ @tonyberlusconi @alemsah @opensea @coolcatsnft @doodles @poetslost @RTFKTstudios @Deadfellaz @creatureNFT @KarafuruNft @AnimoNFT @psychedelic_nft @robotosNFT yes it would give 0xad069f245e0c547aa6bfb9e0e288756634365841 access to transfer / approve tokens so they could do anything.
+
+Theoretically we wouldnt see on chain tx's to initiate sell orders because opensea orders are offchain."
+59,"@Don_Kingy @NFTWizart @johnnygx_ @tonyberlusconi @alemsah @opensea @coolcatsnft @doodles @poetslost @RTFKTstudios @Deadfellaz @creatureNFT @KarafuruNft @AnimoNFT @psychedelic_nft @robotosNFT I looked into this a bit this morning, it looks like RareBunniClub could have rugged him but im not sure they did. This looks like a key compromise more.
+
+The sales all happened on opensea directly, SetApprovalForAll just allows the Approved address transfer ALL tokens."
+60,RT @developer_dao: https://t.co/uQTFFzbyYT
+61,"RT @Mauricio_0218: Yesterday, the Uni-V2 pool for USDT-TCR was drained https://t.co/U5Mex5lAIh. 
+
+Let's see how this was possible 🧵.
+1/n"
+62,RT @zerobeta: Does the church believe that life for jpegs begin at mint or not until reveal?
+63,"RT @0xkarmacoma: What's going on with this transaction? 
+
+https://t.co/apn2GREkf2
+
+26,905 Gwei max fee per gas, resulting in 5.8 ETH in tx…"
+64,RT @EnsSales: fbi.eth registered for 33.192451173828820872 ETH on ENS Registrar ⬨ #domains $ENS https://t.co/Aj0kPky0GJ
+65,"RT @kelvinfichter: A commit was made ~9 hours ago replacing usage of load_instruction_at with load_instruction_at_checked, which actually c…"
+66,"RT @harrycanuck: I dont think people realize just how bullish it is Ethereum is moving to Proof of Stake
+
+Right now Ethereum earns about $4…"
+67,RT @gakonst: MANDATORY training for all Solana devs: https://t.co/oioAoYtwnk
+68,"RT @libevm: Simpler times -- ""Can't make an omelette without breaking eggs"""
+69,"RT @EdgarArout: man, i thought rust solves this"
+70,RT @kelvinfichter: Alright. I figured out the Solana x Wormhole Bridge hack. ~300 million dollars worth of ETH drained out of the Wormhole…
+71,RT @zetaseek: @samczsun https://t.co/o0lu5wS42T https://t.co/XCFTkZXn89
+72,"RT @samczsun: And herein lies the problem. The `solana_program::sysvar::instructions` mod is meant to be used with the Instructions sysvar,…"
+73,"RT @samczsun: How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse engineer the exploit, and no…"
+74,RT @aoxborrow: 🚀 Very excited to announce https://t.co/ZeNv3FqMcc is live! Search expired names and OpenSea listings with powerful filters…
+75,RT @0revenue: Wormhole exploited for 80k eth. Whew. https://t.co/Kssj1PWQA4
+76,"RT @colingplatt: picture 1: 91k gas
+picture 2: 69k gas
+picture 3: me upon learning this... https://t.co/hXEusuWG6w"
+77,"RT @Mudit__Gupta: ""Safe"" https://t.co/2EOZpYVwb2"
+78,"RT @derked_eth: Sharing my journey farming rebases on OHM forks with custom smart contracts and ethers scripts. Debated sharing this, but u…"
+79,"RT @fiveoutofnine: Small optimizations you should always keep in mind for some operands `n` and `m`:
+
+`n &lt;&lt; m` instead of `n * (2^m)`
+`n &gt;&gt;…"
+80,RT @flashrekt: the Super Geisha contract is using ERC721a courtesy of @AzukiZen to keep gas ultra low  😍 https://t.co/IWF0wyTZRD
+81,"RT @RIPMedicalDebt: Minting NFT Rainbow Rolls generated 19.42 ETH, which RIP turned into:
+*$7,357,266 of medical debt relief 
+*for 5,323 pe…"
+82,"RT @EdgarArout: my MEV progression story 
+
+was inspired by this tweet: 
+https://t.co/oaqwX9KilV
+
+1. tried dex arb with uniswap flashloans…"
+83,"RT @veorq: ""an attacker can create a malicious ELF file as a smart contract, which can trigger the integer overflow. After that, every vali…"
+84,"RT @0xInuarashi: some few cool stuffs
+https://t.co/4jOTkQlRBP"
+85,"RT @brockjelmore: 🚢new in foundry🚢
+
+gas reports! just add `--gas-report` to `forge test` command and get a pretty printout of gas usage
+
+wi…"
+86,"RT @nomadxyz_: What's a returnbomb and what do paranoid solidity devs do about it?
+
+https://t.co/WJkVQkIeNp"
+87,"RT @NoahCitron: A few days ago, @samczsun pointed out that @indexcoop's Rari pool 19 was being attacked. While this was indeed an attempted…"
+88,"RT @transmissions11: seeing how @trailofbits sets up Echidna fuzz suites for their clients is really informative 
+
+i always see the results…"
+89,"RT @PetrifyTCG: A lesson on DYOR.
+
+Why I will be avoiding $HLY @holygrailone... and why I STRONGLY suggest @lijiang2087 does not back this…"
+90,"RT @muellerberndt: Let's face it, audits suck. The ""herdsman"" approach I'm taking with @wolfdotgame allows them to release smart contracts…"
+91,"RT @dingalingts: 1/ WARNING: DO NOT CANCEL YOUR OS LISTINGS AS STATED IN THE EMAIL THAT OPENSEA JUST SENT OUT🚨🚨
+
+Please FIRST transfer your…"
+92,"RT @tronicdreams: require( _balances[ msg.sender ] + quantity &lt;= max, ""FishyFam: don't be greedy"" );
+
+bad.bad.bad.  this is a nono.  easy e…"
+93,"RT @Mudit__Gupta: Weekly reminder that if you create a sell order and then the sell order executes, it's not a vulnerability on the exchang…"
+94,"RT @dedaub: A few days ago we disclosed one of the largest vulnerabilities. Ever.
+
+The disclosure helped protect @MultichainOrg and @Fantom…"
+95,RT @ToastVirtual: millions a month. I'm seriously beyond pissed that a site like this can't even fix a simple bug that's causing people tho…
+96,RT @wizardofsoho: lol so there is an OPENSEA bug that lets you buy listings and old price ... and they are going after alll ape owners. Bun…
+97,RT @bertcmiller: Pretty interesting to watch a bunch of blockchains grapple with the unintended consequences of MEV this last year or so
+98,"RT @DiscoverXnft: If you feel bad about your portfolio - don’t forget Logan Paul bought 20x IreneDAO for 5 Eth when Eth was $3,300 
+
+Total…"

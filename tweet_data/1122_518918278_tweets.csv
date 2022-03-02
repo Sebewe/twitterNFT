@@ -1,0 +1,127 @@
+,0
+0,"@ReggyNFT no, the pope agrees with me"
+1,@AmosRendao not really anything to address? i adhere to the world's largest religion and apparently that's not allowed in web3?
+2,"@adamscochran hey, not really interested in debating the theology right now, but what i believe is the mainstream traditional Christian positions held by the world's largest religion. it's not exactly fringe"
+3,"@singleserving hey, just to be clear, i'm not ""from the South"", i grew up in Oregon and only moved to South Carolina just under a year ago"
+4,@metaversehodl I make an exception for that
+5,"hey looks like I've got my first mob. nice to see some ppl finally read the first word of my bio. I love you all, I'm gonna keep working on web3"
+6,"RT @ethleaderboard: 🎉 January in review:
+
+- 55k profiles on https://t.co/qpFuPgRsX8
+- Top 10 rank floor: 3m followers
+- Top 100 rank floor:…"
+7,"@avsa and i disagree that it should all be hidden away, i think it should be exposed whether i'm only connected to a local app or signing in to a centralized server"
+8,"@avsa well it's more than just saving data, it's youre authenticating to our server (which means we'll be saving data). re terms https://t.co/gYHWiGnWOT"
+9,"RT @awkweb: wagmi x  @signinwitheth
+
+New guide just dropped for Sign-In with Ethereum
+
+https://t.co/3KAqlLS8bI"
+10,"@crypto__zak yep, &amp; it will do that if you're in Lite. but some Full features can't be easily prompted &amp; I think most users will just want the Full mode features anyway, &amp; so making them ""sign-in"" twice is just added friction. i personally just want to be able to sign-in once &amp; use everything"
+11,"@Urban__Yogi huh, it shouldn't be $4k gas fees to extend registration, could be a bug your wallet's gas estimator? @ens_support"
+12,"@LooksRareNFT @ensdomains great. would also be great if my Looks Rare profile name and avatar were just my ENS name and avatar automatically, as it is in hundreds of other dapps. takes just a few minutes to implement https://t.co/8gW98gb2LS https://t.co/CraBJ9mBqU"
+13,"RT @LooksRareNFT: Heard you guys like @ensdomains.
+
+👀💎https://t.co/4gaCDLyY2p https://t.co/IQ4TK0TR0B"
+14,RT @ValidatorEth: Did you know that you can now DM @ens_support with any @ensdomains support queries?
+15,"RT @ens_support: Tip: Make sure you have a Primary Name set, and your ENS name will automatically be used as your username across web3!
+
+Yo…"
+16,"@CumbieroEth for contested names, whose txn gets mined first and therefore gets the name is determined by who pays the highest gas fee, so it's still an auction, just one that requires technical skill, lots of money, an opaque process, and all the money goes to miners (instead of the DAO)"
+17,@CumbieroEth do you have alternative proposal for how newly released names that multiple people want should be distributed if not by who pays the most for them?
+18,"@avsa that's why the default selected would be Full mode / Sign in, but for those who care they can just toggle to Lite mode / connected only"
+19,@avsa lite mode is what the current ENS manager is. we want to also offer an option for people to sign in to a server so we can provide additional features that aren't possible if you're connected-only
+20,"@Harrison_Kav Full mode / Sign in = you sign in to central server to use the app
+
+Lite mode / Connect-only = no central server involved"
+21,@name_fave @ens_support
+22,"it's very important we get these things clear, in terms and UIs. right now it's all equivocated and ppl don't know the important differences in how different apps work in the backend even if they seem the same"
+23,"something ive learned from working on SIWE the last 8 months and then recently sharing our idea to offer multiple user states in the ENS manager is that there's massive confusion, among users and devs, what the terms ""connect"" and ""sign in"" mean, that they are different, and how"
+24,"@yogicodes @avsa not with Full mode, the point of full mode is they are stored on our server (and hence can't be lost to cleared cache or changing devices)"
+25,@WPMonty connect-only isn't read-only
+26,"@Harrison_Kav that's what Full and Lite are (also, just to be clear, connect-only isn't read-only aka view)"
+27,"@avsa with Lite mode, it's just normal wallet connect, they don't sign in to our server. they have fewer features but don't have to connect to our server, plus a forked version of the app will work without our servers"
+28,"@scottjenson @mg @ensdesigner @signinwitheth not sure what you mean. we're spending lots of time thinking this through and are even getting public feedback (may post more designs). I'm saying that given this is a new pattern, I expect even our best efforts to be improved with experience, and the risks are low"
+29,@FlipsiesFlips what if by not following the omlette recipe exactly you lost hundreds of millions of dollars
+30,@winningainteasy @Tulane @TulaneTech welcome!
+31,"@JonRamvi @pedrouid @ensdesigner @signinwitheth all wallets ask the user before signing things, nothing offers auto-sign (which would be really bad if it did)"
+32,@serglotz @austingriffith @pedrouid he's wanting to view an ethereum account without connecting any wallet
+33,"@JonRamvi @punk_zk @nicksdjohnson @austingriffith @pedrouid 1 is you're just browsing, 2 is you're viewing something as if you're connected with that wallet but you're not"
+34,"@punk_zk @nicksdjohnson @austingriffith @pedrouid 3 and 4 aren't the same, 3 is connected only without a server, 4 is you're signed in to a server"
+35,"@nicksdjohnson @austingriffith @pedrouid I wonder if a ""Watch only"" option could be added to web3 modal? I could pick MetaMask, walletconnect, etc or Watch Only, which prompts me to enter an Ens name or address"
+36,"@Rahatcodes @austingriffith one let's you do the basic things without connecting to our server (if you don't want to do that), the other provides a bunch of additional nice to have features that are only possible if you sign in to our server"
+37,@ApprenticesNFT but it's fun
+38,@rorytait @Porsche @CARFAXinc @vinwiki @ValidatorEth @nicksdjohnson @ensdomains 🔥🔥🔥🔥
+39,"RT @rorytait: My late submission to @BrantlyMillegan’s #ENSIRL thread. 
+
+Now all I need is @Porsche to airdrop me an NFT certificate of aut…"
+40,"web2: move fast and break things
+
+web3: move slow and don't lose people's money"
+41,RT @pedrouid: @ensdesigner @signinwitheth We are making SIWE a default built-in into WalletConnect v2.0 protoco
+42,"@austingriffith @dannyryan also I think you misunderstand SIWE, its just a standard for authenticating with an ethereum private key that can used it any context in which that's necessary (could be a non crypto service)"
+43,"@austingriffith @dannyryan so, this pops up if you click Sign in at the top right. if you visit the manager, nothing is prompted and you can browse in read only without connecting or inputing anything"
+44,@yogicodes @austingriffith I still don't understand what you're proposing. lite mode is normal connect to submit txns for registering and editing names
+45,"@austingriffith @dannyryan not sure what you mean, that's not what we're proposing with the ENS manager"
+46,@TaylorGerring @austingriffith that's not what this is. read only is also available and doesn't require anything
+47,@austingriffith I don't understand what you're proposing here
+48,"@Rahatcodes @austingriffith lite isn't read only, read only is also available"
+49,@avsa https://t.co/urHbEXiea7
+50,@pedrouid @JonRamvi @ensdesigner @signinwitheth I still think it should be made clear and optional. love that siwe will be built into walletconnect 2.0 🔥🔥🔥🔥
+51,@joepopson @ensdomains 🔥🔥🔥
+52,"@hishboy the closest we have to that is two options, injected provider (for browser extensions and mobile browsers) and wallet connect (mobile wallets). I only said three above because coinbase has their own connect protocol called wallet link, and they are big enough to also include"
+53,@ryanalex_eth @ensdesigner @balajis @signinwitheth not sure what you mean
+54,"@mg @ensdesigner @signinwitheth and actually I think the risks over user confusion are very low here, neither of these options are dangerous"
+55,"@mg @ensdesigner @signinwitheth only way ultimately is to put it in the wild and see what ppl do. no matter what we do initially, I expect we will learn and improve over time. things don't have to be perfect right from the beginning in order to try them"
+56,"@hishboy you're talking wallet choices? 4 is actually far less than most interfaces, and I don't see any way to get it down to less than maybe 3 given how wallets work. I'm any event, most users won't bother with the toggle (leave it on the default full mode) and just click their wallet"
+57,"@MrRoflWaffles @ethleaderboard put one in parentheses! we're only one new person away from the top 100 floor being &gt;200k, you'd be the guy to push us over the top"
+58,"@ImFlub yep, this is how our current draft designs are"
+59,"@BogDrakonov eh maybe, also longer. nicer to be clean"
+60,"@sohrab takes more space, and also makes the decision required, whereas our design combines it and makes full mode default with no additional clicks, and only requires a decision to use lite mode"
+61,@0xSoulFlex Full can have tons of good features but requires signing in to our server. Lite doesn't require signing in anywhere and still has the basic core functionality. different users will want either option
+62,@admljhnsn read-only is neither of those and will also be offered (you just don't connect or sign in)
+63,@willisxchung any proposals?
+64,@MrRoflWaffles @ethleaderboard ah. you should just get another permutation. you might never get milo.eth but you still need a web3 username
+65,@fabiogiolito Lite mode you don't connected to our server and have fewer features as a result. Full mode you connect to our server and have more features
+66,@serplease69 @the_carlosdp who's going to get injured live on the next space? tune in to find out
+67,"@MrRoflWaffles hey, wen .eth name on twitter ser, you'd make the top 100 on https://t.co/b4C5aQSsc5 @ethleaderboard"
+68,@McDonalds wen mcdonalds.eth on twitter? I'd even buy my whole family some McDonald's for dinner
+69,"tech terms make it clear exactly how you're connecting, which you may care about if you know what it means. other users might only care about feature implications. I tend towards the latter, what you can do w/ it rather than what you're doing, but I'm interested in what ppl think"
+70,"If the ENS manager app offered both a basic connected-only state and a signed-in state for additional features, should we refer to them with literal technic terms re how you are connected (Connected-only vs Signed-in) or the functional implications for features (Full vs Lite)"
+71,@the_carlosdp 😅🙏
+72,"RT @the_carlosdp: Slipped on some ice on some stairs and full on broke my arm in half while live on an ENS Twitter space lol 
+
+Sorry to tho…"
+73,"@mg that would fit into injected provider, right?"
+74,"@mg @ensdesigner @signinwitheth because putting it into the same connect/sign in module is logically where it would go, and regarding it being a unique pattern yes we are trying to create a new pattern that hasnt existed before"
+75,"@mg @ensdesigner @signinwitheth if you use lite mode, then that's how it would work. but having full mode available at this stage is much simpler if you already know that's what you want, some of the benefits can't be easily prompted to sign in, &amp; most users will just want full mode anyway"
+76,"@JonRamvi @pedrouid @ensdesigner @signinwitheth definitely not a clear intent to me that you want to sign-in to a server, most dapps you don't"
+77,"@Tomasswolf1 @danielgothits no names are reserved, ENS is decentralized"
+78,"@pedrouid @ensdesigner @signinwitheth full mode will be selected by default, but you don't think some ppl want to be able to use the app without signing in to our server?"
+79,@MpistisCrypto @psychedelic_nft looks great!
+80,"@0xdawg_ @cryptoes8 @bitfalls @ensdomains ""no one knows the decaying schedule"" ser it's right there on the page or the name with the premium, 28 days https://t.co/ugStwzMRef"
+81,"RT @aviralbhat: Satya Nadella became the CEO of Microsoft exactly 8 years ago:
+
+- Market Cap: $300Bn to $2Tn
+- Revenue: $86B to $190B
+- Pro…"
+82,"RT @ensecosystem: Welcome, @HedgiesOfficial by @dydxprotocol, to the ENS ecosystem! Congrats on adding ENS username and avatar support 👏👏👏…"
+83,"RT @ensecosystem: Great to see ENS username and avatar support in @synthetix_io's staking portal 🤩🤩🤩, Welcome to the ENS ecosystem 🤝
+
+https…"
+84,"to those who were on my twitter spaces earlier and heard @the_carlosdp suddenly drop off in a concerning way, i can confirm that he's okay. i'll let him share what happened if he wants 😅"
+85,@surahman_bubun is anything else used enough to deserve top billing next to these other options? genuine question
+86,"maybe simply ""Injected Provider/Metam*ask"", ""WalletConnect"", and ""More Wallets"" is a happy medium"
+87,"someone make the case that ""Select wallet"" modals should have options beyond Metam*ask/Injected Provider and WalletConnect"
+88,RT @Andrew_Foord: Bought myself a birthday gift... my own .eth domain
+89,@Andrew_Foord welcome! 🤝
+90,"@liquiddensity not yet, will be a little while"
+91,@KJJKETH @_musks @opensea @EnsSales @EnsBidsBot hey. gotta use 1:1 ratio for avatars. new manager redesign will have a much better tool with previews for setting avatar
+92,"@cmonies_eth @richiebonilla @ensdesigner @signinwitheth yep, full mode will be default"
+93,"@epicotix @ensdesigner @signinwitheth that'll be the default, but want to give ppl the option to have pure connected-only mode"
+94,"@HustleUpbtc @budweiserusa just fyi, i have no reason to believe bud will mention beer.eth in their commercial, it's just me trying to meme it into happening"
+95,would love ppls feedback on our most recent design we shared for the sign in flow  https://t.co/lPJgE3t3up
+96,"@the_carlosdp @ensdesigner @signinwitheth actually most web3 apps don't have you sign anything to connect (you just connect, signing is different). re the mental model, this is us attempting to create a new mental model"
+97,"@richiebonilla @ensdesigner @signinwitheth yep, we actually have a few possible designs that tradeoff between simplicity/avoiding overload vs. giving more information"
+98,"@Crypticboy8 @ensdesigner @signinwitheth lol no, this is just ways to use the manager app"
+99,@0xAllen_ @ensdesigner @signinwitheth here's a list of things that could be available in Full mode that wouldn't be in Lite mode https://t.co/k46tb6qywh

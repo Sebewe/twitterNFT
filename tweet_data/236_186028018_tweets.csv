@@ -1,0 +1,169 @@
+,0
+0,"RT @Uniswap: 1/ To ensure that everyone who wants to donate ERC-20 tokens to the Ukrainian government 🇺🇦 can do so, we built an interface t…"
+1,I have news sites open all day and occasionally try to review some PRs or write code. I'm just so disconnected from work in the last week. Looking at code feels like ignoring everything that happens all around and feels both a waste as well as a misallocation of time. https://t.co/r8xYujbLVy
+2,"@dsyleix Getting rid of the despot will not make you less vulnerable to remote service shutdowns. The solution is not to reinvent the wheel, rather to be conscious about which part of your life depends on someone else. I'm not saying to go all the way to tinfoil hat, just to be aware."
+3,"Political climate aside, this shoves it right into your face what it means to rely on a remote corporation for your day-to-day life.
+
+I'm guessing most IoT devices just went belly up too.  It's OK to use services, but if you can't function without something, don't oursource it. https://t.co/8tK8i9onx3"
+4,@intocryptoast @nicksdjohnson There's no base. I only have a waterproofed roof with a slope. I need to build on from there and *everything* needs to fit into about 6.5cm.
+5,"@nicksdjohnson Yes, that's the part I'm also having issues with. Though here you can buy boards at varying lengths so you can mix and match to reduce waste and still cut into well defined segments. But it does take a shitton of planning :/"
+6,"@nicksdjohnson Hmm, with regard to being wide enough, I was told here that screwing 2 boards into a single beam is problematic since even with a wider beam, it forces the screws close to the edge + water doesn't drain well in between. The suggestion was to use 2 beams close + overhang between."
+7,@nicksdjohnson I think I'll just end up buying a beam and standing on it and see if it bends or not :))
+8,@nicksdjohnson Does the width of the beam matter? My gut feeling would be that it shouldn't since the load is on the vertical sides.
+9,"@nicksdjohnson Got these, which supposedly go down to 18mm, still waiting for delivery. That would be 67 with your other numbers.
+
+https://t.co/L3T3qB2Azo"
+10,"@TheThirdHit I will probably go for some denser wood boards, but I'm afraid of using pine for the structure, hence why I'd rather spend a bit more and know that part won't rot away unseen."
+11,"@nicksdjohnson Decks aren't popular in this side of the world so the possibilities are limited, especially when aiming for long-term. Even termowood can only be acquired via dedicate manufacturer order. The only alu structure I saw has gooves for WPC which make it larger than the room I have."
+12,"@TheThirdHit I probably mess up the terms here, but it should be doable with a very thin frame like https://t.co/sX9x5KNc8J"
+13,"@nicksdjohnson I have to play with millimetre accuracy here due to the very shallow height allowance between the ""ground"" and the terrace door. I have about 65mm to fit everything in and sadly workers here won't care about that, they'll just say ""can't be done""."
+14,"@TheThirdHit I'm limited to 30-35mm height for the joists, so I don't have room to over engineer it quantity wise, I need quality :D"
+15,"@nicksdjohnson Same really, floating deck on the first floor terrace (essentially a waterproof ""roof"" of top of a ground floor room)."
+16,Is it even worth it to complicate with aluminium or should I go with thermo treated pine? I really don't want to redo this like ever in my life :P
+17,"Anyone know by any chance what dimensions aluminium profiles should have for a deck substructure and how close should the joists be? I'm having a really hard time finding strength data.
+
+E.g. Could I use a 30x30x2 or 30x50x2 or maybe bump to 3 mm thickness?"
+18,"@nicksdjohnson I remember you made a deck a couple years back for your house. I'm kind of in the same shoes now, wanna share some tips? :)"
+19,@JustJake @nicksdjohnson @mikedemarais Yesterday was my 1 month anniversary :) I'm still early :P
+20,@nicksdjohnson @JustJake @mikedemarais Bright lights (e.g morning sun through the window) hurts. But they did say I'll need to wear sunglasses for 6 months outside.
+21,"@nicksdjohnson @JustJake @mikedemarais Far sight good, near sight worse than it was. Halos are significantly less than a month ago but still present. If I look at the screen for hours, things start to blur up (I guess my eyes get tired from focusing)."
+22,"I've been very vocal that unless something is perfectly trustless, it's shit... Now I kind of accept that the world is not ""perfect"" so you need to pick something that's as secure as possible, whilst not getting in your way too much."
+23,"Been thinking so many times to start writing a guide on ""opsec for average joe"". There's a variety of software and hardware out there, some more problematic than others. At the end of the day it's all tradeoffs, but it's good do use stuff that matches your threat model."
+24,"@exiledsurfer @LefterisJP @bantg @ethstatus I'm reluctant because I haven't seen their recent networking designs, the original whisper code was not really good for the job (I wrote it). Also last I used them the UX was pretty much non viable. Maybe they're better now, will take a look as some point."
+25,"@LefterisJP @bantg All messengers have that capability. Thus far all (major ones at least) have centralized servers for routing, so it's trivial to censor by IP. Almost all also have your phone number, so that's one more way to censor."
+26,"So I have to force reboot Proxmox, race with it before it starts the faulty container up. Disable it, probably restart again, fix the disk, then restart and quickly log in and stop everything, clean up the disk. It's a huge pain in the ass."
+27,"I've been using proxmox for running some containers for a year or so now, but am really struggling. The container gets full every few weeks, and then the entire Proxmox is out the window (it has space). It can't shut it down, can't forcefully stop it. Disk gets corrupted, etc."
+28,@q9fmz Is it? I was only part of EIP and conference discussions on Telegram.
+29,"Suffice to say that if you take your sim card and plug it into another phone, all your contacts and past messages will be synced to it. That's one simswap (or getting new number) away from leaking everything. Bad bad opsec.*
+
+*Except secret threads, which are not default, so moot"
+30,Today I deleted Telegram even though a few Ethereum threads still use it. Don't want to make it a political or security discussion; just a heads up that I'm not and will not be reachable there any more.
+31,@pcaversaccio @semenov_roman_ @elonmusk @moxie @ThreemaApp The messages are indeed e2e encrypted and you can indeed use Threema without a phone number or uploading your contacts (though they try to convince you otherwise)... but they still know who is messaging who and what their IPs are (since they need to route it). Not yet a panacea.
+32,"@peterszilagyi01 Yes, I do have my fair share of family horror stories from the ""good ol' times"". When it takes 2.5 generations to rebuild what a few days takes down."
+33,"@notreya_ It's not about me, I'll be fine. I can't even fathom tho' what people inside this conflict must go through."
+34,@Boyanbc That's sound like a bad place to be at the moment :/
+35,@kiddoq Cluj
+36,Seeing fighter jets refueling mid air 20km from you starts to put things into an unpleasant perspective.
+37,@lmoroney Why would you post spoilers for a *game*?
+38,"I might be off with the US, I was just basing it on time zone shifts as to when this person was contacting me. It might be arbitrary far away place from Europe though."
+39,"Someone from the US tried to sell me the - supposedly - `karalabe` Twitter handle.
+
+But, if you're trying to sell a *Hungarian* handle, owned under a *Hungarian* name to a *Hungarian* guy... I kind of expect you to speak the language 🤪 
+
+FYI, he tried with a capital `i` version."
+40,"@hudsonjameson @nicksdjohnson @0xlowki Ya know, there's the saying; when I was born, I had ego issues, but now I'm perfect."
+41,"'member the many problems I had with my #Zehnder machine? After 9 months I got a brand new unit. Got it installed today. It didn't work. Installer said he has no clue.
+
+I took the machine apart and it turned out that 2 motors were left hanging in the air, not fixed to the case.🤦"
+42,"It's been quite a while, but we've finally released another version of Geth; with various fixes and improvements all around.
+
+The next version will contain some juicy things too, but that's all I will say for now. :) #golang #Ethereum https://t.co/I2FqgtManZ"
+43,"@wmitsuda @CryptoScamDB You should open a PR that drops otterscan into the whitelist, then gently ping someone from MM to get it approved and merged fast-ish."
+44,"@wmitsuda @CryptoScamDB Yes, your domain differs in 2 characters from etherscan, which is the threshold for banning it: https://t.co/ud3yfF3voA"
+45,@wmitsuda @CryptoScamDB MM has some overly simplistic fuzzy rules with which they match websites being too similar to existing ones. Generally you can find the offending rule in their repo and open a PR to get it changed. Strange that it started triggering only now.
+46,"What happened to alerts in @Grafana 8? They look like some random debug data dump. Images nuked, gazzillions of useless numbers and ids sent. Am I missing something, or is it legit this horrible mess?"
+47,@URozmej I ain't burning my 0-day for 2M. I want a retirement plan if you want it! /j 😅
+48,"One week ago I started looking into the #Threema protocol.
+
+Today I have a Threema library written in #golang, that can send/receive texts/images. https://t.co/RCfby7fBhz
+
+I also have a #Grafana alert notifier using it. https://t.co/yJs8p8KNoM
+
+T'was a good week for science. 🤓"
+49,Preparing for something something https://t.co/OayV3KpSAt
+50,RT @philipplgh: @Mudit__Gupta @peter_szilagyi The irony is he would make the most if he would quit and look for bounties full time. Misalig…
+51,"Have you forked Geth? Have you YOLOed the code and test in prod? For a limited time only, the Geth team is willing to audit your code for half price! Only $1M per bug found!*
+
+*Terms and conditions apply.
+
+#Ethereum #Optimism #dafuq :)"
+52,@URozmej @nethermindeth Curious about the writeup. Ain't nobody got time to learn C# :D
+53,@RogerComred Have a nice life
+54,"@RogerComred Ok ok, fun time over. Just for the memo, I'm about to block you, but I won't give you the satisfaction of a unilateral block. Feel free to spill your heart out, then we can go our merry ways."
+55,@toghrulmaharram https://t.co/9ALFsamxIT
+56,@RogerComred Sure you are :) Have a cookie
+57,@RogerComred At least I'm an egotistical asshole who achieved something in life ¯\_(ツ)_/¯
+58,"@kelseyhightower I hereby elevate Kelsey to Web2.5. Not quite web3, but his contributions to the Go ecosystem warrant at least half a version bump."
+59,@RogerComred Random person who never achieved anything in life digging on someone else who's code is copied verbatim and sold under the guise of improvement. 🤦‍♂️
+60,"@quick_life What do you actually mean? It's out code, literally, nothing changed. What better performance?"
+61,"I do wonder if the so much advertised super pruning of Avalanche will be their own code, or if they're waiting for Gary's PR to be merged. Because we've implemented pruning like 8 times and it all fell short on performance. Gary's code is the best shot we have at it."
+62,"Yeah yeah, I know, go-ethereum is mentioned too. Still feels funny to have 1 year old Geth features shipped as highlights :)"
+63,How to sell the go-ethereum features we've shipped over the last year and worked on for 3+ years :) https://t.co/90tHfaz91f
+64,"Half a day later, my Grafana to Threema alerting gateway has image support too!
+
+Most of the work went into the Go Threema client https://t.co/RCfby7fBhz
+
+The Grafana alerting gateway is a dirty hack, but does get the job done: https://t.co/yJs8p8KNoM
+
+#golang #grafana #threema https://t.co/Q4cxpvFGkR"
+65,"So we have:
+
+Binary between client -&gt; server
+Binary between user-&gt;user, except when json
+HTTP for media transfers, because why not I guess"
+66,"Threema has a binary wire protocol. Except they got bored of defining messages mid way through, and said ""fuck it, this field in the middle of the binary protocol is gonna be a json string""."
+67,@Mudit__Gupta @grafana https://t.co/G45gROnIvz
+68,"https://t.co/yJs8p8Llek  will need to clean it up a bit, add a readme and image support. Otherwise surprisingly concise :)"
+69,¯\_(ツ)_/¯ https://t.co/mDQSAPISXe https://t.co/5dBwZR2Wo0
+70,"@Mudit__Gupta @grafana I know, that's what I'm doing next."
+71,"This wasn't actually me, just many many threads on the Grafana repo :) And I do get here they are coming from. Just somewhat annoying. Oh well, I'll just have to write ""yet another"" alert forwarder like everyone else."
+72,"Me: Can I add X as a notifier for @Grafana?
+Grafana: No, you need to write a plugin.
+
+Me: Ok, what's the plugin infra?
+Grafana: It's in the backlog since 2019.
+
+Me: So, can I add my notifier?
+Grafana: No, you need to wait for the plugin.
+
+Me: Is anyone working on it?
+Grafana: No."
+73,"@rakyll By messing up my assumption is not that contributed code will be bad, rather *all* code has bugs (mine included). But code I code I don't have a good enough control over, I won't be able to hotfix in an emergency."
+74,"@rakyll For better or worse, I'm guilty of this (though we're maybe 4 being at the helm, not 1).
+
+From that perspective though, the responsibility also lands on us and I do get called at 4AM if it breaks. So how do I make it more open for contributors without messing up the codebase?"
+75,"@ThreemaApp Your protocol is also not that far away from full P2P capability. With an onion routing on top, you could have an insanely solid product. All that potential, walled off."
+76,"@ThreemaApp I still think it would be better if you made your wire protocol specs public. It is strange to claim security whilst clinging to obscurity. Let the internet have their field day and prove they can't break your protocols.
+
+It would also be clearer what your threat model is."
+77,@kelseyhightower Zero Knowledge Proofs.
+78,@vdWijden Slacker!
+79,"@ZerOneBrain @Zehnder_UK Out of curiosity, can you share a link to a specific model you bought? I'm seeing a lot on Amazon with various ABEC ratings. Most (all?) of them for skateboard use :D Found a 11 rating which seems extreme for skateboard, but I'm puzzled at it's electric fan use."
+80,@adam_bartha Indeed did that yesterday evening. 12 hours later a new unit it being packaged up in Germany.
+81,RT @ismonkeyuser: Anticipate (https://t.co/x31FdNmlsG) https://t.co/LgiNuyZWgd
+82,@Mudit__Gupta An even more important question is why did you make me watch it?!
+83,"I'm stuck with a machine that never worked, they refuse to service it, they refuse to change it. Time is passing and I'm just running out of warranty."
+84,"If anyone ever considers buying a Zehnder ventilation, fucking RUN. It's a horrible shit they are selling.
+
+My unit was broken since start. Changed everything inside in the course of 8mo, doesn't work. The next motor they can send in 7 months! They refuse to change the machine."
+85,@kevinsekniqi @VitalikButerin @el33th4xor But Gün attacked specifically the people who said that the bottleneck in Ethereum is state. I still don't see anyone proving otherwise. So what are we talking about?
+86,"@drhex2c @toghrulmaharram @K484L @el33th4xor @VitalikButerin Apart from adding a precompile to burn some tokens off onto another subnet, I don't see and code changes vs stock Geth."
+87,@drhex2c @toghrulmaharram @K484L @el33th4xor @VitalikButerin Can you please point me to those EVM optimizations?
+88,"@el33th4xor @VitalikButerin If we were to swap out Ethereum's consensus right now to Ava, we couldn't make it one bit faster due to the limit being the EVM and disk growth.
+
+Doing 1s blocks with Ava consensus would be akin to raising the gas limit 10x. We could easily do it. Until it blows up."
+89,"PS: @Docker I'm still pissed that snippets of my xgo  code ended up in your build scripts without even a single mention. That wasn't a nice move. (CC @jessfraz, I know it was you; but it's ok)."
+90,"With that all said and done, it is time to close this chapter of my life. Thank you for all the cross-compilation-fish, hope I will never have to work on this domain again. 😅"
+91,"There are quite a few forks, so I'd imagine people who rely on it or wish to use it are already somewhere else. I don't want to pick and choose any alternative here due to the sensitive nature of such a project, but you can skim through the issue tracker to find them."
+92,"It does hurt a bit to archive the project, but realistically it was ""abandoned"" 8 years ago (hey, I'm good if it survived without maintenance :) ).
+
+But with docker hammering in the final nail with the build restriction, there's just no more point in keeping the lights on."
+93,"Many people offered to co-maintain the project. I couldn't accept those offers due to the manual steps needed on docker hub (wasn't willing to give access to my acc).
+
+Being a compiler, I also didn't want to risk a supply chain attack, especially it building Ethereum bins too."
+94,"Many people sent in patches for adding new versions of Go when I was lazy. Thank you!
+
+At the end I dropped the ball even on merging those due to the manual effort required managing the deploy on docker hub. As for actual code fixes, zero time to track / review those."
+95,"Many things led to the downfall of xgo:
+
+- Base images got outdated
+- Rebuilding the suite took 12h+ on docker hub
+- Go introduced modules which broke the scripts
+- iOS and Android SDKs are a moving target
+- Docker disallowed automated builds for free users"
+96,"Over the years I've used it a lot for my PhD project https://t.co/rAg87uqIT0; it became somewhat popular in the #golang community (has 2.1K GitHub stars!); as well as we used it in #Ethereum originally for ARM and MIPS builds, later only MIPS, then nothing."
+97,"I've decided to sunset a few more of my old projects. Today's victim is https://t.co/0AUW3JMPi9.
+
+Xgo was a docker based CGO cross compiler I made while in university to build Go projects that had embedded C/C++ code. I needed it because I couldn't afford a mac."
+98,@kelseyhightower https://t.co/2oMkU2SWpo
+99,"@Mudit__Gupta Ah man, it didn't dig up any dirt on me 😅"

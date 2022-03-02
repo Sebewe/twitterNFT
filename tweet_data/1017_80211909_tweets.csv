@@ -1,0 +1,167 @@
+,0
+0,"RT @opensea: OpenSea will be hosting our next Town Hall tomorrow Wednesday Mar 2nd at 5pm ET / 2pm PT. 
+ 
+We will share some updates, discu…"
+1,"RT @NadavAHollander: 1) Sharing a technical run-down of the phishing attacks targeting @OpenSea users, including some web3 technical educat…"
+2,"Here's a technical deep dive on recent events, from our CTO: https://t.co/2x2CBBCNtY"
+3,"While the attacker stopped &gt;4 hours ago, our investigation is ongoing. We’ll keep you updated as we learn more about the exact nature of the phishing attack. If you have specific information that could be useful, please DM @opensea_support."
+4,We’re actively working with users whose items were stolen to narrow down a set of common websites that they interacted with that might have been responsible for the malicious signatures. Huge thanks to the users that hopped on the phone with us directly.
+5,Clicking on our site banner is also not a vector for the attack.
+6,Using the listing migration tool on OpenSea to migrate listings to the new Wyvern 2.3 contract is not a vector for the attack.
+7,"Minting, buying, selling, or listing items using https://t.co/TYuT1WACso is not a vector for the attack. In particular, signing the new smart contract (the Wyvern 2.3 contract) is not a vector for the attack."
+8,"Interaction with an OpenSea email is not a vector for attack. In fact, we are not aware of any of the affected users receiving or clicking links in suspicious emails."
+9,This attack did not originate on https://t.co/TYuT1WACso.
+10,"We have confidence that this was a phishing attack. We don’t know where the phishing occurred, but we’ve been able to rule out a number of things based on our conversations with the 32 affected users. Specifically:"
+11,"Another update: over the last few hours we’ve talked to dozens of people, teams, and projects across the NFT space. https://t.co/fB5r3cMA1r"
+12,"Importantly, rumors that this was a $200 million hack are false. The attacker has $1.7 million of ETH in his wallet from selling some of the stolen NFTs."
+13,"@EmilyAnne_AI Just ETH, as far as we can tell"
+14,"If you are concerned and want to protect yourself, you can un-approve access to your NFT collection https://t.co/ifHod9EZZT"
+15,"For more technical context, this thread (https://t.co/oHGgA3wLHP) is consistent with our current internal understanding."
+16,"If you are an affected user, please DM @opensea_support so that we can thoroughly investigate — we’d love your help."
+17,Always double check that you are interacting with https://t.co/GKLwAgML2x in your browser when you sign messages.
+18,"We are not aware of any recent phishing emails that have been sent to users, but at this time we do not know which website was tricking users into maliciously signing messages."
+19,The attack doesn’t appear to be active at this point — we haven’t seen any malicious activity from the attacker’s account in 2 hours. Some of the NFTs have been returned.
+20,"As far as we can tell, this is a phishing attack. We don’t believe it’s connected to the OpenSea website. It appears 32 users thus far have signed a malicious payload from an attacker, and some of their NFTs were stolen."
+21,"I know you’re all worried. We’re running an all hands on deck investigation, but I want to take a minute to share the facts as I see them:"
+22,"RT @opensea: In our continued effort to address the inactive listings issue, we’ve initiated an upgrade to the smart contract we use. This…"
+23,"RT @opensea: 1/ Attn Twitter fam! Today we’re excited to see @Twitter  launch their new NFT Profile Pictures feature, powered by OpenSea's…"
+24,RT @shivar: What a wild start to 2022! Sharing why I’m stoked and honored to lead product at @opensea and what excites me most about web3.…
+25,RT @kaiynne: Three weeks into the year pretty confident this goes down as the acquisition of the year. Not enough people realise what an in…
+26,"RT @NadavAHollander: 1/
+Today, Dharma is officially joining forces with OpenSea, and I’m honored to be joining @dfinzer @xanderatallah and…"
+27,RT @xanderatallah: Thrilled to welcome @NadavAHollander and the @Dharma_HQ team to OpenSea as we enter our next phase of growth. NFTs are t…
+28,"@NadavAHollander is going to be joining as OpenSea’s new CTO, and @xanderatallah will step into a new, externally facing role where he’ll oversee our web3 and NFT ecosystem development efforts."
+29,"Ultimately, we believe this union will be a force multiplier for NFTs and web3 adoption, and help us dramatically improve the experience of buying, minting, and selling NFTs on OpenSea — whether you’re a beginner, or a pro."
+30,We share a vision that NFTs will be the cultural focal point of crypto’s adoption for years to come — and that vision can only be realized if it becomes easy &amp; delightful for the average person to use NFTs.
+31,"@NadavAHollander, @brendan_dharma and the entire @Dharma_HQ team are among the most talented consumer crypto teams in the world."
+32,"I’m happy to finally share that we’ve acquired @Dharma_HQ to help us scale our engineering, product and customer support! https://t.co/NnJdSFBzvo"
+33,"I know how impactful outages are to the creators and communities who rely on OpenSea, and this morning’s extended outage was unacceptable. Here’s what happened, and what we’re doing to improve – fast: https://t.co/zo2eCLEBrU"
+34,"RT @amamujee: (1/3) After many years of being crypto curious, I’ve jumped into web3 full time at @opensea to help build out our products. T…"
+35,"If you thought 2021 was the ""year of the NFT"", 2022 is going to blow your mind.
+
+We're so excited to keep building for this ecosystem. https://t.co/l8pDBsJ3II"
+36,"It has been an unbelievable year. Thank you to the NFT community whose belief and tenacity has turned NFTs into an enduring force. It’s still so early, and I’m so excited to build alongside all of you."
+37,"7/ In the last weeks of the year, we responded to community feedback on an array of small but powerful UX improvements: dark mode, connected socials, the collections tab, and the new photography category."
+38,"6/ Speaking of, the OS team shipped huge improvements to our experience: we launched a mobile app for iOS and android, added support for additional chains, improved our trust &amp; safety practices, and started scaling our customer support team (more to come in 2022)"
+39,"5/ Thousands of people participated in @NFT_NYC  https://t.co/crBz2PHCL4, a moment of arrival for the NFT space. It was surreal to see so much of the community in one place. And it was particularly fun for me to see most of the OS team in person for a change!"
+40,"4/ We loved working with teams from @protocollabs, @ensdomains, @moonpay, @AlchemyPlatform and more to expand the NFT ecosystem. And it expanded: by Q3 the NFT space exceeded $10B in transaction volume, and OpenSea broke into the Alexa top 250 companies by traffic."
+41,"3/ We saw a host of creators, artists, makers, and athletes advance the NFT space, bringing their talent, creativity, and energy with them. Beeple, 3Lau, Shawn Mendes, Christie's, Adobe, the Golden State Warriors and so many more."
+42,"2/ The number and diversity of NFT projects grew exponentially. From virtual worlds to generative art, there was a Cambrian explosion of innovation. And the design space is still so underexplored!"
+43,"1/ SNL explained NFTs to the world and listed their first NFT. We also took a stab at explaining NFTs but tbh Pete Davidson and the SNL crew probably win this round.
+
+https://t.co/6SHH47QNZ4"
+44,"In 2021, the NFT space grew beyond all expectations. Here are some of my highlights:"
+45,"Katie has been an incredibly thoughtful, hands on partner to OpenSea as we've experienced unprecedented growth. Excited to see her bring her talent to a broader set of founders! https://t.co/48A0MZbLqu"
+46,RT @BKRoberts: There was inaccurate reporting about @OpenSea's plans. Let me set the record straight: there is a big gap between thinking a…
+47,"RT @BKRoberts: It's official: my next chapter will be spent at @OpenSea, helping @dfinzer, @xanderatallah, and team shape the future of NFT…"
+48,"Sharing some news that I am incredibly excited about. Today, @BKRoberts joins @OpenSea as our first CFO!
+
+I wrote more about it here: https://t.co/xS71zNKhJV"
+49,"RT @neondistrictRPG: We're excited to share the news that we've raised $5M from kindred entrepreneurs to build an accessible, immersive, an…"
+50,"RT @prtyDAO: NEW from PartyDAO…
+
+Now supporting @OpenSea: party on the largest NFT marketplace
+
+Token-gated parties: party with your on-cha…"
+51,"@juanfdez @opensea @ElectionDayMad1 @Pauly0x @CryptoPhunksV2 This was an unacceptable mistake on our end and we're so sorry it happened. I'm working directly with the team  to understand how it happened and how to prevent human errors like this moving forward. We can't undo what happened today, but we promise to do better going forward."
+52,"RT @AnnieFauv: Some ✨personal✨ news. 
+
+This week I started a new role @opensea as the Head of Special Projects. I've been in crypto since 2…"
+53,RT @SarahRCannon: What can we learn from the creative flourishing of the Italian Renaissance? Will creators themselves be the next Medicis?…
+54,"""Hello world!""
+
+- OpenSea https://t.co/hMUciidTJY"
+55,"RT @justinkan: At the end of the day, all of us are trying to figure out how to feel like a kid again."
+56,RT @noampomsky: blew me away when I realized “being emotionally intelligent” is different from “talking intelligently about your emotions”…
+57,"We have a strong responsibility to our community, and we take any breach of trust incredibly seriously.
+
+We've taken additional steps to address this and are investing in policies that move the space towards greater transparency and openness.
+
+Update: https://t.co/NWExSdThOf"
+58,"We’re conducting a thorough review of yesterday’s incident and are committed to doing the right thing for OpenSea users.
+
+We have posted an official statement here: https://t.co/NWExSdThOf"
+59,Shill me your crypto art.
+60,"RT @NTmoney: I hear @opensea had a nice month? 
+
+A🧵on their early journey"
+61,What a unique time to be alive.
+62,@_kinjalbshah Agreed
+63,"It’s not just JPEGs.
+
+There are PNGs too."
+64,RT @emilychangtv: *Huge* new transaction numbers from NFT marketplace @opensea from @dfinzer 😱 https://t.co/wFA0EwDC07
+65,RT @technology: OpenSea transactions have soared from $8 million in January to $2.3b so far in August. CEO Devin Finzer tells @emilychangtv…
+66,RT @opensea: probably nothing https://t.co/8bEAu5mOxk
+67,"RT @pathfinders_gg: New Pathfinder Tutorial 🔦 
+
+How to Mint an an NFT on @opensea by @bvajresh
+
+https://t.co/6RjFjyt4tU"
+68,"RT @takenstheorem: .@opensea is about to break into the top 1,000 list of websites in the known universe.
+
+Nifty Gateway: #9253
+Coindesk: #…"
+69,"RT @shl: A startup with product-market fit wants a thousand things, a startup without product-market fit only wants one."
+70,"Fun interview, thanks for having me on! https://t.co/2sOgCUAO6a"
+71,"OpenSea just hit $1B in trading volume for the month of August so far.
+
+And it's still day 0 for NFTs."
+72,@xanderatallah @gabusch @JoyceInNYC @YieldGuild Interested as well!
+73,@alexandraparfen @dan_OpenSea can help you out!
+74,"RT @AndrewSteinwold: What the hell do you even call this growth??
+
+We aren't even halfway through August!! 
+
+@opensea https://t.co/FrbFcBib…"
+75,"RT @masonnystrom: OpenSea has officially surpassed $1 billion in gross market volume after a record few days.
+
+More impressively @opensea f…"
+76,"In 2020, OpenSea did about $21M in total transaction volume.
+
+In the last two days, we did $95M.
+
+The growth curve for NFTs is insane."
+77,"RT @natechastain: 🔧 New at @opensea: Streamlined Listing Process
+
+Our previous listing flow confused many users who were unsure about where…"
+78,"RT @richardchen39: .@opensea has been an absolute 🚀 in July!
+
+📈 Record daily volume today ($39M)
+📊 $325M July volume, double previous ATH
+💰…"
+79,2021 is all about solidifying the NFT as a basic primitive.
+80,"RT @TWiStartups: 170X YOY growth.
+
+Captivated by CryptoKitties, @dfinzer saw an opportunity to create a marketplace to trade NFTs.
+
+His com…"
+81,"When web2 starts integrating web3, things will really go exponential."
+82,The number of unsolved problems in the NFT space is incredible.
+83,RT @shl: The average business fails. The average entrepreneur succeeds eventually.
+84,Fun having @zoink join us for the first of our @opensea guest speaker series! https://t.co/gqisfytvIS
+85,@chrishol Ah sorry bout that! Surfacing to the team.
+86,Super excited to have @katie_haun join our board. She's been a fantastic partner in scaling OpenSea's business and team. https://t.co/0IUrXIF4Hg
+87,RT @xanderatallah: Announcing our Series B. We've grown the @opensea team to over thirty people now. Here's the background story (1/9): htt…
+88,"RT @zoink: There will be many ups and downs ahead, but we’re still in the (very) early days for NFT’s. Huge congrats to @dfinzer @xanderata…"
+89,"RT @marnold_mch: Super excited for @dfinzer @xanderatallah @dan_OpenSea @joshuawu0 and the entire OS team for this milestone. Congrats!!
+
+O…"
+90,RT @gabusch: So happy for my friends that started building in the bear market and never stopped. Congratulations @dfinzer @xanderatallah I'…
+91,"OpenSea is a foundational layer for a giant paradigm shift in consumer tech. Today we're announcing our $100M Series B to accelerate our mission to grow the world's best NFT marketplace.
+
+Come join us: https://t.co/9ex5B9Kkeb https://t.co/zj2i1oZkqQ"
+92,RT @natechastain: AR has so much yet-to-be-realized potential as a display environment for NFTs https://t.co/tfBj1lIhDz
+93,"RT @natechastain: 🔧 New at OpenSea: Floor Prices 🔧
+
+We've updated the Rankings page and collection headers to show the floor price (lowest…"
+94,"RT @natechastain: Want to give a public shout-out to Jessica Phan (@ohjphan), OpenSea’s Head of Design, for making OS a much more polished…"
+95,"RT @NTmoney: The @opensea userbase grew 19% m/m in June thanks to bored apes, punks, artblocks, meebits, zed run, sorare, etc 
+
+Fastest gro…"
+96,"RT @takenstheorem: This EXPERIMENTAL PROJECT has another fun feature: when you obtain a token, your address gets stamped on the piece... ju…"
+97,"RT @zerion_io: We just raised $8.2M in Series A funding to take #DeFi mainstream 🎉
+
+To our community of explorers, supporters and partners…"
+98,RT @opensea: The best artist you discovered this week?
+99,RT @opensea: Our CEO and Cofounder @dfinzer spoke to @ForbesCrypto about all things NFTs ↯ https://t.co/w3keTxXPUQ

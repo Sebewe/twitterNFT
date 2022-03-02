@@ -1,0 +1,101 @@
+,0
+0,https://t.co/pzVk2AsTlN
+1,@NomicFoundation @HardhatHQ @ethereum @VitalikButerin @coinbase @a16z @ConsenSys Huge congrats guys 🎉🎉
+2,*Laughs in villain* https://t.co/ewHZfB6HhJ
+3,@ameensol I published a thread about it if that helps https://t.co/uZVt9o68GI
+4,"@zubin_madon I also had issues with on-chain SVG generation, splitting the whole thing in many different functions taking care of specific things helped solve the problem"
+5,"Bonus: another trick is to parse https://t.co/fN5uTukheX using Assembly, but it's a very hacky! Anyway, if you want to learn more about this error, I recommend you this very interesting article https://t.co/mf4iiEPClf"
+6,"One last trick is to move your local variables in the body of the contract itself, this might not always be an ideal solution but might be needed in some cases if you cannot refactor the function or changes its parameters (e.g. Primitive https://t.co/gmXpGbNchS) https://t.co/vQPauxGfQ9"
+7,"If your problem is coming from a large amount of parameters in a function, then you still have 2 choices: wrap your parameters in a struct (e.g. Primitive https://t.co/XyvEjmSSye) or even put them in an array! https://t.co/xRJ4DMH0wY"
+8,"But sometimes code cannot be optimized, in this case a pretty common hack is to play with scoping by putting some variables between brackets { ... } (e.g. Uniswap https://t.co/ctNnHFuljh) https://t.co/NY7BTSzghj"
+9,"To fix this compilation error, the most obvious thing to start with is checking if your code can be refactored: try to use less variables or split your big function into smaller ones https://t.co/SBQTM4TpSb"
+10,"But why is this error showing up in the first place? According to @ethchris ""too many local variables, parameters or return variables in functions, [...] expressions that are too deeply nested"", so basically any time the total amount of vars is &gt; 16 (strings will take 2 slots)"
+11,"The ""Stack too deep"" error is the nemesis of all the Solidity developers... Fortunately there are many different ways to avoid it 👇 https://t.co/UGGXQBN3wv"
+12,@KentonPrescott @alexangelj @PrimitiveFi @senseprotocol A couple of days more or less! Current code is using Discord.js + Ethers.js
+13,@StefanPatatu @PrimitiveFi https://t.co/sn9ghqebl5 😉
+14,"If you want to give it a try, I made a small demo here 👀 (you'll need a wallet like MetaMask) https://t.co/EJKGwOjx6b"
+15,"The magic happens in the `provider` object: you can use the `lookupAddress` function to fetch the ENS of an address and `getAvatar` to get the link to its avatar (yes it works with NFTs), and yes both functions work on testnets too! https://t.co/TK6k27WLfI"
+16,"Quick tip: Ethers.js has 2 functions to query the ENS AND the avatar of an address, so instead of a boring UI you can have something more fun like this super easily 👇 https://t.co/rnNu7Ela7C"
+17,"Pretty hyped by these increased performances, nice job Ganache team! 👍 https://t.co/yJGNv5yzV8"
+18,"@freddycoen Marmite doesn't compare the OPCODES of the different implementations but the gas cost of the functions calls (this is why we have different versions of the ""same"" contract)"
+19,"@freddycoen Tags are used to define different code implementations, you can see them as different slices of your code that will be swapped: we compile and call your contract with slice #1 first, then slice #2, etc..."
+20,"@freddycoen The preprocessor is going to compile your contracts with the first implementation (first tag) and then with the second one (second tag), doing it this way assures exact gas cost measurement"
+21,@DCbuild3r Definitely want to look into Foundry!
+22,@lawrenc_lab One Dark theme + removing the status and activity bars
+23,@CodeOnBlocks @solidity_lang I used the native Screenshot app on Mac to record the screen and converted the video into a GIF using Gifski
+24,"@magicking_ That's a good point, I didn't think about such cases. I'll think about adding ""comment tags"" in the next version then!"
+25,"@walden_yan @transmissions11 Compilation is done using your Hardhat settings, so if you have your optimizer enabled, results will be displayed accordingly"
+26,"@TheRealAneesh @alcuadrado @optimismPBC That's right, Marmite only compares the ""base gas cost"" of the transactions, instead of the ""total cost"" (base gas cost * gas price). But maybe having an extra gas price setting could be useful to display optional info like total costs and also compare financial differences?"
+27,@alcuadrado Will do!
+28,"@magicking_ Tags are not meant to stay in the contracts forever: after choosing the best code implementation, they should be removed. Comments would not break Solidity syntax but might have unexpected (and hard to debug) behaviors if contracts were compiled (and tested) with them"
+29,"Want to give it a try? Marmite supports any Solidity versions, so have a look at our repo on GitHub! Happy gas golfing! https://t.co/zmLSlAVCeV"
+30,"Under the hood, Marmite uses a custom code preprocessor to recompile the contracts as many times as needed, this assures exact gas cost tracking https://t.co/z16b8kGihY"
+31,"Have a more complex environment? Marmite provides another task called `golf:script`, allowing you to run custom scripts and track as many transactions as you want using the function `flag` https://t.co/u5qkYiVEhi"
+32,The next step is simply to run the `golf:contract` task to deploy your contract and call the function you want https://t.co/cWThHKo1uh
+33,"Marmite allows you to compare different Solidity implementations directly in your contracts, simply by declaring them using the tags `@start&lt;Implementation-name&gt;` and `@end` https://t.co/6XYtWRdfYp"
+34,"With gas prices going through the roof, it's mandatory for Solidity developers to optimize their code as much as possible, to assure that no funds will be wasted by their users in useless computational costs https://t.co/DmEkVTvI5J"
+35,"Thrilled to announce Marmite: a hassle-free Hardhat plugin to compare gas cost among different Solidity code snippets, let's gas golf 🏌️‍♂️ https://t.co/aUdKt4UZwG"
+36,@wighawag @solidity_lang https://t.co/sanJ09A7C2
+37,"@alcueca @smsunarto ""There's a plugin for that"""
+38,"@0xkarmacoma @r_ross_campbell @param All right this comment is definitely redundant haha, real usage would be MetaMask or Rainbow using the @notice to explain what a function does before you validate it, it's better than just having a function sig and weird hex values"
+39,"@Atheal9k I thought that the Solidity VS Code extension could automatically generate this but it looks like it can't, can you confirm @juanfranblanco?"
+40,"@wattsyart What you can do is put all of your NatSpec comments in the interface declaring your functions, so they will not ""annoy"" you in the actual code implementation"
+41,"12) Bonus: if you want *good* examples, check out @PrimitiveFi contracts https://t.co/T9Zu3m7xLM (by @alexangelj and myself) or @HifiFinance contracts https://t.co/HX7QG60p2P (by @PaulRBerg), thanks for reading! https://t.co/Sxf0lb9GAK"
+42,"11) Want to go the extra mile? Have a look at the NatSpec Kanban in the @solidity_lang repo, you'll find information about the current issues (for example, private / internal functions and variables missing from exported docs) and the next features https://t.co/w6nRDucoL2"
+43,"10) You're happy with what you wrote? Now you can use a tool like Dodoc to automatically generate documentation from your NatSpec comments, this will save you time and will provide a great entry point to understand your contracts https://t.co/R4aulrr1FT"
+44,"9) Remember that NatSpec can also be inherited using the @inheritdoc tag, and that you can use that for your overriding functions to automatically receive the comments from the function they are overriding (works for virtual / override and interfaces) 👌"
+45,"8) Want to go further? Use dynamic expressions using your function parameters, this will increase clarity but will also allow (some) wallets to display precise information to your users before they validate a transaction 👇 https://t.co/HusmYyotsw"
+46,"7) Function parameters and returned variables are particularly good candidates! A recent Solidity update even included the support of multiple @return tags, working just like the @param tag, gotta comment'em all! https://t.co/BRbkrNI811"
+47,"6) But how to become a NatSpec chad? It's actually kind of easy: use tags for pretty much anything (contracts, functions, events, errors, ...), they *almost* can all be documented! And if you are not sure which tag to use, you can check out this table https://t.co/mwopnInVir https://t.co/CDHpqUCIBM"
+48,"5) In fact, some tags such as @notice are directly meant to be displayed on the users front-end when they are interacting with your contract functions! Also NatSpec comments can be fetched from your Solidity code and be used to generate a complete doc, super useful for devs 🤯"
+49,"4) Why waste our time with this? I can already hear people quoting the infamous ""clean code doesn't need comments"", well, joke's on you because the point is that NatSpec is not (only) meant to describe code but rather tell us what things are and how to use them https://t.co/qQ1SSBX0CY"
+50,"3) These comments are using tags such as @notice, @author, etc, and can be used to describe pretty much anything from contracts themselves to functions, including variables, events or even modifiers 👇 https://t.co/3K7Jc6Smtc"
+51,"2) First, for those who don't know what NatSpec is, it's a form of comments meant to provide ""rich documentation"" to Solidity smart-contracts, you can read more about it here https://t.co/GCd8rcF94B"
+52,1) So crazy to see how many projects out here are skipping NatSpec comments and are releasing obscure Solidity contracts... Here are some thoughts about why this is a mistake and how to get NatSpec-pilled: https://t.co/RGk8HJdIqb
+53,"@bitfalls You missed the point, the biggest advantage of USB-C is that it can finally be plugged in upside down"
+54,@AlphaSerpentis_ Congrats!
+55,@JetJadeja You're getting dangerously close from writing your own esoteric programming language (which is a good thing though)
+56,@Crypto_McKenna And obviously you can do both too!
+57,@Crypto_McKenna You can focus on optimizing and learn more about the EVM or take the « multi-integration » road and build dapps on top of many protocols at once
+58,"@nicksdjohnson That's true, but if you generate new ""claim wallets"" on the go, you will have to send them the tokens to claim no?"
+59,"@nicksdjohnson In order to claim, users will simply have to use the claim wallet to sign a meta-tx à la ""permit"" and then use the sig to call the ""withdrawTo"" function from their main wallet (obviously all of this could be abstracted in a front-end)"
+60,"@nicksdjohnson Another solution is to generate a bunch of addresses, prepare a Merkle Tree drop contract with a ""withdraw"" function accepting a signature, and then distribute the private keys as ""claim codes"""
+61,Every time I browse CT in public my feed is full of DeFi Hentai
+62,"Fill this survey or stop complaining that ""sOliDiTy iS ToO ComPLiCatED"" https://t.co/haSB2ygDxY"
+63,@Mascobot Feels like coding on an old video game console or some weird spacecraft too
+64,@jadler0 @transmissions11 What would be a use case for this?
+65,Rinkeby ETH is the perfect gifts for Solidity devs
+66,"It's almost 2022 and some contracts are still NOT using ""permit"" to transfer DAI or USDC"
+67,Merry Christmas everyone 🎅🎉 https://t.co/AZ6BHnjHZN
+68,@mikedemarais Wen Rainbow hardware wallet?
+69,"What's the most annoying thing when you're building on top of another protocol? Could be poor docs, lack of examples, no testnet deployments, etc..."
+70,@0xalpharush Adding interactions with 3rd party contracts is one of the trickiest thing because it enlarges the scope of work and increases the risks so much
+71,"Fun fact: my ENS pronounced the French way means ""flip-flops"""
+72,@0x_intern clak.eth (extra whipped cream plz)
+73,@transmissions11 Dang! Where can I see the code? 👀
+74,@mikedemarais Just call them by their ENS
+75,"@fabdaRice You mean when the sale starts? The contract could have been deployed at this moment I guess, to perform everything in one shot"
+76,@fabdaRice This check could have been bypassed too by putting all the code in the constructor
+77,Dodoc is now listed on the @HardhatHQ community plugins list and reached 210+ downloads this week 🎉 https://t.co/R4aulrqtQl
+78,@github always proposing the best inspirational names for repos 🙏 https://t.co/m8VtRaMzp6
+79,"What's your favorite Solidity contract / piece of code? I think mine might be the MasterChef from SushiSwap, I really like its fancy math https://t.co/hhDVWwJGhY"
+80,"@_hrkrshnn Oooh, well if I'm not wrong internal / private functions don't have any doc generated? That would be a great addition, especially when writing libraries"
+81,@0xalpharush @alexangelj Just realized that this might actually be possible by simply using the compiler output directly! Might be a new feature then
+82,"@_hrkrshnn Currently Dodoc is parsing the ABI, then the user doc and finally the dev doc, I've been thinking about parsing the code of the contract itself to get more info but it's a bit more complex, maybe in the next version!"
+83,@0xalpharush Sadly it's not possible since it's using Hardhat core to compile the contracts
+84,6) Ready to try Dodoc? Take a look at the README on GitHub and feel free to create new issues or share some feedback! https://t.co/R4aulrqtQl
+85,5) Want to see a live example? Check out the brand new Primitive docs https://t.co/9gpMB4OL9b
+86,"4) Default output is Markdown, but since a template engine is running under the hood, you can write custom templates and generate literally any formats! https://t.co/jFb7cH7NCQ"
+87,"3) The most recent Solidity versions are already supported (0.8.x+), so you can use NatSpec tags to comment everything, even your new custom revert errors! https://t.co/KWXyybo0bY"
+88,"2) Dodoc is simple as hell to use: just install the package and import the plugin in your Hardhat config, then the docs for all your contracts will be auto-generated on the next compilation! https://t.co/O62ppske26"
+89,"1) Super stoked to release Dodoc, a zero-config Hardhat plugin to generate documentation for all your Solidity contracts! 🥳 https://t.co/lobtAoIUuC"
+90,@DennisonBertram I think using something like TypeChain is making more sense because you can benefit from typed definitions etc
+91,"Are you a NatSpec simp? Stay tuned anon, dropping some cool news tonight 🦤👀"
+92,Super excited for the (upcoming) launch of our Replicating Market Maker! Have a look at this post to learn about this beauty 👀 https://t.co/eqZWiPT7FP
+93,My views are non-payable
+94,Announcing an upcoming announcement 👀
+95,@Mudit__Gupta @panekkkk Never listen to a penguin
+96,Well we're just here for the tech anyway right
+97,@schmid_si @BleepsDao 😏
+98,Being in @BleepsDao feels like https://t.co/cCDITuXefR
+99,Cannot get hacked if you don't have dapps https://t.co/VFt1N5HxXY https://t.co/boKJfuL3it

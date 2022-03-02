@@ -1,0 +1,184 @@
+,0
+0,"With enough on-chain data &amp; public data (i.e. Twitter, personal websites, etc.), community chatbots will be better than community managers to drive individual engagement in large DAOs."
+1,"Peer verification systems also only work in a truly one-person one-vote system. Until we can prove uniqueness and set examples of DAOs that are Sybil resistant, any peer verification system is useless."
+2,"The more money it takes to verify someone (the more rewards given), the stronger the counter signal should be to the community about the quality of that verification. Having both the requester and verifiers data and rewards on-chain makes this all public."
+3,"The weaker a professional or social relationship is, the more material that needs to be introduced to compensate for the “opportunity cost”. In a peer verification system, if I have a weak relationship with someone, but want their verification, I will send more rewards."
+4,"For some reason, we value the time of people we care about most the least. Ex: people are more afraid to waste 10 minutes of a strangers time over their moms. When we value time more, we feel a sense of “guilt” when we take it away and provide gifts to make up for it."
+5,"If we introduce rewards for peer verification of off-chain tasks to build reputation, it should be clear that there is an inverse relationship between the verifiers rewards and quality of the verification. 
+
+I explain more ⬇️"
+6,"@ctabrizi_ if anyone who I believe this to be true of, it is you"
+7,"web2: sorry I can’t hang out, calendar is booked 
+
+web3: sorry, social circle has reached Dunbars number, chat when spots open"
+8,"to fund paradigm shifting work often means funding risky ideas which are less favored by consensus based models. small, aggressive, centralized, fast deployers of capital are far more efficient for high-risk high-reward projects."
+9,"if your funding science or public goods and your governance model is based on consensus decision-making, expect un-interesting and obvious outcomes."
+10,@CharlieSandor 100% agree. My framing was more so apriori decentralization that we do not need to unnecessarily design for this composability yet.
+11,"Sometimes it feels like Web3 protocol designers are building for themselves. I personally find it elegant to have this freedom, but most people don't care. People don't ask if Facebook uses MySQL or PostgreSQL, they ask if they can message their friends."
+12,"The ability for people to choose where their data is stored  (i.e, Arweave , Amazon S3, or @IPFS) is over-rated. If people cared about data sovereignty, we would see worse symptoms of it already."
+13,@divine_economy making the cost of action so much more sensitive if done wrong. this leads to a place of more fear for most people.
+14,why does it take up to 30 days to get MY Spotify data?! https://t.co/WKtQ966aNx
+15,@KatwellKat Similar to how it is in Web2: word of mouth and friends.
+16,Special thanks to @BrennerSpear @AlexMasmej @jacksondahl @rsarrow @Jad_AE @web3lauren @divine_economy for the feedback!
+17,"To everyone working in this space, keep it up! Let's remember this is a positive sum game and we can work together to make this truly solve some of the most pressing coordination problems today by doing so."
+18,"The fears with putting on-chain identity need to be recognized as we build: 
+- privacy and transparency tradeoffs
+- alignment and ""day one"" person loss
+- cost of actions
+- trajectory towards quantifying humans worth"
+19,"8/8 AGGREGATORS
+
+Individual assets, transactions, and participation in Web3 communities are done across multiple wallets and chains. This fragmentation will continue to increase with creation of networked products that are not exclusively built on bluechip infrastructure. https://t.co/qINHez4hBg"
+20,"7/8 DATA RAILS
+
+Individuals have control over the discovery, sharing, and permissions of their data. Individuals can choose how their data is stored (on traditional DB or blockchain datastores). https://t.co/Dj4yoEKLAO"
+21,"6/8 PROOF OF HUMANITY 
+
+With a protocol that is sybil resistant, we unlock: the ability to democratically vote; trust quadratic votes; build trustworthy reputation systems; and fund public goods at a larger scale. https://t.co/fStARsEHDZ"
+22,"5/8 PROFILES
+
+The ability to showcase competency, worth, or status is not new to Web3, but doing so with blockchain technology, enables the network to view profiles from the lens of verification instead of the lens of trust. https://t.co/SQcggqG6Lv"
+23,"4/8 BOUNTIES
+
+The most useful case for bounties is onboarding. It is in the best interest of individuals who are looking to unlock maximum rewards to have their on-chain reputation be as strong as possible. https://t.co/22CpPJI7xy"
+24,"3/8 GOVERNANCE
+
+When we think about who we may want to delegate our tokens to, or who to hire for community growth and engagement, governance data can be useful to guide decision making in these contexts. https://t.co/cpleQdJnJA"
+25,"2/8 OWNERSHIP 
+
+Objective data is the easiest information to capture on-chain and associated with an individual's identity (ex. transactions, NFTs owned, and other crypto assets) via a wallets history. https://t.co/t4m7LU9HMt"
+26,"1/8 ENDORSEMENT
+
+The more human focused a DAO is, the more off-chain activity there is. The ability to connect the off-chain and on-chain data in a verified way to present one's professional identity is missing in current Web3 tooling infrastructure. https://t.co/8sl7op3BAB"
+27,There are 30+ teams working in this space. The on-chain identity landscape of 2022. https://t.co/mPM9t9Uonn
+28,"On-chain reputation is going to transform human coordination. 
+
+Breaking down the on-chain identity landscape 🔽
+
+https://t.co/KXmpf4tEhQ"
+29,@GavinRNicholson I like this one!
+30,Serious conversation from #ETHDenver. People need to understand that not everything needs to be put on-chain!!!
+31,"No, the relationship with my mother does not need to be put on-chain."
+32,"Top 5% of engineering talent doesn't need LinkedIn or a personal website today to get a job.
+
+We will do the same in Web3. Our identity will not be put on-chain to ""unlock bounties"". 
+
+The best teams will the find best talent and pay for it regardless of what is put on-chain."
+33,❤️ stopping because it no longer feels right despite all of the socially glamorized “signals” that would normally would tell you to push speaks to the character of the founding team. https://t.co/DM0bxnwtPe
+34,"🚩 at ETHDenver : 
+
+- “institutional adoption” 
+-  launching a token at inception 
+- “we are decentralized” 
+- “we are protected by game theory” 
+
+lol"
+35,5. These results oracles and retroactive funding models do not need to be exclusively used for public good funding but can also be used to change investment behavior in DAOs that focus on early stage investment.
+36,4. Contributors should be made aware of a “results oracle” that protocols have created to reward projects retroactively for their utility. Individuals become more risk tolerant as the expected return changes dramatically with the results protocol in place.
+37,3. Low-risk projects are often in the best interest of the public to contribute to for individual expected return. Quadratic funding models favor low-risk proposals as matched donations are dependent on consensus from the most number of people. https://t.co/oxN67PEhyu
+38,"2. To push the frontiers of human progress, ARPA styled agencies understand the importance of funding high-risk high-reward projects. The decisions are made in a centralized manner, making it easier to support risk and expedite time to fund."
+39,"1. Current decentralized funding models don't favor high-risk high-reward proposals. To solve human coordination failures, we need to fund risky projects. A results oracle for retroactive funding will change contribution behavior to enable this. 
+https://t.co/QP4Bk5Vjw8"
+40,@sourcecred  @coordinape @BoredApeYC @FWBtweets @poapxyz @tryShowtime @useGALLERY @github @ensdomains
+41,Take your social currency with you and own your identity. Editable but permanent history as NFTs. https://t.co/YvG18gqase
+42,Your Avatars will be your PFP NFTs. Own your identity. Take it with you as you wander the Metaverse. https://t.co/Ay3vwMbIwb
+43,Built a way for you to associate your on-chain identity with your Avatars. A verified Web3 business card. https://t.co/RIdzpLAKG3
+44,@shandysulen @identityindex
+45,"Goodbye bullshit hires. Goodbye to ""selling yourself"". Goodbye trust. 
+
+Hello verification. Hello trustless."
+46,"Web2: deceptive LinkedIn profiles, resumes, personal sites, GitHub. 
+
+Web3: on-chain community verified contribution history."
+47,"Web3 teams putting work / professional identities on-chain:
+
+@rabbithole_gg 
+@layer3xyz 
+@coordinape 
+@sourcecred 
+@deworkxyz 
+@0xstation 
+@springroleinc 
+@ensdomains 
+@tryProfile 
+
+any others I am missing right now?"
+48,@deworkxyz shreyjain.eth
+49,"@EthereumDenver, NFT NYC and @ArtBasel are 3 events you try not to miss. Everything else, whatever… will be in Denver next week : ) Homies!! Hit me up if you are going and let’s hang out."
+50,"If Canada is to create a successful ARPA, we need to fine tune it to the Canadian R&amp;D ecosystem. Read more in our proposal. https://t.co/8pxpRRc6yw"
+51,@TateBerenbaum Amazing 🤩
+52,and two weeks later this account is banned on Instagram 🤣 https://t.co/pWO6r5AGMi
+53,"My barber is creating an NFT collection for his clients. Each client gets an NFT that acts as a membership pass to get your hair cut for as long as you own it. Finite supply of NFTs with a quality Toronto barber -&gt; any transfer, he takes a % of. IRL payments are changing."
+54,@kylebrastrom going
+55,what DAOs will let me write smart contracts for them? is there a public task management board devs can follow.
+56,This paper also showed that Bitcoin prices where much more predictive of NFTs than the denominated currency the NFT was priced in.
+57,"""There is no significant relationship between the rise of Ether and attention to NFTs"". The past two weeks are confirmation of this. 
+
+Store of value in uncertain market conditions is best held in top-end NFT projects. 
+
+Paper: https://t.co/Pyu0Gu1Bp1 https://t.co/UcRHnpsT0o"
+58,Being able to put peer verified contribution history on-chain will remove the need for resumes. Why rely on trust when you can rely on verification? https://t.co/uHjWLAxfZB
+59,Your Uber rating means more than your resume.
+60,@afikanyati @sama working on this : )
+61,"verifying for @verses_xyz — to a pluriverse, a world where many worlds may fit
+
+sig:0xcb71a9f73a8ddf2f2c27fc3b4ea6d2297428380ad64daa2874ef8d117da77e13104d2fdedbd7ab000886b40253f72a0156451a7d8e1acaf6bd43bc27cc87b80c1b"
+62,Subscription models will be displaced with NFT membership passes.
+63,"CC @zach__davidson @chaserchapman from recent Rabbithole Twitter space, curious if you had any projects to read about to look at governance protocols that align with model cards?"
+64,If your unfamiliar with model cards: https://t.co/o2hcLAd9GS or any algorithmic auditing frameworks used today.
+65,"What teams are working on the DAO equivalents of model cards? In many ML contexts, we retrospectively work on bias &amp; AI. 
+
+In Web3, the incentives for increased labor are going to force us to the same with even more challenges due to decentralization."
+66,@Mr312 @doodles @TrainerLuisCR @burnttoast @evankeast love this one @Mr312
+67,"@doodles private discord channels….
+the alpha is 🤯"
+68,@TrainerLuisCR @doodles @burnttoast @evankeast Love the cowboy hat.
+69,"@TrainerLuisCR @doodles Appreciate it @TrainerLuisCR , excited about being more involved with @doodles !"
+70,"Just joined @doodles ! 
+
+DM on how I can be involved.  
+
+#Doodles #NFT #community https://t.co/G8ivY6gZuy"
+71,@benhylak @join_royal @soundxyz_ 100%. I am excited for when this happens
+72,@benhylak some projects doing this: @join_royal @soundxyz_
+73,"Thanks @_jzhao for showing me @legacy_xyz . Input 3 lines of code into your react site and you have digital signatures from your readers! 
+
+https://t.co/FbtdMUzOoX https://t.co/sYl0jkg5sJ"
+74,"RT @awrigh01: Blue chip NFTs may be safer bets than top ten ERC-20s.
+
+jpeg-pilled"
+75,"Extrapolate projects like @metacard, @veefriends, @ApesinSpaceNFT, where does this all go when every influencer creates their SoHo house? CC' @KyleForgeard, @garyvee, @john @Cooopahtroopa who I think have thought more carefully about this."
+76,"Every influencer who is doing it wrong right now is creating their own form of a SoHo house (buy NFT and get access to X). I do not need 30 SoHo houses in the future. Everything ""fun"" is going to have money visibly associated with it and scarcity for no reason."
+77,All of which propagates to further inequity in value and access.
+78,"I have never been unhappy in a grocery store. Why? Because there is abundance of everything. Why are we optimizing for scarcity when we can be optimizing for abundance? Oh right, we need to drive token values up!"
+79,"if you are making claims that crypto leads to more equity, remember that 32k wallets hold 80% of the value in NFT markets. we have a long way to go."
+80,@damedoteth https://t.co/X89BBmPPaB
+81,"@TrainerLuisCR future ""utility in the metaverse"" will be dependent on network effects. Skeptical of teams trying to build network effects for a product that people can't benefit from for another 3-5 years. Feels a bit like ML startups that were launched in mid 2000s, right ideas, wrong time."
+82,the best social DAOs will have been started by NFT collections
+83,Tell me this ain’t the best day of football
+84,"@chaserchapman would ""bountifying"" everything be a way to add rigor and measure contributions? to me it seems like the work being done from @coordinape @sourcecred @layer3xyz makes it easy to understand who is a contributor and to what degree relative to rest of the DAO."
+85,"people who DM me about what I read, I have my weekly-intake of information posted here: https://t.co/lzaPSpBTHF"
+86,"Usually around midnight on a Friday in lockdown, @arthurallshire and I put bullet point topics we want to chat about and hit record. This is not a scripted professional pod, just two friends conversing about technology that we hope is valuable to others : )"
+87,Another lockdown in Toronto means @arthurallshire and I starting another season of @time_horizons podcasts. #SZN3 https://t.co/U7mhEbxcGY
+88,@eriktorenberg Your individual “Dunbars number social platform”
+89,"@Cooopahtroopa @gaby_goldberg What tools exist to create generative music? I explored with OpenAI Jukebox sampled on 10 artists, but without significant amounts of manual work, the songs were inaudible unless I removed the voice of the singer. Generative art and beats are significantly easier."
+90,"@mollyfmielke I find this with people who are industry agnostic or people who have an incredible understanding of world history from the economic, culture, and governance lenses."
+91,"Crypto creates opportunity for new forms of human coordination. The precedent being the nation states design and uses history as a motivation.
+
+AI aims to replicate the human itself. The precedent being our physical form and uses biology as motivation."
+92,"RT @RootsHomes_: we 🙋‍♀️ will 🤌 pay 💰 your 👏 rent 🏡
+
+no srsly, we will. up to $1k. follow, like, and retweet this to be entered to win. win…"
+93,the market dynamics between ETH and floor prices of bluechip NFT projects are very interesting
+94,"Upon more research, we are ~1 year away from having solid low-code / no-code equivalents for web3. Incredible pace and early recognition to onboard non-technical people to be building. https://t.co/ziI7k2Mw0f"
+95,"if twitter / instagram had the data to verify every legitimate account, would they? or is the scarcity of the blue check mark part of the design."
+96,Publishing articles that are not on the permaweb will be a countersignal.
+97,@roydanroy the “most expensive” is not a useful metric as compared to the floor price of the collection or the floor price of a specific attribute / characteristic. Currently this is ~ 85 ETH
+98,"We need POAPS for IRL attendance. Biometrics ideally. 
+
+Has 0 value today, will have tremendous social currency 10 years from now when IRL experiences are coveted to those with money."
+99,"10 years ago we didn't have the XBOX or Facebook mobile. 
+
+10 years from now, I can't imagine where VR/AR is going to be. 
+
+It is obvious where social connection is moving towards."
